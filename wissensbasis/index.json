@@ -1,0 +1,1086 @@
+{
+  "basis_url": "https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/wissensbasis/",
+  "generiert_am": "2026-06-11",
+  "anzahl_module": 176,
+  "hinweis": "Basis-URL im Feld basis_url. Bei einem Repo-Umzug hier und in skills/socialmedia-agentur/SKILL.md anpassen.",
+  "modul_stand": {
+    "Aktuelle_Themen_und_Newsjacking": "Juni 2026",
+    "Community_Management_Playbook": "Juni 2026",
+    "Competitor_Profiling": "Juni 2026",
+    "Copywriting_Storytelling_Guide": "Mai 2026",
+    "Format_und_Thumbnail_Guidelines": "Juni 2026",
+    "ICP_USP_Positionierung": "Juni 2026",
+    "KI_Content_Planung_Guideline": "Mai 2026",
+    "KI_Sichtbarkeit_Guide": "Juni 2026",
+    "Krisenkommunikation_Playbook": "Mai 2026",
+    "Measurement_Reporting_Guide": "Juni 2026",
+    "Paid_Performance_Methodik": "Juni 2026",
+    "Profilanalyse_IST_Analyse": "Juni 2026",
+    "Recht_Compliance_DE": "Juni 2026",
+    "Visual_Production_Methodik": "Mai 2026",
+    "facebook": "Juni 2026",
+    "instagram": "Juni 2026",
+    "linkedin": "Juni 2026",
+    "tiktok": "Juni 2026",
+    "x-twitter": "Juni 2026",
+    "youtube": "Juni 2026"
+  },
+  "module": [
+    {
+      "modul": "(wurzel)",
+      "datei": "00_LIESMICH.md",
+      "titel": "Social-Media-Agentur: Wissensbasis und Orchestrator",
+      "stand": "unbekannt"
+    },
+    {
+      "modul": "Aktuelle_Themen_und_Newsjacking",
+      "datei": "Aktuelle_Themen_und_Newsjacking/00_Index.md",
+      "titel": "Aktuelle Themen, Trends und Newsjacking für Marken",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Aktuelle_Themen_und_Newsjacking",
+      "datei": "Aktuelle_Themen_und_Newsjacking/01_Relevanz-Spanne.md",
+      "titel": "Säule 1 - Die Relevanz-Spanne: Wie weit darf ein Thema entfernt sein?",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Aktuelle_Themen_und_Newsjacking",
+      "datei": "Aktuelle_Themen_und_Newsjacking/02_Themen-Erkennung.md",
+      "titel": "Säule 2 - Themen-Erkennung: Wo und wie man relevante Themen findet",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Aktuelle_Themen_und_Newsjacking",
+      "datei": "Aktuelle_Themen_und_Newsjacking/03_Schnellbewertung_und_Reaktion.md",
+      "titel": "Säule 3 - Schnellbewertung und Reaktion",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Aktuelle_Themen_und_Newsjacking",
+      "datei": "Aktuelle_Themen_und_Newsjacking/04_Ton_und_Tabu-Zonen.md",
+      "titel": "Säule 4 - Ton und Tabu-Zonen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Aktuelle_Themen_und_Newsjacking",
+      "datei": "Aktuelle_Themen_und_Newsjacking/05_Failure-Modi.md",
+      "titel": "Säule 5 - Failure-Modi: Wie Newsjacking typisch scheitert",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Aktuelle_Themen_und_Newsjacking",
+      "datei": "Aktuelle_Themen_und_Newsjacking/06_Quellen.md",
+      "titel": "Säule 6 - Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Community_Management_Playbook",
+      "datei": "Community_Management_Playbook/00_Index.md",
+      "titel": "Community-Management & Engagement-Playbook",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Community_Management_Playbook",
+      "datei": "Community_Management_Playbook/01_Engagement-Strategie.md",
+      "titel": "Säule 1: Engagement-Strategie",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Community_Management_Playbook",
+      "datei": "Community_Management_Playbook/02_Moderation_und_Eskalation.md",
+      "titel": "Säule 2: Moderation und Eskalation",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Community_Management_Playbook",
+      "datei": "Community_Management_Playbook/03_DM_und_Inbox-Handling.md",
+      "titel": "Säule 3: DM- und Inbox-Handling",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Community_Management_Playbook",
+      "datei": "Community_Management_Playbook/04_Reaktionszeiten_und_SLAs.md",
+      "titel": "Säule 4: Reaktionszeiten und SLAs",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Community_Management_Playbook",
+      "datei": "Community_Management_Playbook/05_Tonalitaet.md",
+      "titel": "Säule 5: Tonalität",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Community_Management_Playbook",
+      "datei": "Community_Management_Playbook/06_Failure-Modi.md",
+      "titel": "Säule 6: Failure-Modi, wie Community-Management typisch scheitert",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Community_Management_Playbook",
+      "datei": "Community_Management_Playbook/07_Quellen.md",
+      "titel": "Säule 7: Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Competitor_Profiling",
+      "datei": "Competitor_Profiling/00_Index.md",
+      "titel": "Competitor Profiling für Marken",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Competitor_Profiling",
+      "datei": "Competitor_Profiling/01_Wettbewerber-Auswahl.md",
+      "titel": "01 Wettbewerber-Auswahl: Wer überhaupt profiliert wird",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Competitor_Profiling",
+      "datei": "Competitor_Profiling/02_Profiling-Dimensionen.md",
+      "titel": "02 Profiling-Dimensionen: Was man je Wettbewerber tief analysiert",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Competitor_Profiling",
+      "datei": "Competitor_Profiling/03_Laufendes-Monitoring.md",
+      "titel": "03 Laufendes Monitoring: Das Wettbewerbsumfeld dauerhaft beobachten",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Competitor_Profiling",
+      "datei": "Competitor_Profiling/04_Relevanz-und-Guideline-Abgleich.md",
+      "titel": "04 Relevanz- und Guideline-Abgleich: Das Herzstück",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Competitor_Profiling",
+      "datei": "Competitor_Profiling/05_Failure-Modi.md",
+      "titel": "05 Failure-Modi: Wie Competitor Profiling typisch scheitert",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Competitor_Profiling",
+      "datei": "Competitor_Profiling/06_Quellen.md",
+      "titel": "06 Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/00_Index.md",
+      "titel": "Guideline: Copywriting & Storytelling für Marken",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/01_Voice_und_Tone.md",
+      "titel": "Säule 1 — Voice & Tone",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/02_Voice_of_Customer.md",
+      "titel": "Säule 2 — Voice of Customer (Sprach-Recherche)",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/03_Hook-Bibliothek.md",
+      "titel": "Säule 3 — Hook-Bibliothek",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/04_Caption-Architektur.md",
+      "titel": "Säule 4 — Caption-Architektur",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/05_CTA-Patterns.md",
+      "titel": "Säule 5 — CTA-Patterns (Call-to-Action)",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/06_Storytelling-Frameworks.md",
+      "titel": "Säule 6 — Storytelling-Frameworks",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/07_Format-spezifische-Strukturen.md",
+      "titel": "Säule 7 — Format-spezifische Strukturen",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/08_Texten_mit_KI.md",
+      "titel": "Säule 8 — Texten mit KI als Co-Autor",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/09_Failure-Modi.md",
+      "titel": "Säule 9 — Failure-Modi: Was beim Copywriting schiefgeht",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Copywriting_Storytelling_Guide",
+      "datei": "Copywriting_Storytelling_Guide/10_Quellen.md",
+      "titel": "Säule 10 — Quellen",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/00_Index.md",
+      "titel": "Guideline: Format, Ausrichtung und Thumbnails",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/01_Format-_und_Ausrichtungs-Matrix.md",
+      "titel": "Säule 1: Format- und Ausrichtungs-Matrix",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/02_Gestaltungsprinzipien_Thumbnails.md",
+      "titel": "Säule 2: Gestaltungsprinzipien für Thumbnails und Cover",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/03_Plattform-Masse_und_Safe-Zones.md",
+      "titel": "Säule 3: Plattform-Maße und Safe-Zones",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/04_CTR-Optimierung_und_Testing.md",
+      "titel": "Säule 4: CTR-Optimierung und Testing",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/05_Failure-Modi.md",
+      "titel": "Säule 5: Failure-Modi",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/06_Quellen.md",
+      "titel": "Säule 6: Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "ICP_USP_Positionierung",
+      "datei": "ICP_USP_Positionierung/00_Index.md",
+      "titel": "Guideline: Von der Zielgruppe zur Positionierung (Phase 2: SOLL)",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "ICP_USP_Positionierung",
+      "datei": "ICP_USP_Positionierung/01_Zielgruppen-Research_ICP.md",
+      "titel": "Säule 1 - Zielgruppen-Research und ICP (Ideal Customer Profile)",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "ICP_USP_Positionierung",
+      "datei": "ICP_USP_Positionierung/02_Personas.md",
+      "titel": "Säule 2 - Personas",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "ICP_USP_Positionierung",
+      "datei": "ICP_USP_Positionierung/03_Positionierung_und_Markenkern.md",
+      "titel": "Säule 3 - Positionierung und Markenkern",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "ICP_USP_Positionierung",
+      "datei": "ICP_USP_Positionierung/04_USP-Herleitung.md",
+      "titel": "Säule 4 - USP-Herleitung",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "ICP_USP_Positionierung",
+      "datei": "ICP_USP_Positionierung/05_Gap-IST-SOLL_und_KPIs.md",
+      "titel": "Säule 5 - Gap IST gegen SOLL und Ableitung von KPIs",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "ICP_USP_Positionierung",
+      "datei": "ICP_USP_Positionierung/06_Failure-Modi.md",
+      "titel": "Säule 6 - Failure-Modi: Wie Positionierung in der Praxis scheitert",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "ICP_USP_Positionierung",
+      "datei": "ICP_USP_Positionierung/07_Quellen.md",
+      "titel": "Säule 7 - Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "ICP_USP_Positionierung",
+      "datei": "ICP_USP_Positionierung/08_Personen_und_Gruendermarke.md",
+      "titel": "Personen- und Gründermarke: Das Gesicht als Reichweitenträger",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "KI_Content_Planung_Guideline",
+      "datei": "KI_Content_Planung_Guideline/00_Index.md",
+      "titel": "Guideline: KI-gestützte Content-Planung für Marken & Kampagnen",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "KI_Content_Planung_Guideline",
+      "datei": "KI_Content_Planung_Guideline/01_Fundament_Brand-Brief.md",
+      "titel": "Säule 1 — Das Fundament: Brand-Brief & Kontext-Datei",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "KI_Content_Planung_Guideline",
+      "datei": "KI_Content_Planung_Guideline/02_Content-Pillars.md",
+      "titel": "Säule 2 — Content-Pillars (das 4-bis-6-Themen-Gerüst)",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "KI_Content_Planung_Guideline",
+      "datei": "KI_Content_Planung_Guideline/03_Themen-Matrix.md",
+      "titel": "Säule 3 — Themen-Matrix (Justin Welsh adaptiert)",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "KI_Content_Planung_Guideline",
+      "datei": "KI_Content_Planung_Guideline/04_Operativer-Workflow.md",
+      "titel": "Säule 4 — Operativer Workflow (Monatszyklus)",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "KI_Content_Planung_Guideline",
+      "datei": "KI_Content_Planung_Guideline/05_Tool-Stack.md",
+      "titel": "Säule 5 — Tool-Stack-Empfehlung",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "KI_Content_Planung_Guideline",
+      "datei": "KI_Content_Planung_Guideline/06_Feedback-Loop.md",
+      "titel": "Säule 6 — Feedback-Loop nach 30 Tagen",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "KI_Content_Planung_Guideline",
+      "datei": "KI_Content_Planung_Guideline/07_Failure-Modi.md",
+      "titel": "Säule 7 — Failure-Modi: Was schief gehen kann (und wie ihr es vermeidet)",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "KI_Content_Planung_Guideline",
+      "datei": "KI_Content_Planung_Guideline/08_Quellen.md",
+      "titel": "Säule 8 — Quellen",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "KI_Sichtbarkeit_Guide",
+      "datei": "KI_Sichtbarkeit_Guide/00_Index.md",
+      "titel": "Guideline: KI-Sichtbarkeit von Social-Media-Inhalten",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "KI_Sichtbarkeit_Guide",
+      "datei": "KI_Sichtbarkeit_Guide/01_Grundlagen.md",
+      "titel": "01 Grundlagen: Zitierung, Training, Zugang",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "KI_Sichtbarkeit_Guide",
+      "datei": "KI_Sichtbarkeit_Guide/02_Plattform-Matrix.md",
+      "titel": "02 Plattform-Matrix: KI-Sichtbarkeit im Vergleich",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "KI_Sichtbarkeit_Guide",
+      "datei": "KI_Sichtbarkeit_Guide/03_Hebel.md",
+      "titel": "03 Hebel: Was tatsächlich zur Zitierung führt",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "KI_Sichtbarkeit_Guide",
+      "datei": "KI_Sichtbarkeit_Guide/04_Failure-Modi.md",
+      "titel": "04 Failure-Modi: Verbreitete Irrtümer",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "KI_Sichtbarkeit_Guide",
+      "datei": "KI_Sichtbarkeit_Guide/05_Quellen.md",
+      "titel": "05 Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/00_Index.md",
+      "titel": "Krisenkommunikations-Playbook für Marken",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/01_Krisen-Typologie_und_Eskalation.md",
+      "titel": "Säule 1 — Krisen-Typologie & Eskalations-Bewertung",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/02_Stakeholder-Mapping.md",
+      "titel": "Säule 2 — Stakeholder-Mapping",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/03_Response-Timeline.md",
+      "titel": "Säule 3 — Response-Timeline: Stunde 0 bis Woche 4",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/04_Tonalitaet_und_Sprache.md",
+      "titel": "Säule 4 — Tonalität & Sprache in Krisen",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/05_Apologia-Strategien.md",
+      "titel": "Säule 5 — Apologia-Strategien",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/06_Plattform-spezifische-Reaktion.md",
+      "titel": "Säule 6 — Plattform-spezifische Reaktion",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/07_Recovery_und_Post-Mortem.md",
+      "titel": "Säule 7 — Recovery & Post-Mortem",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/08_Praevention_und_Krisenstab.md",
+      "titel": "Säule 8 — Prävention & Krisenstab-Setup",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/09_Failure-Modi.md",
+      "titel": "Säule 9 — Failure-Modi: Wie Krisenkommunikation typisch scheitert",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Krisenkommunikation_Playbook",
+      "datei": "Krisenkommunikation_Playbook/10_Quellen.md",
+      "titel": "Säule 10 — Quellen",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Measurement_Reporting_Guide",
+      "datei": "Measurement_Reporting_Guide/00_Index.md",
+      "titel": "Guideline: Measurement & Reporting für Social Media",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Measurement_Reporting_Guide",
+      "datei": "Measurement_Reporting_Guide/01_KPI-Framework_Funnel.md",
+      "titel": "Säule 1 - KPI-Framework und Funnel-Logik",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Measurement_Reporting_Guide",
+      "datei": "Measurement_Reporting_Guide/02_Metriken-Definitionen.md",
+      "titel": "Säule 2 - Metriken-Definitionen und Berechnungsformeln",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Measurement_Reporting_Guide",
+      "datei": "Measurement_Reporting_Guide/03_Reporting-Templates_und_Rhythmus.md",
+      "titel": "Säule 3 - Reporting-Templates und Rhythmus",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Measurement_Reporting_Guide",
+      "datei": "Measurement_Reporting_Guide/04_Benchmarks.md",
+      "titel": "Säule 4 - Benchmarks und ihre Interpretation",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Measurement_Reporting_Guide",
+      "datei": "Measurement_Reporting_Guide/05_Attribution_und_ROI.md",
+      "titel": "Säule 5 - Attribution und ROI",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Measurement_Reporting_Guide",
+      "datei": "Measurement_Reporting_Guide/06_Failure-Modi.md",
+      "titel": "Säule 6 - Failure-Modi: Was beim Reporting schiefgeht",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Measurement_Reporting_Guide",
+      "datei": "Measurement_Reporting_Guide/07_Quellen.md",
+      "titel": "Säule 7 - Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Paid_Performance_Methodik",
+      "datei": "Paid_Performance_Methodik/00_Index.md",
+      "titel": "Paid- & Performance-Methodik für Social Ads",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Paid_Performance_Methodik",
+      "datei": "Paid_Performance_Methodik/01_Funnel_und_Kampagnenziele.md",
+      "titel": "Säule 1: Funnel & Kampagnenziele",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Paid_Performance_Methodik",
+      "datei": "Paid_Performance_Methodik/02_Budget-Allokation.md",
+      "titel": "Säule 2: Budget-Allokation",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Paid_Performance_Methodik",
+      "datei": "Paid_Performance_Methodik/03_Targeting_und_Audiences.md",
+      "titel": "Säule 3: Targeting & Audiences",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Paid_Performance_Methodik",
+      "datei": "Paid_Performance_Methodik/04_Creative-Testing.md",
+      "titel": "Säule 4: Creative-Testing",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Paid_Performance_Methodik",
+      "datei": "Paid_Performance_Methodik/05_Retargeting.md",
+      "titel": "Säule 5: Retargeting",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Paid_Performance_Methodik",
+      "datei": "Paid_Performance_Methodik/06_Optimierung_und_Metriken.md",
+      "titel": "Säule 6: Optimierung & Metriken",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Paid_Performance_Methodik",
+      "datei": "Paid_Performance_Methodik/07_Failure-Modi.md",
+      "titel": "Säule 7: Failure-Modi (Was bei Paid Social schiefgeht)",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Paid_Performance_Methodik",
+      "datei": "Paid_Performance_Methodik/08_Quellen.md",
+      "titel": "Säule 8: Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Profilanalyse_IST_Analyse",
+      "datei": "Profilanalyse_IST_Analyse/00_Index.md",
+      "titel": "Guideline: Profilanalyse & IST-Analyse",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Profilanalyse_IST_Analyse",
+      "datei": "Profilanalyse_IST_Analyse/01_Audit-Framework.md",
+      "titel": "Säule 1 - Audit-Framework: Den Auftritt strukturiert aufnehmen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Profilanalyse_IST_Analyse",
+      "datei": "Profilanalyse_IST_Analyse/02_Performance-Bestandsaufnahme.md",
+      "titel": "Säule 2 - Performance-Bestandsaufnahme: Zahlen sammeln, bevor man urteilt",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Profilanalyse_IST_Analyse",
+      "datei": "Profilanalyse_IST_Analyse/03_Wettbewerbs-Benchmark.md",
+      "titel": "Säule 3 - Wettbewerbs-Benchmark: Den Markt als Maßstab nehmen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Profilanalyse_IST_Analyse",
+      "datei": "Profilanalyse_IST_Analyse/04_Scorecard-und-Auswertung.md",
+      "titel": "Säule 4 - Scorecard und Auswertung: Vom Befund zur Übergabe",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Profilanalyse_IST_Analyse",
+      "datei": "Profilanalyse_IST_Analyse/05_Failure-Modi.md",
+      "titel": "Säule 5 - Failure-Modi: Wie eine IST-Analyse in der Praxis scheitert",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Profilanalyse_IST_Analyse",
+      "datei": "Profilanalyse_IST_Analyse/06_Quellen.md",
+      "titel": "06 Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Recht_Compliance_DE",
+      "datei": "Recht_Compliance_DE/00_Index.md",
+      "titel": "Recht & Compliance für Social Media (Deutschland)",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Recht_Compliance_DE",
+      "datei": "Recht_Compliance_DE/01_Werbekennzeichnung.md",
+      "titel": "01 - Werbekennzeichnung",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Recht_Compliance_DE",
+      "datei": "Recht_Compliance_DE/02_DSGVO_und_Datenschutz.md",
+      "titel": "02 - DSGVO und Datenschutz",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Recht_Compliance_DE",
+      "datei": "Recht_Compliance_DE/03_Urheber_und_Musiklizenzen.md",
+      "titel": "03 - Urheber- und Musiklizenzen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Recht_Compliance_DE",
+      "datei": "Recht_Compliance_DE/04_Gewinnspielrecht.md",
+      "titel": "04 - Gewinnspielrecht",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Recht_Compliance_DE",
+      "datei": "Recht_Compliance_DE/05_Impressum_und_Telemedien.md",
+      "titel": "05 - Impressum und Telemedien",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Recht_Compliance_DE",
+      "datei": "Recht_Compliance_DE/06_Failure-Modi.md",
+      "titel": "06 - Failure-Modi: typische rechtliche Fehler in der Praxis",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Recht_Compliance_DE",
+      "datei": "Recht_Compliance_DE/07_Quellen.md",
+      "titel": "07 - Quellen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/00_Index.md",
+      "titel": "Visual Production Methodik für Marken",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/01_Look-Entwicklung_und_Visual_Identity.md",
+      "titel": "Säule 1 — Look-Entwicklung & Visual Identity",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/02_Pre-Production_und_Storyboarding.md",
+      "titel": "Säule 2 — Pre-Production & Storyboarding",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/03_KI-Tools-Stack_Bild_Video.md",
+      "titel": "Säule 3 — KI-Tools-Stack (Bild + Video)",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/04_Konsistenz-Techniken.md",
+      "titel": "Säule 4 — Konsistenz-Techniken (Charakter, Brand, Look)",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/05_Hybrid-Produktion.md",
+      "titel": "Säule 5 — Hybrid-Produktion: Echte Person + KI-Background",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/06_Audio_und_Sound-Design.md",
+      "titel": "Säule 6 — Audio & Sound-Design",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/07_Post-Production-Workflow.md",
+      "titel": "Säule 7 — Post-Production-Workflow",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/08_Asset-Management.md",
+      "titel": "Säule 8 — Asset-Management",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/09_Rechtliches.md",
+      "titel": "Säule 9 — Rechtliches",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/10_Failure-Modi.md",
+      "titel": "Säule 10 — Failure-Modi: Was bei Visual Production schiefgeht",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "Visual_Production_Methodik",
+      "datei": "Visual_Production_Methodik/11_Quellen.md",
+      "titel": "Säule 11 — Quellen",
+      "stand": "Mai 2026"
+    },
+    {
+      "modul": "facebook",
+      "datei": "facebook/00-quellen.md",
+      "titel": "Quellen: Facebook",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "facebook",
+      "datei": "facebook/01-algorithmus.md",
+      "titel": "Facebook Algorithmus — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "facebook",
+      "datei": "facebook/02-content-formate.md",
+      "titel": "Facebook Content-Formate — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "facebook",
+      "datei": "facebook/03-posting-zeiten-frequenz.md",
+      "titel": "Facebook Posting-Zeiten & Frequenz — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "facebook",
+      "datei": "facebook/04-features-aktuell.md",
+      "titel": "Facebook Features — IST-Zustand Juni 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "facebook",
+      "datei": "facebook/05-best-practices.md",
+      "titel": "Facebook Best Practices — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "facebook",
+      "datei": "facebook/06-analytics-metriken.md",
+      "titel": "Facebook Analytics & Metriken — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "facebook",
+      "datei": "facebook/07-ads-werbung.md",
+      "titel": "Facebook Ads & Werbung — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "facebook",
+      "datei": "facebook/README.md",
+      "titel": "Facebook — Wissensdatenbank IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "instagram",
+      "datei": "instagram/00-quellen.md",
+      "titel": "Quellen: Instagram",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "instagram",
+      "datei": "instagram/01-algorithmus.md",
+      "titel": "Instagram Algorithmus — IST-Zustand Juni 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "instagram",
+      "datei": "instagram/02-content-formate.md",
+      "titel": "Instagram Content-Formate — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "instagram",
+      "datei": "instagram/03-posting-zeiten-frequenz.md",
+      "titel": "Instagram Posting-Zeiten & Frequenz — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "instagram",
+      "datei": "instagram/04-features-aktuell.md",
+      "titel": "Instagram Features — IST-Zustand Juni 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "instagram",
+      "datei": "instagram/05-best-practices.md",
+      "titel": "Instagram Best Practices — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "instagram",
+      "datei": "instagram/06-analytics-metriken.md",
+      "titel": "Instagram Analytics & Metriken — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "instagram",
+      "datei": "instagram/07-ads-werbung.md",
+      "titel": "Instagram Ads & Werbung — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "instagram",
+      "datei": "instagram/README.md",
+      "titel": "Instagram Wissensdatenbank",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/00-quellen.md",
+      "titel": "Quellen: LinkedIn",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/01-algorithmus.md",
+      "titel": "LinkedIn Algorithmus — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/02-content-formate.md",
+      "titel": "LinkedIn Content-Formate — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/03-posting-zeiten-frequenz.md",
+      "titel": "LinkedIn Posting-Zeiten & Frequenz — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/04-features-aktuell.md",
+      "titel": "LinkedIn Features — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/05-best-practices.md",
+      "titel": "LinkedIn Best Practices — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/06-analytics-metriken.md",
+      "titel": "LinkedIn Analytics & Metriken — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/07-ads-werbung.md",
+      "titel": "LinkedIn Ads & Werbung — IST-Zustand Juni 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/08-profil-optimierung.md",
+      "titel": "LinkedIn Profil-Optimierung: IST-Zustand Juni 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "linkedin",
+      "datei": "linkedin/README.md",
+      "titel": "LinkedIn Wissensdatenbank",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "tiktok",
+      "datei": "tiktok/00-quellen.md",
+      "titel": "Quellen: TikTok",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "tiktok",
+      "datei": "tiktok/01-algorithmus.md",
+      "titel": "TikTok Algorithmus — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "tiktok",
+      "datei": "tiktok/02-content-formate.md",
+      "titel": "TikTok Content-Formate — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "tiktok",
+      "datei": "tiktok/03-posting-zeiten-frequenz.md",
+      "titel": "TikTok Posting-Zeiten & Frequenz — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "tiktok",
+      "datei": "tiktok/04-features-aktuell.md",
+      "titel": "TikTok Features — IST-Zustand Juni 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "tiktok",
+      "datei": "tiktok/05-best-practices.md",
+      "titel": "TikTok Best Practices — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "tiktok",
+      "datei": "tiktok/06-analytics-metriken.md",
+      "titel": "TikTok Analytics & Metriken — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "tiktok",
+      "datei": "tiktok/07-ads-werbung.md",
+      "titel": "TikTok Ads & Werbung — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "tiktok",
+      "datei": "tiktok/README.md",
+      "titel": "TikTok Wissensdatenbank — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "x-twitter",
+      "datei": "x-twitter/00-quellen.md",
+      "titel": "Quellen: X (Twitter)",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "x-twitter",
+      "datei": "x-twitter/01-algorithmus.md",
+      "titel": "X (Twitter) Algorithmus — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "x-twitter",
+      "datei": "x-twitter/02-content-formate.md",
+      "titel": "X (Twitter) Content-Formate — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "x-twitter",
+      "datei": "x-twitter/03-posting-zeiten-frequenz.md",
+      "titel": "X (Twitter) Posting-Zeiten & Frequenz — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "x-twitter",
+      "datei": "x-twitter/04-features-aktuell.md",
+      "titel": "X (Twitter) Features — IST-Zustand Juni 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "x-twitter",
+      "datei": "x-twitter/05-best-practices.md",
+      "titel": "X (Twitter) Best Practices — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "x-twitter",
+      "datei": "x-twitter/06-analytics-metriken.md",
+      "titel": "X (Twitter) Analytics & Metriken — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "x-twitter",
+      "datei": "x-twitter/07-ads-werbung.md",
+      "titel": "X (Twitter) Ads & Werbung — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "x-twitter",
+      "datei": "x-twitter/README.md",
+      "titel": "X (Twitter) Wissensdatenbank — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/00-quellen.md",
+      "titel": "Quellen: YouTube",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/01-algorithmus.md",
+      "titel": "YouTube Algorithmus — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/02-content-formate.md",
+      "titel": "YouTube Content-Formate — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/03-posting-zeiten-frequenz.md",
+      "titel": "YouTube Posting-Zeiten & Frequenz — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/04-features-aktuell.md",
+      "titel": "YouTube Features — IST-Zustand Juni 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/05-best-practices.md",
+      "titel": "YouTube Best Practices — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/06-analytics-metriken.md",
+      "titel": "YouTube Analytics & Metriken — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/07-ads-werbung.md",
+      "titel": "YouTube Ads & Werbung — IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/08-kanal-seo-und-ki-sichtbarkeit.md",
+      "titel": "YouTube Kanal-SEO und KI-Sichtbarkeit: IST-Zustand Juni 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "youtube",
+      "datei": "youtube/README.md",
+      "titel": "YouTube — Wissensdatenbank IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    }
+  ]
+}
