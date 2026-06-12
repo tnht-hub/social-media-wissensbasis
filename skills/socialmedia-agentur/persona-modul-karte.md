@@ -2,8 +2,9 @@
 
 Diese Datei ist der Wegweiser des Orchestrators. Sie enthält selbst kein Wissen,
 sondern verweist nur auf die Module der Wissensbasis und sagt, welche Persona
-welche Phase mit welchem Modul bearbeitet. Pfade sind relativ zum Ordner
-"Social Media Wissensdatenbank".
+welche Phase mit welchem Modul bearbeitet. Die Modulpfade sind relativ zur
+Wissensbasis-Basisadresse (RAW_BASIS_URL in SKILL.md) und werden von dort frisch
+geladen.
 
 Status: vorhanden = nutzbar, teilweise = Grundlage da aber unvollständig,
 fehlt = noch nicht gebaut, dann ehrlich degradieren.
