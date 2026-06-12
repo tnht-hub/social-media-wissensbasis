@@ -1,0 +1,19 @@
+{
+  "name": "social-media-wissensbasis",
+  "owner": {
+    "name": "B&B - Sinn fuer Marken",
+    "url": "https://bundb.de"
+  },
+  "metadata": {
+    "description": "Marktplatz fuer die Social-Media-Wissensbasis von B&B.",
+    "version": "1.2.0"
+  },
+  "plugins": [
+    {
+      "name": "social-media-wissensbasis",
+      "source": "./",
+      "description": "Social-Media-Agentur-Orchestrator von B&B mit zentral auf GitHub gepflegter Wissensbasis.",
+      "version": "1.2.0"
+    }
+  ]
+}
