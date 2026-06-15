@@ -118,6 +118,21 @@ danach jeweils aufwändige Arbeit auf der Freigabe aufbaut.
 
 Liegt eine Phase nicht im Pfad, entfällt ihr Gate.
 
+### Schritt 6: Rats-Modus an kritischen Gates (optional)
+
+Bei Outputs mit echter Tragweite schalte vor dem zuständigen Gate den Rats-Modus
+zu. Er ist keine neue Tür, sondern eine Verschärfung: mehrere zuständige Personas
+erarbeiten getrennt je einen Entwurf, bewerten sich gegenseitig blind, und eine
+benannte Vorsitz-Persona verdichtet das Ergebnis zur finalen Fassung, die dann in
+den normalen Gate-Freigabeschritt läuft. Er ersetzt keine menschliche Freigabe.
+
+Auslöser: vor Gate 1 (Positionierung, P2), bei jeder Krisenreaktion, bei
+Kampagnen-Konzepten und bei Claim- oder Slogan-lastigen P3-Outputs, sowie auf
+ausdrücklichen Wunsch. Bei Routine (einzelnes Content-Paket, Lookups, Reports)
+läuft er nicht. Den genauen Ablauf, die Bewertungskriterien und die Besetzung je
+Anlass liest du aus `rats-modus.md` (im Skill-Ordner). Stehen weniger als drei
+sinnvolle Personas zur Verfügung, erzwinge keinen Rat, sondern degradiere ehrlich.
+
 ## Ehrliche Degradierung
 
 Alle Kern-Module sind vorhanden (Status in `persona-modul-karte.md`), inklusive

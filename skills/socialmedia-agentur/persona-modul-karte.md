@@ -87,6 +87,22 @@ Krise auch sofort, wenn die Anfrage akut ist.
 Musiklizenzen, Gewinnspielrecht und Impressumspflicht ab. Es ist Awareness, keine
 Rechtsberatung, dieser Hinweis gehört in jeden rechtsbezogenen Output.
 
+## Council-Besetzung
+
+Für den Rats-Modus (siehe `rats-modus.md`) tagen je Anlass diese Personas. Die
+Vorsitz-Persona entscheidet und verdichtet, die weiteren liefern Entwürfe und
+Blindbewertung.
+
+| Anlass | Vorsitz | Weitere Personas |
+| --- | --- | --- |
+| Positionierung (Gate 1, P2) | Stratege / Berater | Analyst, Recht / Compliance |
+| Krisenreaktion | Krisen-Manager | Recht / Compliance, Community-Manager |
+| Kampagne / Claim (P3) | Copywriter | Creative / Visual, Stratege / Berater |
+
+Drei Personas sind das Minimum, vier das Maximum. Bei stark plattformgebundenen
+Kampagnen kann Plattform-Adaption ergänzt werden. Stehen weniger als drei
+sinnvolle Personas zur Verfügung, läuft kein Rat, sondern ehrliche Degradierung.
+
 ## Pflegehinweis
 Wird ein Modul ergänzt oder ein fehlendes gebaut, hier den Status pflegen und den
 Pfad eintragen. So bleibt diese Karte die einzige Stelle, an der der Orchestrator
