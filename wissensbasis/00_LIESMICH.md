@@ -31,10 +31,21 @@ Methodik-Guides: `KI_Content_Planung_Guideline/`, `Copywriting_Storytelling_Guid
 Strategie- und Betriebs-Module (neu): `Profilanalyse_IST_Analyse/`,
 `ICP_USP_Positionierung/`, `Measurement_Reporting_Guide/`,
 `Community_Management_Playbook/`, `Paid_Performance_Methodik/`,
-`Recht_Compliance_DE/`.
+`Recht_Compliance_DE/`, `Competitor_Profiling/`,
+`Aktuelle_Themen_und_Newsjacking/`, `Format_und_Thumbnail_Guidelines/`.
+
+Disziplin-Module (Ergänzung Juni 2026, Quelle SocialHub Mag #30):
+`Corporate_Influencing_Employee_Advocacy/` (Markenbotschafter-Programme mit
+eigenen Mitarbeitenden) und `Local_Regional_Social_Media/` (Social Media für
+lokale und regionale Unternehmen). In derselben Runde erweitert wurden
+`Community_Management_Playbook/02` (Hate Speech, Empowerment-Moderation,
+proaktives CM), `Recht_Compliance_DE/08` (Messenger- und DM-Marketing) und
+`ICP_USP_Positionierung/09` (Trend-Annex Future of Social).
 
 Orchestrator: `socialmedia-agentur/` mit `SKILL.md` (Logik), `persona-modul-karte.md`
 (Wegweiser auf die Module) und `briefing-fragebogen.md` (Intake für Phase 0).
+Hinweis: Die `persona-modul-karte.md` liegt im Skill-Paket und sollte um die beiden
+neuen Module ergänzt werden, damit der Orchestrator sie ansteuert.
 
 ## Wie der Orchestrator arbeitet
 

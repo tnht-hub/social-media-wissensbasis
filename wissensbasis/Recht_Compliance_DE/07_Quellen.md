@@ -210,6 +210,29 @@ Die maßgeblichen Gesetze sind über offizielle Portale frei abrufbar. Genannt s
 
 ---
 
+## Messenger- und DM-Marketing (Ergänzung Juni 2026, zu `08_Messenger_und_DM_Marketing.md`)
+
+- **SocialHub Mag #30 (2026), maloon GmbH: Rechtsupdate von Dr. Thomas Schwenke, „Messenger- und Social-Media-Marketing rechtssicher gestalten"**
+  socialhub.io/mag (Autor: drschwenke.de)
+  *Primärquelle für dieses Kapitel: Messenger/SMS/Chatbots/DMs als elektronische Post, § 7 Abs. 2 Nr. 3 UWG, Einwilligungs- und DOI-Anforderungen, Pflichtinhalte, Umgang mit Widerrufen, Folgen bei Verstößen. Knüpft an den E-Mail-Marketing-Beitrag in SocialHub Mag #29 an.*
+
+- **§ 7 UWG und § 7a UWG (Gesetz gegen den unlauteren Wettbewerb)**
+  https://www.gesetze-im-internet.de/uwg_2004/
+  *Rechtsgrundlage für Einwilligung bei elektronischer Werbung und Aufbewahrung der Einwilligung in Werbeanrufe.*
+
+- **OLG Hamm, Az. 18 U 154/22**
+  *Zur fließenden Grenze zwischen persönlicher Kommunikation und unerwünschter Werbung in Direktnachrichten. Im SocialHub-Mag-Beitrag zitiert.*
+
+- **AG Düsseldorf, Az. 23 C 120/25 (2025)**
+  *Eine LinkedIn-Vernetzung rechtfertigt keine E-Mail-Werbung nach § 7 Abs. 2 Nr. 3 UWG, auch nicht im B2B. Im SocialHub-Mag-Beitrag zitiert.*
+
+- **Dr. Thomas Schwenke: „Recht für Online-Marketing und KI" (O'Reilly Verlag)**
+  *Im Beitrag empfohlenes Handbuch zum rechtssicheren Einsatz von KI und Direktmarketing.*
+
+*Hinweis: Aktenzeichen und Urteilsinhalte sind aus dem SocialHub-Mag-Beitrag übernommen und vor produktivem Einsatz gegen die Originalentscheidung zu prüfen.*
+
+---
+
 ## Methodik-Hinweise
 
 ### Recherche-Datum

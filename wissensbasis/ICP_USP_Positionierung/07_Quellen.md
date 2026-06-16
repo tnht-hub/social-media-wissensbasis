@@ -4,6 +4,14 @@ Alle Quellen, auf die sich diese Guideline stützt. Gruppiert nach Thema. Stand:
 
 ---
 
+## Trend-Annex Future of Social (zu `09_Trend_Future_of_Social.md`, Ergänzung Juni 2026)
+
+- **SocialHub Mag #30 (2026), maloon GmbH**
+  socialhub.io/mag
+  *Quelle für den Trend-Annex: Interview „Social Media 2030: The Future of Social" mit Nemo Tronnier (Social DNA) zur These der Algorithmic Media. Praxis-Belege aus derselben Ausgabe: der Beitrag „Social Media ist kein Beruf, es ist ein Weg" (vier Karriereporträts, Quereinstieg) sowie der Case „Vom Recruiting-Frust zum Video-Erfolg bei Green IT Solution". Die Zukunftsszenarien sind als Hypothesen zu lesen, nicht als belegte Prognosen.*
+
+---
+
 ## ICP (Ideal Customer Profile) und B2B/B2C
 
 - **Salesforce - Ideal Customer Profiles (ICPs): Benefits & How to Create**

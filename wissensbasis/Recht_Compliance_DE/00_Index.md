@@ -34,6 +34,7 @@ Die meisten teuren Fehler in der Social-Media-Arbeit sind keine exotischen Spezi
 | `05_Impressum_und_Telemedien.md` | Impressumspflicht in Profilen, DDG (Nachfolger des TMG), Zwei-Klick-Lösung |
 | `06_Failure-Modi.md` | Typische rechtliche Fehler in der Praxis plus Gegenmittel |
 | `07_Quellen.md` | Recherchierte Quellen mit URL und Beschreibung, gruppiert, plus Methodik-Hinweise |
+| `08_Messenger_und_DM_Marketing.md` | WhatsApp, SMS, Chatbots und DMs als elektronische Post, Einwilligung, Pflichtinhalte, aktuelle Urteile (Ergänzung Juni 2026) |
 
 ---
 

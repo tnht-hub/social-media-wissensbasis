@@ -28,6 +28,7 @@ Wer bei jedem Baustein (Zielgruppe, Markenkern, USP, Werteversprechen) den Test 
 | `05_Gap-IST-SOLL_und_KPIs.md` | Soll-Ist-Abgleich, Ableitung von Zielen und KPIs aus der Positionierung |
 | `06_Failure-Modi.md` | Wie Positionierung in der Praxis scheitert, plus Gegenmittel |
 | `08_Personen_und_Gruendermarke.md` | Personen- und Gründermarke als Reichweitenträger, Verzahnung mit dem Markenkonto |
+| `09_Trend_Future_of_Social.md` | Forward-looking Annex: Algorithmic Media, Konsequenzen für Positionierung, Praxis-Belege (Ergänzung Juni 2026) |
 | `07_Quellen.md` | Recherchierte Quellen mit Triangulations-Hinweisen |
 
 ---

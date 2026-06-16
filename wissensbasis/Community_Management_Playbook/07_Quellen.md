@@ -100,6 +100,28 @@ Alle Quellen, auf die sich diese Guideline stützt. Stand: Juni 2026. Mischung a
 
 ---
 
+## Hate Speech, Empowerment-Moderation, proaktives CM (Ergänzung Juni 2026)
+
+- **SocialHub Mag #30 (2026), maloon GmbH**
+  socialhub.io/mag
+  *Zwei einschlägige Beiträge: Gastbeitrag „Motivieren statt nur löschen: So begegnest du Hate Speech und stärkst deine Community" von Tanja Laub (Quelle für Hate-Speech-Typologie, Dog-Whistle-Codes, regulierende und bestärkende Strategien, KASI-Prinzip, Lufthansa-Beispiel, Selbstfürsorge) sowie das Interview „Der Seismograph der Marke: Community Management bei Deichmann" mit Matthias Kräling und Steven Urry (Quelle für die fünf CM-Säulen, proaktives Community Management, Sentiment als Leit-KPI, KI nur im Backoffice).*
+
+- **Tanja Laub: „Community. Menschen befähigen. Potenziale entfalten. Transformation gestalten."**
+  *Buch, aus dem der Gastbeitrag ein Auszug ist. Praxisleitfaden für Community Building inkl. Moderationstechniken im Umgang mit Hate Speech.*
+
+- **Landesanstalt für Medien NRW: „Hasskommentare moderieren lernen" (Handreichung, 2019) und „Hallo, liebe Community: Wie gelingt Moderation in sozialen Netzwerken?" (2021)**
+  *Quelle für die Unterscheidung regulierender und bestärkender Strategien sowie das KASI-Prinzip (kognitiv, affektiv, sozial-integrativ). Im SocialHub Mag #30 referenziert.*
+
+- **Kompetenznetzwerk gegen Hass im Netz: Studie „Lauter Hass, leiser Rückzug" (2024)**
+  *Datenbasis zu Verbreitung und Folgen von Hass im Netz. Im SocialHub Mag #30 zitiert.*
+
+- **netzhorizonte und LOVE Storm: Workbook „Wir haben ja jetzt einen sicheren Hafen" (2025)**
+  *Unterscheidung verschiedener Formen digitalisierter Gewalt (u. a. Fear Speech). Im SocialHub Mag #30 referenziert.*
+
+*Hinweis: Die letzten vier Quellen sind aus dem SocialHub-Mag-Beitrag übernommen und vor produktivem Einsatz gegen das Original zu prüfen. Die Hate-Speech-Hinweise sind Awareness, keine Rechtsberatung; bei strafrechtlich relevanten Inhalten siehe `Recht_Compliance_DE` und ggf. Anzeige.*
+
+---
+
 ## Engagement-Strategie, Community-Aufbau, Mythen
 
 - **Sprout Social: The Complete Guide to Social Media Community Management**

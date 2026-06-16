@@ -96,6 +96,7 @@ Diese Guideline stützt sich auf:
 - **Moderations- und Troll-Handling:** Search Engine Journal, Firebelly, CommentGuard, Backstage, Utrecht University
 - **Deutschsprachige Praxis:** acquisa, swat.io, UPLOAD Magazin, Social Media Akademie, Fanpage Karma, trurnit
 - **Algorithmus-/Mythen-Check (Engagement-Pods):** Single Grain, Influencity, StoryChief
+- **Hate Speech & proaktives CM (Ergänzung Juni 2026):** Tanja Laub (Buch „Community"), Landesanstalt für Medien NRW, Kompetenznetzwerk gegen Hass im Netz sowie das Deichmann-Interview, alle via SocialHub Mag #30. Vertieft in `02_Moderation_und_Eskalation.md`.
 
 Alle Quellen mit URL und Triangulations-Hinweisen in `07_Quellen.md`.
 
