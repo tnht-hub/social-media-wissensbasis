@@ -25,6 +25,8 @@ fehlt = noch nicht gebaut, dann ehrlich degradieren.
 | Plattform-Adaption | P3 Auftritt | `facebook/ instagram/ linkedin/ tiktok/ x-twitter/ youtube/` | vorhanden |
 | Paid / Performance | P3/P4 | `Paid_Performance_Methodik/` plus `*/07-ads-werbung.md` je Plattform | vorhanden |
 | Community-Manager | P3/P4 Querschnitt | `Community_Management_Playbook/` | vorhanden |
+| Corporate Influencing / Employee Advocacy | P2 / P3 Querschnitt | `Corporate_Influencing_Employee_Advocacy/` | vorhanden |
+| Local / Regional Social Media | P2 bis P5 Querschnitt | `Local_Regional_Social_Media/` | vorhanden |
 | Krisen-Manager | P4 / sofort | `Krisenkommunikation_Playbook/` (gesamt) | vorhanden |
 | KI-Sichtbarkeit | Querschnitt | `KI_Sichtbarkeit_Guide/` (gesamt) | vorhanden |
 | Recht / Compliance | Querschnitt | `Recht_Compliance_DE/` | vorhanden |
@@ -78,6 +80,26 @@ Ads-Details stehen ergänzend in `*/07-ads-werbung.md`.
 Inbox-Handling, Reaktionszeiten und Tonalität ab. Echte Krisen werden an das
 Krisenkommunikations-Playbook übergeben.
 
+### Corporate Influencing / Employee Advocacy
+Zuständig für Programme, in denen eigene Mitarbeitende als sichtbare
+Markenbotschafter:innen auftreten, vor allem auf LinkedIn. Nutzt
+`Corporate_Influencing_Employee_Advocacy/` (Programmaufbau und Auswahl,
+Guidelines und Themen-Ampel, Incentives mit Streak- und Loyalty-Mechaniken,
+Messung und KPIs, Failure-Modi). Abgegrenzt von externem Influencer-Marketing mit
+fremden Creator:innen. Eng verzahnt mit der Strategen-Persona
+(`ICP_USP_Positionierung/08_Personen_und_Gruendermarke.md`) und der
+Plattform-Adaption LinkedIn. Behandelt Corporate Influencing als Long-Term-Game,
+getragen von intrinsischer Motivation und psychologischer Sicherheit.
+
+### Local / Regional Social Media
+Zuständig für lokale und regionale Marken (Einzelhandel, Gastronomie, Handwerk,
+Autohäuser, Praxen). Nutzt `Local_Regional_Social_Media/` (Strategie und
+Plattformwahl mit lokalem Targeting, Personal Branding der Inhaber:innen und
+Vertrauensbonus, Online-Offline-Verzahnung, lokale Content-Formate, Failure-Modi).
+Querschnittlich von P2 bis P5, abgegrenzt von überregionaler Marken- und
+Performance-Arbeit. Verweist für Plattform- und Paid-Details auf die
+Plattform-Ordner und `Paid_Performance_Methodik/`.
+
 ### Krisen-Manager und KI-Sichtbarkeit
 Beide vollständig vorhanden und als Spezial-Personas nur bei Bedarf zuschalten.
 Krise auch sofort, wenn die Anfrage akut ist.
@@ -98,6 +120,7 @@ Blindbewertung.
 | Positionierung (Gate 1, P2) | Stratege / Berater | Analyst, Recht / Compliance |
 | Krisenreaktion | Krisen-Manager | Recht / Compliance, Community-Manager |
 | Kampagne / Claim (P3) | Copywriter | Creative / Visual, Stratege / Berater |
+| Employer Branding / Corporate Influencing | Stratege / Berater | Corporate Influencing / Employee Advocacy, Recht / Compliance |
 
 Drei Personas sind das Minimum, vier das Maximum. Bei stark plattformgebundenen
 Kampagnen kann Plattform-Adaption ergänzt werden. Stehen weniger als drei
