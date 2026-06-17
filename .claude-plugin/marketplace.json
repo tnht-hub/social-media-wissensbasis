@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Marktplatz fuer die Social-Media-Wissensbasis von B&B.",
-    "version": "1.3.1"
+    "version": "1.4.0"
   },
   "plugins": [
     {
       "name": "social-media-wissensbasis",
       "source": "./",
       "description": "Social-Media-Agentur-Orchestrator von B&B mit zentral auf GitHub gepflegter Wissensbasis.",
-      "version": "1.3.1"
+      "version": "1.4.0"
     }
   ]
 }

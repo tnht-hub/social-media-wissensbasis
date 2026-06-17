@@ -111,20 +111,23 @@ Rechtsberatung, dieser Hinweis gehört in jeden rechtsbezogenen Output.
 
 ## Council-Besetzung
 
-Für den Rats-Modus (siehe `rats-modus.md`) tagen je Anlass diese Personas. Die
-Vorsitz-Persona entscheidet und verdichtet, die weiteren liefern Entwürfe und
-Blindbewertung.
+Für den Rats-Modus (siehe `rats-modus.md`) tagen je Anlass diese Personas. Der
+Vorsitz entscheidet und verdichtet, die Beiträger liefern die Erstbeiträge. Recht
+und Compliance ist kein Ranking-Mitglied, sondern prüft als Veto- und
+Auflagen-Instanz. Der Council-Typ bestimmt, ob in Stufe 4 gerankt (Auswahl) oder
+zusammengeführt (Bau) wird.
 
-| Anlass | Vorsitz | Weitere Personas |
-| --- | --- | --- |
-| Positionierung (Gate 1, P2) | Stratege / Berater | Analyst, Recht / Compliance |
-| Krisenreaktion | Krisen-Manager | Recht / Compliance, Community-Manager |
-| Kampagne / Claim (P3) | Copywriter | Creative / Visual, Stratege / Berater |
-| Employer Branding / Corporate Influencing | Stratege / Berater | Corporate Influencing / Employee Advocacy, Recht / Compliance |
+| Anlass | Typ | Beiträger | Vorsitz | Recht |
+| --- | --- | --- | --- | --- |
+| Claim / Kampagne (P3) | Auswahl | Copywriter, Creative / Visual (optional Plattform-Adaption) | Stratege / Berater, ohne eigenen Entwurf | Veto / Auflage |
+| Positionierung (Gate 1, P2) | Bau | Stratege / Berater, Analyst (optional Wettbewerbs-Analyst) | neutrale Stimme außerhalb der Personas | Veto / Auflage |
+| Krisenreaktion | Bau, verkürzt | Krisen-Manager, Community-Manager | neutrale Stimme außerhalb der Personas | Veto / Auflage, zwingend |
+| Employer Branding / Corporate Influencing | Bau | Stratege / Berater, Corporate Influencing / Employee Advocacy | neutrale Stimme außerhalb der Personas | Veto / Auflage |
 
-Drei Personas sind das Minimum, vier das Maximum. Bei stark plattformgebundenen
-Kampagnen kann Plattform-Adaption ergänzt werden. Stehen weniger als drei
-sinnvolle Personas zur Verfügung, läuft kein Rat, sondern ehrliche Degradierung.
+Zwei Beiträger plus Vorsitz sind das Minimum, drei Beiträger plus Vorsitz das
+Maximum. Bei stark plattformgebundenen Kampagnen kann Plattform-Adaption als
+weiterer Beiträger ergänzt werden. Stehen weniger Personas zur Verfügung, läuft
+kein Rat, sondern ehrliche Degradierung.
 
 ## Pflegehinweis
 Wird ein Modul ergänzt oder ein fehlendes gebaut, hier den Status pflegen und den

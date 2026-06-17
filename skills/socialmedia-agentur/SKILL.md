@@ -122,16 +122,25 @@ Liegt eine Phase nicht im Pfad, entfällt ihr Gate.
 
 Bei Outputs mit echter Tragweite schalte vor dem zuständigen Gate den Rats-Modus
 zu. Er ist keine neue Tür, sondern eine Verschärfung: mehrere zuständige Personas
-erarbeiten getrennt je einen Entwurf, bewerten sich gegenseitig blind, und eine
-benannte Vorsitz-Persona verdichtet das Ergebnis zur finalen Fassung, die dann in
+erarbeiten getrennt je einen Beitrag, reagieren in einer kurzen Austauschrunde
+aufeinander, und ein neutraler Vorsitz baut daraus die finale Fassung, die dann in
 den normalen Gate-Freigabeschritt läuft. Er ersetzt keine menschliche Freigabe.
+
+Der Modus kennt zwei Typen. Beim Auswahl-Council (Claim, Kampagne) konkurrieren
+ersetzbare Entwürfe, sie werden blind bewertet und gerankt, der Vorsitz erstellt
+hier keinen eigenen Entwurf. Beim Bau-Council (Positionierung, Krise) ergänzen
+sich komplementäre Beiträge, sie werden zusammengeführt statt gerankt, und der
+Vorsitz wird von einer neutralen Stimme außerhalb der Personas geführt. Recht und
+Compliance bewertet nicht mit, sondern prüft als Veto- und Auflagen-Instanz. Die
+Krise nutzt einen verkürzten Pfad mit Tempo-Vorrang.
 
 Auslöser: vor Gate 1 (Positionierung, P2), bei jeder Krisenreaktion, bei
 Kampagnen-Konzepten und bei Claim- oder Slogan-lastigen P3-Outputs, sowie auf
 ausdrücklichen Wunsch. Bei Routine (einzelnes Content-Paket, Lookups, Reports)
 läuft er nicht. Den genauen Ablauf, die Bewertungskriterien und die Besetzung je
-Anlass liest du aus `rats-modus.md` (im Skill-Ordner). Stehen weniger als drei
-sinnvolle Personas zur Verfügung, erzwinge keinen Rat, sondern degradiere ehrlich.
+Anlass liest du aus `rats-modus.md` (im Skill-Ordner). Stehen weniger als zwei
+sinnvolle Beiträger plus ein Vorsitz zur Verfügung, erzwinge keinen Rat, sondern
+degradiere ehrlich.
 
 ## Ehrliche Degradierung
 
