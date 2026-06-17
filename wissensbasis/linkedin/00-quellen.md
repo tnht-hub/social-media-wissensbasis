@@ -8,6 +8,7 @@ diese Quellen verwendet werden, keine offene Websuche.
 - https://emplifi.io/resources/social-media-updates/
 - https://onlinemarketing.de/social-media-marketing
 - https://buffer.com/resources/data/
+- https://www.zoomsphere.com/blog
 
 ## LinkedIn-spezifisch
 - https://www.heyorca.com/blog/linkedin-social-news
