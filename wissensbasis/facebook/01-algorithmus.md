@@ -1,4 +1,4 @@
-# Facebook Algorithmus — IST-Zustand Mai 2026
+# Facebook Algorithmus — IST-Zustand Juni 2026
 
 ---
 
@@ -83,6 +83,9 @@ Um in den Feeds von Nicht-Followern aufzutauchen, muss Content striktere **Recom
 ---
 
 ## KI-Updates im Algorithmus (2026)
+
+### Juni 2026 (Meta-Update)
+- Off-Site-Aktivität als Personalisierungssignal: Meta nutzt seit Juni 2026 Daten zu Webseiten, die Nutzer außerhalb der Plattform besuchen, um das Feed-Ranking und die Antworten der KI zu personalisieren. Verhalten außerhalb von Facebook fließt damit direkt in die Predictions ein. (Quelle: socialmediatoday.com, 9. Juni 2026)
 
 ### April 2026 (Meta-Update)
 - AI-generierte Werbeanzeigen-Optionen für Advertiser

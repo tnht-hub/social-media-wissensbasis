@@ -1,4 +1,4 @@
-# LinkedIn Features — IST-Zustand Mai 2026
+# LinkedIn Features — IST-Zustand Juni 2026
 
 Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entfernt.
 
@@ -88,6 +88,7 @@ Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entf
 | Sponsored Articles | Aktiv | Seit Januar 2024 |
 | Dynamic UTMs | Aktiv | Automatische UTM-Parameter für Kampagnen |
 | AI-Agentenmarktplatz | Angekündigt | "AI-Labor Marketplace" angekündigt April 2026 |
+| Creator Marketplace (LinkedIn) | Aktiv (US/CA) | Seit Juni 2026; Marken finden relevante Branchen-Creator, fördert B2B-Influencer-Marketing |
 
 ### Premium-Features
 

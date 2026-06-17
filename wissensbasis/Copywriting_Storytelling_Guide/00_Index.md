@@ -1,6 +1,6 @@
 # Guideline: Copywriting & Storytelling für Marken
 
-**Stand:** Mai 2026
+**Stand:** Juni 2026
 **Scope:** Neutral, plattformübergreifend (Social Media-Fokus mit Brücken zu Web)
 **Zielanwender:innen:** Marketing-Teams, Agenturen, Content-Creator, Brand-Verantwortliche
 
@@ -59,6 +59,12 @@ Donald Miller (StoryBrand) macht den Punkt explizit: AIDA ist klassisch, aber em
 
 **6. Ein Gedanke pro Einheit.**
 Eine Caption, ein Hook, eine Slide — jeweils ein Hauptgedanke. Zwei Argumente in einer Zeile verwässern beide.
+
+---
+
+### Aktueller Beleg: Authentizität schlägt Hochglanz (TikTok Next 2026)
+
+Der TikTok-Trend-Report 2026 ("Irreplaceable Instinct", veröffentlicht Januar 2026) stützt die Prinzipien 3 und 5: Das Publikum bevorzugt ehrliche, ungeschönte Kommunikation gegenüber polierter Inszenierung (Signal "Reali-Tea") und vertraut glaubwürdigen Tastemakern mehr als reichweitenstarken Influencern. Für Copy heißt das: konkrete, echte Belege und eine klare Haltung wirken stärker als generische Hochglanz-Claims. Quelle: TikTok Next 2026 (ads.tiktok.com/business), bestätigt durch Tubefilter, 14. Januar 2026.
 
 ---
 

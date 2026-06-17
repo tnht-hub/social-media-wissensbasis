@@ -13,7 +13,7 @@
 | Carousels (bis 20 Slides) | Aktiv | Bilder + Videos kombinierbar; Musik möglich |
 | 4:5 Grid-Layout | Aktiv | Standardlayout seit Januar 2025 |
 | 3:4 Foto-Support | Aktiv | Kamera-Standard-Format (seit Mai 2025) |
-| Grid-Reihenfolge anpassen | In Rollout | Tool zum Neuordnen des Profilgrids (Mai 2026) |
+| Grid-Reihenfolge anpassen | Aktiv | Für alle Nutzer ausgerollt (Juni 2026); Tool zum Neuordnen des Profilgrids |
 | Profil-Banner anpassen | Aktiv | Schneller Banner-Wechsel ohne "Bearbeiten" (April 2026) |
 | Thumbnail nach dem Posten bearbeiten | Aktiv | Jederzeit änderbar (März 2026) |
 | Kommentare bearbeiten | Aktiv | Bis 15 Minuten nach Posting (März 2026) |
@@ -58,6 +58,7 @@
 | Reels-Tab | Aktiv | Dedizierter Video-Feed |
 | "Your Algorithm"-Kontrolle (Reels) | Aktiv (global EN) | Januar 2026 |
 | "Your Algorithm" für Explore | Aktiv | April 2026 |
+| "Your Algorithm" für Haupt-Feed | Aktiv | Juni 2026 |
 | Google Search für Posts | Aktiv | Seit Juli 2025 indexiert Instagram-Posts |
 | Instagram Maps | Aktiv | Location-basierte Content-Entdeckung (EU seit Oktober 2025) |
 | Sorting für Reels im Profil | In Test | "Neueste" oder "Meistgesehen" (November 2025) |
@@ -100,7 +101,7 @@
 | Feature | Status | Details |
 |---|---|---|
 | Subscription-basierte Short Dramas | In Test | Episodic-Content gegen Bezahlung |
-| Instagram Plus Subscription | In Test | Mehrere Story-Audiences, extended Expiry, Rewatch Insights |
+| Instagram Plus Subscription | In Test | Add-on-Abo, 3,99 USD/Monat (Angebot skizziert Juni 2026); u.a. Super Hearts und Story Spotlights; zuvor getestet: mehrere Story-Audiences, extended Expiry, Rewatch Insights |
 | Creator Marketplace Ads | Aktiv | Marken finden Creator für gesponserte Posts |
 | Close Friends Live | Aktiv | Exklusiv-Streams für engste Community |
 | Anonym Stories ansehen (bezahlt) | In Test | Nutzer zahlen für anonymes Story-Anschauen |

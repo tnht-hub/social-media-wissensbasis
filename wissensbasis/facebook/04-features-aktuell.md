@@ -16,6 +16,7 @@
 | Friends Tab | Aktiv | Wiederhergestellt April 2025; zeigt nur Inhalte von Freunden, keine Empfehlungen |
 | Community Notes | Aktiv | Seit Januar 2025; ersetzt Drittanbieter-Faktenchecks |
 | Community Notes Up/Down Votes | Aktiv | Seit September 2025 |
+| KI-Suche mit Zugriff auf öffentliche Kommentare | Aktiv | Seit Juni 2026; KI-gestützte Suche kann öffentliche Kommentare einbeziehen |
 
 ### Content & Erstellung
 
@@ -37,6 +38,7 @@
 | Bulk Reels Upload | Aktiv | Seit Mai 18, 2026; mehrere Reels gleichzeitig hochladen |
 | Series (verbundene Reels) | In Test | Seit Juni 2026; Link-Shortcuts und Sammlungen im Creator-Profil (gemeinsam mit Instagram) |
 | Parody/Fan Account Labels | Aktiv | Transparenz-Label |
+| Neue KI-Foto- und Video-Editing-Tools | Aktiv | Seit Juni 2026 |
 
 ### Profil & Identität
 

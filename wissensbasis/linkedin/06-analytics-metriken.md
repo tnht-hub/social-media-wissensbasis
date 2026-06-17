@@ -1,4 +1,4 @@
-# LinkedIn Analytics & Metriken — IST-Zustand Mai 2026
+# LinkedIn Analytics & Metriken — IST-Zustand Juni 2026
 
 ---
 
@@ -19,6 +19,7 @@
 | Profilaufrufe durch Post | Mai 2025 | Wie viele Profilbesuche durch diesen Post entstanden |
 | Neue Follower durch Post | Mai 2025 | Wie viele neue Follower dieser Post gebracht hat |
 | Kommentar-Impressionen | Februar 2025 | Impressionen auf eigene Kommentare in fremden Posts |
+| In-Network / Out-of-Network Reichweite | Juni 2026 | Aufschlüsselung, welcher Anteil der Viewer aus dem eigenen Netzwerk bzw. von außerhalb stammt |
 
 ### Newsletter-Ebene
 

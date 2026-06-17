@@ -61,6 +61,7 @@ Nutzer können seit Januar 2026 (alle englischsprachigen User global) ihren Reel
 - Themen hinzufügen oder entfernen
 - Direkt in den "Your Algorithm"-Einstellungen
 - April 2026: Erweiterung auf Explore-Tab
+- Juni 2026: Erweiterung auf den Haupt-Feed (Main Feed); Nutzer können auch dort Themen festlegen, die sie häufiger oder seltener sehen wollen (Quelle: socialmediatoday.com, 10. Juni 2026)
 
 ---
 

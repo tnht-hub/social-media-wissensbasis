@@ -69,6 +69,22 @@ Nicht jedes Thema, das ihr seht, ist noch ein Fenster. Achtet auf die Phase:
 
 ---
 
+## Aktueller Makro-Trend: Irreplaceable Instinct (TikTok Next 2026)
+
+TikTok hat im Januar 2026 seinen jährlichen Trend-Report unter dem Leitthema "Irreplaceable Instinct" veröffentlicht. Der Befund ist plattformübergreifend relevant, weil er die Erwartungshaltung des Publikums beschreibt: weg vom passiven Scrollen, hin zu bewusster, intentionaler Nutzung. Das verändert, welche aktuellen Themen überhaupt noch Wirkung entfalten.
+
+Drei Trend-Signale:
+
+- Reali-Tea: Authentizität schlägt Inszenierung. Ungeschönte Einblicke und echte Menschen wirken stärker als hochpolierter Content. Ausklingende Hashtags laut TikTok: #delulu, #romanticizing, #digitalescapism.
+- Curiosity Detours: Neugier wird zur Währung. Nutzer steigen über Suche und Kommentare in unerwartete Themenreisen ein, in denen Marken mit echter Relevanz auftauchen können.
+- Emotional ROI: Intention schlägt Impuls. Kaufentscheidungen brauchen ein klares Warum, gestützt auf ehrliche Community-Bewertungen (Evidence Economy) und glaubwürdige Tastemaker statt reichweitenstarker Influencer.
+
+Konsequenz für die Themen-Auswahl: Ein aktuelles Thema trägt 2026 nur, wenn der Beitrag echten Mehrwert oder ehrliche Haltung zeigt. Reine Anwesenheit auf einer Trend-Welle wirkt schwächer als zuvor.
+
+Quelle (Primärquelle, doppelt verifiziert): TikTok Next 2026, ads.tiktok.com/business, sowie Tubefilter vom 14. Januar 2026. Konkrete Einzelzahlen (etwa Nutzungsdauer oder Suchnutzungs-Anteile) sind über die Primärseite nicht belegt und hier bewusst weggelassen.
+
+---
+
 ## Trend-Hetze vermeiden
 
 Die größte Gefahr bei der Themen-Erkennung ist nicht, etwas zu verpassen, sondern alles mitnehmen zu wollen. Über-Teilnahme führt zu gehetzter, schwacher Umsetzung und zu Trend-Müdigkeit beim Publikum, das gegenüber Marken abstumpft, die von einem Moment zum nächsten springen.
