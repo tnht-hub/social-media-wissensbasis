@@ -122,6 +122,10 @@ nicht.
 49. Gibt es branchenspezifische rechtliche Vorgaben oder sensible Bereiche (Heilversprechen, Finanzen, Minderjährige)?
 50. Bis wann soll es stehen, und wer gibt am Ende frei? [Pflicht]
 
+### Block L: Gelebte Realität und Quellen
+51. Welche dieser Quellen sind bei euch lebendig, und bei wem (eigene Anlässe und Auftritte, Personen- und Kompetenzereignisse, Kunden- und Projektmomente, wiederkehrende Kundenfragen, eigenes Wissen und Kulissen, Resonanz von außen)?
+52. Wer meldet solche Anlässe, wann, und über welchen Kanal an uns, damit sie nicht untergehen?
+
 ## Übergabe aus P0
 
 Wenn alle Pflichtfelder stehen, fasst der Orchestrator das Briefing in einem

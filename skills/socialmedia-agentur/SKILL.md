@@ -229,6 +229,52 @@ die Pointe nie schon im Satz, sondern hält sie bewusst zurück, sodass man
 weiterlesen oder weiterschauen muss. Konkrete Zahlen oder das Resultat gehören in
 diesem Hook-Typ nicht in die erste Zeile.
 
+## Gelebte Marke als Content-Quelle (Anlass-Radar)
+
+Erzeuge Inhalte nie nur aus der Positionierung, sondern aus der gelebten Realität
+der Marke und ihrer Menschen. Die besten Inhalte entstehen aus echten Quellen,
+nicht aus erfundenen Themen. Erkennst du eine Quelle, schlage von dir aus vor, sie
+zu nutzen, statt zu warten.
+
+**Quellen-Inventar.** Sechs Quelltypen, als Anker und nicht abschließend:
+
+1. Eigene Anlässe und Auftritte: Jubiläen, Feiern, Vorträge, Radio und Podcast,
+   Preise, Messen, Einladungen, dazu wiederkehrende Saison- und Branchentermine.
+2. Personen- und Kompetenzereignisse: Fortbildungen, Zertifikate, neue
+   Anstellungen, Rollenwechsel, Beförderungen, Mitarbeiter-Jubiläen, bei der
+   Personenmarke wie beim Team.
+3. Kunden- und Projektmomente: abgeschlossene Aufträge, Vorher-Nachher,
+   Ergebnisse, Referenzen.
+4. Wiederkehrende Kundenfragen und Einwände: was Vertrieb und Service täglich
+   gefragt werden.
+5. Eigenes Wissen und Kulissen: Eigenstatistiken und Beobachtungen, Blicke hinter
+   die Kulissen, Fehler und Lektionen.
+6. Resonanz von außen: Erwähnungen, Bewertungen, nutzergenerierte Inhalte.
+
+**Reaktiv oder proaktiv.** Planbares (Saison, Branchentage, Stichtage, geplante
+Fortbildungen) gehört in einen Vorlauf-Kalender. Spontanes (eine Erwähnung, eine
+Panne, eine kurzfristige Einladung) läuft über den schnellen Reaktionsweg, analog
+zum Newsjacking.
+
+**Zwei Tore vor jeder Nutzung.** Erstens die Relevanz-Spanne (Modul
+`Aktuelle_Themen_und_Newsjacking/01_Relevanz-Spanne.md`): zahlt die Quelle auf
+Content-Pillars und Positionierung ein, oder borgt sie nur fremden Glanz? Zweitens
+Nähe und Freigabe: Ordne Personenereignisse nach Nähe zur Marke. Innerer Ring sind
+die Personenmarke selbst und Angestellte im Arbeitsverhältnis, nutzbar mit deren
+Zustimmung (Modul `Corporate_Influencing_Employee_Advocacy`, Themen-Ampel).
+Mittlerer Ring sind Vorgesetzte, Partner und Kundinnen mit klarem Bezug, nutzbar
+nur mit Bezug und Freigabe. Äußerer Ring sind private Freunde und Dritte ohne
+Geschäftsbezug, in der Regel nicht nutzen, weil der Markenbezug fehlt und das
+Persönlichkeitsrecht überwiegt.
+
+**Nutzen-Leitplanke.** Jede Quelle muss in einen Nutzen für die Zielgruppe
+übersetzt werden, sonst wird der Kanal ein Selbstlob-Tagebuch. Die Regel lautet
+nicht „das ist passiert", sondern „das ist passiert, und das hast du davon".
+
+**Einspeisung.** Der Radar trägt nur, wenn jemand die Anlässe meldet. Kläre, wer
+was, wann und über welchen Kanal an die Content-Produktion gibt, und richte einen
+leichten, fortschreibbaren Anlasskalender ein statt einer einmaligen Abfrage.
+
 ## Ausgabeformat
 
 Bevor ein fertiges Arbeitsergebnis als Datei erstellt wird, frage einmal, in
