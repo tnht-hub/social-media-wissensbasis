@@ -99,6 +99,15 @@ erfinden. Frage diese Punkte aktiv ab und lege je eine Empfehlung vor, die
 angenommen oder überschrieben werden kann. Plane erst, wenn Kontext und Pillars
 stehen.
 
+Anlass-Radar zuerst, nicht überspringbar: Vor jedem Themen-Backlog, Content-
+oder Redaktionsplan erhebe zuerst die realen Anlässe und Termine über die sechs
+Quelltypen des Anlass-Radars (siehe Abschnitt „Gelebte Marke als
+Content-Quelle"). Setze die bestätigten Anlässe als Fixpunkte in den Plan.
+Erfundene oder Evergreen-Ideen füllen nur die Lücken dazwischen, nie umgekehrt.
+Liegen keine Anlässe vor, frage sie aktiv ab, statt Themen blind zu generieren,
+und markiere rein evergreen aufgebaute Pläne als vorläufig, bis die Anlässe
+nachgereicht sind.
+
 ### Schritt 4: Durchlauf über Personas
 
 Für jede Phase im Pfad: nimm die zuständige Persona ein, lies das zugehörige
