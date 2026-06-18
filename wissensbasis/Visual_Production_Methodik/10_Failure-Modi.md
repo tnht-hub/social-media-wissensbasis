@@ -46,7 +46,7 @@ Aus den Quellen und aus Erfahrung extrahiert. Diese Säule dokumentiert die häu
 
 ### Fehler 3: Charakter-Inkonsistenz
 
-**Symptom:** Dieselbe „Aylin" sieht in Cut 1, 3 und 5 anders aus.
+**Symptom:** Derselbe Charakter sieht in Cut 1, 3 und 5 anders aus.
 
 **Ursache:** Reference-Image nicht genutzt, kein Character LoRA, kein Master-Prompt.
 

@@ -167,7 +167,7 @@ Sec-by-Sec-Tabelle:
 | ... | ... | ... | ... | ... |
 ```
 
-Vorbild: Die Reel-Storyboards aus dem MU-Kontext (Aylin-Reel, mit Cut-by-Cut-Tabelle).
+Vorbild: ein Reel-Storyboard mit Cut-by-Cut-Tabelle, also Sekunde für Sekunde durchgeplant.
 
 ### Storyboard-Skizzen
 
@@ -232,8 +232,8 @@ Während der Produktion wird die Liste zum **Tracker**:
 | Asset | Status | Tool | Verantwortlich | Deadline |
 |---|---|---|---|---|
 | Cover-Bild | Draft 2 | Midjourney V7 | Designer A | 30. Mai |
-| Reel Cut 1 | Done | Smartphone+Premiere | Tony | 28. Mai |
-| Reel Cut 2 | Generated | Veo 3.1 | Lisa | 31. Mai |
+| Reel Cut 1 | Done | Smartphone+Premiere | Cutter A | 28. Mai |
+| Reel Cut 2 | Generated | Veo 3.1 | Cutter B | 31. Mai |
 ```
 
 ---

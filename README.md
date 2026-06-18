@@ -1,6 +1,6 @@
-# Social-Media-Wissensbasis (B&B)
+# Social-Media-Wissensbasis
 
-Dieses Repository bündelt zwei Dinge an einem Ort: die gepflegte Social-Media-Wissensbasis von B&B und den Orchestrator-Skill `socialmedia-agentur`, der darauf zugreift. Es ist zugleich ein installierbares Plugin und die zentrale Datenquelle.
+Dieses Repository bündelt zwei Dinge an einem Ort: die gepflegte Social-Media-Wissensbasis und den Orchestrator-Skill `socialmedia-agentur`, der darauf zugreift. Es ist zugleich ein installierbares Plugin und die zentrale Datenquelle.
 
 Der Grundgedanke: Eine Person pflegt die Inhalte in diesem Repository, alle anderen installieren einmal das Plugin und greifen über den Skill zu. Inhaltsänderungen stehen sofort allen zur Verfügung, ohne dass jemand etwas neu installieren muss. So entfällt das Problem lokal veralteter Kopien.
 
@@ -88,4 +88,4 @@ Besonders zu beobachten sind Plattform-Algorithmen, Features und rechtliche Anga
 
 ## Hinweise
 
-Das Repository enthält bewusst keine Mandanten- oder internen B&B-Daten. Die zuvor eingebetteten Wettbewerbs- und Kundenbezüge wurden anonymisiert, die Originale liegen getrennt im internen B&B-Ordner. Vor jeder Veröffentlichung neuer Module ist zu prüfen, dass kein vertrauliches Material in die öffentliche Wissensbasis gelangt.
+Das Repository enthält bewusst keine Mandanten- oder internen Daten. Die zuvor eingebetteten Wettbewerbs- und Kundenbezüge wurden anonymisiert, die Originale liegen getrennt in einem internen Ordner. Vor jeder Veröffentlichung neuer Module ist zu prüfen, dass kein vertrauliches Material in die öffentliche Wissensbasis gelangt.

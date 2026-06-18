@@ -90,9 +90,9 @@ Konsistente Naming-Conventions sind das wichtigste Asset-Management-Tool. Ohne s
 [Datum]_[Brand]_[Projekt]_[Asset-Typ]_[Beschreibung]_[Version].[ext]
 
 Beispiele:
-2026-05-29_BrandX_KampagneA_Reel_Aylin-Cut3_v04.mp4
+2026-05-29_BrandX_KampagneA_Reel_CharakterA-Cut3_v04.mp4
 2026-05-29_BrandX_KampagneA_KI-Image_Cover-Hero_v02.png
-2026-05-29_BrandX_KampagneA_LoRA_Aylin-Character_v01.safetensors
+2026-05-29_BrandX_KampagneA_LoRA_CharakterA_v01.safetensors
 ```
 
 ### Naming-Regeln
@@ -111,7 +111,7 @@ Beispiele:
 | Fehler | Beispiel | Korrektur |
 |---|---|---|
 | **„Final" im Namen** | `Reel-FINAL.mp4` | Version-Nummer: `v04` |
-| **Leerzeichen** | `Reel Aylin v3.mp4` | Underscore: `Reel_Aylin_v03.mp4` |
+| **Leerzeichen** | `Reel CharakterA v3.mp4` | Underscore: `Reel_CharakterA_v03.mp4` |
 | **Inkonsistent** | Manchmal `2026-05-29`, manchmal `29.05.2026` | Immer YYYY-MM-DD |
 | **Unverständlich** | `IMG_4837.jpg` | Beschreibend: `2026-05-29_Brand_Cover-Hero_v01.jpg` |
 | **Versionen überschreiben** | Datei wird einfach überschrieben | Jede Iteration neue Version |

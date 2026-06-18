@@ -1,11 +1,10 @@
 {
   "name": "social-media-wissensbasis",
   "version": "1.5.1",
-  "description": "Social-Media-Agentur-Orchestrator von B&B mit zentral auf GitHub gepflegter Wissensbasis. Ein Eingang fuer Wissensfragen und komplette Agentur-Workflows.",
+  "description": "Social-Media-Agentur-Orchestrator mit zentral auf GitHub gepflegter Wissensbasis. Ein Eingang fuer Wissensfragen und komplette Agentur-Workflows.",
   "author": {
-    "name": "B&B - Sinn fuer Marken"
+    "name": "__AUTOR__"
   },
-  "homepage": "https://bundb.de",
   "keywords": [
     "social-media",
     "marken",
