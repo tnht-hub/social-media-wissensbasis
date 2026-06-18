@@ -104,7 +104,8 @@ stehen.
 Für jede Phase im Pfad: nimm die zuständige Persona ein, lies das zugehörige
 Modul aus der Wissensbasis, erzeuge den Phasen-Output und übergib an die nächste
 Phase. Die Zuordnung von Persona zu Modul und Pfad steht in
-`persona-modul-karte.md`. Lies diese Datei zu Beginn jedes Workflows.
+`persona-modul-karte.md`, die du über `RAW_SKILL_URL` lädst. Lies diese Datei zu
+Beginn jedes Workflows.
 
 ### Schritt 5: Gates einhalten
 
@@ -138,7 +139,7 @@ Auslöser: vor Gate 1 (Positionierung, P2), bei jeder Krisenreaktion, bei
 Kampagnen-Konzepten und bei Claim- oder Slogan-lastigen P3-Outputs, sowie auf
 ausdrücklichen Wunsch. Bei Routine (einzelnes Content-Paket, Lookups, Reports)
 läuft er nicht. Den genauen Ablauf, die Bewertungskriterien und die Besetzung je
-Anlass liest du aus `rats-modus.md` (im Skill-Ordner). Stehen weniger als zwei
+Anlass liest du aus `rats-modus.md`, das du über `RAW_SKILL_URL` lädst. Stehen weniger als zwei
 sinnvolle Beiträger plus ein Vorsitz zur Verfügung, erzwinge keinen Rat, sondern
 degradiere ehrlich.
 
@@ -153,7 +154,8 @@ klar, wo das System trägt und wo nicht.
 
 ## Phasen-Definitionen
 
-- P0 Briefing: Nutze den Fragebogen `briefing-fragebogen.md` (im Skill-Ordner).
+- P0 Briefing: Nutze den Fragebogen `briefing-fragebogen.md`, den du über
+  `RAW_SKILL_URL` lädst.
   Er enthält die sieben Pflichtfelder samt P0-Gate, die Frageblöcke und den
   Modus-Hinweis (geführt gegen Experte). Gehe nicht weiter, solange Pflichtfelder
   fehlen. Frage lieber nach, als anzunehmen. Existiert ein Brand-Brief, importiere
@@ -189,15 +191,25 @@ des Repos einmal ersetzt werden:
 
 `RAW_BASIS_URL = https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/wissensbasis/`
 
+Die drei skill-eigenen Dateien (`persona-modul-karte.md`, `briefing-fragebogen.md`
+und `rats-modus.md`) werden NICHT lokal mit dem Skill ausgeliefert. Der
+Verteilweg liefert nur diese SKILL.md aus. Die drei Dateien liegen im selben Repo
+unter einer zweiten Basis-Adresse und werden von dort frisch geladen:
+
+`RAW_SKILL_URL = https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/skills/socialmedia-agentur/`
+
 So arbeitest du mit der Wissensbasis:
 
 1. Lade zu Beginn jeder Wissensfrage und jedes Workflows die Datei `index.json`
    von der Basis-Adresse (also `RAW_BASIS_URL` + `index.json`). Der Index listet
    alle Module mit relativem Pfad (Feld `datei`), Titel und Stand. Er ist klein
    und schnell geladen.
-2. Die Dateien `persona-modul-karte.md` und `briefing-fragebogen.md` liegen im
-   Skill-Ordner und sind lokal verfügbar. Lies die Modul-Karte zu Beginn jedes
-   Workflows als Wegweiser auf die Module.
+2. Die skill-eigenen Dateien `persona-modul-karte.md`, `briefing-fragebogen.md`
+   und `rats-modus.md` holst du frisch über `RAW_SKILL_URL` plus Dateiname
+   (Beispiel: `RAW_SKILL_URL` + `persona-modul-karte.md`). Verlasse dich nicht
+   darauf, dass sie lokal vorliegen. Lies die Modul-Karte zu Beginn jedes
+   Workflows als Wegweiser auf die Module. Schlägt ein Abruf fehl, sage das offen
+   und nenne die betroffene Adresse, statt aus dem Gedächtnis zu antworten.
 3. Brauchst du ein Modul, hole es frisch über die Basis-Adresse plus den
    `datei`-Pfad aus dem Index (Beispiel: `RAW_BASIS_URL` +
    `Copywriting_Storytelling_Guide/01_Voice_und_Tone.md`). Lade nur die

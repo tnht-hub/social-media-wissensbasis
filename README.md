@@ -21,7 +21,7 @@ social-media-wissensbasis/
 └── README.md
 ```
 
-Die Logik (Skill) wird mit dem Plugin verteilt. Die Daten (Module) werden zur Laufzeit über die Roh-Adresse von GitHub gelesen.
+Mit dem Plugin wird zuverlässig nur die `SKILL.md` des Orchestrators verteilt. Alles andere wird zur Laufzeit über die Roh-Adresse von GitHub gelesen: die Module unter `wissensbasis/` und seit Version 1.5.1 auch die drei skill-internen Dateien `persona-modul-karte.md`, `briefing-fragebogen.md` und `rats-modus.md`. Hintergrund: Der Org-Plugin-Upload liefert pro Skill nur die `SKILL.md` aus und lässt die übrigen Dateien im Skill-Ordner fallen, deshalb werden sie aus dem Repo nachgeladen.
 
 ## Einmalige Einrichtung
 
@@ -42,27 +42,31 @@ git remote add origin https://github.com/tnht-hub/social-media-wissensbasis.git
 git push -u origin main
 ```
 
-### 3. Basis-Adresse
+### 3. Basis-Adressen
 
-Die Basis-Adresse ist bereits fest eingetragen auf:
-`https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/wissensbasis/`
+Es sind zwei feste Roh-Adressen eingetragen:
 
-Sie steht in `wissensbasis/index.json` (Feld `basis_url`) und in `skills/socialmedia-agentur/SKILL.md`. Bei einem späteren Repo-Umzug an diesen beiden Stellen anpassen.
+- Module: `https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/wissensbasis/` (in `wissensbasis/index.json` im Feld `basis_url` und in der `SKILL.md` als `RAW_BASIS_URL`)
+- Skill-interne Dateien: `https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/skills/socialmedia-agentur/` (in der `SKILL.md` als `RAW_SKILL_URL`)
+
+Wichtig: Der Skill funktioniert nur, solange dieses Repository öffentlich und unter dem Pfad `tnht-hub/social-media-wissensbasis`, Branch `main`, erreichbar bleibt. Wird das Repository umbenannt, der Eigentümer gewechselt, der Branch geändert oder das Repo auf privat gestellt, fehlen zur Laufzeit nicht nur die Module, sondern auch Briefing-Fragebogen, Persona-Karte und Rats-Modus, und der Skill degradiert ohne Vorwarnung. Bei einem solchen Umzug beide Adressen anpassen, also `RAW_BASIS_URL` und `RAW_SKILL_URL` in der `SKILL.md` sowie `basis_url` in `wissensbasis/index.json`, und das Plugin neu verteilen.
 
 ### 4. Plugin im Team hinzufügen
 
-Jede Person fügt einmalig den Marketplace hinzu und installiert das Plugin. In Claude Code oder Cowork:
+In Claude Code über die Marketplace-Befehle:
 
 ```
 /plugin marketplace add tnht-hub/social-media-wissensbasis
 /plugin install social-media-wissensbasis
 ```
 
-Ab dann steht der Skill `socialmedia-agentur` zur Verfügung und liest die Module zentral aus dem Repository.
+In Cowork gibt es diese Befehle nicht. Dort verteilt ein Owner das Plugin über Organization settings > Plugins per ZIP-Upload. Beim Bauen des ZIP den gesamten Repo-Inhalt einpacken, ohne `.git` und `.DS_Store`. Auch wenn das ZIP alle Dateien enthält, installiert dieser Weg pro Skill nur die `SKILL.md`. Die übrigen Skill-Dateien kommen deshalb zur Laufzeit über `RAW_SKILL_URL` aus dem Repo, siehe oben.
+
+Ab dann steht der Skill `socialmedia-agentur` zur Verfügung und liest Module und skill-interne Dateien zentral aus dem Repository.
 
 ## Laufende Pflege
 
-Die Pflege betrifft nur die Inhalte unter `wissensbasis/`. Logik und Manifeste bleiben in der Regel unberührt.
+Die laufende Pflege betrifft die Inhalte unter `wissensbasis/` sowie die drei skill-internen Dateien unter `skills/socialmedia-agentur/` (`persona-modul-karte.md`, `briefing-fragebogen.md`, `rats-modus.md`). Die `SKILL.md` und die Manifeste bleiben in der Regel unberührt.
 
 1. Das betreffende Modul unter `wissensbasis/` bearbeiten.
 2. Die `**Stand:**`-Angabe im Kopf des Moduls beziehungsweise der Index-/README-Datei des Moduls auf den neuen Monat setzen.
@@ -74,7 +78,9 @@ Die Pflege betrifft nur die Inhalte unter `wissensbasis/`. Logik und Manifeste b
 
 4. Änderungen committen und pushen. Über die Roh-Adresse stehen sie sofort allen zur Verfügung. Eine kurze CDN-Pufferung von wenigen Minuten ist normal.
 
-Ändert sich die Logik des Skills, die Versionsnummer in `.claude-plugin/plugin.json` erhöhen und das Team das Plugin aktualisieren lassen.
+Änderungen an den drei skill-internen Dateien wirken wie Modul-Änderungen sofort über die Roh-Adresse, ein erneuter Upload ist dafür nicht nötig, nur committen und pushen.
+
+Nur wenn sich die `SKILL.md` selbst ändert, muss das Plugin neu verteilt werden: Versionsnummer in `.claude-plugin/plugin.json` und `marketplace.json` erhöhen, neues ZIP hochladen, und das Team aktualisiert das Plugin und startet die App neu, damit die neue Fassung geladen wird.
 
 ## Schnell veraltende Teile
 
