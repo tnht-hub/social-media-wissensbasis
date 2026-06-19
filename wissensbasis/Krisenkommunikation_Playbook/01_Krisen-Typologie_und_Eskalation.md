@@ -1,4 +1,4 @@
-# Säule 1 — Krisen-Typologie & Eskalations-Bewertung
+# Säule 1: Krisen-Typologie & Eskalations-Bewertung
 
 Bevor du reagierst, musst du verstehen, was passiert. Ist das überhaupt eine Krise? Wenn ja, welcher Typ? Wie ernst?
 
@@ -6,7 +6,7 @@ Diese Säule liefert das Bewertungs-Raster.
 
 ---
 
-## Krise vs. Kritik vs. Welle — drei Stufen
+## Krise vs. Kritik vs. Welle: drei Stufen
 
 Nicht jede negative Erwähnung ist eine Krise. Drei klar getrennte Stufen:
 
@@ -23,11 +23,11 @@ Nicht jede negative Erwähnung ist eine Krise. Drei klar getrennte Stufen:
 3. **Stakeholder-Eskalation:** Presse / Behörden / Investor:innen / Großkund:innen werden involviert
 4. **Reputations-Risiko:** Die Marke kann nachhaltigen Schaden nehmen
 
-Wenn nur 1–2 Kriterien erfüllt sind: meistens Welle, kein Krisenstab nötig.
+Wenn nur 1 bis 2 Kriterien erfüllt sind: meistens Welle, kein Krisenstab nötig.
 
 ---
 
-## Coombs SCCT — die drei Krisen-Cluster
+## Coombs SCCT: die drei Krisen-Cluster
 
 Timothy Coombs (Situational Crisis Communication Theory, 2007) gruppiert Krisen nach **wahrgenommener Verantwortung der Organisation**. Das ist wichtig, weil die Reaktion sich danach richtet.
 
@@ -56,7 +56,7 @@ Etwas ist passiert, aber nicht durch Vorsatz.
 
 ### Cluster C: Preventable Cluster (hohe Verantwortung)
 
-Die Organisation hätte es verhindern können — durch Vorsatz, grobe Fahrlässigkeit oder bekannte Risiken, die ignoriert wurden.
+Die Organisation hätte es verhindern können, durch Vorsatz, grobe Fahrlässigkeit oder bekannte Risiken, die ignoriert wurden.
 
 **Beispiele:**
 - Bewusste Falschangaben (Dieselskandal-Logik)
@@ -74,9 +74,9 @@ Coombs deckt Klassiker ab, aber 2026 gibt es zusätzliche Krisen-Typen, die in k
 
 ### Typ 1: Werbe-/Kommunikations-Pannen
 
-Eine Werbung wirkt rassistisch / sexistisch / diskriminierend / geschmacklos. Aktuelles Beispiel: **Balenciaga Holiday Campaign 2022** — Werbe-Bilder mit Kindern und problematischen Requisiten lösten Welle aus.
+Eine Werbung wirkt rassistisch / sexistisch / diskriminierend / geschmacklos. Aktuelles Beispiel: **Balenciaga Holiday Campaign 2022**, Werbe-Bilder mit Kindern und problematischen Requisiten lösten Welle aus.
 
-**Charakteristik:** Selbst verschuldet (Cluster C), aber meistens ohne Vorsatz — Sensibilitäts-Lücke im Team.
+**Charakteristik:** Selbst verschuldet (Cluster C), aber meistens ohne Vorsatz, Sensibilitäts-Lücke im Team.
 
 ### Typ 2: Service-Pannen mit viraler Eskalation
 
@@ -114,7 +114,7 @@ Liquiditätsprobleme werden öffentlich. **Charakteristik:** Hohe regulatorische
 
 ### Typ 8: KI-/Algorithmus-Krise (neu 2024+)
 
-KI-Tools der Marke machen Fehler — diskriminierende Outputs, halluzinierte Aussagen, Bias in Vorhersagen.
+KI-Tools der Marke machen Fehler, diskriminierende Outputs, halluzinierte Aussagen, Bias in Vorhersagen.
 
 **Charakteristik:** Cluster B oder C. Neue Disziplin, weil bisherige Krisenkommunikations-Frameworks das nicht abdecken. Zunehmende Häufigkeit ab 2024.
 
@@ -159,7 +159,7 @@ Nach diesen 30 Minuten Bewertung:
 
 | Score | Reaktion |
 |---|---|
-| **0–2 von 4 Krisen-Kriterien erfüllt** | Community-Management, beobachten |
+| **0 bis 2 von 4 Krisen-Kriterien erfüllt** | Community-Management, beobachten |
 | **3 von 4 erfüllt** | Holding Statement vorbereiten, Krisenstab in Bereitschaft |
 | **4 von 4 erfüllt** | Vollständigen Krisenstab aktivieren, Playbook startet |
 | **Meldepflicht ausgelöst (z.B. DSGVO)** | Krisenstab + Rechts-Team SOFORT |

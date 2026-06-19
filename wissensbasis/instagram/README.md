@@ -2,7 +2,7 @@
 
 **Zuletzt aktualisiert:** Mai 2026  
 **Quellen:** HeyOrca, SocialBee, SocialMediaToday, Buffer, onlinemarketing.de  
-**Format:** IST-Zustand — kein Changelog, nur aktuelles Best-Practice-Wissen
+**Format:** IST-Zustand, kein Changelog, nur aktuelles Best-Practice-Wissen
 
 ---
 
@@ -28,7 +28,7 @@ Instagram ist primär eine **visuelle Unterhaltungs- und Discovery-Plattform** m
 - **Edits-App:** Instagrams Video-Editor hat in seinem ersten Jahr 130+ Features geliefert
 - **Original Content wird belohnt:** Aggregatoren und Reposter werden aus Empfehlungen ausgeschlossen (April 2026)
 - **Views sind die Leitwährung:** Views haben Likes/Follower als primäre Metrik abgelöst
-- **Trial Reels:** Game-Changer für organische Reichweite — 80% der Nutzer berichten mehr Nicht-Follower-Reach
+- **Trial Reels:** Game-Changer für organische Reichweite, 80% der Nutzer berichten mehr Nicht-Follower-Reach
 - **Hashtags funktionieren nicht mehr:** Offiziell von Mosseri bestätigt (Feb 2025), Limit auf 3 reduziert
 - **Instagram Instants:** Neue Standalone-App für rohe, unbearbeitete Fotos (global Mai 2026)
 - **AI überall:** AI-Creator-Labels, AI-Transitions, AI-Suche, AI-Inhaltstools

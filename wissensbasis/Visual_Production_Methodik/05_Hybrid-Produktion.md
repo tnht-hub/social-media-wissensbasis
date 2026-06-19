@@ -1,4 +1,4 @@
-# Säule 5 — Hybrid-Produktion: Echte Person + KI-Background
+# Säule 5: Hybrid-Produktion: Echte Person + KI-Background
 
 Die zuverlässigste Methode für 2026, wenn ihr Personen in der Marke zeigen wollt: **Echte Person live filmen, Hintergrund per KI ersetzen.**
 
@@ -18,7 +18,7 @@ Rein KI-generierte Personen-Videos haben 2026 noch erkennbare Schwächen:
 - **Hände** und feine Details oft fehlerhaft
 - **Charakter-Konsistenz** über mehrere Cuts riskant
 
-Das alles **fliegt bei Late-Gen-Z-Zielgruppen oft auf** — und macht die Marke unecht.
+Das alles **fliegt bei Late-Gen-Z-Zielgruppen oft auf**, und macht die Marke unecht.
 
 Reine Live-Produktion ohne KI-Hilfe hat andere Nachteile:
 - Setting (z.B. Offshore-Plattform, Nordsee) ist teuer/aufwendig
@@ -33,14 +33,14 @@ Reine Live-Produktion ohne KI-Hilfe hat andere Nachteile:
 
 | Schritt | Was passiert | Dauer (pro Reel/Spot) |
 |---|---|---|
-| **1. Pre-Production** | Storyboard + Shotlist + Background-Briefing | 1–2 Tage |
+| **1. Pre-Production** | Storyboard + Shotlist + Background-Briefing | 1 bis 2 Tage |
 | **2. Live-Aufnahme** | Person filmen vor Greenscreen oder einfachem Hintergrund | 0.5 Tage |
-| **3. Background-Generierung** | KI generiert passende Backgrounds | 0.5–1 Tag |
-| **4. Compositing** | Person und Background zusammenfügen | 0.5–1 Tag |
+| **3. Background-Generierung** | KI generiert passende Backgrounds | 0.5 bis 1 Tag |
+| **4. Compositing** | Person und Background zusammenfügen | 0.5 bis 1 Tag |
 | **5. Light-Matching & Color** | Lichtangleichung, Farb-Grading | 0.5 Tag |
 | **6. Final Edit + Audio** | Schnitt, Audio, Captions | 0.5 Tag |
 
-**Gesamt: 4–6 Tage pro Reel** bei mittlerer Komplexität.
+**Gesamt: 4 bis 6 Tage pro Reel** bei mittlerer Komplexität.
 
 ---
 
@@ -48,7 +48,7 @@ Reine Live-Produktion ohne KI-Hilfe hat andere Nachteile:
 
 ### Wichtigste Entscheidung VOR dem Dreh: Licht
 
-Lichtmatching ist **die häufigste Schwachstelle** im Compositing. Wenn die Person im Studio mit Frontallicht gefilmt wird, das KI-Background aber Seitenlicht von rechts zeigt — wirkt es sofort falsch.
+Lichtmatching ist **die häufigste Schwachstelle** im Compositing. Wenn die Person im Studio mit Frontallicht gefilmt wird, das KI-Background aber Seitenlicht von rechts zeigt, wirkt es sofort falsch.
 
 **Pre-Production-Pflicht:**
 1. KI-Background-Look festlegen (Licht-Richtung, -Farbe, -Härte)
@@ -66,7 +66,7 @@ Lichtmatching ist **die häufigste Schwachstelle** im Compositing. Wenn die Pers
 ## Bildausschnitt
 - Wie weit ist die Kamera von der Person entfernt (für Perspektive)?
 - Welcher Bildwinkel (weit / normal / nah)?
-- Vordergrund / Mitte / Hintergrund — was ist in welcher Tiefenebene?
+- Vordergrund / Mitte / Hintergrund, was ist in welcher Tiefenebene?
 
 ## Licht
 - Lichtrichtung: [z.B. seitlich von rechts]
@@ -137,10 +137,10 @@ Für Compositing-tauglichen Dreh:
 
 ### Wind, Bewegung, Atmosphäre
 
-KI kann den Hintergrund machen — aber **Wind im Haar, Bewegung der Kleidung, echte Mimik** sind live nötig:
+KI kann den Hintergrund machen, aber **Wind im Haar, Bewegung der Kleidung, echte Mimik** sind live nötig:
 
 - **Standventilator** für Haare/Kleidung (wichtig wenn Outdoor-Setting im Background)
-- **Person darf sich natürlich bewegen** — Compositing kommt damit klar
+- **Person darf sich natürlich bewegen**, Compositing kommt damit klar
 - **Vordergrund-Elemente live mitnehmen**, wenn möglich (Stahlrelief, Halme, etc.)
 
 ### Kamera-Setup
@@ -151,9 +151,9 @@ KI kann den Hintergrund machen — aber **Wind im Haar, Bewegung der Kleidung, e
 | **Framerate** | 60fps (Spielraum für Slow-Motion-Cuts) |
 | **Format** | LOG-Profil wenn möglich (mehr Color-Grading-Spielraum) |
 | **Verschluss** | 1/50 oder 1/60 (für natural motion blur) |
-| **Stabilisierung** | Stativ oder Gimbal — Handheld nur bewusst |
+| **Stabilisierung** | Stativ oder Gimbal, Handheld nur bewusst |
 
-**Smartphone reicht** für viele Anwendungen — moderne iPhones (15+) und Samsung Galaxy S24+ haben 4K/60fps + LOG-Optionen.
+**Smartphone reicht** für viele Anwendungen, moderne iPhones (15+) und Samsung Galaxy S24+ haben 4K/60fps + LOG-Optionen.
 
 ---
 
@@ -170,7 +170,7 @@ KI kann den Hintergrund machen — aber **Wind im Haar, Bewegung der Kleidung, e
 
 ### Prompt-Strategie
 
-Background-Prompts sollten **bewusst Person-frei** sein — damit die KI Vordergrund-Platz für die echte Person lässt:
+Background-Prompts sollten **bewusst Person-frei** sein, damit die KI Vordergrund-Platz für die echte Person lässt:
 
 **Schwach:**
 > „Eine Frau auf einer Offshore-Plattform"
@@ -179,15 +179,15 @@ Background-Prompts sollten **bewusst Person-frei** sein — damit die KI Vorderg
 > „Empty offshore wind farm platform, view from approximately 30 km offshore, soft side lighting from upper right, overcast sky, calm sea, very slight drone movement, cinematic color grade, leave foreground space empty for compositing"
 
 Wichtig:
-- **„Leave foreground space empty"** oder Equivalent — sonst füllt KI den Vordergrund mit Personen/Objekten
-- **Lichtbeschreibung explizit** — passend zum Live-Light-Setup
-- **Kamera-Bewegung explizit** — statisch oder leichte Bewegung; sonst kann es problematisch sein
+- **„Leave foreground space empty"** oder Equivalent, sonst füllt KI den Vordergrund mit Personen/Objekten
+- **Lichtbeschreibung explizit**, passend zum Live-Light-Setup
+- **Kamera-Bewegung explizit**, statisch oder leichte Bewegung; sonst kann es problematisch sein
 
 ### Längen-Strategie für Video
 
-KI-Video-Tools generieren oft nur 4–8 Sek pro Clip. Für längere Reels:
+KI-Video-Tools generieren oft nur 4 bis 8 Sek pro Clip. Für längere Reels:
 
-- Storyboard so planen, dass max. 4–8 Sek pro Background-Clip nötig sind
+- Storyboard so planen, dass max. 4 bis 8 Sek pro Background-Clip nötig sind
 - Cuts zwischen verschiedenen Backgrounds
 - Bei langsamen Szenen: 4 Sek Clip mit leichter Bewegung loopen
 
@@ -199,11 +199,11 @@ KI-Video-Tools generieren oft nur 4–8 Sek pro Clip. Für längere Reels:
 
 | Tool | Beste für | Preis |
 |---|---|---|
-| **DaVinci Resolve (Studio) — Magic Mask** | Profi-Standard für Greenscreen + AI-Masken | Einmalig $295 |
-| **Runway ML — Green Screen** | Sehr akkurat besonders bei komplexem Haar | Subscription |
+| **DaVinci Resolve (Studio), Magic Mask** | Profi-Standard für Greenscreen + AI-Masken | Einmalig $295 |
+| **Runway ML, Green Screen** | Sehr akkurat besonders bei komplexem Haar | Subscription |
 | **Beeble** | Spezialisiert auf AI-Video-Compositing | Subscription |
 | **Adobe Premiere + Roto Brush** | Wenn ihr eh Adobe nutzt | Creative Cloud |
-| **CapCut Pro — Background Removal** | Mobile/Schnell-Compositing | $8/mo |
+| **CapCut Pro, Background Removal** | Mobile/Schnell-Compositing | $8/mo |
 
 **Empfehlung für In-House-Standard:** DaVinci Resolve Studio. Einmal-Kauf, mächtig, professionell.
 
@@ -214,7 +214,7 @@ KI-Video-Tools generieren oft nur 4–8 Sek pro Clip. Für längere Reels:
 3. **Edge Refinement:** Saubere Kante (Spill-Reduktion, Edge-Feathering)
 4. **Light-Matching:** Light Wrap (Background-Licht „greift über" auf die Person)
 5. **Color-Matching:** Foreground-Farben an Background anpassen
-6. **Motion-Matching:** Wenn Background-Bewegung hat — Foreground entsprechend animieren
+6. **Motion-Matching:** Wenn Background-Bewegung hat, Foreground entsprechend animieren
 
 ### Häufige Compositing-Probleme
 
@@ -238,7 +238,7 @@ Eine Technik, bei der Licht aus dem Background **„über die Kante der Person g
 
 - In DaVinci: über „Light Wrap" Node im Compositing
 - In Premiere: Plug-ins wie „Composite Brush" oder manuell mit Inner Glow
-- Schwach einstellen (oft 5–15 %), nicht übertreiben
+- Schwach einstellen (oft 5 bis 15 %), nicht übertreiben
 
 ### Color Matching
 
@@ -251,7 +251,7 @@ Background hat oft eine bestimmte Color Mood (z.B. teal-orange Cinematic). Perso
 
 ### Schatten
 
-Wenn die Background-Szene gerichtetes Licht hat, sollte die Person einen **Schatten werfen** — passend zur Lichtrichtung:
+Wenn die Background-Szene gerichtetes Licht hat, sollte die Person einen **Schatten werfen**, passend zur Lichtrichtung:
 
 - Soft Drop Shadow unter den Füßen
 - Bei Sonneneinstrahlung: hinter der Person nach passender Seite
@@ -266,7 +266,7 @@ Wie bei jeder Video-Produktion:
 - Schnitt-Rhythmus (siehe Säule 07)
 - Audio (siehe Säule 06)
 - Text-Overlays
-- Untertitel (Pflicht nach BFSG — siehe Säule 09)
+- Untertitel (Pflicht nach BFSG, siehe Säule 09)
 - Export-Specs pro Plattform (siehe Säule 07)
 
 ---
@@ -282,7 +282,7 @@ Wenn ihr kein Studio habt:
 5. **Background-Generierung:** Kling 3.0 oder Veo 3.1
 6. **Edit:** DaVinci Resolve oder CapCut Pro
 
-**Kosten:** ca. $200–400 (Smartphone vorausgesetzt, Editing-Tool einmalig).
+**Kosten:** ca. $200 bis 400 (Smartphone vorausgesetzt, Editing-Tool einmalig).
 
 Das reicht für 80 % aller In-House-Hybrid-Produktionen.
 

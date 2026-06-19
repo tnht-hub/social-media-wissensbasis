@@ -107,13 +107,13 @@ Alle Quellen mit URL und Beschreibung in `08_Quellen.md`. Methodik-Aussagen sind
 
 | Säule | Halbwertszeit | Refresh-Empfehlung |
 |---|---|---|
-| **Grundprinzipien (00)** | 3–5 Jahre stabil | Alle 2 Jahre überprüfen |
-| **Funnel & Kampagnenziele (01)** | 3–5 Jahre stabil | Alle 2 Jahre |
-| **Budget-Allokation (02)** | 1–2 Jahre | Jährlich (Plattform-Mix ändert sich) |
-| **Targeting & Audiences (03)** | 6–12 Monate | Halbjährlich (AI-Targeting entwickelt sich schnell) |
-| **Creative-Testing (04)** | 1–2 Jahre | Jährlich |
-| **Retargeting (05)** | 1–2 Jahre | Jährlich (Privacy-Lage ändert sich) |
-| **Optimierung & Metriken (06)** | 1–2 Jahre | Jährlich (Lernphasen-Logik kann sich ändern) |
-| **Failure-Modi (07)** | 2–3 Jahre | Alle 2 Jahre |
+| **Grundprinzipien (00)** | 3 bis 5 Jahre stabil | Alle 2 Jahre überprüfen |
+| **Funnel & Kampagnenziele (01)** | 3 bis 5 Jahre stabil | Alle 2 Jahre |
+| **Budget-Allokation (02)** | 1 bis 2 Jahre | Jährlich (Plattform-Mix ändert sich) |
+| **Targeting & Audiences (03)** | 6 bis 12 Monate | Halbjährlich (AI-Targeting entwickelt sich schnell) |
+| **Creative-Testing (04)** | 1 bis 2 Jahre | Jährlich |
+| **Retargeting (05)** | 1 bis 2 Jahre | Jährlich (Privacy-Lage ändert sich) |
+| **Optimierung & Metriken (06)** | 1 bis 2 Jahre | Jährlich (Lernphasen-Logik kann sich ändern) |
+| **Failure-Modi (07)** | 2 bis 3 Jahre | Alle 2 Jahre |
 
 Die Säulen 02, 03 und 06 brauchen am meisten Pflege, weil sie an die schnell wechselnde Plattform-Mechanik gekoppelt sind.

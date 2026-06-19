@@ -1,10 +1,10 @@
-# Facebook Analytics & Metriken — IST-Zustand Mai 2026
+# Facebook Analytics & Metriken: IST-Zustand Mai 2026
 
 ---
 
 ## Primäre Metrik: Views (seit November 2024)
 
-Facebook hat im **November 2024** — in Anlehnung an Instagrams Umstellung im August 2024 — **Views** als primäre Metrik eingeführt. Dies gilt für alle Content-Typen:
+Facebook hat im **November 2024**, in Anlehnung an Instagrams Umstellung im August 2024, **Views** als primäre Metrik eingeführt. Dies gilt für alle Content-Typen:
 - Reels-Views
 - Video-Views
 - Post-Views (wie oft ein Post angezeigt wurde)
@@ -21,9 +21,9 @@ Facebook hat im **November 2024** — in Anlehnung an Instagrams Umstellung im A
 |---|---|
 | **Views / Impressionen** | Wie oft der Post angezeigt wurde (primäre Metrik seit Nov. 2024) |
 | **Reach** | Anzahl einzigartiger Personen, die den Post gesehen haben |
-| **Interactions** (ehem. Engagement) | Gesamtzahl der Interaktionen (Likes, Comments, Shares, Clicks) — seit Mai 2026 umbenannt |
+| **Interactions** (ehem. Engagement) | Gesamtzahl der Interaktionen (Likes, Comments, Shares, Clicks), seit Mai 2026 umbenannt |
 | **Likes / Reactions** | Alle Reaktionstypen (Like, Love, Haha, Wow, Sad, Angry) |
-| **Comments** | Anzahl Kommentare — starkes Algorithmus-Signal |
+| **Comments** | Anzahl Kommentare, starkes Algorithmus-Signal |
 | **Shares** | Weiterleitungen; Content erreicht neue Zielgruppen |
 | **Link Clicks** | Klicks auf externe Links im Post oder ersten Kommentar |
 | **Watch Time (Video/Reels)** | Durchschnittliche Sehdauer; entscheidend für Reels-Distribution |
@@ -38,7 +38,7 @@ Facebook hat im **November 2024** — in Anlehnung an Instagrams Umstellung im A
 | **New Followers** | Wachstum in einem Zeitraum |
 | **Page Views** | Profilaufrufe |
 | **Page Reach** | Personen, die Page-Content gesehen haben |
-| **Interactions Rate** (ehem. Engagement Rate) | Interactions / Reach — seit Mai 2026 |
+| **Interactions Rate** (ehem. Engagement Rate) | Interactions / Reach, seit Mai 2026 |
 
 ### Reels-spezifische Metriken
 
@@ -56,12 +56,12 @@ Facebook hat im **November 2024** — in Anlehnung an Instagrams Umstellung im A
 
 Nach Algorithmus-Relevanz (basierend auf SocialBee-Analyse):
 
-1. **Comments** — Stärkstes Signal; echte Konversation zwischen Nutzern
-2. **Shares** — Content verlässt die eigene Audience; starke Verbreitung
-3. **Watch Time (Video/Reels)** — Entscheidend für Reels-Distribution; zeigt echten Nutzwert
-4. **Completion Rate (Video)** — Facebook-spezifisch stark gewichtet
-5. **Reactions/Likes** — Relevant, aber weniger stark als Comments und Shares
-6. **Views/Impressionen** — Volumen-Metrik; für Awareness-Kampagnen
+1. **Comments**, Stärkstes Signal; echte Konversation zwischen Nutzern
+2. **Shares**, Content verlässt die eigene Audience; starke Verbreitung
+3. **Watch Time (Video/Reels)**, Entscheidend für Reels-Distribution; zeigt echten Nutzwert
+4. **Completion Rate (Video)**, Facebook-spezifisch stark gewichtet
+5. **Reactions/Likes**, Relevant, aber weniger stark als Comments und Shares
+6. **Views/Impressionen**, Volumen-Metrik; für Awareness-Kampagnen
 
 ---
 
@@ -102,7 +102,7 @@ Nach Algorithmus-Relevanz (basierend auf SocialBee-Analyse):
 1. **Top-Posts identifizieren:** Welche Posts hatten die meisten Comments und Shares? Warum?
 2. **Watch Time bei Reels prüfen:** Welche Videos werden bis zum Ende geschaut?
 3. **Reach vs. Engagement vergleichen:** Hohe Reach + niedrige Engagement Rate = Content resoniert nicht
-4. **Non-Follower-Reach prüfen:** Bei Reels — werden Nicht-Follower erreicht?
+4. **Non-Follower-Reach prüfen:** Bei Reels, werden Nicht-Follower erreicht?
 5. **Follower-Wachstum:** Welche Posts bringen neue Follower?
 6. **Beste Posting-Zeit validieren:** Eigene Meta Business Suite Daten > allgemeine Benchmarks
 
@@ -113,9 +113,9 @@ Nach Algorithmus-Relevanz (basierend auf SocialBee-Analyse):
 | Engagement Rate | Bewertung |
 |---|---|
 | < 0,5% | Unter Durchschnitt |
-| 0,5–1% | Durchschnittlich |
-| 1–3% | Gut |
-| 3–6% | Sehr gut |
+| 0,5 bis 1% | Durchschnittlich |
+| 1 bis 3% | Gut |
+| 3 bis 6% | Sehr gut |
 | > 6% | Ausgezeichnet |
 
 **Hinweis:** Facebook-Engagement-Raten sind typisch niedriger als auf Instagram oder TikTok. Reels können höhere Raten erzielen als klassische Feed-Posts, da sie in nicht-follower Feeds ausgespielt werden. Absolute Zahlen (Comments, Shares) sind oft aussagekräftiger als die Rate.

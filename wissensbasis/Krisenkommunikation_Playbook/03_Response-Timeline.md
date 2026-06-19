@@ -1,4 +1,4 @@
-# Säule 3 — Response-Timeline: Stunde 0 bis Woche 4
+# Säule 3: Response-Timeline: Stunde 0 bis Woche 4
 
 Krisenkommunikation ist taktgenau. Was in Stunde 1 wichtig ist, ist in Stunde 24 schon zu spät. Was in Woche 2 angemessen ist, wirkt in Stunde 1 distanziert.
 
@@ -12,14 +12,14 @@ Aktuelle Krisenkommunikations-Studien zeigen: **Krisen entwickeln sich 2026 dopp
 
 | Reaktionszeit | 2023 | 2026 |
 |---|---|---|
-| **Erste Reaktion erwartet** | 4–6 Stunden | 30–60 Minuten |
-| **Narrativ-Setting-Fenster** | 6–8 Stunden | 2 Stunden |
-| **Audience-Penetration negativer Story** | 24–48 Stunden | 2–4 Stunden (bis 85 %) |
-| **Vollständige Stellungnahme erwartet** | 48–72 Stunden | 24 Stunden |
+| **Erste Reaktion erwartet** | 4 bis 6 Stunden | 30 bis 60 Minuten |
+| **Narrativ-Setting-Fenster** | 6 bis 8 Stunden | 2 Stunden |
+| **Audience-Penetration negativer Story** | 24 bis 48 Stunden | 2 bis 4 Stunden (bis 85 %) |
+| **Vollständige Stellungnahme erwartet** | 48 bis 72 Stunden | 24 Stunden |
 
 Algorithmen verbreiten negative Inhalte 2026 schneller als positive. Wer in den ersten 2 Stunden nicht spricht, **reagiert nur noch auf eine Geschichte, die andere bereits geschrieben haben**.
 
-Aber: **Geschwindigkeit ohne Substanz ist gefährlicher als langsame Substanz.** Die Lösung sind gestufte Statements — kurz, dann ausführlich.
+Aber: **Geschwindigkeit ohne Substanz ist gefährlicher als langsame Substanz.** Die Lösung sind gestufte Statements, kurz, dann ausführlich.
 
 ---
 
@@ -27,16 +27,16 @@ Aber: **Geschwindigkeit ohne Substanz ist gefährlicher als langsame Substanz.**
 
 | Phase | Zeitraum | Fokus |
 |---|---|---|
-| **Phase 1: Aktivierung** | Stunde 0–1 | Erkennen, einordnen, Krisenstab aktivieren |
-| **Phase 2: Erstreaktion** | Stunde 1–2 | Holding Statement raus |
-| **Phase 3: Stellungnahme** | Stunde 6–24 | Detaillierte Antwort |
-| **Phase 4: Aktive Krise** | Tag 2–7 | Updates, Stakeholder-Management, Korrekturen |
-| **Phase 5: Stabilisierung** | Tag 7–14 | Akute Welle abebbt, Aufarbeitung beginnt |
-| **Phase 6: Recovery** | Woche 2–4+ | Reputations-Wiederaufbau (siehe `07_Recovery_und_Post-Mortem.md`) |
+| **Phase 1: Aktivierung** | Stunde 0 bis 1 | Erkennen, einordnen, Krisenstab aktivieren |
+| **Phase 2: Erstreaktion** | Stunde 1 bis 2 | Holding Statement raus |
+| **Phase 3: Stellungnahme** | Stunde 6 bis 24 | Detaillierte Antwort |
+| **Phase 4: Aktive Krise** | Tag 2 bis 7 | Updates, Stakeholder-Management, Korrekturen |
+| **Phase 5: Stabilisierung** | Tag 7 bis 14 | Akute Welle abebbt, Aufarbeitung beginnt |
+| **Phase 6: Recovery** | Woche 2 bis 4+ | Reputations-Wiederaufbau (siehe `07_Recovery_und_Post-Mortem.md`) |
 
 ---
 
-## Phase 1: Aktivierung (Stunde 0–1)
+## Phase 1: Aktivierung (Stunde 0 bis 1)
 
 Die wichtigste Stunde. Hier wird entschieden, ob ihr eine Krise habt oder „nur" eine Welle. Hier wird der Krisenstab aktiviert.
 
@@ -44,10 +44,10 @@ Die wichtigste Stunde. Hier wird entschieden, ob ihr eine Krise habt oder „nur
 
 | Zeit | Aktion | Verantwortlich |
 |---|---|---|
-| 0–15 Min | Vorfall erkennen, intern weiterleiten | Social-Media-Manager / Monitoring-Tool |
-| 15–30 Min | Faktencheck, Bewertung nach Säule 01 | Krisenstab-Lead |
-| 30–45 Min | Krisenstab aktivieren, Meeting einberufen | Krisenstab-Lead |
-| 45–60 Min | Erste Stakeholder informieren (Innen-Kreis, siehe Säule 02) | CEO + Comms-Lead |
+| 0 bis 15 Min | Vorfall erkennen, intern weiterleiten | Social-Media-Manager / Monitoring-Tool |
+| 15 bis 30 Min | Faktencheck, Bewertung nach Säule 01 | Krisenstab-Lead |
+| 30 bis 45 Min | Krisenstab aktivieren, Meeting einberufen | Krisenstab-Lead |
+| 45 bis 60 Min | Erste Stakeholder informieren (Innen-Kreis, siehe Säule 02) | CEO + Comms-Lead |
 
 ### Checkliste Phase 1
 
@@ -61,16 +61,16 @@ Die wichtigste Stunde. Hier wird entschieden, ob ihr eine Krise habt oder „nur
 
 ### Was NICHT in Phase 1 tun
 
-- ❌ **Auf externe Anfragen antworten** — ohne Fakten und Koordination
-- ❌ **In sozialen Medien spontan reagieren** — auch nicht aus Mitarbeiter:innen-Accounts
-- ❌ **Voreilige Stellungnahme abgeben** — vor der internen Faktenlage
-- ❌ **Posts löschen** — Spuren-Verwischung wird negativ wahrgenommen, könnte rechtlich problematisch sein
+- ❌ **Auf externe Anfragen antworten**, ohne Fakten und Koordination
+- ❌ **In sozialen Medien spontan reagieren**, auch nicht aus Mitarbeiter:innen-Accounts
+- ❌ **Voreilige Stellungnahme abgeben**, vor der internen Faktenlage
+- ❌ **Posts löschen**, Spuren-Verwischung wird negativ wahrgenommen, könnte rechtlich problematisch sein
 
 ---
 
-## Phase 2: Erstreaktion / Holding Statement (Stunde 1–2)
+## Phase 2: Erstreaktion / Holding Statement (Stunde 1 bis 2)
 
-Das **Holding Statement** ist die erste öffentliche Reaktion. Es ist kein vollständiges Statement — es ist eine Anerkennung, dass etwas passiert ist und ihr daran arbeitet.
+Das **Holding Statement** ist die erste öffentliche Reaktion. Es ist kein vollständiges Statement, es ist eine Anerkennung, dass etwas passiert ist und ihr daran arbeitet.
 
 ### Was ein Holding Statement leistet
 
@@ -114,14 +114,14 @@ Das **Holding Statement** ist die erste öffentliche Reaktion. Es ist kein volls
 |---|---|
 | **Eigene Social-Media-Kanäle** | Identischer Wortlaut, plattform-angepasst |
 | **Website** | Banner / Top-Statement auf Homepage |
-| **Pressemitteilung** (wenn Presse-Anfragen kommen) | Längere Version (3–5 Absätze) |
+| **Pressemitteilung** (wenn Presse-Anfragen kommen) | Längere Version (3 bis 5 Absätze) |
 | **Intern** | Updates an Mitarbeiter:innen (kann etwas detaillierter sein) |
 
 ---
 
-## Phase 3: Detaillierte Stellungnahme (Stunde 6–24)
+## Phase 3: Detaillierte Stellungnahme (Stunde 6 bis 24)
 
-Innerhalb von 24 Stunden — bei großen Krisen schneller — muss die ausführliche Stellungnahme stehen.
+Innerhalb von 24 Stunden, bei großen Krisen schneller, muss die ausführliche Stellungnahme stehen.
 
 ### Komponenten der detaillierten Stellungnahme
 
@@ -159,7 +159,7 @@ In dieser Phase gilt:
 
 ---
 
-## Phase 4: Aktive Krise (Tag 2–7)
+## Phase 4: Aktive Krise (Tag 2 bis 7)
 
 Die akute Phase ist vorbei, aber die Krise ist nicht abgeebbt. Was jetzt zählt:
 
@@ -171,7 +171,7 @@ Auch wenn nichts Neues passiert ist: **Schweigen wird als Desinteresse gelesen**
 
 ### Stakeholder-Pflege
 
-Großkund:innen, Investor:innen, Behörden bekommen **individuelle Updates** — nicht nur die Allgemein-Kommunikation. Auch wenn nichts Neues: Anruf, persönliche Nachricht.
+Großkund:innen, Investor:innen, Behörden bekommen **individuelle Updates**, nicht nur die Allgemein-Kommunikation. Auch wenn nichts Neues: Anruf, persönliche Nachricht.
 
 ### Monitoring-Intensivierung
 
@@ -187,7 +187,7 @@ Was ihr **sagt**, dass ihr tut, müsst ihr **zeigen**, dass ihr tut. Beispiele:
 
 ---
 
-## Phase 5: Stabilisierung (Tag 7–14)
+## Phase 5: Stabilisierung (Tag 7 bis 14)
 
 Die Welle ebbt ab, die Presse-Anfragen werden weniger, das Sentiment normalisiert sich.
 
@@ -203,12 +203,12 @@ Zwei Risiken in dieser Phase:
 
 - Letzter Status-Update zur Krise (Abschluss-Kommunikation)
 - Beginn der Post-Mortem-Arbeit (siehe Säule 07)
-- Stakeholder-Karte „auf Eis" — aber nicht aufgelöst
+- Stakeholder-Karte „auf Eis", aber nicht aufgelöst
 - Krisenstab tagt seltener, bleibt aber bereit
 
 ---
 
-## Phase 6: Recovery (Woche 2–4+)
+## Phase 6: Recovery (Woche 2 bis 4+)
 
 Reputations-Wiederaufbau. Die akute Krise ist vorbei, aber Marke und Vertrauen müssen wieder gestärkt werden.
 
@@ -220,14 +220,14 @@ Siehe `07_Recovery_und_Post-Mortem.md` für die Methodik.
 
 Nicht jede Organisation kann in 30 Minuten reagieren. Realitäten:
 
-- Mittelstand ohne PR-Team: Reaktionszeit oft 2–4 Stunden
+- Mittelstand ohne PR-Team: Reaktionszeit oft 2 bis 4 Stunden
 - Großkonzerne mit Compliance-Prozessen: Statement braucht mehrere Freigaben, oft 6+ Stunden
 - Öffentlicher Sektor / Behörden: Politische Abstimmungen können Tage dauern
 
 **Gegenmittel:**
 - **Pre-Approved Templates** für die häufigsten Krisen-Typen (siehe `08_Praevention_und_Krisenstab.md`)
-- **Standing Authority** im Krisenstab — eine Person, die ohne weitere Freigaben Statements freigeben kann (Holding Statements zumindest)
-- **24/7-Verfügbarkeit** des Krisenstabs garantieren — auch am Wochenende, auch an Feiertagen
+- **Standing Authority** im Krisenstab, eine Person, die ohne weitere Freigaben Statements freigeben kann (Holding Statements zumindest)
+- **24/7-Verfügbarkeit** des Krisenstabs garantieren, auch am Wochenende, auch an Feiertagen
 
 ---
 
@@ -236,30 +236,30 @@ Nicht jede Organisation kann in 30 Minuten reagieren. Realitäten:
 ```markdown
 # Krisen-Timeline-Tracker
 
-## Phase 1: Aktivierung (Stunde 0–1)
+## Phase 1: Aktivierung (Stunde 0 bis 1)
 - Erkennung um: __:__
 - Krisenstab aktiviert um: __:__
 - CEO informiert um: __:__
 - Rechtsteam informiert um: __:__
 
-## Phase 2: Holding Statement (Stunde 1–2)
+## Phase 2: Holding Statement (Stunde 1 bis 2)
 - Statement entworfen um: __:__
 - Freigabe durch: ________
 - Veröffentlichung um: __:__
 - Plattformen: [ ] Social [ ] Website [ ] Mail [ ] Presse
 
-## Phase 3: Detaillierte Stellungnahme (Stunde 6–24)
+## Phase 3: Detaillierte Stellungnahme (Stunde 6 bis 24)
 - Entwurf bis: __:__
 - Freigabe bis: __:__
 - Veröffentlichung bis: __:__
 
-## Phase 4: Aktive Krise (Tag 2–7)
+## Phase 4: Aktive Krise (Tag 2 bis 7)
 - Tag 2 Update um: __:__
 - Tag 3 Update um: __:__
 - Tag 4 Update um: __:__
 - Tag 5 Update um: __:__
 
-## Phase 5: Stabilisierung (Tag 7–14)
+## Phase 5: Stabilisierung (Tag 7 bis 14)
 - Abschluss-Statement geplant: __:__
 
 ## Phase 6: Recovery (ab Woche 2)

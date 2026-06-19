@@ -96,9 +96,9 @@ Alle Quellen sind in `07_Quellen.md` dokumentiert, gruppiert nach Thema und mit 
 | Ebene | Halbwertszeit |
 |---|---|
 | **Grundprinzipien (00)** | 10+ Jahre stabil, basieren auf Positionierungstheorie seit 1969/1981 |
-| **Positionierungs- und USP-Frameworks (03, 04)** | 5–10 Jahre stabil, Klassiker (Ries/Trout, Kotler, Osterwalder, Dunford) bleiben gültig |
-| **ICP- und Persona-Methodik (01, 02)** | 3–5 Jahre, Grundlogik stabil, Daten-Tools und Benchmarks ändern sich |
-| **Gap-Analyse und KPI-Logik (05)** | 3–5 Jahre, Methodik stabil, konkrete Kanal-Metriken ändern sich schneller |
+| **Positionierungs- und USP-Frameworks (03, 04)** | 5 bis 10 Jahre stabil, Klassiker (Ries/Trout, Kotler, Osterwalder, Dunford) bleiben gültig |
+| **ICP- und Persona-Methodik (01, 02)** | 3 bis 5 Jahre, Grundlogik stabil, Daten-Tools und Benchmarks ändern sich |
+| **Gap-Analyse und KPI-Logik (05)** | 3 bis 5 Jahre, Methodik stabil, konkrete Kanal-Metriken ändern sich schneller |
 | **Failure-Modi (06)** | 5+ Jahre, Muster wiederholen sich über Jahrzehnte |
 
 Jährlicher Review-Termin empfohlen, mit Schwerpunkt auf den ICP- und KPI-Teilen (01, 05), da sich dort Datenlage und Benchmarks am schnellsten verschieben.

@@ -1,4 +1,4 @@
-# Säule 10 — Failure-Modi: Was bei Visual Production schiefgeht
+# Säule 10: Failure-Modi: Was bei Visual Production schiefgeht
 
 Aus den Quellen und aus Erfahrung extrahiert. Diese Säule dokumentiert die häufigsten Fehler bei Visual Production und ihre Korrekturen.
 
@@ -54,7 +54,7 @@ Aus den Quellen und aus Erfahrung extrahiert. Diese Säule dokumentiert die häu
 
 ### Fehler 4: Compositing-Probleme (Licht/Farben)
 
-**Symptom:** Person und KI-Background wirken zwei verschiedene Welten — Lichtrichtung passt nicht, Farben matchen nicht.
+**Symptom:** Person und KI-Background wirken zwei verschiedene Welten, Lichtrichtung passt nicht, Farben matchen nicht.
 
 **Ursache:** Licht beim Live-Dreh ohne Background-Plan, kein Color-Match in Post.
 
@@ -151,7 +151,7 @@ Aus den Quellen und aus Erfahrung extrahiert. Diese Säule dokumentiert die häu
 
 **Symptom:** Endlose Iterations-Schleifen in Produktion. Projekt-Verzögerungen.
 
-**Ursache:** „Wir machen das jetzt einfach mal" — ohne Briefing, ohne Storyboard.
+**Ursache:** „Wir machen das jetzt einfach mal", ohne Briefing, ohne Storyboard.
 
 **Korrektur:** Mindestens 1-Tag Pre-Production für jedes mittlere Projekt (siehe Säule 02).
 
@@ -170,7 +170,7 @@ Aus den Quellen und aus Erfahrung extrahiert. Diese Säule dokumentiert die häu
 
 **Symptom:** Stack ist 18 Monate alt, neue Tools wären deutlich besser oder günstiger.
 
-**Ursache:** „Läuft ja" — keine regelmäßige Tool-Review.
+**Ursache:** „Läuft ja", keine regelmäßige Tool-Review.
 
 **Korrektur:** Halbjährliches Tool-Audit (siehe Säule 03). Aber nicht jeden Hype mitmachen.
 

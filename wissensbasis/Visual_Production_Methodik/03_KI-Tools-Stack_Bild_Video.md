@@ -1,16 +1,16 @@
-# Säule 3 — KI-Tools-Stack (Bild + Video)
+# Säule 3: KI-Tools-Stack (Bild + Video)
 
 **Wichtiger Hinweis:** Diese Säule ist die mit der **kürzesten Halbwertszeit** in der gesamten Guideline. KI-Tools entwickeln sich monatlich. Stand: Mai 2026. Refresh halbjährlich Pflicht.
 
-Diese Säule dokumentiert die aktuelle Tool-Landschaft, mit konkreten Empfehlungen für In-House-Workflow in 2–5-Personen-Teams.
+Diese Säule dokumentiert die aktuelle Tool-Landschaft, mit konkreten Empfehlungen für In-House-Workflow in 2 bis 5-Personen-Teams.
 
 ---
 
 ## Grundprinzip: Mehrere Tools, je nach Use Case
 
-Es gibt 2026 kein „bestes Tool". Es gibt **das beste Tool für den konkreten Use Case**. Die Profis nutzen meistens 2–3 Tools parallel.
+Es gibt 2026 kein „bestes Tool". Es gibt **das beste Tool für den konkreten Use Case**. Die Profis nutzen meistens 2 bis 3 Tools parallel.
 
-> „Rather than choosing a single tool, the professionals producing the best AI-generated imagery in 2026 use all three — or at least two — matching each tool to its strength."
+> „Rather than choosing a single tool, the professionals producing the best AI-generated imagery in 2026 use all three, or at least two, matching each tool to its strength."
 
 ---
 
@@ -20,8 +20,8 @@ Es gibt 2026 kein „bestes Tool". Es gibt **das beste Tool für den konkreten U
 
 | Tool | Stärke | Preis | Beste für |
 |---|---|---|---|
-| **Midjourney V7** | Aesthetic, artistic stylization | $30–120/mo | Kampagnen-Hero-Visuals, künstlerische Konzepte |
-| **Flux 2 Pro** | Photorealism, Allrounder | $0.06–0.08/image | Produkt-/Personen-Fotorealismus, Standard-Workhorse |
+| **Midjourney V7** | Aesthetic, artistic stylization | $30 bis 120/mo | Kampagnen-Hero-Visuals, künstlerische Konzepte |
+| **Flux 2 Pro** | Photorealism, Allrounder | $0.06 bis 0.08/image | Produkt-/Personen-Fotorealismus, Standard-Workhorse |
 | **Ideogram 3** | Text in image, Typography | $20/mo Plus | Plakate, Marketing-Materialien mit Text |
 | **Imagen 4** (Google) | Product photography, Text-Rendering | API-basiert | Produkt-Shots, Werbe-Bildwelten |
 | **DALL-E 4 / GPT Image 2** | Accessibility, abstract concepts | mit ChatGPT Plus | Abstrakte Konzepte, schnelle Iteration |
@@ -36,7 +36,7 @@ Es gibt 2026 kein „bestes Tool". Es gibt **das beste Tool für den konkreten U
 - Wann nutzen: Wenn Aesthetic > Realismus, wenn Hero-Visuals, wenn Editorial-Look
 
 **Flux 2 Pro**
-- Pricing: pay-per-image, $0.06–0.08/image
+- Pricing: pay-per-image, $0.06 bis 0.08/image
 - Stärken: Photorealismus auf Spitzen-Niveau, gute Character-Konsistenz, API-Zugriff
 - Schwächen: weniger künstlerisch als Midjourney
 - Workflow: Über Provider wie Replicate, fal.ai, oder direkter API-Zugriff
@@ -54,16 +54,16 @@ Es gibt 2026 kein „bestes Tool". Es gibt **das beste Tool für den konkreten U
 - **1 Tool:** Flux 2 Pro über fal.ai oder Replicate (~$50/mo nach Volumen)
 - Gesamtkosten: $50/mo
 
-**Standard-Stack (2–5-Personen-Team):**
+**Standard-Stack (2 bis 5-Personen-Team):**
 - **Midjourney V7 Pro** ($60/mo) für Aesthetic-Visuals
-- **Flux 2 Pro** über Provider ($50–100/mo nach Volumen)
+- **Flux 2 Pro** über Provider ($50 bis 100/mo nach Volumen)
 - **Ideogram 3 Plus** ($20/mo) für Text-Bilder
-- Gesamtkosten: ~$130–180/mo
+- Gesamtkosten: ~$130 bis 180/mo
 
 **Advanced-Stack (Volle Produktion):**
 - Standard-Stack +
 - **GPT Image 2 / DALL-E 4** ($20/mo via ChatGPT Plus) für Brainstorming
-- Gesamtkosten: ~$150–200/mo
+- Gesamtkosten: ~$150 bis 200/mo
 
 ---
 
@@ -89,7 +89,7 @@ Es gibt 2026 kein „bestes Tool". Es gibt **das beste Tool für den konkreten U
 - Wann nutzen: Wenn Audio synchron sein muss, wenn Premium-Look gefordert, wenn narrativ
 
 **Kling 3.0**
-- Pricing: ca. $0.10/sec — **das günstigste Premium-Modell 2026**
+- Pricing: ca. $0.10/sec, **das günstigste Premium-Modell 2026**
 - Stärken: Cinematic lighting, komplexe Bewegung (Haar, Flüssigkeiten, Stoff), Multi-Shot mit Subject Consistency
 - Schwächen: Audio-Sync etwas schwächer als Veo
 - Wann nutzen: Standard-Cinematic-Workhorse, mehrteilige Story-Reels
@@ -114,20 +114,20 @@ Es gibt 2026 kein „bestes Tool". Es gibt **das beste Tool für den konkreten U
 ### Tool-Stack-Empfehlung für In-House-Team
 
 **Minimum-Stack (Video-Anfänger):**
-- **1 Tool:** Kling 3.0 (~$50–100/mo nach Volumen)
-- Gesamtkosten: $50–100/mo
+- **1 Tool:** Kling 3.0 (~$50 bis 100/mo nach Volumen)
+- Gesamtkosten: $50 bis 100/mo
 
 **Standard-Stack (regelmäßige Reel-Produktion):**
 - **Veo 3.1** für Hero-Cuts (~$100/mo nach Volumen)
 - **Kling 3.0** für Standard-Cuts (~$50/mo)
 - **Runway Gen-4.5** für Spezial-Effekte (subscription)
-- Gesamtkosten: ~$200–300/mo
+- Gesamtkosten: ~$200 bis 300/mo
 
 **Advanced-Stack (intensive Produktion):**
 - Standard-Stack +
 - **Higgsfield** als Aggregator-Backup
 - **Seedance 2.0** für Image-to-Video-Animationen
-- Gesamtkosten: ~$300–500/mo
+- Gesamtkosten: ~$300 bis 500/mo
 
 ---
 
@@ -198,7 +198,7 @@ Bei Tool-Wechsel oder Neueinführung prüfen:
 
 1. **Concept** (Säule 02) → konkrete Bild-Briefings für 7 Slides
 2. **Cover-Slide:** Midjourney V7 (Aesthetic-Hero)
-3. **Slides 2–6:** Flux 2 Pro (Photorealistic, mit Character Consistency)
+3. **Slides 2 bis 6:** Flux 2 Pro (Photorealistic, mit Character Consistency)
 4. **Text-Slides (Daten-Overlays):** Ideogram 3 oder direkt in Figma
 5. **Editing:** Figma oder Photoshop für letzten Schliff
 6. **Export:** Plattform-Spezifika (siehe Säule 07)
@@ -206,7 +206,7 @@ Bei Tool-Wechsel oder Neueinführung prüfen:
 ### Beispiel 2: Reel-Produktion (20 Sek mit Hybrid-Workflow)
 
 1. **Concept + Storyboard** (Säule 02)
-2. **Live-Aufnahme** (echte Person, Greenscreen oder einfacher Hintergrund) — Smartphone reicht
+2. **Live-Aufnahme** (echte Person, Greenscreen oder einfacher Hintergrund), Smartphone reicht
 3. **Background-Generierung:** Veo 3.1 oder Kling 3.0 für KI-Hintergrund-Clips (5 × 4 Sek)
 4. **Compositing:** Runway Green Screen oder DaVinci Magic Mask
 5. **Editing + Audio:** Premiere Pro oder DaVinci
@@ -216,7 +216,7 @@ Bei Tool-Wechsel oder Neueinführung prüfen:
 ### Beispiel 3: Daily Content (Single-Image-Post)
 
 1. **Schnell-Briefing** (15 Min, siehe Säule 02)
-2. **Bild-Generierung:** Flux 2 Pro über fal.ai (1–3 Generationen)
+2. **Bild-Generierung:** Flux 2 Pro über fal.ai (1 bis 3 Generationen)
 3. **Schneller Edit:** Photoroom für Hintergrund, Photoshop für Feintuning
 4. **Post:** Direkt in Plattform-Scheduler
 
@@ -249,13 +249,13 @@ Wenn ihr **jetzt** einsteigt, empfehle ich:
 - **Runway Gen-4.5** für Spezial-Kontrolle bei Bedarf
 
 **Bearbeitung:**
-- **DaVinci Resolve Studio** (Einmalig $295) — Full-Profi-Editing
+- **DaVinci Resolve Studio** (Einmalig $295), Full-Profi-Editing
 - **CapCut Pro** für Mobile-First-Workflows
 - **Submagic** für Auto-Captions
 
 **Asset-Management:**
 - Notion + Drive / Dropbox (siehe Säule 08)
 
-**Gesamtkosten:** ca. $200–350/mo + einmalig $295 für DaVinci.
+**Gesamtkosten:** ca. $200 bis 350/mo + einmalig $295 für DaVinci.
 
 Refresh dieser Empfehlung halbjährlich.

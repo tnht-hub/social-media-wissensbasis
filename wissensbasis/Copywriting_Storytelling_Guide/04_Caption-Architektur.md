@@ -1,6 +1,6 @@
-# Säule 4 — Caption-Architektur
+# Säule 4: Caption-Architektur
 
-Wenn der Hook seine Arbeit getan hat — den Scroll gestoppt — kommt der schwierigere Teil: **die Leser:in halten**.
+Wenn der Hook seine Arbeit getan hat, den Scroll gestoppt, kommt der schwierigere Teil: **die Leser:in halten**.
 
 Diese Säule dokumentiert, wie Captions aufgebaut sind, die gelesen UND zur Handlung führen.
 
@@ -12,11 +12,11 @@ Jede gute Caption hat **drei Akte**:
 
 | Akt | Funktion | Länge | Was passiert |
 |---|---|---|---|
-| **Akt I: Hook** | Stop the scroll | 1 Zeile, 6–12 Wörter | Aufmerksamkeit erzeugen |
-| **Akt II: Substanz** | Hold the reader | 2–8 Zeilen | Wert liefern, Story erzählen, Information geben |
-| **Akt III: Call to Action** | Drive next step | 1–2 Zeilen | Klare Handlungsaufforderung |
+| **Akt I: Hook** | Stop the scroll | 1 Zeile, 6 bis 12 Wörter | Aufmerksamkeit erzeugen |
+| **Akt II: Substanz** | Hold the reader | 2 bis 8 Zeilen | Wert liefern, Story erzählen, Information geben |
+| **Akt III: Call to Action** | Drive next step | 1 bis 2 Zeilen | Klare Handlungsaufforderung |
 
-Die meisten Captions scheitern nicht am Hook — sondern an Akt II oder III.
+Die meisten Captions scheitern nicht am Hook, sondern an Akt II oder III.
 
 ---
 
@@ -25,8 +25,8 @@ Die meisten Captions scheitern nicht am Hook — sondern an Akt II oder III.
 Die erste Zeile ist alles, was im Feed sichtbar ist, **bevor** die Leser:in „Mehr" klickt. Sie muss:
 
 - Den Hook tragen (siehe `03_Hook-Bibliothek.md`)
-- Kurz sein (ideale Länge: 60–80 Zeichen)
-- Genug Information enthalten, dass der Klick auf „Mehr" lohnenswert wirkt — aber zu wenig, um den Klick überflüssig zu machen
+- Kurz sein (ideale Länge: 60 bis 80 Zeichen)
+- Genug Information enthalten, dass der Klick auf „Mehr" lohnenswert wirkt, aber zu wenig, um den Klick überflüssig zu machen
 
 **Schwach:**
 > „Heute möchten wir euch unseren neuen Service vorstellen, der euch helfen wird, [...]"
@@ -36,7 +36,7 @@ Erste Zeile macht keine Erwartung auf den Rest.
 **Stark:**
 > „Drei Sätze haben unsere Conversion verdoppelt. Hier sind sie."
 
-Erste Zeile macht klar, was kommt — und macht neugierig.
+Erste Zeile macht klar, was kommt, und macht neugierig.
 
 ---
 
@@ -52,11 +52,11 @@ Hier passiert der wahre Inhalt. Vier Hauptstrukturen funktionieren:
 ```
 [Hook]
 
-1. [Erster Punkt — eine Zeile]
-2. [Zweiter Punkt — eine Zeile]
-3. [Dritter Punkt — eine Zeile]
+1. [Erster Punkt, eine Zeile]
+2. [Zweiter Punkt, eine Zeile]
+3. [Dritter Punkt, eine Zeile]
 
-[Was du davon mitnehmen sollst — eine Zeile]
+[Was du davon mitnehmen sollst, eine Zeile]
 [CTA]
 ```
 
@@ -68,18 +68,18 @@ Hier passiert der wahre Inhalt. Vier Hauptstrukturen funktionieren:
 
 **Aufbau:**
 ```
-[Hook — Story-Eröffnung]
+[Hook, Story-Eröffnung]
 
 [Setup: was war die Situation?]
 [Komplikation: was ging schief / war überraschend?]
 [Wendepunkt: was hast du erkannt / entschieden?]
 [Ergebnis: was war die Folge?]
 
-[Lehre / Pointe — eine Zeile]
+[Lehre / Pointe, eine Zeile]
 [CTA]
 ```
 
-Klassisches Pixar-Story-Spine-Muster, komprimiert auf 5–8 Zeilen.
+Klassisches Pixar-Story-Spine-Muster, komprimiert auf 5 bis 8 Zeilen.
 
 ### Struktur 3: PAS (Problem-Agitate-Solution)
 
@@ -87,7 +87,7 @@ Klassisches Pixar-Story-Spine-Muster, komprimiert auf 5–8 Zeilen.
 
 **Aufbau:**
 ```
-[Hook — Problem nennen]
+[Hook, Problem nennen]
 
 [Problem zuspitzen: warum tut das weh?]
 [Konsequenz: was passiert, wenn man nichts ändert?]
@@ -104,7 +104,7 @@ Sehr wirksam, aber Vorsicht: kann manipulativ wirken, wenn überstrapaziert.
 
 **Aufbau:**
 ```
-[Hook — bold Statement]
+[Hook, bold Statement]
 
 [Erklärung: warum stimmt das?]
 [Beweis: Daten, Beispiele, Cases]
@@ -129,33 +129,33 @@ Hier scheitern die meisten Captions. Typische Fehler:
 
 ---
 
-## Caption-Länge — was ist optimal?
+## Caption-Länge: was ist optimal?
 
 Es gibt nicht *die* richtige Länge. Aber Faustregeln:
 
 | Plattform | Empfohlene Länge | Maximum sinnvoll |
 |---|---|---|
-| **Instagram (Feed)** | 70–125 Wörter | 250 Wörter |
-| **Instagram (Carousel mit komplexem Inhalt)** | 125–250 Wörter | 400 Wörter |
-| **LinkedIn (Story)** | 150–300 Wörter | 500 Wörter |
-| **LinkedIn (Quick Insight)** | 50–150 Wörter | 200 Wörter |
+| **Instagram (Feed)** | 70 bis 125 Wörter | 250 Wörter |
+| **Instagram (Carousel mit komplexem Inhalt)** | 125 bis 250 Wörter | 400 Wörter |
+| **LinkedIn (Story)** | 150 bis 300 Wörter | 500 Wörter |
+| **LinkedIn (Quick Insight)** | 50 bis 150 Wörter | 200 Wörter |
 | **X / Twitter (Einzelpost)** | 280 Zeichen | 280 Zeichen |
-| **X / Twitter (Thread)** | 3–10 Tweets | 15 Tweets |
-| **TikTok / Reels** | 50–125 Wörter | 200 Wörter |
-| **Facebook** | 80–200 Wörter | 300 Wörter |
+| **X / Twitter (Thread)** | 3 bis 10 Tweets | 15 Tweets |
+| **TikTok / Reels** | 50 bis 125 Wörter | 200 Wörter |
+| **Facebook** | 80 bis 200 Wörter | 300 Wörter |
 
-**Längere Captions sind nicht automatisch schlechter** — auf LinkedIn performen oft Posts mit 300+ Wörtern besser als Kurz-Posts, weil sie Lesetiefe signalisieren.
+**Längere Captions sind nicht automatisch schlechter**, auf LinkedIn performen oft Posts mit 300+ Wörtern besser als Kurz-Posts, weil sie Lesetiefe signalisieren.
 
 **Aber:** Jeder Satz muss sich rechtfertigen. Wenn ein Satz nichts hinzufügt, raus damit.
 
 ---
 
-## Formatierung — die unsichtbare Hälfte
+## Formatierung: die unsichtbare Hälfte
 
 Eine Caption ist nicht nur Text. Sie ist visuelle Komposition.
 
 ### Zeilenumbrüche
-Wo möglich, alle 1–3 Sätze ein Zeilenumbruch. Wirkt luftiger, leichter zu scannen. Auf IG/LinkedIn besonders wichtig — auf X/Twitter weniger.
+Wo möglich, alle 1 bis 3 Sätze ein Zeilenumbruch. Wirkt luftiger, leichter zu scannen. Auf IG/LinkedIn besonders wichtig, auf X/Twitter weniger.
 
 ### Emojis als visuelle Anker
 Sparsam, aber strategisch. Beispiele:
@@ -169,7 +169,7 @@ Sparsam, aber strategisch. Beispiele:
 Bewusst eingesetzt. „**Wirklich.** Das ist die wahre Antwort." > „Wirklich das ist die wahre Antwort."
 
 ### Bold / Italic (wo unterstützt)
-LinkedIn unterstützt Pseudo-Bold per Unicode (z.B. tools wie *yaytext*). Sparsam einsetzen — sonst wird's lächerlich.
+LinkedIn unterstützt Pseudo-Bold per Unicode (z.B. tools wie *yaytext*). Sparsam einsetzen, sonst wird's lächerlich.
 
 ### Listicle-Marker
 1. Nummern (für sequenzielle Listen)
@@ -188,18 +188,18 @@ Drastisch verändert über die letzten Jahre.
 
 | Plattform | Status |
 |---|---|
-| **Instagram** | Algorithmus stuft Hashtags 2025 deutlich ab (Mosseri-Statement: „Hashtags funktionieren nicht"). Max 3 sinnvoll, oft 0–2. |
-| **LinkedIn** | 3–5 relevante Hashtags helfen Discovery. Aber kein Spamming. |
-| **TikTok** | 3–5 spezifische + 1 breite. Trending-Hashtags nur wenn echt relevant. |
-| **X/Twitter** | 1–2, oft 0. Hashtags wirken eher unprofessionell. |
-| **Facebook** | 0–2. Nutzlos in den meisten Fällen. |
-| **Pinterest** | 5–10 spezifische. Hier sind Hashtags noch relevant. |
+| **Instagram** | Algorithmus stuft Hashtags 2025 deutlich ab (Mosseri-Statement: „Hashtags funktionieren nicht"). Max 3 sinnvoll, oft 0 bis 2. |
+| **LinkedIn** | 3 bis 5 relevante Hashtags helfen Discovery. Aber kein Spamming. |
+| **TikTok** | 3 bis 5 spezifische + 1 breite. Trending-Hashtags nur wenn echt relevant. |
+| **X/Twitter** | 1 bis 2, oft 0. Hashtags wirken eher unprofessionell. |
+| **Facebook** | 0 bis 2. Nutzlos in den meisten Fällen. |
+| **Pinterest** | 5 bis 10 spezifische. Hier sind Hashtags noch relevant. |
 
 **Faustregel:** Hashtags sind heute eher **Kategorisierung** als Reichweiten-Hebel. Investiert die Energie in starken Content, nicht in Hashtag-Recherche.
 
 ---
 
-## Die erste Zeile-Architektur — Mikro-Mechanik
+## Die erste Zeile-Architektur: Mikro-Mechanik
 
 Da die erste Zeile entscheidet, ob jemand „Mehr" klickt, lohnt sich ein detaillierter Blick.
 
@@ -218,15 +218,15 @@ Da die erste Zeile entscheidet, ob jemand „Mehr" klickt, lohnt sich ein detail
 - → Spezifität zwingt zum Mitlesen.
 
 **4. Eine emotionale Anker-Zeile**
-- „Ich habe gestern eine Mail nicht geschickt — und das war richtig."
+- „Ich habe gestern eine Mail nicht geschickt, und das war richtig."
 - → Geschichten-Versprechen.
 
 ### Was NICHT funktioniert
 
-- **„Heute möchte ich mit euch teilen..."** — Aufwärmphase ist gestorben
-- **„Liebe Community,..."** — wirkt veraltet
-- **Lange Erklärung von Kontext** — Kontext kommt in Akt II, nicht in Akt I
-- **Reines Lob / Markenbotschaft** — ist immer abgewendet
+- **„Heute möchte ich mit euch teilen..."**, Aufwärmphase ist gestorben
+- **„Liebe Community,..."**, wirkt veraltet
+- **Lange Erklärung von Kontext**, Kontext kommt in Akt II, nicht in Akt I
+- **Reines Lob / Markenbotschaft**, ist immer abgewendet
 
 ---
 
@@ -237,7 +237,7 @@ Vor Veröffentlichung jedes Posts:
 - [ ] Erste Zeile passt in 80 Zeichen, hat Information Gap oder direkte Ansprache
 - [ ] Mittelteil folgt einer klaren Struktur (Listicle / Narrative / PAS / Statement+Beweis)
 - [ ] Jeder Satz fügt etwas hinzu (Streichtest)
-- [ ] Zeilenumbrüche eingesetzt (alle 1–3 Sätze)
+- [ ] Zeilenumbrüche eingesetzt (alle 1 bis 3 Sätze)
 - [ ] CTA ist spezifisch, nicht generisch
 - [ ] Hashtags strategisch, nicht spammy
 - [ ] Voice und Tonalität stimmen zum Brand-Brief

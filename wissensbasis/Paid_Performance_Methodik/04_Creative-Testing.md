@@ -8,7 +8,7 @@ Das Creative ist 2026 der größte manuelle Hebel im Paid Social. Während Algor
 
 Wenn der Algorithmus die Zielgruppe sucht (siehe Säule 03), entscheidet das Creative, **wer anhält und konvertiert**, und genau das lernt der Algorithmus. Ein gutes Creative ist damit zugleich Botschaft und Targeting-Signal.
 
-**Konsequenz:** Mehr Test-Energie ins Creative als ins Targeting stecken. Die 10–20 % Test-Budget aus Säule 02 fließen primär hierhin.
+**Konsequenz:** Mehr Test-Energie ins Creative als ins Targeting stecken. Die 10 bis 20 % Test-Budget aus Säule 02 fließen primär hierhin.
 
 ---
 
@@ -42,7 +42,7 @@ Der häufigste Test-Fehler ist, mehrere Variablen gleichzeitig zu ändern. Dann 
 
 ## Hook-Testing als effizienteste Methode
 
-Hooks vom Body des Creatives entkoppeln und 10–20 Hook-Varianten pro Kern-Creative testen ist effizienter, als für jeden Refresh-Zyklus komplett neue Creatives zu briefen. Das Kern-Konzept bleibt konstant, nur das Eröffnungs-Element ändert sich.
+Hooks vom Body des Creatives entkoppeln und 10 bis 20 Hook-Varianten pro Kern-Creative testen ist effizienter, als für jeden Refresh-Zyklus komplett neue Creatives zu briefen. Das Kern-Konzept bleibt konstant, nur das Eröffnungs-Element ändert sich.
 
 ### Hook-Formate mit starker Conversion-Datenlage 2026
 
@@ -65,7 +65,7 @@ User-Generated Content (echte oder echt wirkende Kund:innen-/Creator-Videos) ist
 
 ### UGC-Workflow im Creative-Testing
 
-1. **Produzieren:** 5–15 UGC-Videos mit 2–3 verschiedenen Creator:innen, mit unterschiedlichen Hooks, Angles und Produkt-Nutzen.
+1. **Produzieren:** 5 bis 15 UGC-Videos mit 2 bis 3 verschiedenen Creator:innen, mit unterschiedlichen Hooks, Angles und Produkt-Nutzen.
 2. **Gleichzeitig schalten:** Alle Videos laufen parallel in einem Test-Framework (A/B oder multivariat).
 3. **Budget umschichten:** Das beste Creative bekommt circa 80 % des Budgets, schwächere werden pausiert.
 4. **Iterieren:** Vom Gewinner neue Varianten ableiten (neue Hooks auf den Gewinner-Body).
@@ -100,8 +100,8 @@ Creative-Testing ist kein Einmal-Projekt, sondern ein Loop:
 - [ ] Hook-Rate als Frühmetrik etabliert (Ziel über ca. 30 %)
 - [ ] Pro Test nur eine Variable verändert
 - [ ] Test-Hierarchie eingehalten (Hook vor Angle vor Format vor Detail)
-- [ ] 10–20 Hook-Varianten pro Kern-Creative statt komplett neuer Creatives
-- [ ] 8–12 Creatives pro Kampagne, gemischte Formate
+- [ ] 10 bis 20 Hook-Varianten pro Kern-Creative statt komplett neuer Creatives
+- [ ] 8 bis 12 Creatives pro Kampagne, gemischte Formate
 - [ ] UGC im Mix, mit mehreren Creator:innen
 - [ ] Gewinner-Budget konzentriert, Verlierer pausiert
 - [ ] Creative-Pipeline gegen Fatigue laufend gefüllt

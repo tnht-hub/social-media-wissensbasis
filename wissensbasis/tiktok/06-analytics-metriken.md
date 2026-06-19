@@ -1,4 +1,4 @@
-# TikTok Analytics & Metriken — IST-Zustand Mai 2026
+# TikTok Analytics & Metriken: IST-Zustand Mai 2026
 
 ---
 
@@ -62,12 +62,12 @@ Seit März 2024 relevante Metrik für Creator im **Creator Rewards Program**:
 | Engagement-Rate | Bewertung |
 |---|---|
 | < 1% | Unter Durchschnitt |
-| 1–3% | Durchschnittlich |
-| 3–6% | Gut |
-| 6–10% | Sehr gut |
+| 1 bis 3% | Durchschnittlich |
+| 3 bis 6% | Gut |
+| 6 bis 10% | Sehr gut |
 | > 10% | Ausgezeichnet |
 
-**TikTok vs. andere Plattformen:** TikTok hat historisch die höchsten organischen Engagement-Raten aller Plattformen. Durch zunehmende Content Saturation (Metricool: 31% Rückgang bei Views in 2026) sind diese Werte rückläufig — Nischen-Content hält jedoch höhere Raten.
+**TikTok vs. andere Plattformen:** TikTok hat historisch die höchsten organischen Engagement-Raten aller Plattformen. Durch zunehmende Content Saturation (Metricool: 31% Rückgang bei Views in 2026) sind diese Werte rückläufig, Nischen-Content hält jedoch höhere Raten.
 
 ---
 
@@ -75,13 +75,13 @@ Seit März 2024 relevante Metrik für Creator im **Creator Rewards Program**:
 
 Nach Algorithmus-Relevanz gereiht:
 
-1. **Avg. Watch Time & Completion Rate** — Wichtigste Kern-Metrik; bestimmt algorithmische Weiterverteilung
-2. **Replay Rate** — Zeigt, dass Content gut genug für nochmaliges Anschauen ist
-3. **Shares** — Höchste Reichweiten-Auswirkung
-4. **Comments** — Stärkstes Engagement-Signal auf TikTok (mehr als Likes)
-5. **Saves** — Evergreen-Signal
-6. **Likes** — Direktes, aber geringer gewichtetes Signal
-7. **Profile Views from Post** — Zeigt, ob Content Follower-Interesse weckt
+1. **Avg. Watch Time & Completion Rate**, Wichtigste Kern-Metrik; bestimmt algorithmische Weiterverteilung
+2. **Replay Rate**, Zeigt, dass Content gut genug für nochmaliges Anschauen ist
+3. **Shares**, Höchste Reichweiten-Auswirkung
+4. **Comments**, Stärkstes Engagement-Signal auf TikTok (mehr als Likes)
+5. **Saves**, Evergreen-Signal
+6. **Likes**, Direktes, aber geringer gewichtetes Signal
+7. **Profile Views from Post**, Zeigt, ob Content Follower-Interesse weckt
 
 ---
 

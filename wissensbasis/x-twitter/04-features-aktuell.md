@@ -1,4 +1,4 @@
-# X (Twitter) Features — IST-Zustand Juni 2026
+# X (Twitter) Features: IST-Zustand Juni 2026
 
 ---
 

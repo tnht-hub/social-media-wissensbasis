@@ -1,4 +1,4 @@
-# TikTok Wissensdatenbank — IST-Zustand Mai 2026
+# TikTok Wissensdatenbank: IST-Zustand Mai 2026
 
 **Zuletzt aktualisiert:** Mai 2026  
 **Plattform:** TikTok (ByteDance)  
@@ -22,13 +22,13 @@
 
 ## Quick-Summary: TikTok-Kernfakten Mai 2026
 
-- **For You Page (FYP)** ist die primäre Entdeckungsfläche — Algorithmus priorisiert Watch Time & Completion Rate
+- **For You Page (FYP)** ist die primäre Entdeckungsfläche, Algorithmus priorisiert Watch Time & Completion Rate
 - **TikTok als Suchmaschine:** 49% der Nutzer suchen Produkte, Trends und Ideen direkt in TikTok (März 2026)
 - **Hashtag-Limit:** max. 5 (seit August 2025)
 - **TikTok Studio:** Zentrales Creator-Tool für Scheduling, Analytics, Editing
 - **Creator Rewards Program:** Videos müssen >60 Sekunden sein für Monetarisierung
 - **Symphony Suite:** AI-gestützte Werbe- und Content-Erstellungstools
-- **TikTok Shop** stark gewachsen — Affiliate-Marketing via Creator ein zentrales Wachstumsfeld
+- **TikTok Shop** stark gewachsen, Affiliate-Marketing via Creator ein zentrales Wachstumsfeld
 - **Content Saturation:** Metricool 2026 Studie zeigt 31% Rückgang bei Video Views (mehr Content, mehr Konkurrenz)
 - **Positionierung:** Plattform für Gen Z & Millennials; stark für B2C, E-Commerce, Entertainment
 

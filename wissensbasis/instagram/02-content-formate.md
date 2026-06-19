@@ -1,4 +1,4 @@
-# Instagram Content-Formate — IST-Zustand Mai 2026
+# Instagram Content-Formate: IST-Zustand Mai 2026
 
 ---
 
@@ -29,11 +29,11 @@ Das wichtigste Format für organische Reichweite und Discovery.
 
 ### Reichweite nach Länge
 - **Unter 60 Sekunden:** Höchste Distribution und Watch-Rate
-- **60–90 Sekunden:** Gute Distribution
+- **60 bis 90 Sekunden:** Gute Distribution
 - **Über 90 Sekunden:** Laut Mosseri reduzierte Distribution (Mai 2024)
 - **Über 3 Minuten:** Nur noch für bekannte Follower ausgespielt
 
-### Trial Reels — Game-Changer-Feature
+### Trial Reels: Game-Changer-Feature
 Trial Reels ermöglichen es, einen Reel zunächst **nur an Nicht-Follower** auszuspielen, bevor er dem eigenen Publikum gezeigt wird.
 
 - **Ergebnis:** 40% der Nutzer posteten danach mehr Reels; 80% berichten von mehr Nicht-Follower-Reichweite
@@ -41,7 +41,7 @@ Trial Reels ermöglichen es, einen Reel zunächst **nur an Nicht-Follower** ausz
 - **Neu April 2026:** Trial Reels können im Voraus geplant/gescheduled werden
 - **Einschränkung:** Nutzungslimit auf 30 Tage (April 2026)
 
-**Strategie:** Trial Reels für experimentellen Content nutzen — wenn er performt, regulär veröffentlichen.
+**Strategie:** Trial Reels für experimentellen Content nutzen, wenn er performt, regulär veröffentlichen.
 
 ### Wichtige Reels-Features
 - **Pause mit einem Tap** (März 2026): Reels können jetzt per einfachem Tap pausiert werden
@@ -80,7 +80,7 @@ Neben Reels das stärkste Format für Engagement.
 Stories sind das primäre Format für bestehende Community und tägliche Präsenz.
 
 ### Specs
-- **Dauer:** Fotos 5–7s, Videos bis 60s pro Story-Karte
+- **Dauer:** Fotos 5 bis 7s, Videos bis 60s pro Story-Karte
 - **Seitenverhältnis:** 9:16
 - **Ablauf:** Nach 24 Stunden verschwinden Stories (außer in Highlights)
 - **Audio:** Bis zu 45 Sekunden Audio möglich (Oktober 2025)
@@ -112,8 +112,8 @@ Stories sind das primäre Format für bestehende Community und tägliche Präsen
 ## Single Image Posts
 
 ### Specs
-- **Seitenverhältnis:** 4:5 (Portrait, empfohlen seit Januar 2025 — neues Standard-Layout)
-- **3:4** unterstützt (Mai 2025) — entspricht dem Standard-Kameraformat der meisten Smartphones
+- **Seitenverhältnis:** 4:5 (Portrait, empfohlen seit Januar 2025, neues Standard-Layout)
+- **3:4** unterstützt (Mai 2025), entspricht dem Standard-Kameraformat der meisten Smartphones
 - **1:1** (Quadrat) weiterhin möglich
 - **16:9** für Querformat
 

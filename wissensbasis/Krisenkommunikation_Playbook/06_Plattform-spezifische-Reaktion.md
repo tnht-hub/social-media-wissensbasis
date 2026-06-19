@@ -1,6 +1,6 @@
-# Säule 6 — Plattform-spezifische Reaktion
+# Säule 6: Plattform-spezifische Reaktion
 
-Was auf Twitter funktioniert, ist auf LinkedIn falsch. Was in einer Pressemitteilung Pflicht ist, wirkt auf Instagram steif. Eine Krise muss **plattform-nativ** kommuniziert werden — nicht 1:1 über alle Kanäle ausgespielt.
+Was auf Twitter funktioniert, ist auf LinkedIn falsch. Was in einer Pressemitteilung Pflicht ist, wirkt auf Instagram steif. Eine Krise muss **plattform-nativ** kommuniziert werden, nicht 1:1 über alle Kanäle ausgespielt.
 
 ---
 
@@ -10,12 +10,12 @@ Bei einer Krise sollten die Plattformen in einer bestimmten Reihenfolge bespielt
 
 | Reihenfolge | Plattform | Zeit nach Krisen-Erkennung |
 |---|---|---|
-| **1.** | **Intern** (Mail, Slack, Teams) — Mitarbeiter:innen | Stunde 1 |
-| **2.** | **Eigene Website** — Statement-Banner / Krisen-Seite | Stunde 1–2 |
-| **3.** | **Eigene Social-Media-Hauptkanäle** | Stunde 1–2 |
-| **4.** | **Direkte E-Mails / Briefe** an Betroffene | Stunde 2–6 |
-| **5.** | **Pressemitteilung** (wenn Presse-Anfragen kommen) | Stunde 2–6 |
-| **6.** | **Detaillierte Stellungnahme** auf allen Kanälen | Stunde 6–24 |
+| **1.** | **Intern** (Mail, Slack, Teams), Mitarbeiter:innen | Stunde 1 |
+| **2.** | **Eigene Website**, Statement-Banner / Krisen-Seite | Stunde 1 bis 2 |
+| **3.** | **Eigene Social-Media-Hauptkanäle** | Stunde 1 bis 2 |
+| **4.** | **Direkte E-Mails / Briefe** an Betroffene | Stunde 2 bis 6 |
+| **5.** | **Pressemitteilung** (wenn Presse-Anfragen kommen) | Stunde 2 bis 6 |
+| **6.** | **Detaillierte Stellungnahme** auf allen Kanälen | Stunde 6 bis 24 |
 
 **Wichtig:** Es ist kein „erst hier dann dort"-Schema im Sinne von Stunden, sondern eine **Priorisierung der Aufmerksamkeit**. Im Idealfall passiert vieles parallel.
 
@@ -40,7 +40,7 @@ Bei einer Krise sollten die Plattformen in einer bestimmten Reihenfolge bespielt
 **Tonalität:** Sachlich, vollständig, professionell. Hier ist mehr Tiefe erwartet als in Social Media.
 
 **Format-Tipps:**
-- Datierte Updates (nicht überschreiben — Versionen behalten)
+- Datierte Updates (nicht überschreiben, Versionen behalten)
 - FAQ-Sektion für häufige Fragen
 - Direkte Kontaktmöglichkeiten
 
@@ -57,11 +57,11 @@ Bei einer Krise sollten die Plattformen in einer bestimmten Reihenfolge bespielt
 ```
 
 **Spezifika:**
-- **Replies aktiv managen** — auf häufige Fragen antworten, aber nicht in Diskussionen geraten
+- **Replies aktiv managen**, auf häufige Fragen antworten, aber nicht in Diskussionen geraten
 - **Pinned Tweet** auf Statement
 - **Bio-Anpassung** bei längeren Krisen (kurze Erklärung)
-- **Subtweet vermeiden** — direkt sein
-- **Quote-Replies sparsam** — sie verstärken oft Kritik
+- **Subtweet vermeiden**, direkt sein
+- **Quote-Replies sparsam**, sie verstärken oft Kritik
 
 **Achtung:** Twitter/X ist die Plattform mit der höchsten Wahrscheinlichkeit, dass eine Krise dort **startet**. Monitoring hier ist intensiv.
 
@@ -76,22 +76,22 @@ Bei einer Krise sollten die Plattformen in einer bestimmten Reihenfolge bespielt
 
 **Spezifika:**
 - **Visuelle Statements** funktionieren besser als reine Text-Posts
-- **Kommentare unter Statement-Post sind sichtbar** — Kommentar-Strategie wichtig (siehe unten)
-- **Stories sind ephemer** — wichtige Updates immer auch im Feed
+- **Kommentare unter Statement-Post sind sichtbar**, Kommentar-Strategie wichtig (siehe unten)
+- **Stories sind ephemer**, wichtige Updates immer auch im Feed
 
 ### LinkedIn
 
 **Plattform-Charakteristik:** B2B, professionell, langsamere Eskalation.
 
 **Aufbau:**
-- **Statement vom CEO** (persönlicher Account) — wirkt authentischer
+- **Statement vom CEO** (persönlicher Account), wirkt authentischer
 - **Company-Page-Post** mit detaillierterer Information
 - **Längere Captions** sind erlaubt und erwartet
 
 **Spezifika:**
 - **Hier reagieren Business-Stakeholder** (Investor:innen, Großkund:innen, Partner)
 - **Sachlicher Ton** wichtig, weniger emotional
-- **Comments-Section beobachten** — hier kommen oft Branchen-Stimmen rein
+- **Comments-Section beobachten**, hier kommen oft Branchen-Stimmen rein
 
 ### Pressemitteilung / klassische Medien
 
@@ -132,9 +132,9 @@ Pressekontakt: Name, Position, Telefon, E-Mail
 
 **Spezifika:**
 - **Video-Statements vom CEO** (persönlich, ungefiltert, authentisch) wirken oft besser als Text
-- **Vermeiden:** überproduzierte Werbespots in Krisen — wirken inszeniert
+- **Vermeiden:** überproduzierte Werbespots in Krisen, wirken inszeniert
 - **Kommentare als Echtzeit-Feedback** wichtig
-- **Trend-Hetze NICHT** in Krisen — Trend-Sounds, Tanzformate etc. sind hier fehl am Platz
+- **Trend-Hetze NICHT** in Krisen, Trend-Sounds, Tanzformate etc. sind hier fehl am Platz
 
 ### Direkte Kommunikation per E-Mail / Brief
 
@@ -158,23 +158,23 @@ Bei einer Krise wird auf jedem Post eure Community kommentieren. Das richtige Ma
 Auf konkrete, sachliche Fragen direkt antworten. Konstruktive Kritik anerkennen.
 
 **2. Beobachten ohne Antworten**
-Bei beleidigenden oder eindeutig polemischen Kommentaren — nicht jede Kritik braucht eine Antwort.
+Bei beleidigenden oder eindeutig polemischen Kommentaren, nicht jede Kritik braucht eine Antwort.
 
 **3. Moderation (Hide / Block)**
 Bei Beleidigungen, Hassrede, eindeutigem Spam. **Aber:** Kritik ist KEINE Beleidigung. Wer kritische Stimmen löscht, eskaliert die Krise sofort.
 
 ### Was NICHT tun
 
-- **Kommentare deaktivieren** — wirkt wie Verschleierung
-- **Kritische Kommentare löschen** — wird sofort gespiegelt, eskaliert
-- **In Diskussionen geraten** — kann zur Eskalation in der Comments-Section führen
-- **Whataboutism** — „Aber andere Marken machen das auch!"
+- **Kommentare deaktivieren**, wirkt wie Verschleierung
+- **Kritische Kommentare löschen**, wird sofort gespiegelt, eskaliert
+- **In Diskussionen geraten**, kann zur Eskalation in der Comments-Section führen
+- **Whataboutism**, „Aber andere Marken machen das auch!"
 
 ### Was tun
 
-- **Auf konkrete Fragen antworten** — kurz, sachlich, verweis auf Stellungnahme
-- **Empathische Antworten** bei persönlichen Geschichten („Wir verstehen, dass Sie davon betroffen sind — schreiben Sie uns gerne unter [DM-Kontakt], damit wir helfen können.")
-- **Antworten zeitlich begrenzen** — nicht jede Stunde alle Kommentare durchgehen, sondern 2–3-mal täglich fokussiert reagieren
+- **Auf konkrete Fragen antworten**, kurz, sachlich, verweis auf Stellungnahme
+- **Empathische Antworten** bei persönlichen Geschichten („Wir verstehen, dass Sie davon betroffen sind, schreiben Sie uns gerne unter [DM-Kontakt], damit wir helfen können.")
+- **Antworten zeitlich begrenzen**, nicht jede Stunde alle Kommentare durchgehen, sondern 2 bis 3-mal täglich fokussiert reagieren
 - **Bei häufigen Fragen FAQ in der Krisen-Seite verlinken**
 
 ---
@@ -184,11 +184,11 @@ Bei Beleidigungen, Hassrede, eindeutigem Spam. **Aber:** Kritik ist KEINE Beleid
 Trotz plattform-spezifischer Anpassung gilt:
 
 - **Kernbotschaft konstant** über alle Plattformen
-- **Fakten konsistent** — was auf Twitter steht, darf auf LinkedIn nicht widersprechen
-- **Timeline konsistent** — alle Plattformen werden zur selben Zeit aktualisiert
+- **Fakten konsistent**, was auf Twitter steht, darf auf LinkedIn nicht widersprechen
+- **Timeline konsistent**, alle Plattformen werden zur selben Zeit aktualisiert
 - **Tonalität ähnlich** (nicht identisch, aber im selben Spektrum)
 
-**Häufiger Fehler:** Die PR-Abteilung gibt eine Pressemitteilung raus, das Social-Media-Team kommuniziert davon abweichend, der CEO postet privat etwas anderes. Drei Stimmen, drei Geschichten — Eskalation garantiert.
+**Häufiger Fehler:** Die PR-Abteilung gibt eine Pressemitteilung raus, das Social-Media-Team kommuniziert davon abweichend, der CEO postet privat etwas anderes. Drei Stimmen, drei Geschichten, Eskalation garantiert.
 
 **Lösung:** Krisenstab hat **ein** Statement, das durch alle Plattformen geht, nur in Format und Länge adaptiert.
 

@@ -1,29 +1,29 @@
-# X (Twitter) Best Practices — IST-Zustand Mai 2026
+# X (Twitter) Best Practices: IST-Zustand Mai 2026
 
 ---
 
 ## Die wichtigsten Grundregeln
 
-1. **Original Content priorisieren** — X booste seit Mai 2026 Original-Posts gegenüber Aggregator-Accounts
-2. **Replies sind das stärkste Signal** — Konversationen aktiv führen, nicht nur broadcasten
+1. **Original Content priorisieren**, X booste seit Mai 2026 Original-Posts gegenüber Aggregator-Accounts
+2. **Replies sind das stärkste Signal**, Konversationen aktiv führen, nicht nur broadcasten
 3. **Keine externen Links im Post-Text** (Test seit Juli 2024): Links in Replies statt im Post selbst posten; erhöht organische Reichweite
-4. **Premium lohnt sich für Profis** — Editier-Funktion, längere Videos, Articles, Custom Timelines
-5. **Echtzeit nutzen** — X ist die stärkste Plattform für Breaking News und Live-Kommentare
-6. **Threads für Tiefe** — Längere Gedankengänge als Thread, nicht als ein langer Post
-7. **Grok AI kennen** — Community Notes, Feed-Steuerung und Inhalts-Erkennung durch KI beeinflussen die Reichweite
+4. **Premium lohnt sich für Profis**, Editier-Funktion, längere Videos, Articles, Custom Timelines
+5. **Echtzeit nutzen**, X ist die stärkste Plattform für Breaking News und Live-Kommentare
+6. **Threads für Tiefe**, Längere Gedankengänge als Thread, nicht als ein langer Post
+7. **Grok AI kennen**, Community Notes, Feed-Steuerung und Inhalts-Erkennung durch KI beeinflussen die Reichweite
 
 ---
 
 ## Content-Strategie nach Format
 
 ### Reguläre Posts (Tweets)
-- **Prägnant und klar** — beste Posts brauchen keine 280 Zeichen; oft reichen 50–100
-- **Meinung statt Nachricht** — eigene Perspektive zu einem Thema performt besser als reine Nachrichtenweitergabe
-- **Fragen stellen** — triggern Replies, das stärkste Engagement-Signal
-- **Listen im Post** — "5 Dinge, die..." als nummierter Post performen stark
+- **Prägnant und klar**, beste Posts brauchen keine 280 Zeichen; oft reichen 50 bis 100
+- **Meinung statt Nachricht**, eigene Perspektive zu einem Thema performt besser als reine Nachrichtenweitergabe
+- **Fragen stellen**, triggern Replies, das stärkste Engagement-Signal
+- **Listen im Post**, "5 Dinge, die..." als nummierter Post performen stark
 
 ### Threads
-- Erster Post muss als Hook funktionieren — er entscheidet über das Weiterlesen
+- Erster Post muss als Hook funktionieren, er entscheidet über das Weiterlesen
 - Jeder einzelne Post im Thread soll auch standalone interessant sein
 - Letzter Post: CTA oder Zusammenfassung mit dem wichtigsten Insight
 - Ideal für: Erklärungen, Analysen, Lessons Learned, How-To
@@ -34,7 +34,7 @@
 - Audio Articles (seit März 2026): Erreicht Nutzer, die lieber hören als lesen
 
 ### Video
-- Kurze Clips (15–60 Sek.) für breite Reichweite
+- Kurze Clips (15 bis 60 Sek.) für breite Reichweite
 - Native Upload immer besser als YouTube-Link
 - Captions/Untertitel für Stummton-Zuschauer
 
@@ -43,7 +43,7 @@
 ## Engagement-Strategie
 
 ### Replies als Wachstumsmotor
-- Aktiv auf große Accounts in der eigenen Nische replyen — sichtbar für deren Follower
+- Aktiv auf große Accounts in der eigenen Nische replyen, sichtbar für deren Follower
 - Qualitative Replies schlagen substanzlose "Agreed!" Antworten um Längen
 - Reply vor dem eigenen Post lesen → zeigt welche Antworten bereits gegeben wurden
 
@@ -73,15 +73,15 @@ Für Brands und professionelle Creator lohnt sich X Premium wegen:
 
 ## Was auf X derzeit gut funktioniert (Mai 2026)
 
-1. **Original-Perspektiven** zu aktuellen Themen — X stärkt Original-Creator gezielt
-2. **Breaking News kommentieren** — Reaktionszeit unter 30 Minuten für maximale Reichweite
-3. **Threads mit echter Tiefe** — nicht nur Zusammenfassungen fremder Inhalte
-4. **Fragen an die Community** — generieren Replies = stärkstes Signal
-5. **Native Videos** — kein YouTube-Link, direkt auf X hochladen
-6. **Articles** für Thought Leadership — nativ auf X statt Blog-Traffic
-7. **Live-Event Tweeting** — Sport, Konferenzen, Earnings Calls
-8. **Cashtags** (US+Kanada, iOS) — für Finance-Content: echte Aktien-Daten eingebettet
-9. **Community Notes aufmerksam verfolgen** — eigene Posts auf faktische Korrektheit prüfen
+1. **Original-Perspektiven** zu aktuellen Themen, X stärkt Original-Creator gezielt
+2. **Breaking News kommentieren**, Reaktionszeit unter 30 Minuten für maximale Reichweite
+3. **Threads mit echter Tiefe**, nicht nur Zusammenfassungen fremder Inhalte
+4. **Fragen an die Community**, generieren Replies = stärkstes Signal
+5. **Native Videos**, kein YouTube-Link, direkt auf X hochladen
+6. **Articles** für Thought Leadership, nativ auf X statt Blog-Traffic
+7. **Live-Event Tweeting**, Sport, Konferenzen, Earnings Calls
+8. **Cashtags** (US+Kanada, iOS), für Finance-Content: echte Aktien-Daten eingebettet
+9. **Community Notes aufmerksam verfolgen**, eigene Posts auf faktische Korrektheit prüfen
 
 ---
 
@@ -96,7 +96,7 @@ Für Brands und professionelle Creator lohnt sich X Premium wegen:
 
 ## X für B2B: Stärken
 
-X ist neben LinkedIn die stärkste Plattform für B2B Thought Leadership — aber mit anderen Stärken:
+X ist neben LinkedIn die stärkste Plattform für B2B Thought Leadership, aber mit anderen Stärken:
 
 | X-Stärke | LinkedIn-Stärke |
 |---|---|
@@ -116,4 +116,4 @@ X ist neben LinkedIn die stärkste Plattform für B2B Thought Leadership — abe
 - FTC-Klage über Ad-Boykott beigelegt (Mai 2026): Einige Advertiser kehren zurück
 - Brands sollten aktiv Brand Safety-Einstellungen in X Ads nutzen
 - **"Paid Partnership" Label** (seit März 2026): Influencer-Kollaborationen klar kennzeichnen
-- Öffentliche Posts sind weiterhin für blockierte Nutzer sichtbar (seit September 2024) — relevant für Krisenmanagement
+- Öffentliche Posts sind weiterhin für blockierte Nutzer sichtbar (seit September 2024), relevant für Krisenmanagement

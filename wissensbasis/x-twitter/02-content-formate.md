@@ -1,4 +1,4 @@
-# X (Twitter) Content-Formate — IST-Zustand Mai 2026
+# X (Twitter) Content-Formate: IST-Zustand Mai 2026
 
 ---
 
@@ -71,7 +71,7 @@
 - Live-Audio-Konversationen
 - Bis zu 13 Co-Hosts möglich
 - Replays für Hörer zugänglich
-- Weiterhin aktiv, aber weniger im Fokus als 2021–2023
+- Weiterhin aktiv, aber weniger im Fokus als 2021 bis 2023
 
 ---
 
@@ -107,7 +107,7 @@
 
 ## Grok AI Features
 
-Grok ist tief in X integriert — nicht nur Algorithmus, sondern auch direkte Creator-Tools:
+Grok ist tief in X integriert, nicht nur Algorithmus, sondern auch direkte Creator-Tools:
 
 - **Profil-Bild-Bearbeitung mit Grok** (Januar 2026)
 - **AI Translations** in Posts/Replies (April 2026)

@@ -1,6 +1,6 @@
-# Säule 7 — Recovery & Post-Mortem
+# Säule 7: Recovery & Post-Mortem
 
-Die akute Krise ist vorbei. Die Welle ebbt ab. Aber die Arbeit ist nicht zu Ende — sie verlagert sich.
+Die akute Krise ist vorbei. Die Welle ebbt ab. Aber die Arbeit ist nicht zu Ende, sie verlagert sich.
 
 Diese Säule dokumentiert, was nach der akuten Krise passieren muss: **Reputations-Wiederaufbau** und **organisationales Lernen**.
 
@@ -12,8 +12,8 @@ Nach der akuten Krise laufen zwei Stränge parallel:
 
 | Track | Fokus | Zeitraum |
 |---|---|---|
-| **A: External Recovery** | Reputations-Wiederaufbau bei Stakeholdern | Woche 2–6, dann fortlaufend |
-| **B: Internal Post-Mortem** | Was haben wir gelernt? Was ändern wir? | Woche 2–4, dann jährlich-Review |
+| **A: External Recovery** | Reputations-Wiederaufbau bei Stakeholdern | Woche 2 bis 6, dann fortlaufend |
+| **B: Internal Post-Mortem** | Was haben wir gelernt? Was ändern wir? | Woche 2 bis 4, dann jährlich-Review |
 
 Beide Tracks sind gleich wichtig. Wer nur external arbeitet, lernt nichts und wiederholt den Fehler. Wer nur intern aufarbeitet, verliert den extern angeschlagenen Ruf.
 
@@ -21,7 +21,7 @@ Beide Tracks sind gleich wichtig. Wer nur external arbeitet, lernt nichts und wi
 
 ## Track A: External Recovery
 
-### Phase 1 — Stabilisierung (Woche 2)
+### Phase 1: Stabilisierung (Woche 2)
 
 Akute Welle ist vorbei. Was jetzt wichtig ist:
 
@@ -29,24 +29,24 @@ Akute Welle ist vorbei. Was jetzt wichtig ist:
 - **Korrekturmaßnahmen sichtbar machen:** Was ihr versprochen habt, jetzt zeigen
 - **Stakeholder-Beziehungen pflegen:** Großkund:innen anrufen, „Wie geht es Ihnen, wie können wir wieder Vertrauen aufbauen?"
 
-### Phase 2 — Vertrauenswiederaufbau (Woche 3–6)
+### Phase 2: Vertrauenswiederaufbau (Woche 3 bis 6)
 
-Hier geht es darum, das Vertrauen wieder zu stärken — nicht durch Worte, sondern durch **Taten**.
+Hier geht es darum, das Vertrauen wieder zu stärken, nicht durch Worte, sondern durch **Taten**.
 
 **Konkrete Maßnahmen:**
 
-- **Externe Audits sichtbar machen** — Wenn ihr eine unabhängige Untersuchung beauftragt habt, deren Ergebnisse veröffentlichen
-- **Korrekturmaßnahmen abschließen und kommunizieren** — Nicht nur, dass ihr etwas angefangen habt, sondern dass es funktioniert
-- **Branchen-Engagement** — Wenn die Krise systemisch war, Engagement in Brancheninitiativen für höhere Standards
-- **Strukturelle Transparenz** — Quartalsweise Status-Updates zu kritischen Bereichen (Sicherheit, Compliance, etc.)
+- **Externe Audits sichtbar machen**, Wenn ihr eine unabhängige Untersuchung beauftragt habt, deren Ergebnisse veröffentlichen
+- **Korrekturmaßnahmen abschließen und kommunizieren**, Nicht nur, dass ihr etwas angefangen habt, sondern dass es funktioniert
+- **Branchen-Engagement**, Wenn die Krise systemisch war, Engagement in Brancheninitiativen für höhere Standards
+- **Strukturelle Transparenz**, Quartalsweise Status-Updates zu kritischen Bereichen (Sicherheit, Compliance, etc.)
 
-### Phase 3 — Neu-Aufladung der Marke (Woche 6+)
+### Phase 3: Neu-Aufladung der Marke (Woche 6+)
 
 Sobald das Vertrauen stabilisiert ist, beginnt der **Normalisierungs-Prozess**:
 
 - **Vorsichtige Rückkehr** zur regulären Marken-Kommunikation
-- **Keine PR-Offensive** unmittelbar nach Krise — wirkt aufdringlich
-- **Kommunikation der Lernkurve** — wenn passend, wie Marke gewachsen ist
+- **Keine PR-Offensive** unmittelbar nach Krise, wirkt aufdringlich
+- **Kommunikation der Lernkurve**, wenn passend, wie Marke gewachsen ist
 
 **Wichtig:** Nicht jede Krise ist nach 6 Wochen vorbei. Manche Reputationsschäden brauchen Jahre. Erwartungsmanagement intern ist wichtig.
 
@@ -72,7 +72,7 @@ Sobald das Vertrauen stabilisiert ist, beginnt der **Normalisierungs-Prozess**:
 
 **Empfohlen: Blameless Post-Mortem** (aus der DevOps-Welt adaptiert).
 
-Prinzip: Menschen handeln in einem System. Wenn ein System Krisen produziert, ist das System das Problem — nicht die einzelne Person.
+Prinzip: Menschen handeln in einem System. Wenn ein System Krisen produziert, ist das System das Problem, nicht die einzelne Person.
 
 **Aufbau eines Post-Mortem-Meetings:**
 
@@ -110,12 +110,12 @@ Wer sollte dabei sein?
 
 | Rolle | Warum |
 |---|---|
-| **Krisenstab-Mitglieder** | Sie waren in der Krise — wissen, was funktioniert hat |
+| **Krisenstab-Mitglieder** | Sie waren in der Krise, wissen, was funktioniert hat |
 | **Direkt involvierte Operations** | Sie kennen die operative Realität |
 | **Comms / PR** | Kommunikations-Perspektive |
 | **Recht / Compliance** | Rechtliche Perspektive |
 | **HR** | Wenn Mitarbeiter:innen-Themen relevant waren |
-| **Externe Moderation (optional)** | Bei großen Krisen — hilft, Politik zu vermeiden |
+| **Externe Moderation (optional)** | Bei großen Krisen, hilft, Politik zu vermeiden |
 
 Wer NICHT primär dabei sein sollte: CEO-Direktbericht-Anhörung. Post-Mortem ist Arbeit, nicht Politik.
 
@@ -195,7 +195,7 @@ Action-Items aus dem Post-Mortem fließen direkt in das Playbook-Update.
 
 ## Reputations-Tracking nach der Krise
 
-Recovery ist messbar — oder zumindest annähernd.
+Recovery ist messbar, oder zumindest annähernd.
 
 **Kennzahlen für Recovery-Monitoring:**
 
@@ -209,7 +209,7 @@ Recovery ist messbar — oder zumindest annähernd.
 | **Mitarbeiter:innen-Zufriedenheit** | Welche Auswirkung auf das interne Klima? |
 | **Investor:innen-Konfidenz** | Bei börsennotierten Marken: Aktienkurs, Anleger-Stimmung |
 
-**Faustregel:** Recovery ist abgeschlossen, wenn die Kennzahlen 6–12 Monate stabil auf Vor-Krisen-Niveau oder darüber liegen. Bei manchen Krisen dauert das Jahre.
+**Faustregel:** Recovery ist abgeschlossen, wenn die Kennzahlen 6 bis 12 Monate stabil auf Vor-Krisen-Niveau oder darüber liegen. Bei manchen Krisen dauert das Jahre.
 
 ---
 
@@ -218,7 +218,7 @@ Recovery ist messbar — oder zumindest annähernd.
 Manchmal wird eine Krise zum **Identitäts-Merkmal** der Marke. Beispiele:
 - BP wird mit Deepwater Horizon (2010) noch heute verbunden
 - VW wird mit Diesel-Skandal (2015) noch heute verbunden
-- Wirecard wird mit Bilanz-Skandal (2020) verbunden — die Marke existiert nicht mehr
+- Wirecard wird mit Bilanz-Skandal (2020) verbunden, die Marke existiert nicht mehr
 
 Für solche Fälle gibt es keine „Recovery" im klassischen Sinne. Die Krise wird Teil der Marken-Geschichte und muss langfristig managed werden.
 
@@ -228,27 +228,27 @@ Für solche Fälle gibt es keine „Recovery" im klassischen Sinne. Die Krise wi
 
 ## Recovery-Checkliste
 
-### Tag 14 — Stabilisierung
+### Tag 14: Stabilisierung
 - [ ] Abschluss-Statement raus
 - [ ] Stakeholder-Beziehungen aktiv gepflegt
 - [ ] Korrekturmaßnahmen sichtbar im Fortschritt
 
-### Tag 30 — Vertrauenswiederaufbau läuft
+### Tag 30: Vertrauenswiederaufbau läuft
 - [ ] Post-Mortem-Meeting durchgeführt
 - [ ] Action-Items dokumentiert mit Owner / Deadline
 - [ ] Playbook-Update gestartet
 
-### Tag 60 — Erstes Follow-up
+### Tag 60: Erstes Follow-up
 - [ ] 30-Tage-Action-Items überprüft
 - [ ] Sentiment-Monitoring fortgesetzt
 - [ ] Externe Maßnahmen abgeschlossen oder mit Update
 
-### Tag 90 — Zweites Follow-up
+### Tag 90: Zweites Follow-up
 - [ ] 60-Tage-Action-Items überprüft
 - [ ] Reputations-Kennzahlen evaluiert
 - [ ] Entscheidung: weitere Maßnahmen nötig?
 
-### Jährlich — Krisen-Review
+### Jährlich: Krisen-Review
 - [ ] Playbook-Anpassungen umgesetzt
 - [ ] Krisenstab-Training durchgeführt
 - [ ] Lessons in Onboarding integriert

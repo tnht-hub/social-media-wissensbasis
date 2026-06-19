@@ -13,7 +13,7 @@ Die Kette ist immer dieselbe:
 ```
 IST (wo wir stehen)
    ↓
-SOLL (wo wir hinwollen, Säulen 01–04)
+SOLL (wo wir hinwollen, Säulen 01 bis 04)
    ↓
 GAP (die Lücke dazwischen)
    ↓

@@ -27,13 +27,13 @@ Aus den Quellen und aus der Praxis extrahiert. Diese Säule dokumentiert die hä
 
 ### Fehler 1: Zu früh optimieren
 
-**Symptom:** Nach 2–3 Tagen Budget gekürzt, Zielgruppe gewechselt oder Ad pausiert, weil die Zahlen "schlecht aussehen".
+**Symptom:** Nach 2 bis 3 Tagen Budget gekürzt, Zielgruppe gewechselt oder Ad pausiert, weil die Zahlen "schlecht aussehen".
 
 **Ursache:** Performance in der Lernphase als Entscheidungsgrundlage genommen. Die ist aber per Definition volatil.
 
 **Folge:** Jede Änderung setzt die Lernphase zurück. Der Account bleibt permanent im teuren Lern-Modus, CPL/CPA steigen.
 
-**Gegenmittel:** Lernphase respektieren (circa 50 Conversions/Woche). Mindestens 7–10 Tage stabile Daten abwarten. Während des Lernens nicht eingreifen (siehe Säule 06).
+**Gegenmittel:** Lernphase respektieren (circa 50 Conversions/Woche). Mindestens 7 bis 10 Tage stabile Daten abwarten. Während des Lernens nicht eingreifen (siehe Säule 06).
 
 ### Fehler 2: Zu viele Variablen gleichzeitig
 
@@ -53,7 +53,7 @@ Aus den Quellen und aus der Praxis extrahiert. Diese Säule dokumentiert die hä
 
 **Folge:** Keine Einheit erreicht ihre 50 Conversions/Woche. Alles bleibt in der Lernphase, alles ist teuer.
 
-**Gegenmittel:** Budget bündeln. Neue Plattformen nur mit 5–10 % testen, bevor echtes Budget fließt. Konsolidieren schlägt Zerstreuen (siehe Säule 02).
+**Gegenmittel:** Budget bündeln. Neue Plattformen nur mit 5 bis 10 % testen, bevor echtes Budget fließt. Konsolidieren schlägt Zerstreuen (siehe Säule 02).
 
 ### Fehler 4: Nur auf ROAS starren
 
@@ -123,7 +123,7 @@ Aus den Quellen und aus der Praxis extrahiert. Diese Säule dokumentiert die hä
 
 **Folge:** Wenn der Gewinner ermüdet, gibt es keinen Ersatz. Performance fällt von der Klippe.
 
-**Gegenmittel:** Laufend neue Konzepte und Hooks testen (10–20 % Test-Budget). Pipeline immer gefüllt halten (siehe Säule 04).
+**Gegenmittel:** Laufend neue Konzepte und Hooks testen (10 bis 20 % Test-Budget). Pipeline immer gefüllt halten (siehe Säule 04).
 
 ### Fehler 11: Schwacher Hook
 
@@ -133,7 +133,7 @@ Aus den Quellen und aus der Praxis extrahiert. Diese Säule dokumentiert die hä
 
 **Folge:** Der Algorithmus stuft den Content als geringwertig ein und unterdrückt die Distribution.
 
-**Gegenmittel:** Hooks separat testen, 10–20 Varianten pro Kern-Creative, starke Hook-Formate nutzen (siehe Säule 04).
+**Gegenmittel:** Hooks separat testen, 10 bis 20 Varianten pro Kern-Creative, starke Hook-Formate nutzen (siehe Säule 04).
 
 ### Fehler 12: Hektische Reaktion auf Plattform-Updates
 

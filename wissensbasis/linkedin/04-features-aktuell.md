@@ -1,4 +1,4 @@
-# LinkedIn Features — IST-Zustand Juni 2026
+# LinkedIn Features: IST-Zustand Juni 2026
 
 Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entfernt.
 

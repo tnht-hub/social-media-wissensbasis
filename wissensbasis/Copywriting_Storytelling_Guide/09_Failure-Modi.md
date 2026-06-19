@@ -1,6 +1,6 @@
-# Säule 9 — Failure-Modi: Was beim Copywriting schiefgeht
+# Säule 9: Failure-Modi: Was beim Copywriting schiefgeht
 
-Diese Säule dokumentiert die häufigsten Fehler im Copywriting & Storytelling — und wie ihr sie vermeidet.
+Diese Säule dokumentiert die häufigsten Fehler im Copywriting & Storytelling, und wie ihr sie vermeidet.
 
 Die Liste ist nach **Häufigkeit der Vorkommens** sortiert, nicht nach Schwere. Ein häufiger kleiner Fehler kann mehr Schaden anrichten als ein seltener großer.
 
@@ -38,7 +38,7 @@ Die Liste ist nach **Häufigkeit der Vorkommens** sortiert, nicht nach Schwere. 
 > „Wir freuen uns, euch unseren neuen Service vorzustellen. Unser innovatives Team arbeitet daran, eure Erfahrung noch besser zu machen."
 
 **Beispiel (stark):**
-> „Drei Wochen Stillschweigen — weil wir wussten: noch ein 'Erfahrungs-Update' und ihr scrollt weiter. Heute haben wir was, das den Unterschied macht."
+> „Drei Wochen Stillschweigen, weil wir wussten: noch ein 'Erfahrungs-Update' und ihr scrollt weiter. Heute haben wir was, das den Unterschied macht."
 
 **Korrektur:**
 - Voice in Säule 01 schärfen mit konkreten Beispielen
@@ -70,7 +70,7 @@ Die Liste ist nach **Häufigkeit der Vorkommens** sortiert, nicht nach Schwere. 
 
 **Symptom:** „Du arbeitest, damit andere ein besseres Leben haben."
 
-**Warum schwach:** Insbesondere für Late-Gen-Z signalisiert das Drittnutzen-Frame Selbstaufopferung — ein Narrativ, das diese Generation ablehnt.
+**Warum schwach:** Insbesondere für Late-Gen-Z signalisiert das Drittnutzen-Frame Selbstaufopferung, ein Narrativ, das diese Generation ablehnt.
 
 **Korrektur:**
 - Self-Interest-Frame nutzen: „Was hast du davon?"
@@ -102,7 +102,7 @@ Die Liste ist nach **Häufigkeit der Vorkommens** sortiert, nicht nach Schwere. 
 
 **Symptom:** „Tag a friend, der das kennt!", „Drop a 🔥 wenn ihr Sonntag bin!", „Like, wenn..."
 
-**Warum besonders gefährlich:** Plattform-Algorithmen erkennen Engagement-Bait aktiv und **strafen** die Posts ab. Das ist nicht Theorie — es ist messbar.
+**Warum besonders gefährlich:** Plattform-Algorithmen erkennen Engagement-Bait aktiv und **strafen** die Posts ab. Das ist nicht Theorie, es ist messbar.
 
 **Korrektur:**
 - Echte Engagement-Mechaniken nutzen (Polls, spezifische Fragen, Vervollständigung)
@@ -115,12 +115,12 @@ Die Liste ist nach **Häufigkeit der Vorkommens** sortiert, nicht nach Schwere. 
 **Warum schwach:** Authentizitäts-Verlust ist sofort spürbar. Cringe-Effekt.
 
 **Korrektur:**
-- Voice of Customer (Säule 02) — sammelt echte Sprache aus Reviews, Reddit, Communities
+- Voice of Customer (Säule 02), sammelt echte Sprache aus Reviews, Reddit, Communities
 - Niemals Trends mitmachen, die nicht zur Voice passen
 
 ### Fehler 9: Voice-Drift
 
-**Symptom:** Wenn ihr Posts von vor 12 Monaten mit aktuellen vergleicht, klingen sie deutlich anders — nicht in Tone, sondern in Voice.
+**Symptom:** Wenn ihr Posts von vor 12 Monaten mit aktuellen vergleicht, klingen sie deutlich anders, nicht in Tone, sondern in Voice.
 
 **Ursachen:**
 - Personalwechsel ohne Onboarding
@@ -168,20 +168,20 @@ Das ist Tagebuch, keine Story.
 
 **Symptom:** „Heute möchte ich mit euch über X sprechen." „Liebe Community, schon lange habe ich darüber nachgedacht..."
 
-**Warum schwach:** Aufwärm-Sätze sind Verschwendung von Akt I. Im Feed-Vorschau ist genau das sichtbar — und es lockt niemanden zum „Mehr"-Klick.
+**Warum schwach:** Aufwärm-Sätze sind Verschwendung von Akt I. Im Feed-Vorschau ist genau das sichtbar, und es lockt niemanden zum „Mehr"-Klick.
 
 **Korrektur:**
 - Direkt in den Hook gehen
-- Den ersten Satz, den ihr schreibt, oft löschen — der zweite ist meistens der bessere
+- Den ersten Satz, den ihr schreibt, oft löschen, der zweite ist meistens der bessere
 
 ### Fehler 14: Hashtag-Salat
 
-**Symptom:** 25–30 Hashtags am Ende eines Posts. „#marketing #branding #copywriting #content #social #digital #strategy..."
+**Symptom:** 25 bis 30 Hashtags am Ende eines Posts. „#marketing #branding #copywriting #content #social #digital #strategy..."
 
-**Warum schwach 2026:** Plattformen (insbesondere Instagram) haben Hashtag-Spam aktiv abgewertet. Max 3 Hashtags ist die heutige Empfehlung — oft sogar 0.
+**Warum schwach 2026:** Plattformen (insbesondere Instagram) haben Hashtag-Spam aktiv abgewertet. Max 3 Hashtags ist die heutige Empfehlung, oft sogar 0.
 
 **Korrektur:**
-- Max 2–5 Hashtags je nach Plattform
+- Max 2 bis 5 Hashtags je nach Plattform
 - Strategische Wahl, nicht Volumen
 
 ### Fehler 15: Versprechen ohne Substanz
@@ -234,7 +234,7 @@ Du merkst nach 6 Monaten: Eure Marke klingt nicht mehr wie eure Marke. Drei Schr
 2. **Reset:** Brand-Brief auf Stand vor 12 Monaten zurücksetzen, mit aktualisierten Voice-Beispielen.
 3. **Re-Anchor:** 5 manuelle, voice-true Posts in den nächsten 2 Wochen schreiben. Diese werden neue Voice-Beispiele.
 
-Voice-Reset dauert 4–6 Wochen, bis er bei der Zielgruppe ankommt.
+Voice-Reset dauert 4 bis 6 Wochen, bis er bei der Zielgruppe ankommt.
 
 ---
 

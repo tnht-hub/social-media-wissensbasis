@@ -36,7 +36,7 @@ Alle Quellen, auf die sich diese Guideline stützt. Stand: Juni 2026. Mischung a
 
 - **Superscale: Paid social media in 2026: what actually changed**
   https://superscale.ai/learn/paid-social-media/
-  *Plattform-Mix: Meta als Anker (50–70 %), TikTok (20–40 %), Test-Kanäle 5–10 %.*
+  *Plattform-Mix: Meta als Anker (50 bis 70 %), TikTok (20 bis 40 %), Test-Kanäle 5 bis 10 %.*
 
 - **inBeat Agency: Paid Social Strategy: How to Allocate Budget Across Meta, TikTok, and Snapchat**
   https://inbeat.agency/blog/paid-social-strategy
@@ -52,7 +52,7 @@ Alle Quellen, auf die sich diese Guideline stützt. Stand: Juni 2026. Mischung a
 
 - **AdManage.ai: Creative Testing Budget: 2026 Guide (Meta + TikTok)**
   https://admanage.ai/blog/creative-testing-budget-guide
-  *10–20 % des Budgets für laufendes Creative-Testing.*
+  *10 bis 20 % des Budgets für laufendes Creative-Testing.*
 
 - **Ledist Agency (DE): Meta Ads Budget: Wie viel ist genug?**
   https://ledistagency.de/blog/meta-ads-budget-richtig-einsetzen
@@ -116,7 +116,7 @@ Alle Quellen, auf die sich diese Guideline stützt. Stand: Juni 2026. Mischung a
 
 - **Kareon (DE): Die beste Meta Ads Strategie 2026**
   https://www.kareon.de/meta-ads-strategie-2026/
-  *Deutsche Quelle: Creative-First, 5–10 frische Varianten pro Monat, Hooks in den ersten 2 Sekunden, Skalierung 10–20 % alle 48–72 Std.*
+  *Deutsche Quelle: Creative-First, 5 bis 10 frische Varianten pro Monat, Hooks in den ersten 2 Sekunden, Skalierung 10 bis 20 % alle 48 bis 72 Std.*
 
 ---
 
@@ -168,7 +168,7 @@ Alle Quellen, auf die sich diese Guideline stützt. Stand: Juni 2026. Mischung a
 
 - **admetrics (DE): Meta Ads ROAS Strategie: profitabel skalieren mit klarer Messlogik**
   https://www.admetrics.io/de/post/meta-ads-roas-strategie-dtc-ecommerce-933
-  *Deutsche Quelle: ROAS als Ergebnis, Steuerung über CPA/CPM/Frequency, gestuftes "schrittweises" Skalieren (ohne konkrete Prozent-/Zeitangabe). Die Faustregel 10–20 % alle 48–72 Std ist durch Kareon belegt, MMI nennt 20 % alle 3–4 Tage.*
+  *Deutsche Quelle: ROAS als Ergebnis, Steuerung über CPA/CPM/Frequency, gestuftes "schrittweises" Skalieren (ohne konkrete Prozent-/Zeitangabe). Die Faustregel 10 bis 20 % alle 48 bis 72 Std ist durch Kareon belegt, MMI nennt 20 % alle 3 bis 4 Tage.*
 
 - **adcompany (DE): Meta Updates 2026: So bleibst du trotz Chaos profitabel**
   https://adcompany.net/blog/meta-ads-updates-2026

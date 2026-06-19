@@ -53,9 +53,9 @@ Die meisten erfahrenen Advertiser fahren weder rein broad noch rein interessenba
 
 | Anteil | Verwendung |
 |---|---|
-| **70–80 %** | Advantage+ / Broad-Targeting-Kampagnen (Prospecting) |
-| **10–20 %** | Retargeting (warme Audiences, siehe Säule 05) |
-| **5–10 %** | Interessen- oder Lookalike-Seeded-Kampagnen zum Testen neuer Konzepte oder Märkte |
+| **70 bis 80 %** | Advantage+ / Broad-Targeting-Kampagnen (Prospecting) |
+| **10 bis 20 %** | Retargeting (warme Audiences, siehe Säule 05) |
+| **5 bis 10 %** | Interessen- oder Lookalike-Seeded-Kampagnen zum Testen neuer Konzepte oder Märkte |
 
 ---
 

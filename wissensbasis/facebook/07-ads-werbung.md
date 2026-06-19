@@ -1,12 +1,12 @@
-# Facebook Ads & Werbung — IST-Zustand Mai 2026
+# Facebook Ads & Werbung: IST-Zustand Mai 2026
 
 ---
 
-## Meta Ads — Überblick
+## Meta Ads: Überblick
 
-Facebook-Werbung läuft über das **Meta Ads Manager** System — eines der präzisesten Targeting-Systeme aller Social-Media-Plattformen. Das System umfasst Facebook, Instagram und (seit Mai 2026) Threads.
+Facebook-Werbung läuft über das **Meta Ads Manager** System, eines der präzisesten Targeting-Systeme aller Social-Media-Plattformen. Das System umfasst Facebook, Instagram und (seit Mai 2026) Threads.
 
-**Wichtige Neuerung Mai 2026:** Advanced Ad Placement Controls auf Threads ausgeweitet — Brands können Anzeigen plattformübergreifend steuern.
+**Wichtige Neuerung Mai 2026:** Advanced Ad Placement Controls auf Threads ausgeweitet, Brands können Anzeigen plattformübergreifend steuern.
 
 **April 30, 2026:** Meta AI Ad Connectors erlauben externen Chatbots (Claude, ChatGPT) die Nutzung von Meta Ads-Funktionen.
 
@@ -21,17 +21,17 @@ Facebook-Werbung läuft über das **Meta Ads Manager** System — eines der prä
 
 ### Reels Ads
 - Pre-Roll und Mid-Roll innerhalb von Reels
-- Autoplay ohne Ton — Captions und visueller Hook kritisch
+- Autoplay ohne Ton, Captions und visueller Hook kritisch
 - Höchste Sichtbarkeit durch Reels-Tab-Dominanz
 
 ### Stories Ads
 - Vollbild-Format (9:16)
-- 15–20 Sekunden
+- 15 bis 20 Sekunden
 - Hohe Immersion
 
 ### Carousel Ads
 - Bis zu 10 Fotos oder Videos in einer Anzeige
-- Laut Meta: bis zu **30–50% niedrigere Cost per Acquisition** vs. Standard-Einzel-Bild-Ads
+- Laut Meta: bis zu **30 bis 50% niedrigere Cost per Acquisition** vs. Standard-Einzel-Bild-Ads
 - Ideal für Produkt-Showcases, Schritt-für-Schritt-Erklärungen
 
 ### Collection Ads
@@ -73,7 +73,7 @@ Facebook-Werbung läuft über das **Meta Ads Manager** System — eines der prä
 - **Website Custom Audiences:** Via Meta Pixel (Conversion Tracking)
 - **App Custom Audiences:** Basierend auf App-Nutzung
 - **Engagement Custom Audiences:** Nutzer, die mit Videos, Seiten oder Events interagiert haben
-- **Retention Window (Mai 2026):** Purchase-Event-Retention-Fenster von 180 auf **730 Tage** ausgeweitet — längerfristiges Remarketing von Käufern möglich
+- **Retention Window (Mai 2026):** Purchase-Event-Retention-Fenster von 180 auf **730 Tage** ausgeweitet, längerfristiges Remarketing von Käufern möglich
 
 ### Lookalike Audiences
 - Ähnliche Nutzer zu bestehenden Custom Audiences
@@ -107,13 +107,13 @@ Facebook-Werbung läuft über das **Meta Ads Manager** System — eines der prä
 
 | Metrik | Typischer Bereich |
 |---|---|
-| CPM (Cost per 1.000 Impressionen) | 5–15 € |
-| CPC (Cost per Click) | 0,20–1,50 € |
-| CPL (Cost per Lead) | 5–50 € (abhängig von Branche) |
-| CPA (Cost per Acquisition) | 10–80 € |
-| Carousel CPA | Ca. 30–50% günstiger als Einzel-Bild |
+| CPM (Cost per 1.000 Impressionen) | 5 bis 15 € |
+| CPC (Cost per Click) | 0,20 bis 1,50 € |
+| CPL (Cost per Lead) | 5 bis 50 € (abhängig von Branche) |
+| CPA (Cost per Acquisition) | 10 bis 80 € |
+| Carousel CPA | Ca. 30 bis 50% günstiger als Einzel-Bild |
 
-Meta Ads sind **günstiger als LinkedIn-Ads**, aber teurer als TikTok. Die Stärke liegt im **präzisesten Targeting-System aller Social-Plattformen** — Custom Audiences und Lookalikes sind besonders effektiv.
+Meta Ads sind **günstiger als LinkedIn-Ads**, aber teurer als TikTok. Die Stärke liegt im **präzisesten Targeting-System aller Social-Plattformen**, Custom Audiences und Lookalikes sind besonders effektiv.
 
 ---
 
@@ -137,7 +137,7 @@ Meta Ads sind **günstiger als LinkedIn-Ads**, aber teurer als TikTok. Die Stär
 
 ## Brand Safety
 
-- **Ad-Label-Umstellung (März 2026):** Anzeigen-Kennzeichnung von „Sponsored" auf **„Ad"** geändert — kürzere, direktere Kennzeichnung in allen Placements
+- **Ad-Label-Umstellung (März 2026):** Anzeigen-Kennzeichnung von „Sponsored" auf **„Ad"** geändert, kürzere, direktere Kennzeichnung in allen Placements
 - **Advanced Ad Placement Controls** (erweitert Mai 2026): Granulare Kontrolle über Placements auf Facebook, Instagram und Threads
 - **Inventory Filter:** Kategorien für Brand-unsafe Content ausschließen
 - **Keyword Blocklists:** Bestimmte Themenumfelder ausschließen
@@ -148,8 +148,8 @@ Meta Ads sind **günstiger als LinkedIn-Ads**, aber teurer als TikTok. Die Stär
 ## Empfohlene Ad-Strategie für Facebook
 
 ### Einstieg
-1. **Meta Pixel installieren** — Basis für Conversion-Tracking und Remarketing
-2. **Bestehende organische Top-Posts bewerben** — Posts mit bereits hohem Engagement als Ads schalten
+1. **Meta Pixel installieren**, Basis für Conversion-Tracking und Remarketing
+2. **Bestehende organische Top-Posts bewerben**, Posts mit bereits hohem Engagement als Ads schalten
 3. **Traffic-Kampagne** mit Website Custom Audience aufbauen
 
 ### Skalierung
@@ -159,8 +159,8 @@ Meta Ads sind **günstiger als LinkedIn-Ads**, aber teurer als TikTok. Die Stär
 4. **Creator Partnerships** (Branded Content) für authentischere Reichweite
 
 ### Beste Branchen für Meta/Facebook Ads
-- **E-Commerce / D2C** — Custom Audiences + Shopping Catalog sehr effektiv
+- **E-Commerce / D2C**, Custom Audiences + Shopping Catalog sehr effektiv
 - **B2C Services** (Versicherungen, Immobilien, Bildung)
-- **Lokale Businesses** — Geo-Targeting sehr präzise
-- **Consumer Apps** — App Install-Kampagnen
-- **Events / Entertainment** — Event Ads mit Standort-Targeting
+- **Lokale Businesses**, Geo-Targeting sehr präzise
+- **Consumer Apps**, App Install-Kampagnen
+- **Events / Entertainment**, Event Ads mit Standort-Targeting

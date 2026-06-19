@@ -1,4 +1,4 @@
-# Facebook — Wissensdatenbank IST-Zustand Mai 2026
+# Facebook: Wissensdatenbank IST-Zustand Mai 2026
 
 Diese Datenbank dokumentiert den aktuellen Stand von Facebook als Plattform. Alle Inhalte basieren ausschließlich auf den folgenden Quellen und spiegeln den Stand **Mai 2026** wider.
 
@@ -17,31 +17,31 @@ Diese Datenbank dokumentiert den aktuellen Stand von Facebook als Plattform. All
 ## Schnellübersicht: Was auf Facebook gerade wichtig ist
 
 ### Plattform-Status Mai 2026
-- **Nutzerzahlen:** Q1 2026 erstmals rückläufig — erster Rückgang bei täglich aktiven Nutzern in der Geschichte von Facebook (April 2026)
-- **KI-Strategie:** Meta investiert massiv in KI — 8.000 Stellen gestrichen, Budget in AI-Entwicklung umgeleitet (Mai 2026)
+- **Nutzerzahlen:** Q1 2026 erstmals rückläufig, erster Rückgang bei täglich aktiven Nutzern in der Geschichte von Facebook (April 2026)
+- **KI-Strategie:** Meta investiert massiv in KI, 8.000 Stellen gestrichen, Budget in AI-Entwicklung umgeleitet (Mai 2026)
 - **Forum App:** Facebook Groups-Aktivität in eigenständige App ausgelagert (Launch: 25. Mai 2026)
-- **Primäre Metrik:** Views (seit November 2024) — gleiche Umstellung wie Instagram im August 2024
+- **Primäre Metrik:** Views (seit November 2024), gleiche Umstellung wie Instagram im August 2024
 
 ### Die wichtigsten Veränderungen
-1. **Alle Videos = Reels** — seit Juli 2025 gibt es keine separaten Video-Posts mehr
+1. **Alle Videos = Reels**, seit Juli 2025 gibt es keine separaten Video-Posts mehr
 2. **Community Notes** ersetzen Drittanbieter-Faktenchecks (seit Januar 2025)
-3. **Creator Fast Track** — garantierte monatliche Auszahlungen für qualifizierte Creator (März 2026)
-5. **KI-Übersetzungen für Reels** — Dubbing + Lip Sync (August 2025)
-6. **Links in Captions reduzieren Reichweite** — Best Practice: Links in Kommentare (seit Juni 2025)
-7. **Unoriginal Content wird algorithmisch abgestraft** — Original-Content-Richtlinien (seit Juli 2025)
+3. **Creator Fast Track**, garantierte monatliche Auszahlungen für qualifizierte Creator (März 2026)
+5. **KI-Übersetzungen für Reels**, Dubbing + Lip Sync (August 2025)
+6. **Links in Captions reduzieren Reichweite**, Best Practice: Links in Kommentare (seit Juni 2025)
+7. **Unoriginal Content wird algorithmisch abgestraft**, Original-Content-Richtlinien (seit Juli 2025)
 
 ### Stärken von Facebook 2026
 - Größte Social-Media-Plattform weltweit (trotz rückläufiger Trendwerte)
 - Stärkste Plattform für Gruppen und Communities (vor Auslagerung in Forum App)
-- Reels für organische Entdeckung — stärkster Discovery-Kanal
+- Reels für organische Entdeckung, stärkster Discovery-Kanal
 - Meta Ads = präzisestes Targeting-System aller Social-Plattformen
 - Live-Streaming bis 8 Stunden
-- Starke B2C-Zielgruppen (Millennials, Gen X, 35–65)
+- Starke B2C-Zielgruppen (Millennials, Gen X, 35 bis 65)
 - Meta Business Suite: umfassendes Business-Tool-Ökosystem
 
 ### Schwächen / Risiken
-- Rückgang bei jungen Nutzern (unter 25) — TikTok und Instagram bevorzugt
-- Erster Q1-Rückgang bei DAU (April 2026) — strukturelles Signal
+- Rückgang bei jungen Nutzern (unter 25), TikTok und Instagram bevorzugt
+- Erster Q1-Rückgang bei DAU (April 2026), strukturelles Signal
 - Brand Safety: AI-generierte Inhalte und Desinformationsrisiko
 - Organische Reichweite für Pages ohne Ad-Budget sehr begrenzt
 

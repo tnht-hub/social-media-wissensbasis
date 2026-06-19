@@ -1,4 +1,4 @@
-# Säule 7 — Post-Production-Workflow
+# Säule 7: Post-Production-Workflow
 
 Die letzte Meile entscheidet. Auch ein technisch sauberes Compositing kann durch schlechte Post-Production verlieren. Diese Säule dokumentiert den Editing- und Export-Workflow.
 
@@ -77,12 +77,12 @@ Ziel: **Funktioniert die Story?** Polish kommt erst danach.
 
 **Zwei Phasen:**
 
-**Phase A — Color Correction (Technical):**
+**Phase A, Color Correction (Technical):**
 - Belichtung normalisieren
 - White-Balance ausgleichen
 - Schwächen ausgleichen
 
-**Phase B — Color Grading (Creative):**
+**Phase B, Color Grading (Creative):**
 - Look-Vision umsetzen (LUT, manuelle Anpassungen)
 - Stimmung etablieren
 - Konsistenz über Cuts
@@ -121,10 +121,10 @@ Plattform-Specs befolgen (siehe unten).
 
 ## Schnitt-Rhythmus für Social Video
 
-### Reel / TikTok (15–60 Sek)
-- **Hook (0–3 Sek):** 1–2 Cuts max
-- **Mittelteil:** Cuts alle 2–4 Sek
-- **Auflösung (letzte 3 Sek):** 1–2 Cuts
+### Reel / TikTok (15 bis 60 Sek)
+- **Hook (0 bis 3 Sek):** 1 bis 2 Cuts max
+- **Mittelteil:** Cuts alle 2 bis 4 Sek
+- **Auflösung (letzte 3 Sek):** 1 bis 2 Cuts
 
 Schneller Pace hält Aufmerksamkeit. Aber: nicht so schnell, dass nichts mehr verarbeitet werden kann.
 
@@ -132,11 +132,11 @@ Schneller Pace hält Aufmerksamkeit. Aber: nicht so schnell, dass nichts mehr ve
 - Ähnlich wie Reel, leicht ruhiger erlaubt
 
 ### Long-Form YouTube (3+ Min)
-- Cuts alle 5–10 Sek
+- Cuts alle 5 bis 10 Sek
 - Bei Talking-Head: Jump Cuts kaschieren mit B-Roll oder Text-Overlay
 
 ### Pattern-Interrupts
-Aller 3–5 Sek ein Pattern-Interrupt (siehe Hook-Bibliothek im Copywriting-Guide):
+Aller 3 bis 5 Sek ein Pattern-Interrupt (siehe Hook-Bibliothek im Copywriting-Guide):
 - Cut
 - Größenänderung
 - Bewegung
@@ -170,7 +170,7 @@ Für konsistenten Brand-Look: **Custom LUT** entwickeln (oder kaufen).
 5. **Final Look:** Letzter Schliff, Vignette, Grain
 
 ### Konsistenz-Check
-Alle Clips parallel scrollen — wirken sie wie eine Familie? Wenn nicht: Grade nachschärfen.
+Alle Clips parallel scrollen, wirken sie wie eine Familie? Wenn nicht: Grade nachschärfen.
 
 ---
 
@@ -182,8 +182,8 @@ Alle Clips parallel scrollen — wirken sie wie eine Familie? Wenn nicht: Grade 
 - **Codec:** H.264
 - **Auflösung:** 1080 × 1920 px (9:16)
 - **Framerate:** 30 oder 60 fps (60 für smooth motion)
-- **Bitrate:** 5–10 Mbps
-- **Audio:** AAC 128–256 kbps
+- **Bitrate:** 5 bis 10 Mbps
+- **Audio:** AAC 128 bis 256 kbps
 - **Länge:** Max 90 Sek (für volle Distribution)
 
 ### TikTok
@@ -191,17 +191,17 @@ Alle Clips parallel scrollen — wirken sie wie eine Familie? Wenn nicht: Grade 
 - **Format:** MP4
 - **Auflösung:** 1080 × 1920 px (9:16)
 - **Framerate:** 30 fps Standard
-- **Bitrate:** 5–10 Mbps
+- **Bitrate:** 5 bis 10 Mbps
 - **Audio:** AAC, ~128 kbps
-- **Länge:** 15–60 Sek Sweet Spot
+- **Länge:** 15 bis 60 Sek Sweet Spot
 
 ### YouTube Short
 
 - **Format:** MP4
 - **Auflösung:** 1080 × 1920 px (9:16) oder 1920 × 1080 (16:9 für Standard)
 - **Framerate:** 30 fps (60 fps optional)
-- **Bitrate:** 8–15 Mbps
-- **Audio:** AAC, 128–384 kbps
+- **Bitrate:** 8 bis 15 Mbps
+- **Audio:** AAC, 128 bis 384 kbps
 - **Länge:** Bis 60 Sek für Shorts
 
 ### LinkedIn Video
@@ -209,7 +209,7 @@ Alle Clips parallel scrollen — wirken sie wie eine Familie? Wenn nicht: Grade 
 - **Format:** MP4
 - **Auflösung:** 1080 × 1920 (vertikal) oder 1920 × 1080 (horizontal)
 - **Framerate:** 30 fps
-- **Bitrate:** 5–10 Mbps
+- **Bitrate:** 5 bis 10 Mbps
 - **Audio:** AAC
 - **Länge:** 30 Sek bis 10 Min (3 Min Sweet Spot)
 
@@ -224,7 +224,7 @@ Alle Clips parallel scrollen — wirken sie wie eine Familie? Wenn nicht: Grade 
 
 - **Format:** MP4
 - **Auflösung:** 1080 × 1350 (4:5) oder 1080 × 1080 (1:1)
-- **Länge:** 3–60 Sek
+- **Länge:** 3 bis 60 Sek
 
 ---
 
@@ -272,7 +272,7 @@ Editing-Tools wie Premiere haben „Auto Reframe"-Funktionen, die das automatisc
 Wenn Ende und Anfang nahtlos zusammenpassen, läuft das Video oft mehrfach durch → bessere Watch-Time → bessere Algorithm-Signale.
 
 ### Hook-Optimization
-Die ersten 0–2 Sek müssen sofort funktionieren — sonst wird weggescrollt. Das ist Editing-Arbeit, nicht nur Konzept.
+Die ersten 0 bis 2 Sek müssen sofort funktionieren, sonst wird weggescrollt. Das ist Editing-Arbeit, nicht nur Konzept.
 
 ### Audio-On Optimization
 Wenn 20 % der Audience mit Ton schaut, ist deren Engagement höher gewichtet. Sound muss attraktiv genug sein, um Hand-zum-Lautstärke zu triggern.

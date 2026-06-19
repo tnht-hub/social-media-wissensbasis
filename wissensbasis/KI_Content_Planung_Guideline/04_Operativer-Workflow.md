@@ -1,4 +1,4 @@
-# Säule 4 — Operativer Workflow (Monatszyklus)
+# Säule 4: Operativer Workflow (Monatszyklus)
 
 Inspiriert von AdVenture Media (Claude-Code-Workflow) und JPK Design (Prompt-Sequenzen).
 
@@ -12,21 +12,21 @@ Inspiriert von AdVenture Media (Claude-Code-Workflow) und JPK Design (Prompt-Seq
 
 | Phase | Aufwand | Frequenz | Output |
 |---|---|---|---|
-| **A — Monatsstrategie** | 1 Stunde | 1× pro Monat | Themenplan |
-| **B — Themen-zu-Posts** | 2 Stunden | 1× pro Monat | Konkrete Post-Entwürfe |
-| **C — Qualitäts-Check** | 15 Min pro Wochen-Batch | wöchentlich | Brand-Compliance |
-| **D — Multi-Plattform-Repurposing** | 30 Min pro Hauptbeitrag | nach Bedarf | Plattform-Varianten |
+| **A, Monatsstrategie** | 1 Stunde | 1× pro Monat | Themenplan |
+| **B, Themen-zu-Posts** | 2 Stunden | 1× pro Monat | Konkrete Post-Entwürfe |
+| **C, Qualitäts-Check** | 15 Min pro Wochen-Batch | wöchentlich | Brand-Compliance |
+| **D, Multi-Plattform-Repurposing** | 30 Min pro Hauptbeitrag | nach Bedarf | Plattform-Varianten |
 
-**Gesamt: ca. 4–5 Stunden pro Monat** für einen vollen Multi-Plattform-Content-Plan.
+**Gesamt: ca. 4 bis 5 Stunden pro Monat** für einen vollen Multi-Plattform-Content-Plan.
 
 ---
 
-## Phase A — Monatsstrategie
+## Phase A: Monatsstrategie
 
-**Prompt 1 — Monats-Themen-Plan generieren:**
+**Prompt 1, Monats-Themen-Plan generieren:**
 
 ```
-[Brand-Brief einfügen — aus 01_Fundament_Brand-Brief.md]
+[Brand-Brief einfügen, aus 01_Fundament_Brand-Brief.md]
 
 Generiere mir einen Monatsplan für [MONAT/JAHR] mit:
 - 4 Wochenthemen, rotiere durch unsere Content-Pillars
@@ -46,9 +46,9 @@ Das ist eine Mini-Adversarial-Verifikation, die unbrauchbaren Output vor Phase B
 
 ---
 
-## Phase B — Themen-zu-Posts
+## Phase B: Themen-zu-Posts
 
-**Prompt 2 — Wochen-Posts ausarbeiten:**
+**Prompt 2, Wochen-Posts ausarbeiten:**
 
 ```
 [Brand-Brief einfügen]
@@ -75,11 +75,11 @@ Output als CSV-Tabelle.
 
 ---
 
-## Phase C — Qualitäts-Check
+## Phase C: Qualitäts-Check
 
-Der wichtigste Filter — KI prüft sich selbst gegen den Brand-Brief.
+Der wichtigste Filter, KI prüft sich selbst gegen den Brand-Brief.
 
-**Prompt 3 — Brand-Compliance & Shareability-Check:**
+**Prompt 3, Brand-Compliance & Shareability-Check:**
 
 ```
 [Generierte Posts einfügen]
@@ -99,16 +99,16 @@ Verbesserungs-Vorschläge für jede Schwachstelle.
 
 ---
 
-## Phase D — Multi-Plattform-Repurposing
+## Phase D: Multi-Plattform-Repurposing
 
-Buffer und Postiv zeigen: Ein gut gemachter Hauptbeitrag wird zu **5–7 Plattform-Varianten**.
+Buffer und Postiv zeigen: Ein gut gemachter Hauptbeitrag wird zu **5 bis 7 Plattform-Varianten**.
 
 **Spezialtools (siehe `05_Tool-Stack.md`):**
 - **Opus Clip** für Video-Schnitte
 - **Repurpose.io** für Text-zu-Video
 - **Contentdrips** für plattform-spezifische Adaptionen
 
-**Prompt 4 — Cross-Plattform-Adapt:**
+**Prompt 4, Cross-Plattform-Adapt:**
 
 ```
 [Originalpost einfügen]
@@ -129,7 +129,7 @@ Berücksichtige die Plattform-Personas aus dem Brand-Brief.
 ## Häufige Fehler in der Workflow-Anwendung
 
 ### Fehler 1: Zu viele Plattformen auf einmal
-KI verliert Plattform-Nuancen, wenn mehr als 3–4 Plattformen gleichzeitig bedient werden. Lieber zwei Sessions: erst visuelle Plattformen (IG, TikTok, Pinterest), dann textuelle (LinkedIn, X, Threads).
+KI verliert Plattform-Nuancen, wenn mehr als 3 bis 4 Plattformen gleichzeitig bedient werden. Lieber zwei Sessions: erst visuelle Plattformen (IG, TikTok, Pinterest), dann textuelle (LinkedIn, X, Threads).
 
 ### Fehler 2: Wochen-Batch zu groß
 Wenn ein Prompt für 30+ Posts auf einmal generiert wird, kippt die Qualität in der Mitte. Lieber Woche für Woche.
@@ -138,10 +138,10 @@ Wenn ein Prompt für 30+ Posts auf einmal generiert wird, kippt die Qualität in
 „Sieht doch gut aus" reicht nicht. Brand-Compliance-Check ist Pflicht, nicht optional. Eine einzige Verwendung eines verbrannten Begriffs zerstört monatelange Strategiearbeit.
 
 ### Fehler 4: Keine Reaktiv-Slots
-KI plant 100 % der Posts vor. Behalte **5–8 Slots pro Monat frei** für reaktiven, handgemachten Content (Trending Topics, Krisenreaktion, spontane Gelegenheiten). Hybrid schlägt vollautomatisch.
+KI plant 100 % der Posts vor. Behalte **5 bis 8 Slots pro Monat frei** für reaktiven, handgemachten Content (Trending Topics, Krisenreaktion, spontane Gelegenheiten). Hybrid schlägt vollautomatisch.
 
 ### Fehler 5: Workflow wird Selbstzweck
-KI generiert effizient — aber wenn der Output mittelmäßig bleibt, hat Effizienz keinen Wert. Lieber **weniger Posts in höherer Qualität** als ein Volllast-Kalender mit generischem Content.
+KI generiert effizient, aber wenn der Output mittelmäßig bleibt, hat Effizienz keinen Wert. Lieber **weniger Posts in höherer Qualität** als ein Volllast-Kalender mit generischem Content.
 
 ---
 
@@ -156,10 +156,10 @@ Ehrlich verteilt:
 | Qualitäts-Check (Phase C) | 15 Min | 30 Min |
 | Cross-Plattform (Phase D, ein Beitrag) | 15 Min | 45 Min |
 
-Geübte Anwender:innen schaffen einen Monatsplan in 3–4 Stunden. Einsteiger:innen brauchen das Doppelte, werden aber nach 2–3 Monaten schneller.
+Geübte Anwender:innen schaffen einen Monatsplan in 3 bis 4 Stunden. Einsteiger:innen brauchen das Doppelte, werden aber nach 2 bis 3 Monaten schneller.
 
 ---
 
 ## Erweiterung: Performance-Lernschleife
 
-Siehe `06_Feedback-Loop.md` — der Workflow wird nach 30 Tagen mit echten Daten gefüttert und lernt iterativ besser zu prompten.
+Siehe `06_Feedback-Loop.md`, der Workflow wird nach 30 Tagen mit echten Daten gefüttert und lernt iterativ besser zu prompten.

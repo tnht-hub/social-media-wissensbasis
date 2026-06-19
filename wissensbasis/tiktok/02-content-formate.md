@@ -1,4 +1,4 @@
-# TikTok Content-Formate — IST-Zustand Mai 2026
+# TikTok Content-Formate: IST-Zustand Mai 2026
 
 ---
 
@@ -8,13 +8,13 @@
 
 | Parameter | Spezifikation |
 |---|---|
-| **Format** | Vertikal (9:16) bevorzugt — 1080×1920 px |
-| **Horizontal** | Möglich (Feb 2024 getestet — "boosted views" für 72h bei Teilnahme); weniger verbreitet |
+| **Format** | Vertikal (9:16) bevorzugt, 1080×1920 px |
+| **Horizontal** | Möglich (Feb 2024 getestet, "boosted views" für 72h bei Teilnahme); weniger verbreitet |
 | **Maximale Länge** | 60 Minuten (seit ~2024 für alle) |
-| **Optimal (Reichweite)** | 15–60 Sekunden |
+| **Optimal (Reichweite)** | 15 bis 60 Sekunden |
 | **Creator Rewards** | Min. 60 Sekunden (seit März 2024 Pflicht für Monetarisierung) |
 | **Caption-Länge** | Bis zu 4.000 Zeichen |
-| **Custom Thumbnail** | Möglich (seit Juli 2024) — jederzeit uploadbar |
+| **Custom Thumbnail** | Möglich (seit Juli 2024), jederzeit uploadbar |
 | **Download** | Mit oder ohne Wasserzeichen (seit Juli 2024: "Save with watermark" / "Post to save without watermark") |
 
 ### Video-Längen-Empfehlung
@@ -22,10 +22,10 @@
 | Länge | Einsatz |
 |---|---|
 | **< 15 Sekunden** | Maximale Completion Rate; ideal für Trends, Humor, Hooks |
-| **15–30 Sekunden** | Sweet Spot für breite Reichweite |
-| **30–60 Sekunden** | Informativer Content, Tutorials, Storytelling |
-| **1–3 Minuten** | Tiefere Themen; nur wenn Watch Time hoch bleibt |
-| **3–10 Minuten** | Long-Form; niedrigere Completion Rate, aber Watch Time kann gut sein |
+| **15 bis 30 Sekunden** | Sweet Spot für breite Reichweite |
+| **30 bis 60 Sekunden** | Informativer Content, Tutorials, Storytelling |
+| **1 bis 3 Minuten** | Tiefere Themen; nur wenn Watch Time hoch bleibt |
+| **3 bis 10 Minuten** | Long-Form; niedrigere Completion Rate, aber Watch Time kann gut sein |
 | **> 10 Minuten** | Nur für etablierte Creator mit treuer Community |
 
 ---
@@ -91,10 +91,10 @@
 ## TikTok Shop / Shopping
 
 - Direkt-Einkauf aus dem Video heraus
-- **TikTok Go** (seit Mai 2026, US): Travel Affiliate — Creator verdienen Provisionen durch Tagging von Unternehmen in Posts
+- **TikTok Go** (seit Mai 2026, US): Travel Affiliate, Creator verdienen Provisionen durch Tagging von Unternehmen in Posts
 - Affiliate-Marketing durch Creator: Kernwachstumsbereich
 - Most Loved Badge für Produkte (seit Februar 2025): Produkte mit höchsten Ratings
-- Counterfeit Goods Detection — TikTok Real-Programm (seit Mai 2026)
+- Counterfeit Goods Detection, TikTok Real-Programm (seit Mai 2026)
 
 ---
 
@@ -112,7 +112,7 @@
 
 ## TikTok Studio (Creator Tool)
 
-Seit Juni 2024 verfügbar — zentrales Creator-Dashboard:
+Seit Juni 2024 verfügbar, zentrales Creator-Dashboard:
 - Video-Upload, Editing
 - Post-Scheduling (seit Januar 2025)
 - Performance Analytics
@@ -128,7 +128,7 @@ TikToks KI-Werkzeugkasten für Werbetreibende und Creator:
 - **Text-to-Video** (seit Juni 2025)
 - **AI Transitions** (seit November 2025)
 - **Showcase Products** (seit Juni 2025)
-- **Dreamina Seedance 2.0** (April 2026): Hochrealistisches AI-Videomodell von ByteDance — erzeugt realistische Videos aus Text-Prompts
+- **Dreamina Seedance 2.0** (April 2026): Hochrealistisches AI-Videomodell von ByteDance, erzeugt realistische Videos aus Text-Prompts
 
 ---
 

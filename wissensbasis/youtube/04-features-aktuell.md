@@ -1,4 +1,4 @@
-# YouTube Features — IST-Zustand Juni 2026
+# YouTube Features: IST-Zustand Juni 2026
 
 ---
 
@@ -83,7 +83,7 @@
 | Promote-Feature (Updates) | Aktiv | Seit Januar 2026; neue CTA-Optionen und Targeting |
 | Second Chance Program | Aktiv | Pilot-Programm: ermöglicht Neustart nach Community-Guideline-Verstößen |
 | Monetarisierung sensibler Themen | Aktiv | Seit Januar 2026; solange nicht grafisch |
-| Profanität früh monetarisierbar | Aktiv | Seit August 2025; volle Ad-Monetarisierung auch bei Schimpfwörtern in Sek. 1–7 |
+| Profanität früh monetarisierbar | Aktiv | Seit August 2025; volle Ad-Monetarisierung auch bei Schimpfwörtern in Sek. 1 bis 7 |
 
 ### Discovery & Profil
 

@@ -20,14 +20,14 @@ Der Mix hängt von Zielgruppe, Produkt und Creative-Fähigkeit ab. Ein Orientier
 
 | Plattform | Anteil paid social | Wann erhöhen |
 |---|---|---|
-| **Meta (Facebook/Instagram)** | 50–70 % | Standard-Anker für die meisten B2C-Marken, breitestes Targeting-Repertoire |
-| **TikTok** | 20–40 % | Wenn natives 9:16-Video produziert werden kann, jüngere Zielgruppen, virale Konzepte |
+| **Meta (Facebook/Instagram)** | 50 bis 70 % | Standard-Anker für die meisten B2C-Marken, breitestes Targeting-Repertoire |
+| **TikTok** | 20 bis 40 % | Wenn natives 9:16-Video produziert werden kann, jüngere Zielgruppen, virale Konzepte |
 | **LinkedIn** | je nach Fall | B2B, lange Sales-Cycle, hohe Lead-Werte (CPL deutlich höher, aber Lead-Qualität B2B-relevant) |
-| **Weitere (YouTube, X, Snapchat, Pinterest)** | 5–10 % zum Testen | Erst klein testen, bevor echtes Budget fließt |
+| **Weitere (YouTube, X, Snapchat, Pinterest)** | 5 bis 10 % zum Testen | Erst klein testen, bevor echtes Budget fließt |
 
 **Wichtig:** Der native Standard 2026 ist vertikales 9:16-Video. Wer kein natives Video produzieren kann, sollte TikTok nicht erzwingen. TikTok-CPMs und CPCs liegen meist niedriger als bei Instagram, aber nur mit nativem Creative.
 
-**Vorgehen beim Plattform-Test:** Eine neue Plattform mit 5–10 % des Budgets testen, bevor man echtes Budget umschichtet. Erst skalieren, wenn die Performance über die Lernphase hinaus trägt.
+**Vorgehen beim Plattform-Test:** Eine neue Plattform mit 5 bis 10 % des Budgets testen, bevor man echtes Budget umschichtet. Erst skalieren, wenn die Performance über die Lernphase hinaus trägt.
 
 ---
 
@@ -43,7 +43,7 @@ Ein verbreitetes Modell zur Risikostreuung, adaptiert aus einem Lernmodell:
 
 **Logik:** Die 70 % halten den Account profitabel, die 20 % erneuern die Pipeline, die 10 % suchen den nächsten großen Hebel. Ohne die 20 % und 10 % verbraucht sich jede Gewinner-Kampagne irgendwann (Creative-Fatigue, steigende Frequency), und es gibt keinen Nachschub.
 
-**Speziell Creative-Testing:** Ein praktikabler Startbereich für laufendes Creative-Testing sind 10–20 % des Paid-Social-Budgets. Das überschneidet sich mit den 20-/10-Anteilen oben und ist die wichtigste laufende Test-Investition (Details in Säule 04).
+**Speziell Creative-Testing:** Ein praktikabler Startbereich für laufendes Creative-Testing sind 10 bis 20 % des Paid-Social-Budgets. Das überschneidet sich mit den 20-/10-Anteilen oben und ist die wichtigste laufende Test-Investition (Details in Säule 04).
 
 ---
 
@@ -63,7 +63,7 @@ Die Modelle schließen sich nicht aus. In der Praxis kombiniert man oft: erst na
 
 Budget nicht abrupt verdoppeln, solange eine Kampagne noch lernt oder die Performance stark schwankt. Stattdessen in Stufen:
 
-- **Schrittweite:** circa 10–20 % alle 48–72 Stunden
+- **Schrittweite:** circa 10 bis 20 % alle 48 bis 72 Stunden
 - **Bedingung:** nur erhöhen, solange CPA und ROAS im Zielkorridor bleiben
 - **Warum:** Jede große Budget-Änderung kann die Lernphase neu auslösen und die Kosten kurzfristig hochtreiben
 
@@ -80,11 +80,11 @@ Unter einer kritischen Schwelle sammelt eine Kampagne nicht genug Daten für ver
 ## Checkliste Budget-Allokation
 
 - [ ] Plattform-Mix festgelegt, Anker-Plattform bestimmt
-- [ ] Neue Plattformen nur mit 5–10 % Test-Budget gestartet
+- [ ] Neue Plattformen nur mit 5 bis 10 % Test-Budget gestartet
 - [ ] Jede Ad-Set-Einheit hat genug Budget für circa 50 Conversions/Woche
 - [ ] Test- gegen Skalierungsbudget nach 70-20-10 (oder bewusst gewähltem Modell) getrennt
-- [ ] 10–20 % für laufendes Creative-Testing reserviert
-- [ ] Skalierung in 10-20-%-Schritten alle 48–72 Std., nicht abrupt
+- [ ] 10 bis 20 % für laufendes Creative-Testing reserviert
+- [ ] Skalierung in 10-20-%-Schritten alle 48 bis 72 Std., nicht abrupt
 - [ ] Budget konzentriert, nicht über zu viele Einheiten zerstreut
 
 ---

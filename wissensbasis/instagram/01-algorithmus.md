@@ -1,4 +1,4 @@
-# Instagram Algorithmus — IST-Zustand Juni 2026
+# Instagram Algorithmus: IST-Zustand Juni 2026
 
 Alle Aussagen in diesem Dokument basieren auf offiziellen Statements von Adam Mosseri (Head of Instagram) oder verifizierten Plattformankündigungen.
 
@@ -55,7 +55,7 @@ Instagram bevorzugt aktiv **originalen Content** gegenüber Reposts und Aggregat
 
 **Konsequenz:** Aggregatoren und Reposter verlieren massiv an organischer Reichweite.
 
-### "Your Algorithm" — Nutzer-Kontrolle
+### "Your Algorithm": Nutzer-Kontrolle
 
 Nutzer können seit Januar 2026 (alle englischsprachigen User global) ihren Reels-Algorithmus manuell anpassen:
 - Themen hinzufügen oder entfernen

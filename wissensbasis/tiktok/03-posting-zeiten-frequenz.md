@@ -1,10 +1,10 @@
-# TikTok Posting-Zeiten & Frequenz — IST-Zustand Mai 2026
+# TikTok Posting-Zeiten & Frequenz: IST-Zustand Mai 2026
 
 ---
 
 ## Wichtigste Erkenntnis vorab
 
-TikToks Algorithmus verteilt Content in **Wellen** — ein Video kann noch Tage oder Wochen nach Veröffentlichung viral gehen, wenn es in einer Test-Gruppe gut ankommt. Der exakte Posting-Zeitpunkt ist dadurch weniger kritisch als bei chronologischen Feeds.
+TikToks Algorithmus verteilt Content in **Wellen**, ein Video kann noch Tage oder Wochen nach Veröffentlichung viral gehen, wenn es in einer Test-Gruppe gut ankommt. Der exakte Posting-Zeitpunkt ist dadurch weniger kritisch als bei chronologischen Feeds.
 
 **Dennoch gilt:** Wer zur richtigen Zeit postet, erzeugt früh starke Engagement-Signale → der Algorithmus verteilt breiter.
 
@@ -31,9 +31,9 @@ Alle Zeiten in **EST** (Mitteleuropäische Zeit = EST + 6 Stunden):
 ## Optimale Posting-Frequenz
 
 ### Videos / Reels
-- **Empfehlung:** 1–3 Videos pro Tag (TikTok selbst empfiehlt hohe Frequenz)
+- **Empfehlung:** 1 bis 3 Videos pro Tag (TikTok selbst empfiehlt hohe Frequenz)
 - Konsistenz ist wichtiger als perfektes Timing
-- Qualität hat mehr Gewicht als Quantität — aber häufigeres Testen erhöht die Chance auf einen Viral-Hit
+- Qualität hat mehr Gewicht als Quantität, aber häufigeres Testen erhöht die Chance auf einen Viral-Hit
 
 ### Stories
 - Täglich; nicht im direkten Konkurrenz mit Video-Posts
@@ -49,10 +49,10 @@ Alle Zeiten in **EST** (Mitteleuropäische Zeit = EST + 6 Stunden):
 
 | Zielgruppe | Beste Zeiten (MEZ) |
 |---|---|
-| Gen Z (16–25) | 20:00–24:00 (Abend bis Nacht) |
-| Millennials (26–40) | 12:00–14:00, 19:00–21:00 |
-| Globale Consumer | Di–Fr 14:00–16:00 (EST-Morgen trifft EU-Nachmittag) |
-| Business / B2B | Di–Do 09:00–11:00 (weniger relevant für TikTok) |
+| Gen Z (16 bis 25) | 20:00 bis 24:00 (Abend bis Nacht) |
+| Millennials (26 bis 40) | 12:00 bis 14:00, 19:00 bis 21:00 |
+| Globale Consumer | Di-Fr 14:00 bis 16:00 (EST-Morgen trifft EU-Nachmittag) |
+| Business / B2B | Di-Do 09:00 bis 11:00 (weniger relevant für TikTok) |
 
 > **Hinweis:** TikTok ist eine stark globale Plattform. Für Creator mit internationalem Publikum empfiehlt sich ein Mix aus verschiedenen Zeitzonen.
 
@@ -60,9 +60,9 @@ Alle Zeiten in **EST** (Mitteleuropäische Zeit = EST + 6 Stunden):
 
 ## Wie du deinen persönlichen besten Zeitpunkt findest
 
-1. **TikTok Studio → Analytics → Follower Activity** — zeigt wann deine Follower aktiv sind
+1. **TikTok Studio → Analytics → Follower Activity**, zeigt wann deine Follower aktiv sind
 2. **Content-Testing:** Gleicher Content zu unterschiedlichen Zeiten veröffentlichen und Performance vergleichen
-3. **Competitor-Analyse:** Auf was postet deine Nische — und wann performen deren Videos am besten?
+3. **Competitor-Analyse:** Auf was postet deine Nische, und wann performen deren Videos am besten?
 
 ---
 
@@ -77,9 +77,9 @@ Seit Januar 2025 können Posts direkt in **TikTok Studio** scheduled werden:
 
 ## Frequenz-Kontext: Content Saturation 2026
 
-**Metricool-Studie 2026** zeigt einen **31% Rückgang bei Video Views** gegenüber dem Vorjahr — begründet durch stark gestiegene Content-Menge bei gleichbleibender oder sinkender Aufmerksamkeitsspanne.
+**Metricool-Studie 2026** zeigt einen **31% Rückgang bei Video Views** gegenüber dem Vorjahr, begründet durch stark gestiegene Content-Menge bei gleichbleibender oder sinkender Aufmerksamkeitsspanne.
 
 **Konsequenz für Strategie:**
 - Qualität über Quantität gewinnt an Bedeutung
-- Starke Hooks in den ersten 2–3 Sekunden wichtiger denn je
+- Starke Hooks in den ersten 2 bis 3 Sekunden wichtiger denn je
 - Nischen-Content hat Vorteile gegenüber generischem Content

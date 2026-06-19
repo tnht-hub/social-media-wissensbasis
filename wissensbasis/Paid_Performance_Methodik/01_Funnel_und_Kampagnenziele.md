@@ -50,7 +50,7 @@ Die Verteilung ist kein Dogma, sondern hängt von Marke, Bekanntheitsgrad und Po
 
 | Modell | TOFU | MOFU | BOFU | Wann sinnvoll |
 |---|---|---|---|---|
-| **Conversion-Fokus (B2C, etablierte Marke)** | 20–30 % | 20–30 % | 40–50 % | Wenn TOFU/MOFU bereits warme Pools aufgebaut haben |
+| **Conversion-Fokus (B2C, etablierte Marke)** | 20 bis 30 % | 20 bis 30 % | 40 bis 50 % | Wenn TOFU/MOFU bereits warme Pools aufgebaut haben |
 | **B2B / lange Sales-Cycle** | ca. 40 % | ca. 35 % | ca. 25 % | Wenn Retargeting-Pools erst wachsen müssen |
 
 **Faustregel:** Je kleiner die Marke und je kälter der Markt, desto mehr Budget muss zunächst nach oben in den Funnel, um überhaupt Audiences aufzubauen. Mit wachsenden Retargeting-Pools verschiebt sich Budget nach unten, wo der ROI höher ist.

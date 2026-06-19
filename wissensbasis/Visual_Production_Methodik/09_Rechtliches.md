@@ -1,4 +1,4 @@
-# Säule 9 — Rechtliches
+# Säule 9: Rechtliches
 
 **Disclaimer vorab:** Diese Säule liefert **Awareness**, keine Rechtsberatung. Für konkrete Rechtsfragen ist Fachanwalt:innen-Beratung erforderlich. Im Zweifel: Anwält:in fragen, lieber einmal zu viel.
 
@@ -10,7 +10,7 @@ Diese Säule dokumentiert die wichtigsten rechtlichen Aspekte für Visual Produc
 
 | Bereich | Was es betrifft |
 |---|---|
-| **EU AI Act** | KI-generierte Inhalte — Kennzeichnung, Urheberrecht |
+| **EU AI Act** | KI-generierte Inhalte, Kennzeichnung, Urheberrecht |
 | **GEMA / Musik-Lizenzen** | Musik in Social-Media-Videos |
 | **BFSG (Barrierefreiheit)** | Untertitel, Alt-Texte für Webseiten und Online-Inhalte |
 | **DSGVO + Recht am eigenen Bild** | Personen in Bildern/Videos |
@@ -19,13 +19,13 @@ Jeder Bereich hat eigene Pflichten, eigene Fristen, eigene Bußgelder.
 
 ---
 
-## 1. EU AI Act — KI-generierte Inhalte
+## 1. EU AI Act: KI-generierte Inhalte
 
 Der EU AI Act bringt **ab August 2026** verbindliche Kennzeichnungspflicht für KI-generierte Inhalte.
 
 ### Was muss gekennzeichnet werden
 
-> **Texte, Bilder, Videos und Audio**, die durch generative KI-Systeme erstellt oder verändert wurden, müssen klar gekennzeichnet werden — wenn der Inhalt geeignet ist, Menschen über seinen Ursprung zu täuschen oder den Eindruck einer menschlichen Kommunikation zu erwecken.
+> **Texte, Bilder, Videos und Audio**, die durch generative KI-Systeme erstellt oder verändert wurden, müssen klar gekennzeichnet werden, wenn der Inhalt geeignet ist, Menschen über seinen Ursprung zu täuschen oder den Eindruck einer menschlichen Kommunikation zu erwecken.
 
 ### Was das konkret bedeutet
 
@@ -35,7 +35,7 @@ Der EU AI Act bringt **ab August 2026** verbindliche Kennzeichnungspflicht für 
 | **KI-generierter Video-Clip** in Reel | Kennzeichnung Pflicht |
 | **Echte Person + KI-Background (Hybrid)** | Kennzeichnung empfohlen, da Compositing manipulativ wirken kann |
 | **KI-Voice-Over** | Kennzeichnung Pflicht |
-| **KI-Bearbeitung eines Fotos (Filter, Beautify)** | Grauzone — bei substanzieller Veränderung Kennzeichnung |
+| **KI-Bearbeitung eines Fotos (Filter, Beautify)** | Grauzone, bei substanzieller Veränderung Kennzeichnung |
 | **KI als reines Hilfsmittel** (z.B. Hintergrund-Removal) | Meistens keine Kennzeichnung nötig |
 
 ### Wie wird gekennzeichnet
@@ -66,9 +66,9 @@ Das bedeutet:
 
 ### Praktische Empfehlungen
 
-- **Kennzeichnungs-Pflicht ab August 2026 einhalten:** Auch wenn ihr bisher nichts gekennzeichnet habt — ab Sommer 2026 ist es Pflicht
-- **Tool-Lizenzen prüfen:** Welche Tools erlauben kommerzielle Nutzung? (siehe Säule 03 — fast alle Pro-Tools tun das)
-- **Bei Werbe-Kampagnen mit KI-generierten Personen:** Besondere Vorsicht — kann als irreführende Werbung gewertet werden
+- **Kennzeichnungs-Pflicht ab August 2026 einhalten:** Auch wenn ihr bisher nichts gekennzeichnet habt, ab Sommer 2026 ist es Pflicht
+- **Tool-Lizenzen prüfen:** Welche Tools erlauben kommerzielle Nutzung? (siehe Säule 03, fast alle Pro-Tools tun das)
+- **Bei Werbe-Kampagnen mit KI-generierten Personen:** Besondere Vorsicht, kann als irreführende Werbung gewertet werden
 
 ---
 
@@ -83,7 +83,7 @@ Musik in Social-Media-Videos ist **rechtlich komplex** und wird oft unterschätz
 | **Privater Nutzer / persönlicher Account** | Synchronisations-Recht ist über Plattform-Lizenz mit GEMA abgedeckt |
 | **Unternehmen / Freelance / Selbstständige (kommerziell)** | **Separate Lizenz erforderlich** |
 
-**Wichtig:** Wenn euer Account ein Business-Account ist oder ihr für ein Unternehmen postet, gilt **kommerzielle Nutzung** — auch wenn der Post nicht direkt werblich ist.
+**Wichtig:** Wenn euer Account ein Business-Account ist oder ihr für ein Unternehmen postet, gilt **kommerzielle Nutzung**, auch wenn der Post nicht direkt werblich ist.
 
 ### GEMA-Lizenz auf Instagram, TikTok, Facebook
 
@@ -98,7 +98,7 @@ Die GEMA hat mit den Plattformen **keine Synchronisations-Rechte** für UGC-Plat
 | Use Case | Was erlaubt ist |
 |---|---|
 | **Mein Privat-Account postet ein Tanzvideo zu Top-100-Hit** | OK über Plattform-Lizenz |
-| **Brand-Account postet Reel zu Top-100-Hit, kommerziell** | **Nicht erlaubt** — Lizenz fehlt |
+| **Brand-Account postet Reel zu Top-100-Hit, kommerziell** | **Nicht erlaubt**, Lizenz fehlt |
 | **Brand-Account postet Reel zu Plattform-Business-Library-Track** | OK |
 | **Brand-Account postet Reel zu lizenzierter Premium-Library (Epidemic, Artlist)** | OK |
 | **Werbe-Anzeige mit lizenziertem Musik-Track** | OK, wenn die Lizenz Werbung abdeckt |
@@ -112,7 +112,7 @@ Die GEMA hat mit den Plattformen **keine Synchronisations-Rechte** für UGC-Plat
 **Stattdessen:**
 - **Business-Library** der Plattform nutzen (Meta Sound Collection, TikTok Commercial Music)
 - **Premium-Library** wie **Epidemic Sound, Artlist, Soundstripe** (siehe Säule 06)
-- **Eigene KI-generierte Musik** (Suno, Udio) — aber Rechtslage hier noch in Klärung
+- **Eigene KI-generierte Musik** (Suno, Udio), aber Rechtslage hier noch in Klärung
 
 ### Risiken bei Verstoß
 
@@ -123,7 +123,7 @@ Die GEMA hat mit den Plattformen **keine Synchronisations-Rechte** für UGC-Plat
 
 ---
 
-## 3. BFSG — Barrierefreiheitsstärkungsgesetz
+## 3. BFSG: Barrierefreiheitsstärkungsgesetz
 
 Das BFSG ist seit **28. Juni 2025** in Kraft. Es macht Barrierefreiheit für digitale Produkte und Dienstleistungen verbindlich.
 
@@ -152,7 +152,7 @@ Das BFSG gilt für:
 ### Konkrete Vorgaben für Untertitel
 
 - **Maximale Länge:** 37 Zeichen pro Zeile, max 2 Zeilen
-- **Anzeigedauer:** 1–6 Sek pro Untertitel
+- **Anzeigedauer:** 1 bis 6 Sek pro Untertitel
 - **Position:** Untertitel sollten nicht relevanten Bild-Inhalt verdecken
 - **Sprache:** Klare, vollständige Sätze
 - **Sprecher-Kennzeichnung:** Bei mehreren Sprechern Position oder Farbe wechseln
@@ -166,7 +166,7 @@ Das BFSG gilt für:
 
 ### WCAG 2.1 Level AA
 
-Der konkrete Standard, der erfüllt werden muss, ist **WCAG 2.1 Level AA** — das international anerkannte Web-Accessibility-Standard.
+Der konkrete Standard, der erfüllt werden muss, ist **WCAG 2.1 Level AA**, das international anerkannte Web-Accessibility-Standard.
 
 Wichtigste Aspekte für Visual Content:
 - Kontrast-Verhältnis (Text auf Bild: mindestens 4.5:1)
@@ -180,10 +180,10 @@ Wichtigste Aspekte für Visual Content:
 
 ### Praktische Empfehlung
 
-- **Alle Videos mit gesprochenem Inhalt brauchen Untertitel** — auch wenn nicht auf eigener Webseite. Best Practice.
-- **Auto-Captions als Start, dann manuell prüfen** — Auto-Captions sind oft fehlerhaft
-- **Alt-Texte bei allen Social-Media-Posts** — selbst wenn Plattform es nicht erzwingt, kostet wenig und ist gute Praxis
-- **Kontrast prüfen** — Text auf Bild muss lesbar sein
+- **Alle Videos mit gesprochenem Inhalt brauchen Untertitel**, auch wenn nicht auf eigener Webseite. Best Practice.
+- **Auto-Captions als Start, dann manuell prüfen**, Auto-Captions sind oft fehlerhaft
+- **Alt-Texte bei allen Social-Media-Posts**, selbst wenn Plattform es nicht erzwingt, kostet wenig und ist gute Praxis
+- **Kontrast prüfen**, Text auf Bild muss lesbar sein
 
 ---
 
@@ -262,7 +262,7 @@ Personenbezogene Daten in Visual Content fallen unter DSGVO:
 - **Auskunfts-Recht:** Personen können Auskunft verlangen, welche Bilder von ihnen verarbeitet werden
 - **Löschungs-Recht:** Personen können Löschung verlangen
 
-### KI-generierte Personen — Spezial-Fall
+### KI-generierte Personen: Spezial-Fall
 
 KI-generierte Personen, die **realen Personen ähneln**, sind problematisch:
 
@@ -282,7 +282,7 @@ Wenn ihr eigene Mitarbeitende in Visual Content zeigt:
 
 ---
 
-## Rechtliche Trigger — wann Anwalt:in einbeziehen
+## Rechtliche Trigger: wann Anwalt:in einbeziehen
 
 Sofortige Rechtsberatung empfohlen bei:
 
@@ -330,7 +330,7 @@ Für Marken im öffentlichen Sektor (Behörden, Ministerien, Public Health, NGOs
 - **Politische Sensibilität:** Werbung darf nicht parteiisch wirken
 - **Informationsfreiheits-Gesetze:** Erhöhte Transparenz-Pflichten
 - **BITV (vor BFSG):** Öffentliche Stellen sind schon länger zu Barrierefreiheit verpflichtet
-- **Vergaberecht:** Bei Agentur-Beauftragungen — eigene Komplexität
+- **Vergaberecht:** Bei Agentur-Beauftragungen, eigene Komplexität
 
 Für öffentliche Aufträge: **Spezialisierte Vergabe-Anwält:innen** einbeziehen.
 

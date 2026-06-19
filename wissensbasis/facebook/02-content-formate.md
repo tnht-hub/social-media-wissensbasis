@@ -1,14 +1,14 @@
-# Facebook Content-Formate — IST-Zustand Mai 2026
+# Facebook Content-Formate: IST-Zustand Mai 2026
 
 ---
 
 ## Kernformate im Überblick
 
 ### Reels (Kurzvideos)
-- **Seit Juli 2025:** Alle Videos auf Facebook = Reels — kein separates Video-Format mehr
+- **Seit Juli 2025:** Alle Videos auf Facebook = Reels, kein separates Video-Format mehr
 - Stärkstes Discovery-Format; erscheint in Feeds von Nicht-Followern
-- **Empfohlene Länge:** 20–30 Sekunden für maximale Completion Rate; bis 90 Sekunden möglich
-- Vertikales Format (9:16) bevorzugt — füllt den Bildschirm auf Mobile
+- **Empfohlene Länge:** 20 bis 30 Sekunden für maximale Completion Rate; bis 90 Sekunden möglich
+- Vertikales Format (9:16) bevorzugt, füllt den Bildschirm auf Mobile
 - Captions/Untertitel notwendig (Stummton-Konsum)
 - **Wasserzeichen von anderen Plattformen** (z.B. TikTok-Logo) reduzieren Reichweite
 - **AI Audio Translations (August 2025):** Automatisches Dubbing + Lip Sync für Reels in anderen Sprachen
@@ -26,7 +26,7 @@
 - Bis zu **8 Stunden** Live-Übertragung
 - Live-Streams werden nach **30 Tagen gelöscht** (seit Februar 2025)
 - Authentisches Engagement: Q&As, Produktlaunches, Events
-- Hohe organische Reichweite — Facebook bevorzugt Live-Content algorithmisch
+- Hohe organische Reichweite, Facebook bevorzugt Live-Content algorithmisch
 
 ### Text-Posts
 - Klassischer Feed-Post: Text + optionale Medien
@@ -36,7 +36,7 @@
 
 ### Carousel Posts
 - Bis zu 10 Fotos oder Videos, durch die Nutzer wischen
-- Carousel Ads: laut Meta bis zu 30–50% niedrigere Cost per Acquisition als andere Werbeformate
+- Carousel Ads: laut Meta bis zu 30 bis 50% niedrigere Cost per Acquisition als andere Werbeformate
 - Als organisches Post-Format für Step-by-Step-Inhalte, Produkt-Showcases
 
 ### Facebook Articles / Notes (Long-Form)
@@ -50,9 +50,9 @@
 
 ---
 
-## Neue und erweiterte Formate 2025–2026
+## Neue und erweiterte Formate 2025 bis 2026
 
-### Forum App (Mai 25, 2026 — Launch)
+### Forum App (Mai 25, 2026: Launch)
 - **Neues Standalone-Produkt:** Facebook Groups-Aktivität in eigene App ausgelagert
 - Gruppenbasierte Diskussionen und Community-Interaktionen werden aus dem Haupt-Feed herausgelöst
 - Positionierung: Separate Community-Plattform neben dem Haupt-Facebook-Feed
@@ -64,7 +64,7 @@
 
 ### Content Planner + Bulk Reels Upload (Mai 18, 2026)
 - Neue Creator Publishing Tools: Content Planner für Redaktionsplanung
-- **Bulk Upload für Reels** — mehrere Videos gleichzeitig hochladen und planen
+- **Bulk Upload für Reels**, mehrere Videos gleichzeitig hochladen und planen
 - Fokus auf Original-Content-Creator
 
 ### AI-generierte Profilvideos (Februar 2026)
@@ -74,7 +74,7 @@
 - Facebook scannt Kamera-Rolle und schlägt Inhalte zum Posten vor (opt-in)
 
 ### Camera Roll Scanning für Content/Collage-Vorschläge (April 16, 2026)
-- Erweiterte Version der April-2026-Funktion — Collage-Vorschläge aus Fotos
+- Erweiterte Version der April-2026-Funktion, Collage-Vorschläge aus Fotos
 
 ---
 
@@ -85,7 +85,7 @@
 - **Nickname Posting in Groups** (seit Dezember 2025): Mitglieder können anonym unter Nickname posten
 - **Community Chats aus Groups entfernt** (September 2025)
 - Group Chats: bis zu 5.000 Teilnehmer (seit Juni 2024)
-- Algorithmus trackt Group-Interaktionen plattformweit — aktive Teilnahme steigert Page-Sichtbarkeit
+- Algorithmus trackt Group-Interaktionen plattformweit, aktive Teilnahme steigert Page-Sichtbarkeit
 
 ---
 

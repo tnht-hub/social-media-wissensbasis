@@ -1,4 +1,4 @@
-# Säule 8 — Asset-Management
+# Säule 8: Asset-Management
 
 Eine Visual-Production-Pipeline produziert Tausende von Dateien: Raw-Footage, KI-Generierungen, Edits, Exports, Music-Tracks, Reference-Images, LoRA-Files. Ohne System wird das innerhalb von 6 Monaten unbenutzbar.
 
@@ -70,13 +70,13 @@ Plus quer dazu:
 
 | Use Case | Tool | Pricing |
 |---|---|---|
-| **Team-Drive (Standard)** | Google Drive / Dropbox / OneDrive | $10–20/User/mo |
+| **Team-Drive (Standard)** | Google Drive / Dropbox / OneDrive | $10 bis 20/User/mo |
 | **Großvolumen-Video** | Frame.io (Adobe) | $15+/mo |
 | **Versionierung** | Frame.io + Git LFS für Code-Assets | Frame.io / GitHub LFS |
 | **Lokales NAS (große Teams)** | Synology / QNAP | Einmalig $500+ |
 | **Brand-Asset-Management Profi** | Bynder / Brandfolder / Frontify | $200+/mo |
 
-**Empfehlung für 2–5-Personen-Teams:** Google Drive mit klarer Ordnerstruktur (oder Dropbox). Frame.io wenn Video-Review-Workflows kritisch sind.
+**Empfehlung für 2 bis 5-Personen-Teams:** Google Drive mit klarer Ordnerstruktur (oder Dropbox). Frame.io wenn Video-Review-Workflows kritisch sind.
 
 ---
 
@@ -101,10 +101,10 @@ Beispiele:
 |---|---|
 | **Datum vor Asset-Name** | Sortierung automatisch chronologisch |
 | **Format YYYY-MM-DD** | Funktioniert in jeder Sortierung |
-| **Keine Leerzeichen** | Underscore statt Leerzeichen — vermeidet Probleme bei Skripten/URLs |
-| **Keine Sonderzeichen** | Keine ö, ä, ü, é etc. — manche Systeme stolpern |
+| **Keine Leerzeichen** | Underscore statt Leerzeichen, vermeidet Probleme bei Skripten/URLs |
+| **Keine Sonderzeichen** | Keine ö, ä, ü, é etc., manche Systeme stolpern |
 | **Lower-Camel oder kebab-case** | Konsistent halten |
-| **Version-Nummer am Ende** | v01, v02, v03 — niemals „final", „FINAL", „FINAL-FINAL" |
+| **Version-Nummer am Ende** | v01, v02, v03, niemals „final", „FINAL", „FINAL-FINAL" |
 
 ### Anti-Patterns
 
@@ -125,10 +125,10 @@ Beispiele:
 Eine **Iteration** entspricht einer Veränderung, die später ggf. wieder gebraucht wird.
 
 ```
-v01 — Erster Entwurf
-v02 — Nach Feedback Runde 1
-v03 — Nach Feedback Runde 2
-v04 — Nach Approval (oft als final markiert)
+v01, Erster Entwurf
+v02, Nach Feedback Runde 1
+v03, Nach Feedback Runde 2
+v04, Nach Approval (oft als final markiert)
 ```
 
 ### Approval-Versionen
@@ -136,7 +136,7 @@ v04 — Nach Approval (oft als final markiert)
 Wenn ihr Kund:innen-Approval habt:
 
 ```
-v04 — Approved by [Name] on [Datum]
+v04, Approved by [Name] on [Datum]
 ```
 
 Im Dateinamen oder in einem begleitenden Metadaten-File.
@@ -203,9 +203,9 @@ Brand-Asset-Management-Tools (Bynder, Brandfolder) erlauben benutzerdefinierte M
 
 ### Archiv-Strategie
 
-**Hot Storage (aktiv genutzt):** Schneller Zugriff, höhere Kosten — Google Drive / Dropbox.
+**Hot Storage (aktiv genutzt):** Schneller Zugriff, höhere Kosten, Google Drive / Dropbox.
 
-**Cold Storage (Archiv):** Langsamer, günstiger — AWS Glacier, Backblaze B2, externe Festplatten.
+**Cold Storage (Archiv):** Langsamer, günstiger, AWS Glacier, Backblaze B2, externe Festplatten.
 
 Faustregel: Projekte älter als **12 Monate** ins Cold Storage. Aktive Projekte im Hot Storage.
 
@@ -278,24 +278,24 @@ Für jedes Projekt ein einfaches Tracking-Sheet:
 
 ## Tools für Asset-Management
 
-### Für 2–5-Personen-Teams (empfohlen)
+### Für 2 bis 5-Personen-Teams (empfohlen)
 
 | Funktion | Tool | Pricing |
 |---|---|---|
-| **Storage** | Google Drive / Dropbox | $10–20/User/mo |
-| **Project-Tracking** | Notion / ClickUp / Asana | $8–20/User/mo |
+| **Storage** | Google Drive / Dropbox | $10 bis 20/User/mo |
+| **Project-Tracking** | Notion / ClickUp / Asana | $8 bis 20/User/mo |
 | **Video-Review** | Frame.io | $15+/mo |
 | **Photo-Library** | Adobe Lightroom CC | $10/mo (oder Adobe CC) |
 | **Approval-Workflow** | Notion + Frame.io | inklusive |
 
-**Gesamt:** ca. $50–80/mo pro Person.
+**Gesamt:** ca. $50 bis 80/mo pro Person.
 
 ### Für größere Teams / Agenturen
 
 Brand-Asset-Management-Tools (DAM):
-- **Bynder** — Mid-tier, gute Brand-Funktionen
-- **Brandfolder** — Enterprise, sehr mächtig
-- **Frontify** — Brand-fokussiert, integriert mit Adobe
+- **Bynder**, Mid-tier, gute Brand-Funktionen
+- **Brandfolder**, Enterprise, sehr mächtig
+- **Frontify**, Brand-fokussiert, integriert mit Adobe
 
 Diese sind in der Regel ab $200+/mo und überdimensioniert für In-House-Teams.
 

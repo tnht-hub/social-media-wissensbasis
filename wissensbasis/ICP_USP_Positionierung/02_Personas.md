@@ -76,6 +76,26 @@ Pains und Gains stammen aus dem Customer Profile des Value Proposition Canvas (s
 
 ---
 
+## Buyer-Psychologie: Fünf Dimensionen der Kaufentscheidung
+
+Pain und Gain lassen sich in ein Frageraster überführen, das die Kaufentscheidung strukturiert. Das Raster dient zwei Zwecken: als Leitfaden für Befragungen und Eintragungs-Quizze, und als Analyseraster, um Content-Botschaften an der tatsächlichen Entscheidungslage der Persona auszurichten. Es benennt fünf Dimensionen.
+
+| Dimension | Frage an die Persona | Verbindung zur Persona |
+|---|---|---|
+| **Aktuelle Realität** | Was beschreibt deine derzeitige Situation am besten? | Situation, Pains |
+| **Gewünschte Realität** | Was beschreibt dein gewünschtes Ergebnis am besten? | Gains, Jobs-to-be-done |
+| **Hindernisse** | Was hast du bereits versucht, das nicht funktioniert hat? | Pains, Einwände |
+| **Kaufkriterien** | Welches Budget oder welche Rahmenbedingung trifft zu? | Kaufverhalten |
+| **Weg des geringsten Widerstands** | Welcher Lösungstyp passt am ehesten (Buch, Kurs, Service, Software)? | Kaufverhalten, Angebot |
+
+Eine offene Abschlussfrage („Gibt es sonst etwas, das wir wissen sollten?") fördert oft die kaufbereitesten Signale zutage, weil Interessierte hier von sich aus konkrete Dringlichkeit oder ein Budget nennen.
+
+**Anwendung:** Aus den Antworten ergibt sich eine Segmentierung nach Typ, Ziel, Hindernis und Kaufkriterium, die sowohl die Ansprache als auch die Priorisierung von Leads steuert.
+
+**Herkunft und Status:** Dokumentiert aus einem Lehrvideo von Daniel Priestley (ScoreApp), „The Rolling Waitlist Strategy That Actually Works in 2026" (YouTube, https://www.youtube.com/watch?v=i6s44i0EI8k). Praktiker-Modell eines einzelnen, kommerziell interessierten Anbieters; deckt sich konzeptionell mit Jobs-to-be-done und dem Value Proposition Canvas (Säule 04).
+
+---
+
 ## Wie viele Personas sind sinnvoll?
 
 Hier ist die Forschung erstaunlich einig. Über mehrere unabhängige Quellen (Pragmatic Institute, SocialBee, Product Marketing Alliance) zeigt sich dasselbe Bild:

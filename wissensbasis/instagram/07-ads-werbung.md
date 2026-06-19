@@ -1,4 +1,4 @@
-# Instagram Ads & Werbung — IST-Zustand Mai 2026
+# Instagram Ads & Werbung: IST-Zustand Mai 2026
 
 ---
 
@@ -31,7 +31,7 @@
 
 - Vertikal (9:16), full-screen zwischen organischen Reels
 - Höchste Reichweite unter allen Formaten
-- Max. empfohlene Länge: 60 Sekunden (optimal: 15–30s)
+- Max. empfohlene Länge: 60 Sekunden (optimal: 15 bis 30s)
 - Kein Wasserzeichen, kein TikTok-Logo
 
 ### Partnership Ads (früher: Branded Content Ads)
@@ -68,7 +68,7 @@
 
 ### Lookalike Audiences
 - Basierend auf Custom Audiences
-- 1–10% Lookalike (je enger, desto ähnlicher dem Seed-Publikum)
+- 1 bis 10% Lookalike (je enger, desto ähnlicher dem Seed-Publikum)
 
 ### Advantage+ (KI-Targeting)
 - Meta's KI-gestütztes automatisches Targeting
@@ -132,10 +132,10 @@ Meta investiert massiv in KI-gestützte Ad-Erstellung und -Optimierung:
 
 | Metrik | Typischer Bereich |
 |---|---|
-| CPM (Cost per 1.000 Impressionen) | 5–15 € |
-| CPC (Cost per Click) | 0,50–2,50 € |
-| CPE (Cost per Engagement) | 0,05–0,25 € |
-| CPL (Cost per Lead) | 10–50 € (je nach Branche) |
+| CPM (Cost per 1.000 Impressionen) | 5 bis 15 € |
+| CPC (Cost per Click) | 0,50 bis 2,50 € |
+| CPE (Cost per Engagement) | 0,05 bis 0,25 € |
+| CPL (Cost per Lead) | 10 bis 50 € (je nach Branche) |
 
 Instagram-Ads sind günstiger als LinkedIn, aber teurer als TikTok. Besonders stark für B2C, Lifestyle, Fashion, Beauty, Food, Travel.
 
@@ -144,7 +144,7 @@ Instagram-Ads sind günstiger als LinkedIn, aber teurer als TikTok. Besonders st
 ## Empfohlene Ad-Strategie für Instagram
 
 ### Einstieg
-1. **Reels-Ads** auf gut performende organische Reels schalten — authentischer Eindruck
+1. **Reels-Ads** auf gut performende organische Reels schalten, authentischer Eindruck
 2. **Retargeting** auf Video-Viewer und Profil-Besucher (Custom Audiences)
 3. **Partnership Ads** mit passenden Micro-Influencern in der Nische
 

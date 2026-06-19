@@ -1,4 +1,4 @@
-# Säule 6 — Feedback-Loop nach 30 Tagen
+# Säule 6: Feedback-Loop nach 30 Tagen
 
 StoryChief und AdVenture Media sind hier einig: **Der wahre Hebel ist das Lernen.**
 
@@ -6,28 +6,28 @@ StoryChief und AdVenture Media sind hier einig: **Der wahre Hebel ist das Lernen
 > - https://storychief.io/blog/creating-the-perfect-ai-content-calendar
 > - https://adventuremedia.ai/blog/how-to-build-a-social-media-content-calendar-with-claude-code-in-20-minutes
 
-KI-Content-Planung wird erst nach **3–4 Monaten** wirklich gut, wenn die Performance-Daten den Brand-Brief schärfen.
+KI-Content-Planung wird erst nach **3 bis 4 Monaten** wirklich gut, wenn die Performance-Daten den Brand-Brief schärfen.
 
 ---
 
 ## Was nach 30 Tagen Live-Content passiert
 
-### Schritt 1 — Performance-Daten sammeln
+### Schritt 1: Performance-Daten sammeln
 
 **Top 5 und Bottom 5 Posts identifizieren** (nach Reihenfolge der Wichtigkeit gemäß Plattform-Algorithmen):
 
 Generelle Hierarchie der wichtigen Metriken 2026:
 
-1. **Sends / Shares** — stärkstes Reichweite-Signal
-2. **Watch Time / Completion Rate** — bei Video-Inhalten
-3. **Saves** — signalisiert dauerhaften Wert
-4. **Kommentare mit Substanz** — Engagement-Qualität
-5. **Likes** — direktes, aber weniger gewichtetes Signal
-6. **Profile-Visits / Follower-Growth** — Conversion zu Beziehung
+1. **Sends / Shares**, stärkstes Reichweite-Signal
+2. **Watch Time / Completion Rate**, bei Video-Inhalten
+3. **Saves**, signalisiert dauerhaften Wert
+4. **Kommentare mit Substanz**, Engagement-Qualität
+5. **Likes**, direktes, aber weniger gewichtetes Signal
+6. **Profile-Visits / Follower-Growth**, Conversion zu Beziehung
 
 Welche Metriken am wichtigsten sind, hängt von der Plattform ab. Schaut in eure Plattform-Wissensdatenbank oder offizielle Statements (z.B. Mosseri für Instagram).
 
-### Schritt 2 — Performance-Daten dokumentieren
+### Schritt 2: Performance-Daten dokumentieren
 
 Eine simple Markdown-Datei in der persistenten Wissensbasis:
 
@@ -55,13 +55,13 @@ Eine simple Markdown-Datei in der persistenten Wissensbasis:
 - [Was überrascht?]
 ```
 
-### Schritt 3 — KI-Performance-Analyse
+### Schritt 3: KI-Performance-Analyse
 
-**Prompt 5 — Performance-Analyse für nächsten Monat:**
+**Prompt 5, Performance-Analyse für nächsten Monat:**
 
 ```
 [Brand-Brief einfügen]
-[Performance-Daten einfügen — Top 5 / Bottom 5]
+[Performance-Daten einfügen, Top 5 / Bottom 5]
 
 Analysiere die Performance-Daten:
 
@@ -82,7 +82,7 @@ Identifiziere 3 Sachen, die NICHT mehr gemacht werden sollten
 Output als strukturiertes Update für das Brand-Brief.
 ```
 
-### Schritt 4 — Brand-Brief aktualisieren
+### Schritt 4: Brand-Brief aktualisieren
 
 Die Erkenntnisse aus Schritt 3 fließen zurück ins Kontext-Dokument:
 
@@ -94,14 +94,14 @@ Die Erkenntnisse aus Schritt 3 fließen zurück ins Kontext-Dokument:
 
 ---
 
-## Über 3–4 Monate wird das System schlauer
+## Über 3 bis 4 Monate wird das System schlauer
 
 | Monat | Output-Qualität (Schätzung) |
 |---|---|
-| **Monat 1** | 60 % einsatzbereit — viel Nachbearbeitung nötig |
-| **Monat 2** | 70 % einsatzbereit — Brand-Voice schärft sich |
-| **Monat 3** | 75 % einsatzbereit — Plattform-Tonalitäten differenzieren sich |
-| **Monat 4+** | 80–85 % einsatzbereit — System „kennt" Zielgruppe |
+| **Monat 1** | 60 % einsatzbereit, viel Nachbearbeitung nötig |
+| **Monat 2** | 70 % einsatzbereit, Brand-Voice schärft sich |
+| **Monat 3** | 75 % einsatzbereit, Plattform-Tonalitäten differenzieren sich |
+| **Monat 4+** | 80 bis 85 % einsatzbereit, System „kennt" Zielgruppe |
 
 Das Limit von ~85 % ist wichtig: Die letzten 15 % bleiben Menschen-Arbeit. Wer 95 % anstrebt, baut Content, der KI-erkennbar ist.
 
@@ -131,7 +131,7 @@ Vorschlag für Q-Update am Brand-Brief: [konkrete Änderungen]
 
 ## Jährlich: Großer Audit
 
-Einmal im Jahr — idealerweise in einer ruhigen Phase:
+Einmal im Jahr, idealerweise in einer ruhigen Phase:
 
 - Komplette Sichtung aller Performance-Daten
 - Neuvermessung der Zielgruppe (sind die Personas noch aktuell?)
@@ -143,17 +143,17 @@ Einmal im Jahr — idealerweise in einer ruhigen Phase:
 
 ## Quantitative Performance-Indikatoren über Zeit
 
-Was sich nach 6–12 Monaten verbessert haben sollte, wenn der Loop richtig läuft:
+Was sich nach 6 bis 12 Monaten verbessert haben sollte, wenn der Loop richtig läuft:
 
 | Indikator | Erwartete Entwicklung |
 |---|---|
-| **Engagement-Rate** | +20–40 % über 6 Monate |
-| **Sends / Shares** | +30–50 % über 12 Monate |
+| **Engagement-Rate** | +20 bis 40 % über 6 Monate |
+| **Sends / Shares** | +30 bis 50 % über 12 Monate |
 | **Follower-Wachstum** | Stabilisiert sich auf einem höheren Niveau |
 | **Time-to-Post-Production** | Halbiert sich, da Workflows ausgereift sind |
 | **Brand-Voice-Konsistenz** | Hörbar / lesbar konsistent über Plattformen |
 
-Wenn diese Indikatoren nach 6–12 Monaten nicht klar besser sind: Loop läuft nicht richtig. Mögliche Gründe: Brand-Brief wird nicht aktualisiert, Phase C wird übersprungen, Tool-Stack ist falsch konfiguriert.
+Wenn diese Indikatoren nach 6 bis 12 Monaten nicht klar besser sind: Loop läuft nicht richtig. Mögliche Gründe: Brand-Brief wird nicht aktualisiert, Phase C wird übersprungen, Tool-Stack ist falsch konfiguriert.
 
 ---
 
@@ -161,18 +161,18 @@ Wenn diese Indikatoren nach 6–12 Monaten nicht klar besser sind: Loop läuft n
 
 Verfolgt nicht zu viele Metriken. Vor allem nicht:
 
-- **Reine Follower-Zahlen** — sagen wenig über Conversion
-- **Like-Zahlen ohne Kontext** — sind heute schwach gewichtet
-- **Impression-Zahlen ohne Engagement** — können durch Algorithmus-Schwankungen verzerrt sein
+- **Reine Follower-Zahlen**, sagen wenig über Conversion
+- **Like-Zahlen ohne Kontext**, sind heute schwach gewichtet
+- **Impression-Zahlen ohne Engagement**, können durch Algorithmus-Schwankungen verzerrt sein
 
 Fokus auf **Sends, Saves, Comments mit Substanz** ist meistens das, was wirklich Geschäftswert spiegelt.
 
 ---
 
-## Was das ergibt — Strategischer Vorteil
+## Was das ergibt: Strategischer Vorteil
 
 Eine Marke, die nach 18 Monaten *wirklich* ihre Zielgruppe kennt. Nicht aus Annahmen, sondern aus 18 Monaten echtem Engagement.
 
-Das ist der eigentliche Asset, den ihr nach 1–2 Jahren habt — nicht nur einzelne erfolgreiche Posts, sondern ein **lernendes System**, das genau weiß, was eure Zielgruppe bewegt.
+Das ist der eigentliche Asset, den ihr nach 1 bis 2 Jahren habt, nicht nur einzelne erfolgreiche Posts, sondern ein **lernendes System**, das genau weiß, was eure Zielgruppe bewegt.
 
 Dieses Asset ist auch das stärkste Argument bei Stakeholder-Reviews, Pitch-Verlängerungen oder Erweiterungen des Marketing-Budgets.

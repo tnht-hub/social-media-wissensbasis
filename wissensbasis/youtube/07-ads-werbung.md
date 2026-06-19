@@ -1,10 +1,10 @@
-# YouTube Ads & Werbung — IST-Zustand Mai 2026
+# YouTube Ads & Werbung: IST-Zustand Mai 2026
 
 ---
 
 ## Überblick
 
-YouTube-Werbung läuft über **Google Ads** — das umfangreichste Werbeplattform-Ökosystem im digitalen Marketing. YouTube-Anzeigen erreichen besonders stark TV-Zuschauer: 1 Milliarde Stunden YouTube werden täglich auf TV-Geräten konsumiert.
+YouTube-Werbung läuft über **Google Ads**, das umfangreichste Werbeplattform-Ökosystem im digitalen Marketing. YouTube-Anzeigen erreichen besonders stark TV-Zuschauer: 1 Milliarde Stunden YouTube werden täglich auf TV-Geräten konsumiert.
 
 ---
 
@@ -17,7 +17,7 @@ YouTube-Werbung läuft über **Google Ads** — das umfangreichste Werbeplattfor
 - Ideal für Awareness und Engagement
 
 ### In-Stream Ads (nicht überspringbar)
-- 15–20 Sekunden; können nicht übersprungen werden
+- 15 bis 20 Sekunden; können nicht übersprungen werden
 - Höhere Aufmerksamkeit, aber auch höheres Risiko für Zuschauerfrustration
 
 ### Bumper Ads
@@ -42,7 +42,7 @@ YouTube-Werbung läuft über **Google Ads** — das umfangreichste Werbeplattfor
 
 ---
 
-## Neue Ad-Funktionen 2025–2026
+## Neue Ad-Funktionen 2025 bis 2026
 
 ### Shorts App Promo CTA Panel (seit August 2025)
 - Shorts-Creator können App-Promotions als In-Video-CTA einbauen
@@ -65,7 +65,7 @@ YouTube-Werbung läuft über **Google Ads** — das umfangreichste Werbeplattfor
 ### Open Call (seit Juni 2025)
 - Brands können über YouTube **offene Creator-Aufrufe** platzieren
 - Creator im YouTube Partner Program können auf Brand-Kampagnen bewerben
-- Direkte Verbindung Marke–Creator ohne externe Plattform
+- Direkte Verbindung Marke-Creator ohne externe Plattform
 
 ### Brand Partnerships für Shorts-Creator (Rollout ab November 2024)
 - Shorts-Creator können direkt Markenpartnerschaften anfragen
@@ -105,10 +105,10 @@ YouTube-Werbung läuft über **Google Ads** — das umfangreichste Werbeplattfor
 
 | Metrik | Typischer Bereich |
 |---|---|
-| CPV (Cost per View) | 0,03–0,15 € |
-| CPM (Cost per 1.000 Impressionen) | 3–12 € |
-| CPC (Cost per Click) | 0,30–1,50 € |
-| Bumper Ads CPM | 5–15 € |
+| CPV (Cost per View) | 0,03 bis 0,15 € |
+| CPM (Cost per 1.000 Impressionen) | 3 bis 12 € |
+| CPC (Cost per Click) | 0,30 bis 1,50 € |
+| Bumper Ads CPM | 5 bis 15 € |
 
 YouTube-Ads sind im Vergleich zu LinkedIn günstiger, aber werbefinanzierter Content-Kontext ist wichtig für Brand Safety.
 
@@ -116,19 +116,19 @@ YouTube-Ads sind im Vergleich zu LinkedIn günstiger, aber werbefinanzierter Con
 
 ## Brand Safety
 
-- **Advanced Placement Controls** — Anzeigen aus bestimmten Content-Kategorien ausschließen
-- **Keyword-Ausschlüsse** — bestimmte Themenumfelder blocken
-- **Content Type Targeting** — spezifisch auf „Embedded YouTube Videos" oder „YouTube Watch Pages" buchen
-- **Inventory Filter** — Standard, Limited, Expanded Inventory je nach Risikotoleranz
+- **Advanced Placement Controls**, Anzeigen aus bestimmten Content-Kategorien ausschließen
+- **Keyword-Ausschlüsse**, bestimmte Themenumfelder blocken
+- **Content Type Targeting**, spezifisch auf „Embedded YouTube Videos" oder „YouTube Watch Pages" buchen
+- **Inventory Filter**, Standard, Limited, Expanded Inventory je nach Risikotoleranz
 
 ---
 
 ## Premium-Werbung für TV-Zuschauer
 
 YouTube ist die führende Streaming-Plattform auf TV-Geräten (1 Mrd. Stunden täglich). TV-Targeting über Google Ads:
-- **Connected TV-Targeting** — Anzeigen explizit auf Smart TV-Zuschauer ausrichten
+- **Connected TV-Targeting**, Anzeigen explizit auf Smart TV-Zuschauer ausrichten
 - Höherer CPM, aber auch deutlich höhere Aufmerksamkeit (kein Second-Screen-Ablenkung)
-- **Conversational AI jetzt auf allen Smart TVs** (April 2026) — neue Interaktionsmöglichkeiten für Branded Experiences
+- **Conversational AI jetzt auf allen Smart TVs** (April 2026), neue Interaktionsmöglichkeiten für Branded Experiences
 
 ---
 
@@ -146,9 +146,9 @@ YouTube ist die führende Streaming-Plattform auf TV-Geräten (1 Mrd. Stunden t�
 4. **Discovery Ads** für Lower-Funnel Traffic/Conversions
 
 ### Beste Branchen für YouTube Ads
-- **Entertainment & Media** — nativer Kontext
-- **Consumer Electronics & Tech** — hochaffinierte Zielgruppen
-- **Beauty & Fashion** — Shorts + Tutorial-Content
-- **Education & Courses** — stärkste Plattform für Lern-Content
-- **Gaming** — größte Gaming-Community im Web
-- **B2C General** — hohe Reichweite bei Millennials, Gen Z, Gen X
+- **Entertainment & Media**, nativer Kontext
+- **Consumer Electronics & Tech**, hochaffinierte Zielgruppen
+- **Beauty & Fashion**, Shorts + Tutorial-Content
+- **Education & Courses**, stärkste Plattform für Lern-Content
+- **Gaming**, größte Gaming-Community im Web
+- **B2C General**, hohe Reichweite bei Millennials, Gen Z, Gen X

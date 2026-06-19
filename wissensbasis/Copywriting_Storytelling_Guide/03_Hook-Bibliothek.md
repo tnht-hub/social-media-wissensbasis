@@ -1,9 +1,9 @@
-# Säule 3 — Hook-Bibliothek
+# Säule 3: Hook-Bibliothek
 
-> **71 % der Zuschauer:innen entscheiden in den ersten 1–3 Sekunden**, ob sie weiter schauen oder scrollen.
-> — Hook-Pattern-Studien 2026
+> **71 % der Zuschauer:innen entscheiden in den ersten 1 bis 3 Sekunden**, ob sie weiter schauen oder scrollen.
+> Hook-Pattern-Studien 2026
 
-Der Hook ist die wichtigste Sekunde in eurer Kommunikation. Egal wie gut der Mittelteil, der Schluss, das Produkt ist — wenn der Hook nicht stoppt, wird der Rest nie gesehen.
+Der Hook ist die wichtigste Sekunde in eurer Kommunikation. Egal wie gut der Mittelteil, der Schluss, das Produkt ist, wenn der Hook nicht stoppt, wird der Rest nie gesehen.
 
 Diese Bibliothek dokumentiert **15 erprobte Hook-Pattern** mit Beispielen, Begründung und Einsatzkontext.
 
@@ -13,11 +13,11 @@ Diese Bibliothek dokumentiert **15 erprobte Hook-Pattern** mit Beispielen, Begr�
 
 Ein guter Hook erfüllt **drei Funktionen gleichzeitig**:
 
-1. **Stoppt den Scroll** — durch Pattern-Interrupt
-2. **Macht neugierig auf das, was folgt** — durch Information Gap
-3. **Signalisiert Relevanz** — die Zuschauer:in erkennt, dass es um sie geht
+1. **Stoppt den Scroll**, durch Pattern-Interrupt
+2. **Macht neugierig auf das, was folgt**, durch Information Gap
+3. **Signalisiert Relevanz**, die Zuschauer:in erkennt, dass es um sie geht
 
-Hooks, die nur 1 oder 2 der 3 leisten, performen schlechter. Hooks, die 1–3 leisten, sind viral-fähig.
+Hooks, die nur 1 oder 2 der 3 leisten, performen schlechter. Hooks, die 1 bis 3 leisten, sind viral-fähig.
 
 ---
 
@@ -69,7 +69,7 @@ Aktuelle Hook-Recherche zeigt:
 
 ### 3. Pattern-Interrupt (Unerwarteter Beginn)
 
-**Mechanik:** Ein Anfang, der NICHT zur Erwartung passt — visuell oder textuell.
+**Mechanik:** Ein Anfang, der NICHT zur Erwartung passt, visuell oder textuell.
 
 **Beispiele:**
 - Video: Person im Anzug, die mit ernster Miene sagt: „Das, was ich gleich sage, wird euch enttäuschen."
@@ -118,7 +118,7 @@ Aktuelle Hook-Recherche zeigt:
 
 **Beispiele:**
 - „5 Sätze, die deine nächste Verhandlung retten."
-- „3 Dinge, die ich an meiner ersten Stelle gelernt habe — und die mir niemand gesagt hat."
+- „3 Dinge, die ich an meiner ersten Stelle gelernt habe, und die mir niemand gesagt hat."
 - „7 E-Mails, die du nie wieder schreiben solltest."
 
 **Wann nutzen:** Für Carousels, lange Captions, How-To-Content. Sehr scannbar.
@@ -144,12 +144,12 @@ Aktuelle Hook-Recherche zeigt:
 
 ### 8. Hot-Take-Hook (Provokation)
 
-**Mechanik:** Eine Meinung, die nicht alle teilen — bewusst polarisierend.
+**Mechanik:** Eine Meinung, die nicht alle teilen, bewusst polarisierend.
 
 **Beispiele:**
 - „Networking ist überbewertet."
 - „Personal Brand ist die neue Pyramidenscheme."
-- „Eure LinkedIn-Strategie funktioniert nicht — und ihr wisst es."
+- „Eure LinkedIn-Strategie funktioniert nicht, und ihr wisst es."
 
 **Wann nutzen:** Wenn ihr eine Haltung habt und sie tragen könnt. Hot Takes funktionieren nur, wenn ihr den Rest des Posts liefert.
 
@@ -174,7 +174,7 @@ Aktuelle Hook-Recherche zeigt:
 
 ### 10. Insider-Knowledge-Hook (Geheimwissen)
 
-**Mechanik:** „Das wissen nur Insider" — Geheimnis-Versprechen.
+**Mechanik:** „Das wissen nur Insider", Geheimnis-Versprechen.
 
 **Beispiele:**
 - „So bauen Top-Verkäufer:innen ihre Pipeline wirklich auf."
@@ -219,7 +219,7 @@ Aktuelle Hook-Recherche zeigt:
 
 ### 13. Listicle-Konfrontation („Falsch-Macher")
 
-**Mechanik:** „X von 5 machen das falsch" — Konfrontation mit der Norm.
+**Mechanik:** „X von 5 machen das falsch", Konfrontation mit der Norm.
 
 **Beispiele:**
 - „4 von 5 Marketer:innen machen diesen Fehler bei Hashtags."
@@ -262,6 +262,41 @@ Aktuelle Hook-Recherche zeigt:
 
 ---
 
+## Sonderfall: Conversion-Hooks auf Landingpages
+
+Die 15 Pattern oben sind Feed-Hooks. Ihre Aufgabe ist, den Scroll zu stoppen. Auf einer Landingpage hat der Hook eine andere Aufgabe: Er soll qualifizieren und zur Eintragung führen, nicht zum Weiterschauen. Dafür haben sich drei Hook-Typen bewährt, die als Headline am Seitenanfang stehen.
+
+### Readiness-Hook (Bereitschaft)
+
+**Mechanik:** Fragt die Leser:in, ob sie bereit für ein bestimmtes Ergebnis ist. Die Frage unterstellt das Ziel als erstrebenswert und fordert eine innere Zusage.
+
+**Beispiele:**
+- „Bist du bereit, endlich reine Haut zu haben?"
+- „Bist du bereit, ein leistungsstarkes Vertriebsteam aufzubauen?"
+- „Bist du bereit, dein Geschäft mit Paid Ads zu skalieren?"
+
+### Problem- oder Frustrations-Hook
+
+**Mechanik:** Benennt eine konkrete Frustration, die die Leser:in als ihre eigene erkennt. Verlustaversion zieht stärker als ein reines Gewinnversprechen.
+
+**Beispiele:**
+- „Frustriert, dass du trotz dreimal Gym pro Woche nicht abnimmst?"
+- „Frustriert, dass dein Vertrieb Abschlüsse liegen lässt, die längst reif sind?"
+
+### Process-Hook (neuer Weg)
+
+**Mechanik:** Stellt einen neuen, benennbaren Weg zum Ergebnis vor. Ein Mehr-Schritt-Verfahren wirkt konkreter und glaubwürdiger als ein vages Versprechen.
+
+**Beispiele:**
+- „Ich stelle dir die Fünf-Schritte-Methode vor, mit der du zur gefragten Person deiner Branche wirst."
+- „Ein Drei-Schritte-Verfahren zum Abnehmen, das du so noch nicht gesehen hast."
+
+**Arbeitsweise:** Nicht einen Hook festlegen, sondern 20 bis 30 Varianten erstellen und A gegen B gegen C testen. Möglich ist auch, mehrere Varianten vorab im eigenen Netzwerk (etwa auf LinkedIn) zur Wahl zu stellen.
+
+**Herkunft und Status:** Dokumentiert aus einem Lehrvideo von Daniel Priestley (ScoreApp), „The Rolling Waitlist Strategy That Actually Works in 2026" (YouTube, https://www.youtube.com/watch?v=i6s44i0EI8k). Praktiker-Framework eines einzelnen, kommerziell interessierten Anbieters, ohne unabhängige Messung. Vor breitem Einsatz am eigenen Fall testen.
+
+---
+
 ## Hook-Test: Würde ich das einer Freund:in schicken?
 
 Adam Mosseri (Instagram) sagt: **Sends sind das stärkste Reichweite-Signal**.
@@ -271,7 +306,7 @@ Der ultimative Test: Stell dir vor, du siehst deinen eigenen Hook im Feed. Würd
 Wenn ja: Hook funktioniert.
 Wenn nein: Hook ist informativ, aber nicht shareable.
 
-Shareable Hooks haben oft eine **soziale Komponente** — sie sagen etwas, das jemand anderem etwas über uns selbst signalisiert, wenn wir es schicken.
+Shareable Hooks haben oft eine **soziale Komponente**, sie sagen etwas, das jemand anderem etwas über uns selbst signalisiert, wenn wir es schicken.
 
 ---
 
@@ -280,7 +315,7 @@ Shareable Hooks haben oft eine **soziale Komponente** — sie sagen etwas, das j
 Die besten Hooks kombinieren oft **zwei Pattern**:
 
 - **Statement + Cliffhanger:** „92 % der Marketing-Mails werden nie geöffnet. Aber 1 % bekommt 80 % der Antworten. So funktionieren sie."
-- **Frage + Hot Take:** „Warum hassen alle Networking — und warum solltest du sofort damit aufhören?"
+- **Frage + Hot Take:** „Warum hassen alle Networking, und warum solltest du sofort damit aufhören?"
 - **Vor-Nach + Confessional:** „Vor 3 Jahren konnte ich kein einziges Englisch-Meeting moderieren. Heute halte ich Vorträge in 4 Sprachen. Hier ist, was niemand erzählt."
 
 Mehr als zwei Pattern wird meistens überfrachtet.
@@ -315,7 +350,7 @@ Markiere die Top 5 zur Auswahl.
 
 | Fehler | Symptom | Korrektur |
 |---|---|---|
-| **Hook zu lang** | 20+ Wörter | Auf 6–12 Wörter kürzen |
+| **Hook zu lang** | 20+ Wörter | Auf 6 bis 12 Wörter kürzen |
 | **Erwartbar** | „5 Tipps für besseres Marketing" | Spezifischer oder subversiver werden |
 | **Engagement-Bait** | „Tag a friend wer das kennt 👇" | Algorithmus bestraft das aktiv |
 | **Versprechen, das nicht gehalten wird** | Hook ist krass, Content ist banal | Hook und Substanz in Balance |

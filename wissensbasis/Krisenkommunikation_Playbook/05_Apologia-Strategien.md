@@ -1,8 +1,8 @@
-# Säule 5 — Apologia-Strategien
+# Säule 5: Apologia-Strategien
 
-Wenn die Marke etwas erklären, rechtfertigen oder eingestehen muss, gibt es nicht **eine** Strategie — sondern eine ganze Familie von Strategien. Die Wahl bestimmt, ob die Krise abebbt oder eskaliert.
+Wenn die Marke etwas erklären, rechtfertigen oder eingestehen muss, gibt es nicht **eine** Strategie, sondern eine ganze Familie von Strategien. Die Wahl bestimmt, ob die Krise abebbt oder eskaliert.
 
-Diese Säule dokumentiert die zwei wichtigsten akademischen Frameworks: **Coombs SCCT** und **Benoit Image Restoration Theory** — und wie man sie in der Praxis anwendet.
+Diese Säule dokumentiert die zwei wichtigsten akademischen Frameworks: **Coombs SCCT** und **Benoit Image Restoration Theory**, und wie man sie in der Praxis anwendet.
 
 ---
 
@@ -19,21 +19,21 @@ In der Praxis nutzt man beide:
 
 ---
 
-## Coombs SCCT — die drei Strategie-Gruppen
+## Coombs SCCT: die drei Strategie-Gruppen
 
 SCCT (Situational Crisis Communication Theory) ordnet alle Krisen-Reaktionen in drei Gruppen, sortiert nach **wachsendem Verantwortungs-Eingeständnis**:
 
 | Gruppe | Sub-Strategien | Wann nutzen |
 |---|---|---|
-| **Deny (Bestreiten)** | Attack accuser, Denial, Scapegoat | Cluster A (Victim) — wenn Marke nicht verantwortlich ist |
-| **Diminish (Abschwächen)** | Excuse, Justification | Cluster B (Accidental) — wenn Marke teilweise verantwortlich |
-| **Rebuild (Wiederaufbauen)** | Compensation, Apology, Mortification | Cluster C (Preventable) — wenn Marke voll verantwortlich |
+| **Deny (Bestreiten)** | Attack accuser, Denial, Scapegoat | Cluster A (Victim), wenn Marke nicht verantwortlich ist |
+| **Diminish (Abschwächen)** | Excuse, Justification | Cluster B (Accidental), wenn Marke teilweise verantwortlich |
+| **Rebuild (Wiederaufbauen)** | Compensation, Apology, Mortification | Cluster C (Preventable), wenn Marke voll verantwortlich |
 
 **Faustregel SCCT:** Je höher die wahrgenommene Verantwortung, desto stärker die Rebuild-Strategie. Wer bei Cluster C nur „Deny" oder „Diminish" anbietet, eskaliert die Krise.
 
 ---
 
-## Benoit Image Restoration — fünf Strategien im Detail
+## Benoit Image Restoration: fünf Strategien im Detail
 
 Benoit's Framework ist feiner. Es identifiziert **fünf Haupt-Strategien**, jede mit Unter-Strategien:
 
@@ -91,7 +91,7 @@ Benoit's Framework ist feiner. Es identifiziert **fünf Haupt-Strategien**, jede
 - Entschädigungen
 - Sicherheits-Investitionen
 
-**Wann nutzen:** Bei Cluster B und C — fast immer Pflicht. Ohne sichtbare Corrective Action wirken Worte hohl.
+**Wann nutzen:** Bei Cluster B und C, fast immer Pflicht. Ohne sichtbare Corrective Action wirken Worte hohl.
 
 ### 5. Mortification (Vollständige Entschuldigung)
 
@@ -110,23 +110,23 @@ Benoit's Framework ist feiner. Es identifiziert **fünf Haupt-Strategien**, jede
 
 ---
 
-## Empirische Effektivität — was funktioniert?
+## Empirische Effektivität: was funktioniert?
 
 Forschung zu Image Restoration zeigt:
 
 > „Mortification and corrective action were perceived as more effective and appropriate than other strategies."
-> — Benoit et al.
+> Benoit et al.
 
 **Die effektivsten Strategien:**
-1. **Mortification** (vollständige Entschuldigung) — wenn passend
-2. **Corrective Action** (sichtbare Maßnahmen) — fast immer effektiv
+1. **Mortification** (vollständige Entschuldigung), wenn passend
+2. **Corrective Action** (sichtbare Maßnahmen), fast immer effektiv
 
 **Die ineffektivsten Strategien:**
-1. **Attack Accuser** — eskaliert meistens
-2. **Minimization** — wirkt verharmlosend
-3. **Shifting Blame** — wirkt feige (wenn unbegründet)
+1. **Attack Accuser**, eskaliert meistens
+2. **Minimization**, wirkt verharmlosend
+3. **Shifting Blame**, wirkt feige (wenn unbegründet)
 
-Die Versuchung in einer Krise ist oft, mit Deny oder Diminish zu reagieren — weil es kurzfristig „schützt". Das ist meistens die falsche Strategie.
+Die Versuchung in einer Krise ist oft, mit Deny oder Diminish zu reagieren, weil es kurzfristig „schützt". Das ist meistens die falsche Strategie.
 
 ---
 
@@ -144,7 +144,7 @@ Eine vereinfachte Entscheidungshilfe:
 
 ## Stellungnahme-Templates nach Krisen-Cluster
 
-### Template Cluster A — Marke als Opfer
+### Template Cluster A: Marke als Opfer
 
 ```
 [Anerkennung des Vorfalls]
@@ -166,7 +166,7 @@ Wer betroffen ist, kann sich unter [Kontakt] melden.
 Wir bleiben transparent und melden uns mit weiteren Informationen.
 ```
 
-### Template Cluster B — Etwas ist schiefgelaufen
+### Template Cluster B: Etwas ist schiefgelaufen
 
 ```
 [Anerkennung des Vorfalls]
@@ -194,7 +194,7 @@ Wer betroffen ist, kann [konkrete Aktion]. Unter [Kontakt] sind wir erreichbar.
 Wir melden uns wieder, sobald [konkreter Meilenstein] erreicht ist.
 ```
 
-### Template Cluster C — Vermeidbar, hohe Verantwortung
+### Template Cluster C: Vermeidbar, hohe Verantwortung
 
 ```
 [Klare Anerkennung des Fehlers]
@@ -223,7 +223,7 @@ Die Verantwortung liegt bei uns. Wir suchen nicht nach Erklärungen, die das rel
 Wer betroffen ist, kann sich an [Kontakt] wenden. Wir bieten [konkrete Hilfe] an.
 
 [Update-Versprechen]
-Wir berichten transparent über unseren Fortschritt — auch wenn er unbequem ist.
+Wir berichten transparent über unseren Fortschritt, auch wenn er unbequem ist.
 ```
 
 Diese Templates sind **Skelette**, nicht fertige Texte. Sie müssen für jede konkrete Situation und Marke ausformuliert werden.
@@ -238,7 +238,7 @@ Häufige Fehler bei Krisenstellungnahmen:
 
 > „Wir bedauern, falls sich jemand verletzt gefühlt haben sollte."
 
-Das ist **keine** Entschuldigung. Es ist eine Verschiebung der Verantwortung an die Verletzten („Falls Sie sich verletzt gefühlt haben — das ist Ihr Problem, nicht meins").
+Das ist **keine** Entschuldigung. Es ist eine Verschiebung der Verantwortung an die Verletzten („Falls Sie sich verletzt gefühlt haben, das ist Ihr Problem, nicht meins").
 
 **Korrektur:** Direkt: „Wir haben [Gruppe] verletzt. Das war nicht in Ordnung. Es tut uns leid."
 
@@ -264,7 +264,7 @@ Werte-Floskeln ohne Substanz. In Krisen besonders schädlich, weil die Substanz 
 
 ### Anti-Pattern 5: Verspätete Mortifikation
 
-Cluster-C-Krisen, wo Marke erst nach 5 Tagen wirklich entschuldigt — nachdem 3 Statements mit „Diminish"-Logik nicht funktioniert haben. Die späte Entschuldigung wirkt erzwungen, nicht aufrichtig.
+Cluster-C-Krisen, wo Marke erst nach 5 Tagen wirklich entschuldigt, nachdem 3 Statements mit „Diminish"-Logik nicht funktioniert haben. Die späte Entschuldigung wirkt erzwungen, nicht aufrichtig.
 
 **Korrektur:** Bei klarer Verantwortung **sofort** mit Mortifikation einsteigen.
 

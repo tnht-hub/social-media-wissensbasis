@@ -1,23 +1,23 @@
-# Säule 2 — Stakeholder-Mapping
+# Säule 2: Stakeholder-Mapping
 
-In einer Krise reicht es nicht, **was** ihr sagt — die Reihenfolge, **wen** ihr informiert, ist mindestens so wichtig.
+In einer Krise reicht es nicht, **was** ihr sagt, die Reihenfolge, **wen** ihr informiert, ist mindestens so wichtig.
 
 > „Employees should hear from you first before external communication, affected parties before the general public, and high-impact stakeholders before low-impact ones."
-> — Public Relations Society of America
+> Public Relations Society of America
 
 Diese Säule dokumentiert das Stakeholder-Mapping für Krisensituationen.
 
 ---
 
-## Grundprinzip — Drei Konzentrische Kreise
+## Grundprinzip: Drei Konzentrische Kreise
 
 Stakeholder ordnen sich in drei Kreise um die Marke:
 
 | Kreis | Wer | Wann informieren |
 |---|---|---|
-| **Innen** | Mitarbeiter:innen, Geschäftsleitung, Board | ZUERST — vor jeder externen Kommunikation |
-| **Mitte** | Direkt Betroffene, Kund:innen, Großkunden, Geldgeber, Behörden | ALS ZWEITES — bevor die Öffentlichkeit |
-| **Außen** | Öffentlichkeit, allgemeine Presse, Social-Media-Audience | ZULETZT — aber zeitnah, sonst Vakuum |
+| **Innen** | Mitarbeiter:innen, Geschäftsleitung, Board | ZUERST, vor jeder externen Kommunikation |
+| **Mitte** | Direkt Betroffene, Kund:innen, Großkunden, Geldgeber, Behörden | ALS ZWEITES, bevor die Öffentlichkeit |
+| **Außen** | Öffentlichkeit, allgemeine Presse, Social-Media-Audience | ZULETZT, aber zeitnah, sonst Vakuum |
 
 **Bricht man diese Reihenfolge, kostet es Vertrauen.** Mitarbeiter:innen, die über die Tagesschau von einer Krise erfahren, fühlen sich übergangen. Kund:innen, die nicht vorgewarnt sind, fühlen sich missachtet.
 
@@ -25,18 +25,18 @@ Stakeholder ordnen sich in drei Kreise um die Marke:
 
 ## Stakeholder-Kategorien im Detail
 
-### Innen-Kreis (Stunde 0–2)
+### Innen-Kreis (Stunde 0 bis 2)
 
 | Stakeholder | Wer genau | Wie informieren |
 |---|---|---|
 | **Geschäftsleitung** | CEO, CFO, COO, Board | SMS / Anruf SOFORT, danach Krisenstab-Meeting |
 | **Krisenstab** | Vordefiniertes Team (siehe `08_Praevention_und_Krisenstab.md`) | Aktivierung über vordefinierten Notfall-Channel |
 | **Direkt involvierte Abteilungen** | z.B. Marketing, PR, Recht, HR, Operations | Innerhalb Stunde 1 |
-| **Alle Mitarbeiter:innen** | Gesamtes Team | Bevor externe Kommunikation rausgeht — meistens Stunde 1–2 |
+| **Alle Mitarbeiter:innen** | Gesamtes Team | Bevor externe Kommunikation rausgeht, meistens Stunde 1 bis 2 |
 
 **Wichtig:** Mitarbeiter:innen sollten **mehr Information** bekommen als die Öffentlichkeit, **mindestens aber dasselbe**. Sonst kommt es zu Vertrauensverlust intern.
 
-### Mittel-Kreis (Stunde 1–6)
+### Mittel-Kreis (Stunde 1 bis 6)
 
 | Stakeholder | Wer genau | Wie informieren |
 |---|---|---|
@@ -47,7 +47,7 @@ Stakeholder ordnen sich in drei Kreise um die Marke:
 | **Brancheverbände** | Kammern, Verbände | Information durch PR / Verbands-Kontakt |
 | **Versicherungen** | Berufshaftpflicht, Cyber-Versicherung | Sofortmeldung, oft vertraglich vorgeschrieben |
 
-### Außen-Kreis (ab Stunde 1–24)
+### Außen-Kreis (ab Stunde 1 bis 24)
 
 | Stakeholder | Wer genau | Wie informieren |
 |---|---|---|
@@ -61,7 +61,7 @@ Stakeholder ordnen sich in drei Kreise um die Marke:
 
 Wichtigste Pflicht-Meldungen, die in Krisensituationen relevant werden können:
 
-### DSGVO Artikel 33 — Datenpannen
+### DSGVO Artikel 33: Datenpannen
 
 **Pflicht:** Meldung an die zuständige Datenschutz-Aufsichtsbehörde **binnen 72 Stunden** nach Bekanntwerden, wenn die Verletzung zu einem **mehr als geringem Risiko** für betroffene Personen führen kann.
 
@@ -94,11 +94,11 @@ Für „wesentliche" und „wichtige" Einrichtungen (KRITIS, größere Unternehm
 | **Telekommunikation** | BNetzA | 24 Stunden |
 | **Lebensmittel-Sicherheit** | Veterinär-/Lebensmittelaufsicht | Unverzüglich |
 
-**Faustregel:** Wenn ihr unsicher seid, ob Meldepflicht besteht — fragt euer Rechts-Team **innerhalb der ersten Stunde**. Verspätung kann das Bußgeld erheblich erhöhen.
+**Faustregel:** Wenn ihr unsicher seid, ob Meldepflicht besteht, fragt euer Rechts-Team **innerhalb der ersten Stunde**. Verspätung kann das Bußgeld erheblich erhöhen.
 
 ---
 
-## Stakeholder-Mapping vor der Krise — die Praxis
+## Stakeholder-Mapping vor der Krise: die Praxis
 
 Das Stakeholder-Mapping wird **vor** der Krise gemacht. In der Krise habt ihr keine Zeit dafür.
 
@@ -180,21 +180,21 @@ Datum/Zeit: ___________
 Krisen-Typ (siehe Säule 01): ___________
 Coombs-Cluster: A / B / C
 
-## Stunde 0–2: Innen-Kreis informiert
+## Stunde 0 bis 2: Innen-Kreis informiert
 - [ ] CEO benachrichtigt um __:__
 - [ ] Krisenstab aktiviert um __:__
 - [ ] Rechtsteam informiert um __:__
 - [ ] HR informiert um __:__
 - [ ] Geschäftsleitung-Update um __:__
 
-## Stunde 2–6: Mittel-Kreis informiert
+## Stunde 2 bis 6: Mittel-Kreis informiert
 - [ ] Direkt Betroffene benachrichtigt
 - [ ] Top-10-Kund:innen kontaktiert (Liste anhängen)
 - [ ] Investor:innen informiert
 - [ ] Aufsichtsbehörden (falls Meldepflicht): __________
 - [ ] Versicherung informiert
 
-## Stunde 1–24: Außen-Kreis informiert
+## Stunde 1 bis 24: Außen-Kreis informiert
 - [ ] Mitarbeiter-All-Hands oder Mail
 - [ ] Holding Statement Social Media
 - [ ] Holding Statement Website

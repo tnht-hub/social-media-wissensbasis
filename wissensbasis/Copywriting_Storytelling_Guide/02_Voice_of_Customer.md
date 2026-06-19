@@ -1,7 +1,7 @@
-# Säule 2 — Voice of Customer (Sprach-Recherche)
+# Säule 2: Voice of Customer (Sprach-Recherche)
 
 > „Research ist 90 % der Arbeit. Wenn es das nicht ist, machst du es zu 99 % falsch."
-> — Joanna Wiebe, Copyhackers
+> Joanna Wiebe, Copyhackers
 
 Die unterschätzte Foundation. Vor jedem Hook, jeder Caption, jedem Claim steht die Frage: **In welcher Sprache redet meine Zielgruppe wirklich über das Problem, das ich löse?**
 
@@ -23,7 +23,7 @@ Effekt: Texte fühlen sich für die Zielgruppe nicht wie Werbung, sondern wie Se
 
 ## Sieben VoC-Quellen (nach Copyhackers)
 
-Joanna Wiebe identifiziert sieben primäre Recherche-Quellen. Eine Marke braucht nicht alle — aber sollte aus mindestens 3–4 davon regelmäßig sammeln.
+Joanna Wiebe identifiziert sieben primäre Recherche-Quellen. Eine Marke braucht nicht alle, aber sollte aus mindestens 3 bis 4 davon regelmäßig sammeln.
 
 ### 1. Eigene Kund:innen-Reviews
 Bewertungen, Kommentare, DMs, Support-Tickets. **Hier reden Menschen freiwillig in ihrer eigenen Sprache.**
@@ -34,12 +34,12 @@ Wertvoll sind besonders:
 - **3-Sterne-Reviews** (ehrlichste Mischung aus Lob und Kritik)
 
 ### 2. Wettbewerber-Reviews
-Die Bewertungen der Konkurrenz sind eine Goldmine. Hier äußern sich Kund:innen über **Probleme, die in eurer Branche bestehen** — Probleme, die ihr lösen könnt.
+Die Bewertungen der Konkurrenz sind eine Goldmine. Hier äußern sich Kund:innen über **Probleme, die in eurer Branche bestehen**, Probleme, die ihr lösen könnt.
 
 Quellen: Trustpilot, Google Reviews, G2, Capterra, App-Stores, branchen-spezifische Plattformen.
 
 ### 3. Reddit / Foren / Discord-Communities
-Reddit ist besonders wertvoll, weil dort Menschen **ungefiltert** über ihre Probleme reden — oft mit Hochrelevanz für ihre Lebenswelt.
+Reddit ist besonders wertvoll, weil dort Menschen **ungefiltert** über ihre Probleme reden, oft mit Hochrelevanz für ihre Lebenswelt.
 
 Praxis: Subreddits zu eurem Thema identifizieren, dort mehrere Wochen passiv mitlesen, wiederkehrende Sprach-Muster notieren.
 
@@ -47,9 +47,9 @@ Praxis: Subreddits zu eurem Thema identifizieren, dort mehrere Wochen passiv mit
 Was Kund:innen sagen, wenn sie ein Problem haben, ist die direkteste Sprache, die ihr je bekommt. **Support-Tickets sind die ehrlichste VoC-Quelle**, die ihr besitzt.
 
 ### 5. Kund:innen-Interviews
-1-zu-1-Gespräche, 30–60 Minuten, offen geführt. Wertvoll für tiefe Einsichten — aber zeitaufwendig.
+1-zu-1-Gespräche, 30 bis 60 Minuten, offen geführt. Wertvoll für tiefe Einsichten, aber zeitaufwendig.
 
-Wiebe-Methode: 5–10 Interviews bringen 80 % der Erkenntnisse. Mehr nur, wenn Muster nicht klar werden.
+Wiebe-Methode: 5 bis 10 Interviews bringen 80 % der Erkenntnisse. Mehr nur, wenn Muster nicht klar werden.
 
 ### 6. Surveys mit offenen Antworten
 Schlüsselfragen für VoC-Sammlung:
@@ -57,14 +57,14 @@ Schlüsselfragen für VoC-Sammlung:
 - „Was hätte dich fast vom Kauf abgehalten?"
 - „Wie würdest du das Produkt einem:einer Freund:in beschreiben?"
 
-**Offene Antworten** sind kritisch — Multiple-Choice killt die VoC-Sprache.
+**Offene Antworten** sind kritisch, Multiple-Choice killt die VoC-Sprache.
 
 ### 7. Onboarding-/Exit-Surveys
 Wenn jemand sich anmeldet oder abmeldet, ist die Motivation am stärksten artikuliert. Bei Software-Produkten: Cancellation-Surveys lesen sich wie ein Fenster in die Wahrheit.
 
 ---
 
-## Was ihr sammelt — vier Kategorien
+## Was ihr sammelt: vier Kategorien
 
 Nicht alles, was ihr findet, ist gleich wertvoll. Wiebe schlägt vier Kategorien vor:
 
@@ -89,7 +89,7 @@ Wiederkehrende Begriffe, Vergleiche, Metaphern. **Genau diese Worte** kommen in 
 
 ---
 
-## VoC dokumentieren — Swipe-File anlegen
+## VoC dokumentieren: Swipe-File anlegen
 
 Eine **Swipe-File** ist eure systematische VoC-Sammlung. Aufbau:
 
@@ -115,9 +115,9 @@ Eine **Swipe-File** ist eure systematische VoC-Sammlung. Aufbau:
   → Tag: #adoption #team
 
 ## Sprache-Muster
-- "in der Excel-Hölle" — wiederholt 7x in 3 Monaten
-- "abschalten können" — 12x
-- "schreibt sich selbst" — 4x (positiv)
+- "in der Excel-Hölle", wiederholt 7x in 3 Monaten
+- "abschalten können", 12x
+- "schreibt sich selbst", 4x (positiv)
 ```
 
 Diese Swipe-File ist über Zeit das wertvollste Marketing-Asset, das ihr besitzt.
@@ -135,10 +135,10 @@ Hier sind [N] Kunden-Reviews / Forum-Posts / Support-Tickets zu [PRODUKT/THEMA]:
 
 Analysiere diese Texte und extrahiere:
 
-1. Die 5 häufigsten Pains (Schmerzpunkte) — in der ORIGINAL-SPRACHE
+1. Die 5 häufigsten Pains (Schmerzpunkte), in der ORIGINAL-SPRACHE
    der Kund:innen
-2. Die 5 häufigsten Desires (Wünsche) — in der ORIGINAL-SPRACHE
-3. Die 5 häufigsten Objections (Einwände) — in der ORIGINAL-SPRACHE
+2. Die 5 häufigsten Desires (Wünsche), in der ORIGINAL-SPRACHE
+3. Die 5 häufigsten Objections (Einwände), in der ORIGINAL-SPRACHE
 4. Wiederkehrende Sprach-Muster (Begriffe, Metaphern, Vergleiche),
    die mehr als 3x auftauchen
 5. Welche Worte werden konsequent VERMIEDEN von Kund:innen
@@ -152,7 +152,7 @@ Output als strukturierte Swipe-File.
 
 ---
 
-## VoC in Copy umsetzen — drei konkrete Hebel
+## VoC in Copy umsetzen: drei konkrete Hebel
 
 ### Hebel 1: Headlines / Hooks aus VoC bauen
 Statt erfundene Hooks zu schreiben, **echte Sätze aus Kund:innen-Stimme** als Hook nehmen.
@@ -174,7 +174,7 @@ Wenn Kund:innen in Wettbewerber-Reviews konsistent etwas kritisieren („zu komp
 
 | Fehler | Symptom | Korrektur |
 |---|---|---|
-| **Zu wenig Quellen** | Sample-Bias durch nur eine Plattform | Mindestens 3–4 verschiedene VoC-Quellen |
+| **Zu wenig Quellen** | Sample-Bias durch nur eine Plattform | Mindestens 3 bis 4 verschiedene VoC-Quellen |
 | **Übersetzung in Marketing-Sprache** | „Sonntags-Hölle" wird zu „Effizienz-Herausforderungen am Wochenende" | Original-Wortlaut behalten |
 | **Nur Pains gesammelt** | Negative Bias, kein Bild der Desires | Alle vier Kategorien gleich gewichten |
 | **Einmalige Recherche** | Nach 12 Monaten veraltet | Quartalsweise Refresh, Swipe-File pflegen |
@@ -190,4 +190,4 @@ Marken mit guter VoC-Praxis schreiben Marketing-Sprache, **die ihre Kund:innen v
 
 Der Unterschied ist messbar in: Conversion-Rates, Engagement-Tiefe, organischer Reichweite (Sends-/Share-Rate).
 
-Eine konkurrierende Agentur, die VoC ernst nimmt, schlägt eine konkurrierende Agentur, die nur „kreative Konzepte" macht — fast immer. Das ist eine der wenigen wirklich nachweisbaren Wahrheiten im Marketing.
+Eine konkurrierende Agentur, die VoC ernst nimmt, schlägt eine konkurrierende Agentur, die nur „kreative Konzepte" macht, fast immer. Das ist eine der wenigen wirklich nachweisbaren Wahrheiten im Marketing.

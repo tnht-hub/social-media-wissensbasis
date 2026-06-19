@@ -1,12 +1,12 @@
-# YouTube Analytics & Metriken — IST-Zustand Mai 2026
+# YouTube Analytics & Metriken: IST-Zustand Mai 2026
 
 ---
 
-## YouTube Studio — Überblick
+## YouTube Studio: Überblick
 
 YouTube Studio ist das umfangreichste native Analytics-Tool im Social-Media-Bereich. Es deckt alle relevanten Metriken für Videos, Shorts, Live-Streams, Community und Monetarisierung ab.
 
-**Wichtige Updates 2025–2026:**
+**Wichtige Updates 2025 bis 2026:**
 - **Advanced Mode** (Juni 2025): Neue linke Sidebar mit erweiterten Report-Konfigurationen
 - **Paid vs. Organic Analytics** (November 2025): Separate Ausweisung für bezahlte und organische Views/Engagement
 - **"Seller" Filter** (Dezember 2025): Neuer Filter für Shopping-Analytics
@@ -54,12 +54,12 @@ YouTube Studio ist das umfangreichste native Analytics-Tool im Social-Media-Bere
 
 ## Metriken nach Gewichtung (Algorithmus-Relevanz)
 
-1. **Watch Time** — stärkstes Signal für Long-Form; zeigt echten Nutzwert
-2. **Completion Rate** — besonders bei Shorts entscheidend
-3. **CTR (Thumbnail/Titel)** — entscheidet über initiale Distribution
-4. **Replays (Shorts)** — seit April 2025 explizit gewichtet
-5. **Kommentare und Shares** — Engagement-Qualität
-6. **Likes** — positives Signal; weniger stark gewichtet als Watch Time
+1. **Watch Time**, stärkstes Signal für Long-Form; zeigt echten Nutzwert
+2. **Completion Rate**, besonders bei Shorts entscheidend
+3. **CTR (Thumbnail/Titel)**, entscheidet über initiale Distribution
+4. **Replays (Shorts)**, seit April 2025 explizit gewichtet
+5. **Kommentare und Shares**, Engagement-Qualität
+6. **Likes**, positives Signal; weniger stark gewichtet als Watch Time
 
 ---
 
@@ -117,7 +117,7 @@ Separate Ansicht in YouTube Studio:
 
 | Metrik | Gut | Sehr gut |
 |---|---|---|
-| CTR (Thumbnail) | 4–6% | > 8% |
+| CTR (Thumbnail) | 4 bis 6% | > 8% |
 | Average View Duration | > 40% des Videos | > 60% |
 | Shorts Completion Rate | > 50% | > 70% |
 | Likes/Views Ratio | > 2% | > 5% |

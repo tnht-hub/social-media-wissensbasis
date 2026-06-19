@@ -1,14 +1,14 @@
-# X (Twitter) Ads & Werbung — IST-Zustand Mai 2026
+# X (Twitter) Ads & Werbung: IST-Zustand Mai 2026
 
 ---
 
 ## Die neue AI-powered Ad-Plattform (April 2026)
 
-X hat im **April 2026** die vollständige Neuentwicklung seiner Werbeplattform angekündigt — das größte Ad-System-Upgrade in der Geschichte von X/Twitter:
+X hat im **April 2026** die vollständige Neuentwicklung seiner Werbeplattform angekündigt, das größte Ad-System-Upgrade in der Geschichte von X/Twitter:
 - Basiert vollständig auf **xAI-Modellen (Grok)**
 - Verbesserte Targeting-Präzision durch KI
 - Neue Automatisierungsfunktionen
-- Ziel: Rückkehr von Advertisern, die während des Boykotts (2022–2024) die Plattform verlassen hatten
+- Ziel: Rückkehr von Advertisern, die während des Boykotts (2022 bis 2024) die Plattform verlassen hatten
 
 ---
 
@@ -20,7 +20,7 @@ X hat im **April 2026** die vollständige Neuentwicklung seiner Werbeplattform a
 
 ### Video Ads
 - Pre-roll, Mid-roll
-- Native Video bis 3 Minuten (empfohlen: 15–30 Sekunden)
+- Native Video bis 3 Minuten (empfohlen: 15 bis 30 Sekunden)
 - Autoplay ohne Ton (→ Untertitel notwendig)
 
 ### Promoted Accounts
@@ -86,10 +86,10 @@ X hat im **April 2026** die vollständige Neuentwicklung seiner Werbeplattform a
 
 | Metrik | Typischer Bereich |
 |---|---|
-| CPM (Cost per 1.000 Impressionen) | 4–12 € |
-| CPC (Cost per Click) | 0,30–2,00 € |
-| CPE (Cost per Engagement) | 0,50–3,00 € |
-| CPF (Cost per Follow) | 2,00–5,00 € |
+| CPM (Cost per 1.000 Impressionen) | 4 bis 12 € |
+| CPC (Cost per Click) | 0,30 bis 2,00 € |
+| CPE (Cost per Engagement) | 0,50 bis 3,00 € |
+| CPF (Cost per Follow) | 2,00 bis 5,00 € |
 | Promoted Trends / Takeover | ab 200.000 € pro Tag |
 
 X Ads sind **günstiger als LinkedIn**, aber die Qualität der Zielgruppen-Segmentierung ist weniger präzise. Stärke liegt in Echtzeit-Targeting und Konversations-Targeting.
@@ -107,17 +107,17 @@ Seit Oktober 2024 werden Creators auf X vergütet, wenn **andere Premium-Nutzer*
 
 ## Brand Safety
 
-- **FTC-Klage beigelegt (Mai 2026):** Klage über angeblichen Werbe-Boykott gegen Mediaagenturen beigelegt — rechtlicher Druck auf Advertiser nimmt ab
+- **FTC-Klage beigelegt (Mai 2026):** Klage über angeblichen Werbe-Boykott gegen Mediaagenturen beigelegt, rechtlicher Druck auf Advertiser nimmt ab
 - **Brand Safety-Einstellungen** in X Ads Manager: Inhalts-Kategorien und Keyword-Ausschlüsse
 - X Ads Academy (seit Juni 2024): Kostenlose Schulungen für effektive Kampagnen
-- Kontroverses Inhalts-Umfeld: Harvard-Studie belegt Anstieg polarisierender Inhalte — **Brand Safety bleibt zentrales Thema für Advertiser**
+- Kontroverses Inhalts-Umfeld: Harvard-Studie belegt Anstieg polarisierender Inhalte, **Brand Safety bleibt zentrales Thema für Advertiser**
 
 ---
 
 ## Empfohlene Ad-Strategie für X
 
 ### Einstieg
-1. **Keyword- und Konversations-Targeting** — Einzigartiger Vorteil von X gegenüber anderen Plattformen
+1. **Keyword- und Konversations-Targeting**, Einzigartiger Vorteil von X gegenüber anderen Plattformen
 2. **Promoted Posts** auf bereits gut performende organische Posts schalten
 3. **X Pixel** installieren für Website-Conversion-Tracking
 
@@ -127,11 +127,11 @@ Seit Oktober 2024 werden Creators auf X vergütet, wenn **andere Premium-Nutzer*
 3. **Creator Partnership** für authentischere Werbeintegration (neues Programm Mai 2026)
 
 ### Beste Branchen für X Ads
-- Tech & SaaS — Starke, aktive Community
-- Finance / FinTech — Cashtags-Feature, Finance-Community
-- Medien & Publishing — News-Konsum-Plattform Nr. 1
-- Automotive — Starke Engagement-Werte
-- Entertainment — Events, Launches, Live-Reaktionen
+- Tech & SaaS, Starke, aktive Community
+- Finance / FinTech, Cashtags-Feature, Finance-Community
+- Medien & Publishing, News-Konsum-Plattform Nr. 1
+- Automotive, Starke Engagement-Werte
+- Entertainment, Events, Launches, Live-Reaktionen
 
 ### Schwächere Branchen für X Ads
 - B2C Consumer Goods → Instagram/TikTok effektiver

@@ -1,4 +1,4 @@
-# TikTok Ads & Werbung — IST-Zustand Mai 2026
+# TikTok Ads & Werbung: IST-Zustand Mai 2026
 
 ---
 
@@ -17,7 +17,7 @@
 - Teuerste Werbeform
 
 ### Logo Takeover Ads (seit März 2026)
-- Marken-Logo erscheint beim Öffnen der App — kürzere Variante des TopView-Formats
+- Marken-Logo erscheint beim Öffnen der App, kürzere Variante des TopView-Formats
 - Fokus auf Markenbildung und sofortige Sichtbarkeit
 - Weniger invasiv als TopView, da kein vollflächiges Video
 
@@ -58,11 +58,11 @@
 
 ---
 
-## Symphony Suite — AI-Powered Ad Tools
+## Symphony Suite: AI-Powered Ad Tools
 
 TikTok World 2026 (Mai 2026) präsentierte stark erweiterte KI-Werkzeuge:
 
-- **Dreamina Seedance 2.0** (April 2026): Hochwertiges AI-Video aus Text-Prompts — realistischer Content ohne Filmproduktion
+- **Dreamina Seedance 2.0** (April 2026): Hochwertiges AI-Video aus Text-Prompts, realistischer Content ohne Filmproduktion
 - **AI Image-to-Video** (seit Juni 2025): Statische Produktbilder in Video-Ads umwandeln
 - **AI Text-to-Video** (seit Juni 2025): Ad-Videos direkt aus Texteingabe erstellen
 - **AI Transitions** (seit November 2025): Professionelle Übergänge automatisch generieren
@@ -90,7 +90,7 @@ TikTok World 2026 (Mai 2026) präsentierte stark erweiterte KI-Werkzeuge:
 
 ### Lookalike Audiences
 - Basierend auf Custom Audiences
-- 1–10% Lookalike
+- 1 bis 10% Lookalike
 
 ### Automated Targeting (seit Oktober 2024)
 - Neue automatisierte Targeting-Optionen für Holiday-Kampagnen
@@ -155,10 +155,10 @@ TikTok bietet in Großbritannien eine bezahlte werbefreie Option an:
 
 | Metrik | Typischer Bereich |
 |---|---|
-| CPM (Cost per 1.000 Impressionen) | 3–10 € |
-| CPC (Cost per Click) | 0,20–1,50 € |
-| CPE (Cost per Engagement) | 0,05–0,20 € |
-| TopView CPM | 15–30 € |
+| CPM (Cost per 1.000 Impressionen) | 3 bis 10 € |
+| CPC (Cost per Click) | 0,20 bis 1,50 € |
+| CPE (Cost per Engagement) | 0,05 bis 0,20 € |
+| TopView CPM | 15 bis 30 € |
 | Branded Hashtag Challenge | ab 100.000 € (Gesamtbudget) |
 
 TikTok-Ads sind **günstiger als Meta** (Instagram/Facebook) und deutlich günstiger als LinkedIn. Besonders stark für: B2C, E-Commerce, Consumer Brands, Entertainment, Beauty, Fashion, Gen Z-Zielgruppen.
@@ -168,7 +168,7 @@ TikTok-Ads sind **günstiger als Meta** (Instagram/Facebook) und deutlich günst
 ## Empfohlene Ad-Strategie für TikTok
 
 ### Einstieg
-1. **Spark Ads** auf gut performende organische Videos schalten — authentischer Eindruck, niedrige CPM
+1. **Spark Ads** auf gut performende organische Videos schalten, authentischer Eindruck, niedrige CPM
 2. **In-Feed Ads** mit starkem Hook in den ersten 2 Sekunden
 3. **TikTok Pixel** installieren für Conversion-Tracking und Custom Audiences
 

@@ -1,4 +1,4 @@
-# LinkedIn Ads & Werbung — IST-Zustand Juni 2026
+# LinkedIn Ads & Werbung: IST-Zustand Juni 2026
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### Thought Leader Ads
 
-Unternehmen können **organische Posts von beliebigen LinkedIn-Mitgliedern sponsern** — nicht nur von eigenen Mitarbeitenden (seit März 2024 erweitert).
+Unternehmen können **organische Posts von beliebigen LinkedIn-Mitgliedern sponsern**, nicht nur von eigenen Mitarbeitenden (seit März 2024 erweitert).
 
 - Authentischer als klassische Unternehmens-Ads
 - Höhere Engagement-Raten als Standard-Sponsored-Content
@@ -73,7 +73,7 @@ Unternehmen können **organische Posts von beliebigen LinkedIn-Mitgliedern spons
 | Account-Based Marketing (ABM) | Aktiv | Spezifische Unternehmen als Ziel |
 | Lookalike Audiences | **ENTFERNT** | Seit Februar 2024 nicht mehr verfügbar |
 
-### Neue Targeting-Features (2025–2026)
+### Neue Targeting-Features (2025 bis 2026)
 
 - **AI-Automatisierung für KMU:** Zwei neue automatische Ad-Optimierungsfeatures im Campaign Manager (seit Oktober 2025)
 - **Campaign Manager Umbenennung:** Terminologie wurde an Branchenstandards angepasst (Oktober 2025)
@@ -110,9 +110,9 @@ LinkedIn-Ads sind teurer als auf Meta oder Google, aber die Zielgruppe ist präz
 
 | Metrik | Typischer Bereich |
 |---|---|
-| CPM (Cost per 1.000 Impressionen) | 25–50 € |
-| CPC (Cost per Click) | 5–15 € |
-| CPL via Lead Gen Form | 50–200 € (je nach Branche) |
+| CPM (Cost per 1.000 Impressionen) | 25 bis 50 € |
+| CPC (Cost per Click) | 5 bis 15 € |
+| CPL via Lead Gen Form | 50 bis 200 € (je nach Branche) |
 
 **Bidding-Optionen:** Maximum Delivery (automatisch), Target Cost, Manual Bidding
 
@@ -126,7 +126,7 @@ LinkedIn-Ads sind teurer als auf Meta oder Google, aber die Zielgruppe ist präz
 - Seit Mai 2025 auf "Premium Publisher Content" ausgeweitet
 - 4 neue LinkedIn Original Shows als Werbeumfeld (August 2025): "Small Business Builders", "Founder's Blueprint", "AI in Action", "The CEO Playbook"
 
-**Für Werbetreibende:** BrandLink ermöglicht es, Ads in einem premium, redaktionellen Umfeld zu schalten — höhere Brand-Safety als Standard-Feed.
+**Für Werbetreibende:** BrandLink ermöglicht es, Ads in einem premium, redaktionellen Umfeld zu schalten, höhere Brand-Safety als Standard-Feed.
 
 ---
 
@@ -147,7 +147,7 @@ LinkedIn hat ein offizielles **Zertifizierungsprogramm für Werbeagenturen** ein
 | Aspekt | LinkedIn | Meta | Google |
 |---|---|---|---|
 | Zielgruppe | B2B, Fachkräfte | Breite Consumer-Masse | Intent-basiert |
-| CPM | Hoch (25–50 €) | Niedrig (5–15 €) | Variabel |
+| CPM | Hoch (25 bis 50 €) | Niedrig (5 bis 15 €) | Variabel |
 | Targeting-Präzision (B2B) | Sehr hoch | Mittel | Niedrig |
 | Lead-Qualität (B2B) | Hoch | Mittel | Sehr hoch (bottom funnel) |
 | Empfehlung | B2B-Awareness & Leads | Consumer & Retargeting | Bottom-Funnel |
@@ -156,7 +156,7 @@ LinkedIn hat ein offizielles **Zertifizierungsprogramm für Werbeagenturen** ein
 
 ## Empfohlener LinkedIn-Ad-Einstieg für B2B
 
-1. **Thought Leader Ads** auf organisch gut performende Mitarbeiter-Posts — günstigster Einstieg mit höchster Authentizität
+1. **Thought Leader Ads** auf organisch gut performende Mitarbeiter-Posts, günstigster Einstieg mit höchster Authentizität
 2. **Sponsored Content (Single Image oder Carousel)** für Awareness und Traffic
 3. **Lead Gen Form Campaigns** für direkte Lead-Generierung
 4. **Retargeting** auf Website-Besucher und Video-Viewer als Ergänzung

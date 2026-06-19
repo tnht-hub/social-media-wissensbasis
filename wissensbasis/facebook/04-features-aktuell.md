@@ -1,4 +1,4 @@
-# Facebook Features — IST-Zustand Juni 2026
+# Facebook Features: IST-Zustand Juni 2026
 
 ---
 

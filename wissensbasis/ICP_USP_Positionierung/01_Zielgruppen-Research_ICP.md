@@ -70,7 +70,7 @@ Die wichtigste Quelle. Analysiere die **besten bestehenden Kunden**: Wer bringt 
 - Deckungsbeitrag pro Kundensegment
 
 ### 2. Direkte Stimmen (qualitativ)
-- Kund:innen-Interviews (5–10 bringen oft 80 % der Erkenntnisse)
+- Kund:innen-Interviews (5 bis 10 bringen oft 80 % der Erkenntnisse)
 - Sales- und Support-Gespräche (wo entstehen Reibung und Begeisterung?)
 - Surveys mit offenen Antworten
 

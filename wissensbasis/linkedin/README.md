@@ -2,7 +2,7 @@
 
 **Zuletzt aktualisiert:** Juni 2026  
 **Quellen:** HeyOrca, SocialBee, Buffer (4,8M Posts analysiert), onlinemarketing.de  
-**Format:** IST-Zustand — kein Changelog, nur aktuelles Best-Practice-Wissen
+**Format:** IST-Zustand, kein Changelog, nur aktuelles Best-Practice-Wissen
 
 ---
 
@@ -30,7 +30,7 @@ LinkedIn ist primär ein **B2B-Netzwerk mit steigendem Creator-Fokus**. Die Plat
 - **Live Streaming entfernt:** Native Livestreams wurden im Juni 2026 abgeschaltet
 - **Video wächst:** Videos werden 36% häufiger angesehen als noch 2024
 - **Carousel/Dokument dominiert:** Bis zu 596% mehr Engagement als Text-Posts
-- **Abendstunden performen:** Peak-Engagement hat sich von Arbeitszeiten auf 15–20 Uhr verschoben
+- **Abendstunden performen:** Peak-Engagement hat sich von Arbeitszeiten auf 15 bis 20 Uhr verschoben
 - **Newsletters für alle:** Seit August 2025 kann jeder User eine Newsletter erstellen
 - **AI-Suche global:** Konversationsbasierte Suche weltweit für alle User verfügbar (April 2026)
 

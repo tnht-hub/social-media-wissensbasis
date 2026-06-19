@@ -4,7 +4,7 @@
 **Scope:** Allgemein, plattform- und projektunabhängig
 **Zielanwender:innen:** Marketing-Teams, Agenturen, Content-Creator, Brand-Verantwortliche
 
-Diese Guideline beschreibt eine bewährte Methodik, um KI-Tools (Claude, ChatGPT, Gemini etc.) systematisch in die Content-Planung einzubinden — von der Strategie über die Produktion bis zum Performance-Loop.
+Diese Guideline beschreibt eine bewährte Methodik, um KI-Tools (Claude, ChatGPT, Gemini etc.) systematisch in die Content-Planung einzubinden, von der Strategie über die Produktion bis zum Performance-Loop.
 
 ---
 
@@ -14,19 +14,19 @@ Diese Guideline beschreibt eine bewährte Methodik, um KI-Tools (Claude, ChatGPT
 |---|---|
 | `00_Index.md` | Diese Übersicht + Grundprinzip |
 | `01_Fundament_Brand-Brief.md` | Das Kontext-Dokument, das in jedem KI-Chat referenziert wird |
-| `02_Content-Pillars.md` | Das 4–6-Themen-Gerüst als strategisches Fundament |
+| `02_Content-Pillars.md` | Das 4 bis 6-Themen-Gerüst als strategisches Fundament |
 | `03_Themen-Matrix.md` | Pillars × Stile = systematische Ideen-Generierung |
 | `04_Operativer-Workflow.md` | Monatszyklus mit konkreten Prompt-Templates |
 | `05_Tool-Stack.md` | Empfehlung für einen schlanken, skalierbaren KI-Tool-Stack |
 | `06_Feedback-Loop.md` | Performance-Audit als Lernmechanismus |
-| `07_Failure-Modi.md` | Was bei KI-Content-Planung schief geht — und wie ihr es vermeidet |
+| `07_Failure-Modi.md` | Was bei KI-Content-Planung schief geht, und wie ihr es vermeidet |
 | `08_Quellen.md` | Alle recherchierten Quellen |
 
 ---
 
-## Grundprinzip — was KI gut kann, was nicht
+## Grundprinzip: was KI gut kann, was nicht
 
-KI ist ein **Beschleuniger**, kein Ersatz für Strategie. Das ist die wichtigste mentale Voraussetzung — sonst entstehen Prozesse, die schnell, aber generisch sind.
+KI ist ein **Beschleuniger**, kein Ersatz für Strategie. Das ist die wichtigste mentale Voraussetzung, sonst entstehen Prozesse, die schnell, aber generisch sind.
 
 ### Gut für
 - Themen-Brainstorming und Ideen-Multiplikation
@@ -47,7 +47,7 @@ KI ist ein **Beschleuniger**, kein Ersatz für Strategie. Das ist die wichtigste
 Diese Bereiche bleiben Menschensache.
 
 ### Gefährlich
-Zielgruppen — insbesondere jüngere — erkennen KI-Output 2026 zuverlässig. Wenn Content sich „KI-generiert" anfühlt, fliegt er auf und verliert Glaubwürdigkeit. Das ist nicht abstrakt: Es ist messbar an Sends, Saves und Watch Time.
+Zielgruppen, insbesondere jüngere, erkennen KI-Output 2026 zuverlässig. Wenn Content sich „KI-generiert" anfühlt, fliegt er auf und verliert Glaubwürdigkeit. Das ist nicht abstrakt: Es ist messbar an Sends, Saves und Watch Time.
 
 ---
 
@@ -65,7 +65,7 @@ Zielgruppen — insbesondere jüngere — erkennen KI-Output 2026 zuverlässig. 
 
 ## Wie diese Guideline aufgebaut ist
 
-Die Säulen 01–07 bauen aufeinander auf, sind aber **einzeln nutzbar**:
+Die Säulen 01 bis 07 bauen aufeinander auf, sind aber **einzeln nutzbar**:
 
 - **Wenn du gerade ein Projekt startest:** beginne bei 01 (Brand-Brief)
 - **Wenn du Ideen brauchst:** spring zu 03 (Themen-Matrix)
@@ -78,9 +78,9 @@ Die Säulen 01–07 bauen aufeinander auf, sind aber **einzeln nutzbar**:
 
 Drei Bereiche brauchen eigene Vertiefungen:
 
-1. **Visuelle Asset-Produktion mit KI** (Midjourney, Veo, Higgsfield, Flux) — eigene Methodik für Bildkonsistenz und Look-Entwicklung.
-2. **Krisenkommunikation** — KI ist hier eher Risiko als Hilfe; gehört in ein separates Playbook.
-3. **Compliance-spezifische Bereiche** — Branchen mit hoher Regulierung (Gesundheit, Finanzen, öffentlicher Sektor) brauchen ergänzende, branchenspezifische Regelwerke.
+1. **Visuelle Asset-Produktion mit KI** (Midjourney, Veo, Higgsfield, Flux), eigene Methodik für Bildkonsistenz und Look-Entwicklung.
+2. **Krisenkommunikation**, KI ist hier eher Risiko als Hilfe; gehört in ein separates Playbook.
+3. **Compliance-spezifische Bereiche**, Branchen mit hoher Regulierung (Gesundheit, Finanzen, öffentlicher Sektor) brauchen ergänzende, branchenspezifische Regelwerke.
 
 ---
 
@@ -100,8 +100,8 @@ Alle Quellen sind in `08_Quellen.md` mit Links dokumentiert.
 
 KI-Tools entwickeln sich schnell. Diese Guideline ist **Stand Mai 2026**. Realistische Halbwertszeit:
 
-- **Methodik (Brand-Brief, Pillars, Matrix, Workflow):** 3–5 Jahre stabil
-- **Tool-Stack:** 12–18 Monate, danach Audit nötig
-- **Prompt-Templates:** 6–12 Monate, danach Refresh sinnvoll
+- **Methodik (Brand-Brief, Pillars, Matrix, Workflow):** 3 bis 5 Jahre stabil
+- **Tool-Stack:** 12 bis 18 Monate, danach Audit nötig
+- **Prompt-Templates:** 6 bis 12 Monate, danach Refresh sinnvoll
 
 Plant einen jährlichen Review-Termin ein, um die Guideline mit aktuellen Best Practices abzugleichen.

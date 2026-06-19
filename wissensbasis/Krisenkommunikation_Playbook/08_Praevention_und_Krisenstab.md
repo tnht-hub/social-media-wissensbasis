@@ -1,4 +1,4 @@
-# Säule 8 — Prävention & Krisenstab-Setup
+# Säule 8: Prävention & Krisenstab-Setup
 
 Wer Krisen erst dann ernst nimmt, wenn sie kommen, hat schon verloren. Die Arbeit muss **vor** der Krise gemacht werden.
 
@@ -76,7 +76,7 @@ Jede Aktion im Krisenstab braucht eine klare RACI-Zuordnung:
 - Mit Push-Notifications-Pflicht
 - Mit Document-Sharing aktiviert
 
-**NIE über reguläre Channels** — sonst verlieren sich kritische Updates in Smalltalk.
+**NIE über reguläre Channels**, sonst verlieren sich kritische Updates in Smalltalk.
 
 ---
 
@@ -90,12 +90,12 @@ Minimum 6 Templates, abgedeckt nach den Coombs-Clustern:
 
 | Template | Anlass |
 |---|---|
-| **A1** | Cluster A — Cyber-Attacke / externes Versagen |
-| **A2** | Cluster A — Falsche Anschuldigungen / Gerüchte |
-| **B1** | Cluster B — Technische Panne / Service-Ausfall |
-| **B2** | Cluster B — Produkt-Defekt / Rückruf |
-| **C1** | Cluster C — Kommunikations-Fehler / Werbe-Panne |
-| **C2** | Cluster C — Mitarbeiter:innen-Fehlverhalten / Vorsatz |
+| **A1** | Cluster A, Cyber-Attacke / externes Versagen |
+| **A2** | Cluster A, Falsche Anschuldigungen / Gerüchte |
+| **B1** | Cluster B, Technische Panne / Service-Ausfall |
+| **B2** | Cluster B, Produkt-Defekt / Rückruf |
+| **C1** | Cluster C, Kommunikations-Fehler / Werbe-Panne |
+| **C2** | Cluster C, Mitarbeiter:innen-Fehlverhalten / Vorsatz |
 
 Optional, je nach Branche:
 - DSGVO-Datenpanne (Sub-Template B/C)
@@ -119,10 +119,10 @@ Jedes Template hat:
 - [HILFE_KONTAKT]
 - ...
 
-## Holding Statement (Stunde 1–2)
+## Holding Statement (Stunde 1 bis 2)
 [Skelett mit Variablen]
 
-## Detailliertes Statement (Stunde 6–24)
+## Detailliertes Statement (Stunde 6 bis 24)
 [Skelett mit Variablen]
 
 ## Mitarbeiter-Statement (Mail/Slack)
@@ -220,13 +220,13 @@ Theorie reicht nicht. Krisenkommunikation ist **Skill**, der geübt werden muss.
 
 **Übungs-Ablauf:**
 1. Krisenstab wird aktiviert (simuliert)
-2. Bewertung nach Säule 01 — Krise oder Welle?
-3. Stakeholder-Mapping anwenden — wer informieren?
-4. Holding Statement entwerfen — gegenseitig kritisch reviewen
+2. Bewertung nach Säule 01, Krise oder Welle?
+3. Stakeholder-Mapping anwenden, wer informieren?
+4. Holding Statement entwerfen, gegenseitig kritisch reviewen
 5. Detaillierteres Statement entwerfen
 6. Recovery-Plan skizzieren
 
-**Dauer:** 3–4 Stunden.
+**Dauer:** 3 bis 4 Stunden.
 
 **Auswertung:** Was hat gut funktioniert? Was nicht? Welche Lücken im Playbook?
 
@@ -234,7 +234,7 @@ Theorie reicht nicht. Krisenkommunikation ist **Skill**, der geübt werden muss.
 
 ## Rechtliche Awareness vor der Krise
 
-Wann müsst ihr **rechtliche Beratung** in den Krisenstab holen — proaktiv?
+Wann müsst ihr **rechtliche Beratung** in den Krisenstab holen, proaktiv?
 
 ### Trigger für Rechtsberatung
 
@@ -247,7 +247,7 @@ Wann müsst ihr **rechtliche Beratung** in den Krisenstab holen — proaktiv?
 - **Werberecht-Verstöße** (UWG, HWG, Markenrecht)
 - **Wettbewerber-Klagen-Risiko**
 
-### Grundlegende rechtliche Hinweise (kein Rechtsrat — nur Awareness)
+### Grundlegende rechtliche Hinweise (kein Rechtsrat: nur Awareness)
 
 **DSGVO (Art. 33 + 34):**
 - Daten-Pannen-Meldung an Behörde binnen 72 Stunden
@@ -268,7 +268,7 @@ Wann müsst ihr **rechtliche Beratung** in den Krisenstab holen — proaktiv?
 
 ## Krisen-Playbook physisch verfügbar machen
 
-In der Krise braucht jede:r Zugriff auf das Playbook — auch wenn IT-Systeme ausfallen.
+In der Krise braucht jede:r Zugriff auf das Playbook, auch wenn IT-Systeme ausfallen.
 
 **Verfügbarkeit:**
 - Digitale Version im internen Wiki (Notion, Confluence, SharePoint)

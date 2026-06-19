@@ -1,4 +1,4 @@
-# LinkedIn Content-Formate — IST-Zustand Mai 2026
+# LinkedIn Content-Formate: IST-Zustand Mai 2026
 
 ---
 
@@ -32,7 +32,7 @@ Buffer-Daten (45M+ Posts): Carousel/Dokument-Posts generieren bis zu **596% mehr
 
 ### Best Practices
 - Erste Slide = Cover mit starkem Titel (entscheidet über Klickrate)
-- 5–15 Slides als optimale Länge
+- 5 bis 15 Slides als optimale Länge
 - Große Schrift, wenig Text pro Slide
 - Letzte Slide = CTA oder Zusammenfassung
 - Hochformat (9:16) oder Quadrat (1:1) für mobil optimiert
@@ -49,7 +49,7 @@ Videos werden auf LinkedIn **36% häufiger angesehen** als 2024. Die Plattform h
 
 ### Technische Specs (aktuell, Mai 2025 von LinkedIn veröffentlicht)
 - **Formate:** MP4 empfohlen
-- **Länge:** 3 Sekunden bis 10 Minuten (optimal: 30–90 Sekunden)
+- **Länge:** 3 Sekunden bis 10 Minuten (optimal: 30 bis 90 Sekunden)
 - **Seitenverhältnis:** 9:16 (vertikal, empfohlen), 1:1 (quadratisch), 16:9 (horizontal)
 - **Maximale Dateigröße:** 5 GB
 - **Untertitel:** Werden empfohlen (Videos werden häufig ohne Ton angesehen)
@@ -62,7 +62,7 @@ Videos werden auf LinkedIn **36% häufiger angesehen** als 2024. Die Plattform h
 
 ### Best Practices
 - Erste 3 Sekunden entscheidend (kein Intro, sofort zum Punkt)
-- Immer Untertitel verwenden (captions erhöhen Watch Time um 25–40%)
+- Immer Untertitel verwenden (captions erhöhen Watch Time um 25 bis 40%)
 - Starkes erstes Frame (wird als Thumbnail genutzt)
 - Kein TikTok/Instagram-Wasserzeichen auf LinkedIn-Videos
 - Im Feed: Link zum Video in den Kommentaren, nicht im Post-Text
@@ -76,11 +76,11 @@ Videos werden auf LinkedIn **36% häufiger angesehen** als 2024. Die Plattform h
 
 ## Text-Posts
 
-Das skalierbarste Format — kein Design, kein Schnitt, nur Text.
+Das skalierbarste Format, kein Design, kein Schnitt, nur Text.
 
 ### Specs
 - **Zeichenlimit:** ~3.000 Zeichen
-- **Vorschau:** Nur die ersten 2–3 Zeilen sichtbar vor "Mehr anzeigen"
+- **Vorschau:** Nur die ersten 2 bis 3 Zeilen sichtbar vor "Mehr anzeigen"
 - **Keine Formatierung:** LinkedIn unterstützt kein Markdown im Feed
 
 ### Was funktioniert

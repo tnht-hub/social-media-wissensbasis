@@ -65,20 +65,20 @@ Wenn ein Ad-Set in "Learning Limited" hängt, sagt der Algorithmus: das aktuelle
 ### Nicht eingreifen, wenn:
 
 - Die Kampagne noch in der Lernphase ist (Performance ist hier per Definition unzuverlässig)
-- Es weniger als 7–10 Tage Daten gibt
+- Es weniger als 7 bis 10 Tage Daten gibt
 - Die Schwankung normales Rauschen ist (einzelner schlechter Tag)
 - Man nur die Metrik nicht mag, aber keine Ursache benennen kann
 
 ### Eingreifen, wenn:
 
 - Die Lernphase abgeschlossen ist UND CPA/ROAS außerhalb des Zielkorridors liegen
-- 7–10 Tage stabile Daten einen klaren Trend zeigen (nicht einen Ausreißer)
-- Ein Fatigue-Signal vorliegt (steigende Frequency, fallende CTR über 7–14 Tage)
+- 7 bis 10 Tage stabile Daten einen klaren Trend zeigen (nicht einen Ausreißer)
+- Ein Fatigue-Signal vorliegt (steigende Frequency, fallende CTR über 7 bis 14 Tage)
 - Eine Ursache klar benannt werden kann (siehe Metrik-Kette oben)
 
 ### Wie eingreifen
 
-- **Budget:** in 10-20-%-Schritten alle 48–72 Std., nicht abrupt (siehe Säule 02)
+- **Budget:** in 10-20-%-Schritten alle 48 bis 72 Std., nicht abrupt (siehe Säule 02)
 - **Creative:** neue Varianten dazustellen statt den Gewinner zu töten
 - **Eine Änderung zur Zeit**, sonst weiß man nicht, was gewirkt hat (gleiche Logik wie Creative-Testing, Säule 04)
 
@@ -104,7 +104,7 @@ Optimierung ohne sauberes Tracking ist wertlos: Der Algorithmus optimiert ins Le
 - [ ] Tracking steht (Pixel + Conversions API + korrektes Event + Consent)
 - [ ] Steuer-Metriken (CPM, CPC, Hook-Rate, Frequency) täglich, ROAS als Ergebnis betrachtet
 - [ ] Lernphase respektiert, kein Eingreifen während des Lernens
-- [ ] Mindestens 7–10 Tage Daten vor jeder Entscheidung
+- [ ] Mindestens 7 bis 10 Tage Daten vor jeder Entscheidung
 - [ ] Vor jedem Eingriff: Ursache über die Metrik-Kette benannt
 - [ ] Eine Änderung zur Zeit
 - [ ] Budget-Änderungen schrittweise, nicht abrupt

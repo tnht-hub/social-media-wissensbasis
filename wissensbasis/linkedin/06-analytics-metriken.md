@@ -1,4 +1,4 @@
-# LinkedIn Analytics & Metriken — IST-Zustand Juni 2026
+# LinkedIn Analytics & Metriken: IST-Zustand Juni 2026
 
 ---
 
@@ -57,9 +57,9 @@ LinkedIn gibt keine offiziellen Benchmarks bekannt. Aus Branchen-Analysen (2026)
 | Engagement-Rate | Bewertung |
 |---|---|
 | < 1% | Unter Durchschnitt |
-| 1–3% | Durchschnittlich |
-| 3–6% | Gut |
-| 6–10% | Sehr gut |
+| 1 bis 3% | Durchschnittlich |
+| 3 bis 6% | Gut |
+| 6 bis 10% | Sehr gut |
 | > 10% | Viral |
 
 **Formel:** Engagement-Rate = (Reaktionen + Kommentare + Reposts) / Impressionen × 100
@@ -70,13 +70,13 @@ LinkedIn gibt keine offiziellen Benchmarks bekannt. Aus Branchen-Analysen (2026)
 
 Nicht alle Metriken sind gleich wertvoll für den Algorithmus:
 
-1. **Kommentare** — Höchste Gewichtung; Qualitätskommentare > kurze Kommentare
-2. **Reposts mit Kommentar** — Sehr hoch; Zeigt echten Mehrwert
-3. **Saves** — Hoch; Neues Signal seit September 2025, stark gewichtet
-4. **Sends** — Hoch; Direktes Teilen = starkes Relevanz-Signal
-5. **Reaktionen** — Mittel; Weniger wertvoll als Kommentare
-6. **Dwell Time** — Hoch, aber nicht direkt messbar; Posts mit viel Inhalt (Carousel) profitieren
-7. **Klicks auf "Mehr anzeigen"** — Mittel; Zeigt inhaltliches Interesse
+1. **Kommentare**, Höchste Gewichtung; Qualitätskommentare > kurze Kommentare
+2. **Reposts mit Kommentar**, Sehr hoch; Zeigt echten Mehrwert
+3. **Saves**, Hoch; Neues Signal seit September 2025, stark gewichtet
+4. **Sends**, Hoch; Direktes Teilen = starkes Relevanz-Signal
+5. **Reaktionen**, Mittel; Weniger wertvoll als Kommentare
+6. **Dwell Time**, Hoch, aber nicht direkt messbar; Posts mit viel Inhalt (Carousel) profitieren
+7. **Klicks auf "Mehr anzeigen"**, Mittel; Zeigt inhaltliches Interesse
 
 ---
 
@@ -92,7 +92,7 @@ Nicht alle Metriken sind gleich wertvoll für den Algorithmus:
 **Für Company Pages:**
 - Verfügbar unter: Admin-Bereich der Unternehmensseite
 - Zeigt: Besucher, Follower, Post-Performance, Demografie
-- Erweiterung: Company Intelligence API (seit September 2025) — Daten zurück ins CRM spielen
+- Erweiterung: Company Intelligence API (seit September 2025), Daten zurück ins CRM spielen
 
 **Profile Analytics API** (seit Juli 2025): Profildaten für externe Analytics-Tools zugänglich.
 
@@ -107,12 +107,12 @@ Nicht alle Metriken sind gleich wertvoll für den Algorithmus:
 
 **Wöchentliche Review-Routine:**
 
-1. **Top 3 Posts** — Was hat funktioniert? Welches Thema, Format, Hook?
-2. **Flop-Posts** — Was hat nicht gezündet? Warum (schlechter Hook? falsches Timing? falsches Format?)
-3. **Follower-Entwicklung** — Trend positiv oder stagnierend?
-4. **Engagement-Rate-Trend** — Steigt oder fällt sie?
-5. **Saves & Sends** — Welche Posts werden "gehortet"? Das sind die echten Evergreen-Kandidaten.
-6. **Profilaufrufe** — Welche Posts haben Profilbesuche ausgelöst? Das sind die stärksten Lead-Magneten.
+1. **Top 3 Posts**, Was hat funktioniert? Welches Thema, Format, Hook?
+2. **Flop-Posts**, Was hat nicht gezündet? Warum (schlechter Hook? falsches Timing? falsches Format?)
+3. **Follower-Entwicklung**, Trend positiv oder stagnierend?
+4. **Engagement-Rate-Trend**, Steigt oder fällt sie?
+5. **Saves & Sends**, Welche Posts werden "gehortet"? Das sind die echten Evergreen-Kandidaten.
+6. **Profilaufrufe**, Welche Posts haben Profilbesuche ausgelöst? Das sind die stärksten Lead-Magneten.
 
 ---
 

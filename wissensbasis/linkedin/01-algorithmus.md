@@ -1,10 +1,10 @@
-# LinkedIn Algorithmus — IST-Zustand Mai 2026
+# LinkedIn Algorithmus: IST-Zustand Mai 2026
 
 ---
 
 ## Wie der Algorithmus funktioniert
 
-LinkedIn hat im **März 2026** seinen Feed-Algorithmus grundlegend auf fortschrittliche KI-Systeme umgestellt. Der Algorithmus entscheidet, welche Inhalte welchen Nutzern angezeigt werden — und in welcher Reihenfolge.
+LinkedIn hat im **März 2026** seinen Feed-Algorithmus grundlegend auf fortschrittliche KI-Systeme umgestellt. Der Algorithmus entscheidet, welche Inhalte welchen Nutzern angezeigt werden, und in welcher Reihenfolge.
 
 ### Grundprinzip
 
@@ -14,7 +14,7 @@ LinkedIn bewertet jeden Post in mehreren Stufen:
 2. **Initiale Verteilung:** Der Post wird einer kleinen Gruppe aus dem Netzwerk des Autors gezeigt
 3. **Engagement-Auswertung:** Die Reaktionen dieser Gruppe entscheiden über weitere Reichweite
 4. **Erweiterte Verteilung:** Bei starker Performance wird der Post auch an nicht-verbundene Nutzer ausgespielt ("Suggested Posts")
-5. **Langfristige Reichweite:** Posts können wochen- bis monatelang im Feed erscheinen — auch ältere Beiträge können noch viral gehen
+5. **Langfristige Reichweite:** Posts können wochen- bis monatelang im Feed erscheinen, auch ältere Beiträge können noch viral gehen
 
 ---
 
@@ -38,7 +38,7 @@ LinkedIn bewertet jeden Post in mehreren Stufen:
 - **Thematische Konsistenz:** Wer konsequent über ein Thema posted, wird als Experte eingestuft
 - **Posting-Regelmäßigkeit:** Regelmäßige Poster werden vom Algorithmus bevorzugt
 - **Netzwerk-Aktivität des Autors:** Wer aktiv kommentiert und engagiert, hat mehr Reichweite
-- **Früh-Engagement:** Die ersten 60–90 Minuten nach Veröffentlichung sind entscheidend
+- **Früh-Engagement:** Die ersten 60 bis 90 Minuten nach Veröffentlichung sind entscheidend
 
 ---
 
@@ -79,7 +79,7 @@ Posts mit externen Links im Fließtext erhalten deutlich **weniger organische Re
 
 ## Suggested Posts & Langzeitreichweite
 
-Seit dem Algorithmus-Update **Februar 2024** werden Posts auch Nutzern angezeigt, die nicht mit dem Autor verbunden sind — durch das "Suggested Posts"-Feature. Inhalte können dadurch **Wochen bis Monate** nach dem Veröffentlichungsdatum noch Reichweite generieren. Das macht LinkedIn zu einer Plattform, auf der Evergreen-Content besonders stark funktioniert.
+Seit dem Algorithmus-Update **Februar 2024** werden Posts auch Nutzern angezeigt, die nicht mit dem Autor verbunden sind, durch das "Suggested Posts"-Feature. Inhalte können dadurch **Wochen bis Monate** nach dem Veröffentlichungsdatum noch Reichweite generieren. Das macht LinkedIn zu einer Plattform, auf der Evergreen-Content besonders stark funktioniert.
 
 ---
 
@@ -94,7 +94,7 @@ LinkedIn belegt **Platz 2** bei AI-Suchantworten: Die Plattform taucht in 11% al
 | Aspekt | Persönliches Profil | Unternehmensseite |
 |---|---|---|
 | Organische Reichweite | Deutlich höher | Begrenzt |
-| Algorithmus-Bevorzugung | Ja — Menschen über Marken | Nein |
+| Algorithmus-Bevorzugung | Ja, Menschen über Marken | Nein |
 | Engagement-Rate | Höher | Niedriger |
 | Empfehlung | Hauptkanal für Content | Ergänzend / für Ads |
 

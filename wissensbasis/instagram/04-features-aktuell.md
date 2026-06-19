@@ -1,4 +1,4 @@
-# Instagram Features — IST-Zustand Juni 2026
+# Instagram Features: IST-Zustand Juni 2026
 
 ---
 
@@ -112,7 +112,7 @@
 |---|---|---|
 | Instagram iPad App (nativ) | Aktiv | September 2025 |
 | Instagram TV auf Google TV | Aktiv (USA) | Februar 2026 |
-| Instagram Instants (Standalone-App) | Aktiv (global) | Mai 2026 — rohe, unbearbeitete temporäre Fotos |
+| Instagram Instants (Standalone-App) | Aktiv (global) | Mai 2026, rohe, unbearbeitete temporäre Fotos |
 | Android Tablet App | Aktiv | April 2026 |
 
 ---

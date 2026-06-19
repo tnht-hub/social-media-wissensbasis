@@ -1,8 +1,8 @@
-# Säule 6 — Audio & Sound-Design
+# Säule 6: Audio & Sound-Design
 
 > **Audio macht 50 % der Wahrnehmung aus.**
 
-Schlechter Sound killt gutes Bild. Bei Reels und Shorts ist das besonders kritisch — selbst wenn 80 % der Zuschauer:innen ohne Ton schauen, entscheiden die 20 % mit Ton oft über das Engagement-Signal.
+Schlechter Sound killt gutes Bild. Bei Reels und Shorts ist das besonders kritisch, selbst wenn 80 % der Zuschauer:innen ohne Ton schauen, entscheiden die 20 % mit Ton oft über das Engagement-Signal.
 
 Diese Säule dokumentiert die Audio-Komponente.
 
@@ -22,7 +22,7 @@ Die meisten Reels brauchen mindestens **zwei** dieser Ebenen. Reine Music-only k
 
 ## Audio-Strategie pro Format
 
-### Reel (Instagram, vertikal, 15–60 Sek)
+### Reel (Instagram, vertikal, 15 bis 60 Sek)
 - **Standard:** Music + leichte SFX + Text-Overlays (kein Voice)
 - **Stark:** Voice-Over oder Direct-Address + Music + SFX
 - **Wichtig:** Funktioniert mit AND ohne Ton (Text-Overlays Pflicht)
@@ -46,7 +46,7 @@ Die meisten Reels brauchen mindestens **zwei** dieser Ebenen. Reine Music-only k
 
 ---
 
-## Musik — Quellen und Lizenzen
+## Musik: Quellen und Lizenzen
 
 ### Kostenlose Quellen mit kommerzieller Nutzung
 
@@ -74,9 +74,9 @@ Die meisten Reels brauchen mindestens **zwei** dieser Ebenen. Reine Music-only k
 
 Neue Quelle 2026 für komplett individuelle Tracks:
 
-- **Suno AI** — Text-to-Music, ~$10/mo Pro
-- **Udio** — Vergleichbar mit Suno
-- **AIVA** — Klassischere Kompositionen
+- **Suno AI**, Text-to-Music, ~$10/mo Pro
+- **Udio**, Vergleichbar mit Suno
+- **AIVA**, Klassischere Kompositionen
 
 **Vorsicht:** Rechtslage bei KI-Musik ist 2026 noch nicht abschließend geklärt (siehe Säule 09). Für unkritische Anwendungen OK, für hochwertige Brand-Kampagnen lieber lizenzierte Premium-Musik.
 
@@ -84,7 +84,7 @@ Neue Quelle 2026 für komplett individuelle Tracks:
 
 ## Trending Sounds (TikTok, Reels)
 
-TikTok und Reels haben Trending Sounds — kurze Audio-Clips, die viral gehen und Reichweite bringen.
+TikTok und Reels haben Trending Sounds, kurze Audio-Clips, die viral gehen und Reichweite bringen.
 
 ### Vorteile
 - Algorithmus-Boost
@@ -123,7 +123,7 @@ Sound Effects sind oft der **unterschätzteste Hebel**. Ein guter Whoosh, ein pr
 - **Whooshes** (Übergänge)
 - **Risers** (Spannungs-Aufbau)
 - **Impacts** (Hits, Stings)
-- **Foley** (Geräusche zu Aktionen — z.B. Schritte, Tippen)
+- **Foley** (Geräusche zu Aktionen, z.B. Schritte, Tippen)
 - **Atmosphäre** (Wind, Wasser, Stadt)
 - **UI Sounds** (Pop-up, Notification)
 
@@ -139,7 +139,7 @@ Wenn ihr Voice-Over einsetzen wollt, gibt es drei Wege:
 
 **Wann:** Höchste Qualität, wichtige Kampagnen, Brand-Persönlichkeit wichtig.
 
-**Kosten:** $100–500 pro Stunde Profi-Sprecher:in.
+**Kosten:** $100 bis 500 pro Stunde Profi-Sprecher:in.
 
 **Quellen:** Voice123, Voices.com, lokale Sprecher:innen-Agenturen.
 
@@ -148,8 +148,8 @@ Wenn ihr Voice-Over einsetzen wollt, gibt es drei Wege:
 **Wann:** Authentizität wichtig, Brand-Eigenstimme.
 
 **Equipment-Minimum:**
-- Mikrofon: $100–300 (Shure SM7B, Rode NT1, Audio-Technica AT2020)
-- Audio-Interface: $100–200 (Focusrite Scarlett 2i2)
+- Mikrofon: $100 bis 300 (Shure SM7B, Rode NT1, Audio-Technica AT2020)
+- Audio-Interface: $100 bis 200 (Focusrite Scarlett 2i2)
 - Akustik-Behandlung: Schaumstoff-Wände oder ruhiger Raum
 - Software: Audacity (frei) oder Adobe Audition
 
@@ -159,7 +159,7 @@ Neueste Option 2026:
 
 | Tool | Stärke | Preis |
 |---|---|---|
-| **ElevenLabs** | Hochwertige, natürliche Stimmen, eigene Voice-Clones möglich | $5–22/mo |
+| **ElevenLabs** | Hochwertige, natürliche Stimmen, eigene Voice-Clones möglich | $5 bis 22/mo |
 | **Murf** | Business-fokussiert, viele Stimmen | $19+/mo |
 | **PlayHT** | Multi-Language, gute Qualität | $39/mo |
 | **OpenAI TTS** | Bundled in ChatGPT | inklusive |
@@ -180,7 +180,7 @@ Ein guter Mix ist:
 - **SFX:** Akzent-Level (typisch -12 bis -18 dB)
 
 ### Ducking
-Wenn Voice spielt, **automatisch leiser** für Music — sogenanntes „Ducking". Tools wie DaVinci, Premiere, Audition haben das eingebaut.
+Wenn Voice spielt, **automatisch leiser** für Music, sogenanntes „Ducking". Tools wie DaVinci, Premiere, Audition haben das eingebaut.
 
 ### Loudness-Normalisierung
 Plattformen haben eigene Standards:
@@ -228,9 +228,9 @@ Plattformen haben eigene Standards:
 
 | Plattform | Specs |
 |---|---|
-| **Instagram Reel** | AAC, 128–256 kbps, 44.1/48 kHz |
+| **Instagram Reel** | AAC, 128 bis 256 kbps, 44.1/48 kHz |
 | **TikTok** | AAC, 128 kbps min, 44.1/48 kHz |
-| **YouTube** | AAC, 128–384 kbps, 48 kHz |
+| **YouTube** | AAC, 128 bis 384 kbps, 48 kHz |
 | **LinkedIn** | AAC, 128 kbps min, 48 kHz |
 
 In den meisten Editing-Tools ist „Audio-Format AAC, 256 kbps, 48 kHz" für alle Plattformen tauglich.
@@ -245,7 +245,7 @@ In den meisten Editing-Tools ist „Audio-Format AAC, 256 kbps, 48 kHz" für all
 - Welche SFX brauchen wir?
 
 ### Schritt 2: Library-Sammlung
-- 2–3 Music-Track-Optionen aus eurer Premium-Library wählen
+- 2 bis 3 Music-Track-Optionen aus eurer Premium-Library wählen
 - SFX-Pack sammeln (Whooshes, Impacts, Atmo)
 
 ### Schritt 3: Voice-Aufnahme (wenn Voice-Over)
@@ -277,7 +277,7 @@ In den meisten Editing-Tools ist „Audio-Format AAC, 256 kbps, 48 kHz" für all
 |---|---|---|
 | **Voice zu leise** | Niemand versteht den Voice-Over | Voice auf -6 bis -12 dB, Music ducken |
 | **Music erschlägt Voice** | Voice unverständlich | Ducking + niedrigere Music-Lautstärke |
-| **Zu viele SFX** | Wirkt überproduziert, ablenkend | Sparsam — max. 1 SFX pro 5 Sek |
+| **Zu viele SFX** | Wirkt überproduziert, ablenkend | Sparsam, max. 1 SFX pro 5 Sek |
 | **Trending Sound illegal genutzt** | Sperrung / Strike | Nur Business-taugliche Library nutzen |
 | **Audio-Mismatch zwischen Cuts** | Lautstärken-Sprünge | Normalisierung über das gesamte Reel |
 | **Loudness zu hoch / niedrig** | Plattform-Algorithmus normalisiert ungünstig | Auf -14 LUFS exportieren |

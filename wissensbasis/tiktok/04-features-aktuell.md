@@ -1,4 +1,4 @@
-# TikTok Features — IST-Zustand Juni 2026
+# TikTok Features: IST-Zustand Juni 2026
 
 ---
 
@@ -16,7 +16,7 @@
 | Download ohne Wasserzeichen | Aktiv | Seit Juli 2024: "Post to save without watermark" |
 | Duet | Aktiv | Side-by-side-Format mit fremden Videos |
 | Stitch | Aktiv | Ausschnitte fremder Videos (bis 5 Sek.) einbauen |
-| AI Alive (Fotos zu Video) | Aktiv | Seit Mai 2025 — in TikTok Stories |
+| AI Alive (Fotos zu Video) | Aktiv | Seit Mai 2025, in TikTok Stories |
 | AI Image-to-Video (Symphony) | Aktiv | Seit Juni 2025 |
 | AI Text-to-Video (Symphony) | Aktiv | Seit Juni 2025 |
 | AI Transitions | Aktiv | Seit November 2025 |

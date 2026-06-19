@@ -1,4 +1,4 @@
-# X (Twitter) Wissensdatenbank — IST-Zustand Mai 2026
+# X (Twitter) Wissensdatenbank: IST-Zustand Mai 2026
 
 **Zuletzt aktualisiert:** Mai 2026  
 **Plattform:** X (ehemals Twitter, seit Oktober 2022 unter Elon Musk)  
@@ -23,7 +23,7 @@
 ## Quick-Summary: X/Twitter-Kernfakten Mai 2026
 
 - **600 Mio. MAU** (monatlich aktive Nutzer, Stand 2024); täglich aktiv: ~300 Mio.
-- **Grok AI** treibt den Algorithmus — Following-Feed wird seit Dez 2025 KI-sortiert
+- **Grok AI** treibt den Algorithmus, Following-Feed wird seit Dez 2025 KI-sortiert
 - **X Chat** hat X DMs ersetzt (Dez 2025); seit April 2026 als standalone App verfügbar
 - **Custom Timelines** (April 2026): 75 themenbasierte Feeds wählbar
 - **Original Creator Boost** (Mai 2026): X stärkt originale Inhalte vs. Aggregator-Accounts
@@ -50,7 +50,7 @@
 
 ## Kontextueller Hinweis
 
-X befindet sich seit der Übernahme durch Elon Musk (Oktober 2022) in einem permanenten Transformationsprozess. Viele Entscheidungen (Premium-Pflicht, Algorithmus-Umstellung, Blocking-Änderungen, Werbe-Boykotte) sind politisch und gesellschaftlich polarisierend. Für die Arbeit als Social Media Manager gilt: X ist für bestimmte Branchen und Zielgruppen weiterhin unverzichtbar — aber der IST-Zustand erfordert eine klare Strategie.
+X befindet sich seit der Übernahme durch Elon Musk (Oktober 2022) in einem permanenten Transformationsprozess. Viele Entscheidungen (Premium-Pflicht, Algorithmus-Umstellung, Blocking-Änderungen, Werbe-Boykotte) sind politisch und gesellschaftlich polarisierend. Für die Arbeit als Social Media Manager gilt: X ist für bestimmte Branchen und Zielgruppen weiterhin unverzichtbar, aber der IST-Zustand erfordert eine klare Strategie.
 
 ---
 

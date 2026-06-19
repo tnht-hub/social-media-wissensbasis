@@ -36,24 +36,24 @@ Zu hohe Frequency führt zu Ad-Fatigue, Genervtheit und negativem Feedback, das 
 
 | Funnel-Stufe | Wöchentliche Impressionen (Orientierung) |
 |---|---|
-| **Top-Funnel (Content-Leser)** | ca. 5–7 |
-| **Mid-Funnel (Produkt-Recherche)** | ca. 7–10 |
-| **Warme Leads / Trial-Abbrecher** | ca. 8–12 (mit schneller Creative-Rotation) |
-| **Bottom-Funnel (Preis/Demo, hohe Intent)** | ca. 10–15 |
+| **Top-Funnel (Content-Leser)** | ca. 5 bis 7 |
+| **Mid-Funnel (Produkt-Recherche)** | ca. 7 bis 10 |
+| **Warme Leads / Trial-Abbrecher** | ca. 8 bis 12 (mit schneller Creative-Rotation) |
+| **Bottom-Funnel (Preis/Demo, hohe Intent)** | ca. 10 bis 15 |
 
 ### Plattform-Unterschiede
 
 | Plattform | Hinweis |
 |---|---|
-| **Meta** | Frequency im Ads Manager überwachen, Creative rotieren, wenn die durchschnittliche Frequency bei BOFU über 3–4 bzw. bei MOFU über 5–7 steigt |
-| **LinkedIn** | 3–4 Impressionen pro Woche sind die obere Grenze für professionelle Retargeting-Audiences |
-| **Google Display** | höhere Caps möglich, bei hoher Intent 15–20/Woche |
+| **Meta** | Frequency im Ads Manager überwachen, Creative rotieren, wenn die durchschnittliche Frequency bei BOFU über 3 bis 4 bzw. bei MOFU über 5 bis 7 steigt |
+| **LinkedIn** | 3 bis 4 Impressionen pro Woche sind die obere Grenze für professionelle Retargeting-Audiences |
+| **Google Display** | höhere Caps möglich, bei hoher Intent 15 bis 20/Woche |
 
 ### Das verlässlichste Signal: die CTR
 
 Die richtige Frequency ist die höchste, **bevor die CTR zu fallen beginnt**. Praktische Warnsignale:
 
-- Sinkende CTR über 7–14 Tage
+- Sinkende CTR über 7 bis 14 Tage
 - Steigende CPMs ohne Gebots-Erhöhung
 - Negatives Feedback
 

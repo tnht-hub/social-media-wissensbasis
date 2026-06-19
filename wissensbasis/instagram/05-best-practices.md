@@ -1,4 +1,4 @@
-# Instagram Best Practices — IST-Zustand Mai 2026
+# Instagram Best Practices: IST-Zustand Mai 2026
 
 ---
 
@@ -33,14 +33,14 @@ Instagram belohnt Videos, die Nutzer nicht wegscrollen. Alles, was das Scroll-Ve
 
 ### Länge und Struktur
 - **Unter 30 Sekunden:** Höchste Completion Rate → stärkstes Watch-Time-Signal
-- **30–60 Sekunden:** Guter Sweet Spot für informativen Content
-- **60–90 Sekunden:** Storytelling, Tutorial, Behind-the-Scenes
+- **30 bis 60 Sekunden:** Guter Sweet Spot für informativen Content
+- **60 bis 90 Sekunden:** Storytelling, Tutorial, Behind-the-Scenes
 - **Über 90 Sekunden:** Nur wenn wirklich nötig, dann sehr dichte Inhalte
 
 ### Technische Qualität
 - Vertikales Format (9:16) bevorzugen
 - Gutes Licht wichtiger als High-End-Equipment
-- Klarer Audio — schlechter Ton ist der häufigste Absprung-Grund
+- Klarer Audio, schlechter Ton ist der häufigste Absprung-Grund
 - **Untertitel** immer verwenden: viele schauen ohne Ton
 
 ### Edits-App nutzen
@@ -61,11 +61,11 @@ Adam Mosseri bestätigt einen kleinen, aber messbaren Reach-Boost für Reels, di
 - Mehr Dwell Time → besseres Algorithmus-Signal
 
 ### Aufbau-Formel
-1. **Slide 1 (Cover):** Starker Titel, der neugierig macht — wird im Feed als Thumbnail gezeigt
-2. **Slides 2–N:** Inhalt mit klarem Mehrwert pro Slide
+1. **Slide 1 (Cover):** Starker Titel, der neugierig macht, wird im Feed als Thumbnail gezeigt
+2. **Slides 2-N:** Inhalt mit klarem Mehrwert pro Slide
 3. **Letzte Slide:** CTA oder Zusammenfassung
 
-**Optimale Länge:** 5–10 Slides. Mehr als 15 nur wenn jede Slide eigenständigen Wert hat.
+**Optimale Länge:** 5 bis 10 Slides. Mehr als 15 nur wenn jede Slide eigenständigen Wert hat.
 
 ### Formate, die gut funktionieren
 - "X Dinge, die du über [Thema] wissen musst"
@@ -97,7 +97,7 @@ Adam Mosseri bestätigt einen kleinen, aber messbaren Reach-Boost für Reels, di
 
 ### Kommentare beantworten = +21% Engagement
 
-Buffer-Daten: Wer auf eigene Kommentare antwortet, steigert sein Engagement um ~21%. Direkt nach dem Posting 30–60 Minuten aktiv in den Kommentaren sein.
+Buffer-Daten: Wer auf eigene Kommentare antwortet, steigert sein Engagement um ~21%. Direkt nach dem Posting 30 bis 60 Minuten aktiv in den Kommentaren sein.
 
 ### Die ersten 30 Minuten nach dem Posting
 
@@ -111,43 +111,43 @@ Die ersten Reaktionen nach dem Veröffentlichen sind entscheidend für die algor
 Da Sends das wichtigste Reichweite-Signal sind, ist die Kernfrage: **"Würde jemand das einem Freund schicken?"**
 
 Content-Typen mit hoher Send-Rate:
-- "Das bin genau ich" — Humor, Selbstironie, Nischen-Inside-Jokes
-- "Das muss ich mit X teilen" — lehrreicher, informativer Content
-- "Das wollte ich meiner Freundin schon immer schicken" — emotionaler Content
+- "Das bin genau ich", Humor, Selbstironie, Nischen-Inside-Jokes
+- "Das muss ich mit X teilen", lehrreicher, informativer Content
+- "Das wollte ich meiner Freundin schon immer schicken", emotionaler Content
 - Überraschende Fakten oder kontraintuitive Erkenntnisse
 
 ---
 
 ## Stories: Best Practices
 
-- **Täglich posten** — Stories-Präsenz hält Sichtbarkeit im Feed-Icon
+- **Täglich posten**, Stories-Präsenz hält Sichtbarkeit im Feed-Icon
 - **Interaktive Elemente nutzen:** Polls, Fragen, Quizze erhöhen Engagement massiv
-- **Konsistente Ästhetik** — Stories spiegeln das Branding wider
-- **Behind the Scenes** — Stories für authentischen, ungefilterten Content
+- **Konsistente Ästhetik**, Stories spiegeln das Branding wider
+- **Behind the Scenes**, Stories für authentischen, ungefilterten Content
 - **Cross-Post-Strategie:** Gut performende Reels als Story teilen für zweite Reichweiten-Welle
-- **"Add Yours" nutzen** — virales Story-Feature für Community-Building
+- **"Add Yours" nutzen**, virales Story-Feature für Community-Building
 
 ---
 
 ## Was aktuell auf Instagram besonders gut funktioniert (Mai 2026)
 
 1. **Kurze Reels (<60 Sek.)** mit starkem Hook in Sekunde 1
-2. **Trial Reels** für experimentellen Content — testen bevor veröffentlichen
+2. **Trial Reels** für experimentellen Content, testen bevor veröffentlichen
 3. **Carousels** mit klarem Mehrwert pro Slide
-4. **Original-Content** — nicht weiterleiten, selbst erstellen
-5. **Content für Sends** — "Was würde jemand seinem Freund schicken?"
-6. **Edits-App nutzen** — kleiner Reach-Boost bestätigt
-7. **Kommentare sofort beantworten** — +21% Engagement
-8. **Keine Hashtags oder max. 3** — Energie in Content-Qualität stecken
-9. **Stories täglich** — für Community-Präsenz und Interaktion
-10. **Google Search Optimization** — Instagram-Posts erscheinen seit Juli 2025 in Google-Suche; relevante Keywords im Caption verwenden
+4. **Original-Content**, nicht weiterleiten, selbst erstellen
+5. **Content für Sends**, "Was würde jemand seinem Freund schicken?"
+6. **Edits-App nutzen**, kleiner Reach-Boost bestätigt
+7. **Kommentare sofort beantworten**, +21% Engagement
+8. **Keine Hashtags oder max. 3**, Energie in Content-Qualität stecken
+9. **Stories täglich**, für Community-Präsenz und Interaktion
+10. **Google Search Optimization**, Instagram-Posts erscheinen seit Juli 2025 in Google-Suche; relevante Keywords im Caption verwenden
 
 ---
 
 ## Captions: Tipps
 
-- **Erste Zeile entscheidet:** Wird im Feed vor "Mehr" angezeigt — muss zum Weiterlesen verführen
-- **Länge:** Kurze Captions (1–3 Zeilen) für Reels, längere für Carousels
+- **Erste Zeile entscheidet:** Wird im Feed vor "Mehr" angezeigt, muss zum Weiterlesen verführen
+- **Länge:** Kurze Captions (1 bis 3 Zeilen) für Reels, längere für Carousels
 - **Call-to-Action** am Ende: Frage, Meinung-einfordern, "Speichern für später"
 - **"Link in Bio"** weiterhin erlaubt und ohne Reichweiten-Strafe
 - **Emojis** als visuelle Struktur-Elemente nutzen
@@ -157,13 +157,13 @@ Content-Typen mit hoher Send-Rate:
 
 ## Wachstumsstrategie nach Account-Phase
 
-### 0–1.000 Follower (Start)
-- Konsistenz über alles: 3–4x/Woche posten
+### 0 bis 1.000 Follower (Start)
+- Konsistenz über alles: 3 bis 4x/Woche posten
 - Auf spezifische Nische fokussieren
 - Aktiv anderen Accounts kommentieren
-- Trial Reels noch nicht verfügbar — normales Testing
+- Trial Reels noch nicht verfügbar, normales Testing
 
-### 1.000–10.000 Follower (Wachstum)
+### 1.000 bis 10.000 Follower (Wachstum)
 - Trial Reels aktivieren
 - Collaboration Posts mit ähnlich großen Accounts
 - Stories täglich für Community-Aufbau

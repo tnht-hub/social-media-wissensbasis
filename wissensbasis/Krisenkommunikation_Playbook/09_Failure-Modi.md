@@ -1,6 +1,6 @@
-# Säule 9 — Failure-Modi: Wie Krisenkommunikation typisch scheitert
+# Säule 9: Failure-Modi: Wie Krisenkommunikation typisch scheitert
 
-Die meisten Krisen werden nicht durch das ursprüngliche Ereignis groß — sondern durch die schlechte Reaktion. Diese Säule dokumentiert die häufigsten Fehler.
+Die meisten Krisen werden nicht durch das ursprüngliche Ereignis groß, sondern durch die schlechte Reaktion. Diese Säule dokumentiert die häufigsten Fehler.
 
 Lest sie **vor** der Krise. In der Krise habt ihr keine Zeit, eure eigenen Fehler zu erkennen.
 
@@ -36,13 +36,13 @@ Lest sie **vor** der Krise. In der Krise habt ihr keine Zeit, eure eigenen Fehle
 
 **Ursache:** Interne Freigabe-Prozesse zu lang, keine Pre-Approved Templates, Krisenstab nicht klar definiert.
 
-**Korrektur:** Holding Statement binnen 30–60 Minuten, dann detaillierte Stellungnahme binnen 24 Stunden. Vorbereitung über Pre-Approved Templates (siehe Säule 08).
+**Korrektur:** Holding Statement binnen 30 bis 60 Minuten, dann detaillierte Stellungnahme binnen 24 Stunden. Vorbereitung über Pre-Approved Templates (siehe Säule 08).
 
-**Beispiel:** Diverse Marken, die in 2026-Krisen erst nach Tagen reagierten — und feststellten, dass ihre Version der Geschichte niemanden mehr interessierte.
+**Beispiel:** Diverse Marken, die in 2026-Krisen erst nach Tagen reagierten, und feststellten, dass ihre Version der Geschichte niemanden mehr interessierte.
 
 ### Fehler 2: Zu schnell reagieren ohne Fakten
 
-**Symptom:** Erste Stellungnahme macht konkrete Aussagen, die sich später als falsch herausstellen. „Es waren nur 50 Kund:innen betroffen" — drei Tage später sind es 50.000.
+**Symptom:** Erste Stellungnahme macht konkrete Aussagen, die sich später als falsch herausstellen. „Es waren nur 50 Kund:innen betroffen", drei Tage später sind es 50.000.
 
 **Ursache:** Druck, schnell zu reagieren, ohne Faktencheck.
 
@@ -68,19 +68,19 @@ Lest sie **vor** der Krise. In der Krise habt ihr keine Zeit, eure eigenen Fehle
 
 ### Fehler 5: Schuldzuweisung an Dritte (wenn unbegründet)
 
-**Symptom:** „Ein externer Dienstleister hat..." — wenn die Verantwortung eigentlich bei der Marke liegt.
+**Symptom:** „Ein externer Dienstleister hat...", wenn die Verantwortung eigentlich bei der Marke liegt.
 
 **Ursache:** Versuch, die eigene Verantwortung kleinzureden.
 
 **Korrektur:** Bei Cluster-C-Krisen Mortifikation + Corrective Action (siehe Säule 05). Wenn ein Dienstleister tatsächlich (mit)verantwortlich ist, das transparent benennen, ohne sich aus der eigenen Verantwortung zu winden.
 
-**Beispiel:** Balenciaga 2022 — initiale Schuldzuweisung an die Production Company eskalierte die Krise dramatisch.
+**Beispiel:** Balenciaga 2022, initiale Schuldzuweisung an die Production Company eskalierte die Krise dramatisch.
 
 ### Fehler 6: Pseudo-Entschuldigung
 
 **Symptom:** „Wir bedauern, falls sich jemand verletzt gefühlt haben sollte." Klingt nach Entschuldigung, ist aber keine.
 
-**Ursache:** Versuch, rechtliche Sorgfalt mit Empathie zu mischen — endet in Vagheit.
+**Ursache:** Versuch, rechtliche Sorgfalt mit Empathie zu mischen, endet in Vagheit.
 
 **Korrektur:** Echte Entschuldigung bei Cluster C: „Was wir getan haben, war falsch. Es tut uns leid." Klar, direkt, ohne Konjunktive.
 
@@ -114,11 +114,11 @@ Lest sie **vor** der Krise. In der Krise habt ihr keine Zeit, eure eigenen Fehle
 
 **Ursache:** Versuch, die Krise „auszublenden".
 
-**Korrektur:** Lasst Kommentare offen. Antwortet auf konkrete Fragen. Löscht nur tatsächliche Hassrede / Beleidigungen — nicht Kritik. Kommentar-Löschung wird sofort gespiegelt und eskaliert die Krise.
+**Korrektur:** Lasst Kommentare offen. Antwortet auf konkrete Fragen. Löscht nur tatsächliche Hassrede / Beleidigungen, nicht Kritik. Kommentar-Löschung wird sofort gespiegelt und eskaliert die Krise.
 
 ### Fehler 11: Krise mit Werbung „überdecken"
 
-**Symptom:** Mitten in einer Krise wird eine fröhliche Produkt-Werbung gepostet — als sei nichts passiert.
+**Symptom:** Mitten in einer Krise wird eine fröhliche Produkt-Werbung gepostet, als sei nichts passiert.
 
 **Ursache:** Marketing-Kalender ist vorausgeplant, niemand pausiert Posts in der Krise.
 
@@ -198,13 +198,13 @@ Lest sie **vor** der Krise. In der Krise habt ihr keine Zeit, eure eigenen Fehle
 
 In Tabletop-Übungen sollten diese Fragen durchgespielt werden:
 
-- Was, wenn unsere erste Stellungnahme nicht ankommt — eskalieren wir oder warten wir?
+- Was, wenn unsere erste Stellungnahme nicht ankommt, eskalieren wir oder warten wir?
 - Was, wenn ein:e Mitarbeiter:in eigenständig auf Twitter postet und unsere Linie unterläuft?
-- Was, wenn eine kritische Stimme im Raum (z.B. Journalist:in) Falschangaben macht — korrigieren wir öffentlich oder nicht?
-- Was, wenn die Behörden uns vor der Frist anrufen — sind wir vorbereitet?
-- Was, wenn der/die CEO am Wochenende krank ist — wer entscheidet?
-- Was, wenn unser Monitoring-Tool ausfällt — wie merken wir die Eskalation?
-- Was, wenn die Krise drei Wochen dauert statt drei Tage — wie halten wir Energie?
+- Was, wenn eine kritische Stimme im Raum (z.B. Journalist:in) Falschangaben macht, korrigieren wir öffentlich oder nicht?
+- Was, wenn die Behörden uns vor der Frist anrufen, sind wir vorbereitet?
+- Was, wenn der/die CEO am Wochenende krank ist, wer entscheidet?
+- Was, wenn unser Monitoring-Tool ausfällt, wie merken wir die Eskalation?
+- Was, wenn die Krise drei Wochen dauert statt drei Tage, wie halten wir Energie?
 
 Diese Fragen vor der Krise klären zu haben, ist die wertvollste Vorbereitung.
 
@@ -215,14 +215,14 @@ Diese Fragen vor der Krise klären zu haben, ist die wertvollste Vorbereitung.
 Wenn euch in einer aktiven Krise einer dieser Fehler unterlaufen ist:
 
 ### Schritt 1: Anerkennen
-Intern transparent benennen — wo ist es schiefgelaufen?
+Intern transparent benennen, wo ist es schiefgelaufen?
 
 ### Schritt 2: Korrigieren (öffentlich)
-Wenn der Fehler öffentlich sichtbar war, korrigieren — nicht verschleiern.
+Wenn der Fehler öffentlich sichtbar war, korrigieren, nicht verschleiern.
 
 > Beispiel: „Unser Statement gestern war zu defensiv formuliert. Heute kommunizieren wir klarer: ..."
 
 ### Schritt 3: Lernen
 Post-Mortem nutzen, um die strukturelle Ursache zu finden. Playbook aktualisieren.
 
-**Wichtig:** Auch eine schlechte Krisenreaktion ist korrigierbar — wenn die Marke schnell und transparent damit umgeht. Was nicht korrigierbar ist: das Vertuschen schlechter Krisenreaktion.
+**Wichtig:** Auch eine schlechte Krisenreaktion ist korrigierbar, wenn die Marke schnell und transparent damit umgeht. Was nicht korrigierbar ist: das Vertuschen schlechter Krisenreaktion.

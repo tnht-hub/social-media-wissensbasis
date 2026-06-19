@@ -1,4 +1,4 @@
-# Säule 3 — Themen-Matrix (Justin Welsh adaptiert)
+# Säule 3: Themen-Matrix (Justin Welsh adaptiert)
 
 Justin Welshs Content Matrix ist das pragmatischste System zur Ideenfindung.
 
@@ -11,7 +11,7 @@ Du kombinierst **einen Pillar mit einem Stil** und bekommst sofort eine Post-Ide
 ## Das System
 
 ### Y-Achse: Pillars
-Aus `02_Content-Pillars.md` — die 4–6 Themen-Säulen der Marke.
+Aus `02_Content-Pillars.md`, die 4 bis 6 Themen-Säulen der Marke.
 
 ### X-Achse: Stile
 
@@ -36,7 +36,7 @@ Diese 10 Stile decken den Großteil aller Social-Media-Posts ab. Marken können 
 
 **5 Pillars × 10 Stile = 50 Post-Konzepte pro Brainstorming-Runde.**
 
-Das reicht für 2–3 Monate Content — wenn pro Woche 4–6 Posts veröffentlicht werden.
+Das reicht für 2 bis 3 Monate Content, wenn pro Woche 4 bis 6 Posts veröffentlicht werden.
 
 ---
 
@@ -67,7 +67,7 @@ Wichtig: Alle Titel müssen unseren Sprach-Codes folgen
 
 ## Output qualifizieren
 
-Nach der Generierung kommt ein **kritischer Filter-Schritt** — das ist der wichtigste Moment im Prozess:
+Nach der Generierung kommt ein **kritischer Filter-Schritt**, das ist der wichtigste Moment im Prozess:
 
 ```
 Sortiere die Post-Ideen nach Stärke. Bewerte jede mit 1-5 Sternen.
@@ -92,16 +92,16 @@ Dieser Filterschritt rettet euch vor mittelmäßigem Content und konzentriert di
 ## Wann die Matrix neu laufen sollte
 
 - **Alle 2 Monate:** Neue Pillar/Stil-Runde. Verhindert, dass Content sich wiederholt.
-- **Nach Performance-Daten:** Wenn ein Stil deutlich besser performt, mehr davon machen — aber **nicht** den Stil monatelang dominieren lassen, weil Algorithmus dann Dopplung erkennt.
+- **Nach Performance-Daten:** Wenn ein Stil deutlich besser performt, mehr davon machen, aber **nicht** den Stil monatelang dominieren lassen, weil Algorithmus dann Dopplung erkennt.
 - **Bei Kampagnen-Phasen-Wechsel:** Z.B. Übergang von Awareness zu Conversion ändert das beste Stil-Mix.
 
 ---
 
 ## Häufiger Fehler
 
-KI generiert oft Titel, die **zu Werbe-klingend** sind. Beispiel: „5 unglaubliche Gründe, warum X die beste Wahl ist" — das ist Listicle, aber in der Sprache der 90er-Jahre-Verkaufsprospekte.
+KI generiert oft Titel, die **zu Werbe-klingend** sind. Beispiel: „5 unglaubliche Gründe, warum X die beste Wahl ist", das ist Listicle, aber in der Sprache der 90er-Jahre-Verkaufsprospekte.
 
-**Gegenmittel:** Im Prompt explizit fordern: „Klingt wie eine Frage, die jemand abends seinem/seiner Freund:in per WhatsApp stellt — nicht wie eine Schlagzeile."
+**Gegenmittel:** Im Prompt explizit fordern: „Klingt wie eine Frage, die jemand abends seinem/seiner Freund:in per WhatsApp stellt, nicht wie eine Schlagzeile."
 
 Diese eine Zeile im Prompt verändert die Output-Qualität dramatisch.
 
@@ -109,13 +109,13 @@ Diese eine Zeile im Prompt verändert die Output-Qualität dramatisch.
 
 ## Erweiterung: Brand-spezifische Stile entwickeln
 
-Nach 3–6 Monaten mit der Standard-Matrix lohnt es sich, **eigene Stile zu definieren**, die zur Marke passen. Beispiele:
+Nach 3 bis 6 Monaten mit der Standard-Matrix lohnt es sich, **eigene Stile zu definieren**, die zur Marke passen. Beispiele:
 
 - Eine Tech-Marke könnte einen „Bug-Geständnis"-Stil entwickeln (Vulnerabilität als Differenzierung)
 - Eine Beauty-Marke könnte einen „Anti-Tutorial"-Stil entwickeln (gegen die Norm der Plattform)
 - Ein Nachrichten-Magazin könnte einen „Klarstellung"-Stil entwickeln (Korrektur viraler Falschinformation)
 
-Diese eigenen Stile werden über Zeit zu Markenzeichen und sind aus der KI-Methodik nicht ableitbar — sie kommen aus dem Brand-Brief.
+Diese eigenen Stile werden über Zeit zu Markenzeichen und sind aus der KI-Methodik nicht ableitbar, sie kommen aus dem Brand-Brief.
 
 ---
 

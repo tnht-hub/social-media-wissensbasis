@@ -1,4 +1,4 @@
-# Säule 7 — Failure-Modi: Was schief gehen kann (und wie ihr es vermeidet)
+# Säule 7: Failure-Modi: Was schief gehen kann (und wie ihr es vermeidet)
 
 Aus den Quellen extrahiert + ergänzt um Erfahrungswerte aus der Praxis.
 
@@ -12,7 +12,7 @@ Aus den Quellen extrahiert + ergänzt um Erfahrungswerte aus der Praxis.
 | **Plattformen klingen identisch** | Post auf Plattform A liest sich 1:1 wie auf Plattform B | Plattform-Personas explizit definieren |
 | **KI-Output wird erkennbar** | Zielgruppe scrollt weg, Engagement bleibt aus | Echte Stimmen einbauen, nicht alles KI |
 | **Verbrannte Begriffe schleichen ein** | Floskeln tauchen wieder auf | Phase C Brand-Compliance-Check ist Pflicht |
-| **Reaktionsverlust** | Kampagne wirkt mechanisch | 5–8 freie Slots pro Monat für reaktiven Content |
+| **Reaktionsverlust** | Kampagne wirkt mechanisch | 5 bis 8 freie Slots pro Monat für reaktiven Content |
 | **Compliance-Risiko** | Versprechen, die fact-checkbar problematisch sind | KI-Output gegen Quellen spiegeln |
 | **Tool-Lock-In** | Schon nach 2 Jahren abhängig von einem Anbieter | Standard-Formate (.md, .csv) bevorzugen |
 | **Team-Wissensverlust** | Personalwechsel → System bricht zusammen | Workflow-Dokumentation außerhalb der KI-Tools |
@@ -68,7 +68,7 @@ KI mit Personas produziert dramatisch differenziertere Outputs als KI mit reinen
 
 **Cause:** 100 % der Posts vor-geplant. Wirkt mechanisch.
 
-**Fix:** 5–8 Slots pro Monat freilassen. Diese werden manuell gefüllt mit:
+**Fix:** 5 bis 8 Slots pro Monat freilassen. Diese werden manuell gefüllt mit:
 - Trend-Reaktionen
 - News-Bezüge
 - Community-Antworten (z.B. besonders gute Kommentare als eigener Post aufgreifen)
@@ -98,7 +98,7 @@ KI-Output ist nie automatisch faktenrichtig. Sie ist eloquent, aber nicht zuverl
 
 ### Problem 8: Team-Wissensverlust
 
-**Cause:** Eine Person beherrscht den Workflow, geht — System bricht zusammen.
+**Cause:** Eine Person beherrscht den Workflow, geht, System bricht zusammen.
 
 **Fix:**
 - Workflow-Dokumentation in einer geteilten Wissensbasis (Notion / Confluence)
@@ -116,13 +116,13 @@ KI-Output ist nie automatisch faktenrichtig. Sie ist eloquent, aber nicht zuverl
 
 ### Problem 10: KI-Halluzinationen
 
-**Cause:** KI generiert plausibel klingende, aber falsche Fakten — Zahlen, Daten, Personen, Quellen.
+**Cause:** KI generiert plausibel klingende, aber falsche Fakten, Zahlen, Daten, Personen, Quellen.
 
 **Fix:**
 - Jede konkrete Behauptung gegen mindestens eine Quelle prüfen
 - Bei Zitaten: Quelle nennen und verlinken
 - Bei Statistiken: Quelle nennen und Aktualität prüfen
-- KI nie als finalen Faktencheck-Stand nehmen — sie ist Recherche-Hilfe, kein Beleg
+- KI nie als finalen Faktencheck-Stand nehmen, sie ist Recherche-Hilfe, kein Beleg
 
 ### Problem 11: Trend-Hetze
 
@@ -136,7 +136,7 @@ Marken mit klarem Profil widerstehen mehr Trends, als sie mitmachen.
 
 **Cause:** Voice driftet über Monate vom Original ab, weil KI sich an eigene Outputs gewöhnt.
 
-**Fix:** Quartalsweise Voice-Beispiele im Brand-Brief erneuern — möglichst aus aktuellen erfolgreichen Posts. Voice ist kein „set it and forget it"-Element.
+**Fix:** Quartalsweise Voice-Beispiele im Brand-Brief erneuern, möglichst aus aktuellen erfolgreichen Posts. Voice ist kein „set it and forget it"-Element.
 
 ---
 
@@ -158,8 +158,8 @@ Bei manchen Themen sind Standard-Workflows nicht genug:
 
 KI hilft hier nicht. Drei Schritte:
 
-1. **Stunde 1:** Post stehen lassen, aber sofort intern Krisenstab aktivieren. Niemals reflexartig löschen — das verstärkt Aufmerksamkeit.
-2. **Stunde 2–6:** Lage analysieren. Echte Stellungnahme verfassen (Mensch, nicht KI). Klarstellung als Folge-Post veröffentlichen.
-3. **Tag 2–7:** Lehren in Brand-Brief einbauen, damit derselbe Fehler nie wieder passiert.
+1. **Stunde 1:** Post stehen lassen, aber sofort intern Krisenstab aktivieren. Niemals reflexartig löschen, das verstärkt Aufmerksamkeit.
+2. **Stunde 2 bis 6:** Lage analysieren. Echte Stellungnahme verfassen (Mensch, nicht KI). Klarstellung als Folge-Post veröffentlichen.
+3. **Tag 2 bis 7:** Lehren in Brand-Brief einbauen, damit derselbe Fehler nie wieder passiert.
 
 Marken, die transparent mit Fehlern umgehen, kommen oft gestärkt aus Krisen heraus. Marken, die vertuschen, fast nie.

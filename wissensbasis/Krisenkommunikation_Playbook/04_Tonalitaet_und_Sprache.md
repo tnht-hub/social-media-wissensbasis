@@ -1,9 +1,9 @@
-# Säule 4 — Tonalität & Sprache in Krisen
+# Säule 4: Tonalität & Sprache in Krisen
 
 Die meisten Krisenreaktionen scheitern nicht am **Inhalt**, sondern am **Ton**. Eine inhaltlich richtige Stellungnahme, die defensiv-rechtlich klingt, verstärkt die Krise. Eine inhaltlich knappere Stellungnahme, die menschlich klingt, kann sie deeskalieren.
 
 > „Brands that recover fastest speak in a recognizably human voice."
-> — Crisis Communication Studie 2026
+> Crisis Communication Studie 2026
 
 Diese Säule dokumentiert, wie man in Krisen schreibt und spricht.
 
@@ -60,7 +60,7 @@ Niemand spricht so im Alltag, wie eine schlechte Pressemitteilung klingt. Krisen
 | Theatralisch (schwach) | Angemessen (stark) |
 |---|---|
 | „Wir sind zutiefst erschüttert über diese unsägliche Tragödie." | „Was passiert ist, ist nicht in Ordnung. Wir verstehen, dass das Vertrauen erschüttert ist." |
-| „Unsere Gedanken und Gebete sind bei allen Betroffenen." | „Wir denken an die Betroffenen — und wir handeln." |
+| „Unsere Gedanken und Gebete sind bei allen Betroffenen." | „Wir denken an die Betroffenen, und wir handeln." |
 
 Theatralik wirkt unecht. Maß macht echt.
 
@@ -68,7 +68,7 @@ Theatralik wirkt unecht. Maß macht echt.
 
 | Selbst-Erniedrigung (schwach) | Verantwortung (stark) |
 |---|---|
-| „Wir haben komplett versagt." | „Wir haben in diesem Punkt einen Fehler gemacht — hier ist, was wir ändern." |
+| „Wir haben komplett versagt." | „Wir haben in diesem Punkt einen Fehler gemacht, hier ist, was wir ändern." |
 | „Unser ganzes System ist falsch." | „Dieser eine Prozess hat nicht funktioniert. Wir haben heute drei konkrete Änderungen entschieden." |
 
 Übersteigerung wirkt manipulativ („so schlimm ist es ja gar nicht"). Maß wirkt ehrlich.
@@ -101,13 +101,13 @@ Konjunktiv signalisiert Unsicherheit oder Bestreitung. Wenn ihr wisst, dass Mens
 
 Floskel. Jede Marke sagt das. Bedeutet inhaltlich nichts.
 
-**Ersatz:** Konkrete Maßnahme nennen — „Wir haben heute eine unabhängige Untersuchung beauftragt."
+**Ersatz:** Konkrete Maßnahme nennen, „Wir haben heute eine unabhängige Untersuchung beauftragt."
 
 ### „Aus operativen Gründen..."
 
 Verschleiernd. Macht Stakeholder misstrauisch.
 
-**Ersatz:** Wenn ihr nicht alle Details preisgeben könnt — sagt warum. „Wir können aus laufenden rechtlichen Verfahren aktuell nicht alle Details nennen."
+**Ersatz:** Wenn ihr nicht alle Details preisgeben könnt, sagt warum. „Wir können aus laufenden rechtlichen Verfahren aktuell nicht alle Details nennen."
 
 ### „Wir möchten betonen, dass..."
 
@@ -123,13 +123,13 @@ Cluster-C-Krisen mit Schuldzuweisung an Dritte werden meistens nicht akzeptiert.
 
 ### „Zero Tolerance"
 
-Übersteigerte Sprache wie „Wir tolerieren keine Toleranz für..." Klingt nach Hochstapelei. Übertreibt das, was kommt — und kann zurückschlagen, wenn ihr später Kompromisse machen müsst.
+Übersteigerte Sprache wie „Wir tolerieren keine Toleranz für..." Klingt nach Hochstapelei. Übertreibt das, was kommt, und kann zurückschlagen, wenn ihr später Kompromisse machen müsst.
 
 **Ersatz:** Konkrete Konsequenzen nennen statt absolute Aussagen.
 
 ---
 
-## Apologia ohne Schuldanerkennung — die rechtliche Gratwanderung
+## Apologia ohne Schuldanerkennung: die rechtliche Gratwanderung
 
 In manchen Branchen / Krisen ist eine **explizite Schuldanerkennung rechtlich problematisch** (z.B. wenn Schadensersatzklagen drohen).
 
@@ -151,19 +151,19 @@ In diesen Fällen geht es um: **Empathie zeigen, ohne sich rechtlich festzulegen
 
 Die Tonalität sollte zum Krisen-Cluster passen:
 
-### Cluster A (Victim) — Marke ist Opfer
+### Cluster A (Victim): Marke ist Opfer
 
 **Tonalität:** Sachlich, informativ, ggf. anklagend gegenüber Verursacher.
 
 **Beispiel:** „Wir wurden gestern Ziel einer Cyber-Attacke. Was passiert ist, ist nicht in Ordnung. Wir arbeiten mit den Behörden und schützen unsere Kund:innen."
 
-### Cluster B (Accidental) — Etwas ist schiefgelaufen
+### Cluster B (Accidental): Etwas ist schiefgelaufen
 
 **Tonalität:** Sachlich-erklärend, Verantwortung anerkennen, Korrektur darstellen.
 
 **Beispiel:** „Heute Morgen gab es einen technischen Ausfall, der ca. 4.000 Kund:innen betroffen hat. Wir haben das Problem behoben und arbeiten an den letzten Folgen."
 
-### Cluster C (Preventable) — Vermeidbar, hohe Verantwortung
+### Cluster C (Preventable): Vermeidbar, hohe Verantwortung
 
 **Tonalität:** Empathisch, anerkennend, klare Entschuldigung, sichtbare Konsequenzen.
 
@@ -184,7 +184,7 @@ Das Statement an die Mitarbeiter:innen klingt anders als das an die Presse.
 | **Allgemeine Öffentlichkeit** | Klar, menschlich, ohne Jargon |
 | **Presse** | Strukturiert, mit Fakten, Zitat-fähig |
 
-Verschiedene Zielgruppen bekommen verschiedene Statements — aber die **Kernbotschaft** muss konsistent sein. Sonst kommen Widersprüche heraus.
+Verschiedene Zielgruppen bekommen verschiedene Statements, aber die **Kernbotschaft** muss konsistent sein. Sonst kommen Widersprüche heraus.
 
 ---
 
@@ -194,9 +194,9 @@ Hier ist eine wichtige Frage: Soll die Marken-Voice in der Krise **gleich bleibe
 
 **Antwort:** Voice bleibt grundsätzlich gleich, **Tone passt sich an**.
 
-Eine spitzfindige Marke (z.B. Wendy's auf Twitter) wird in einer ernsten Krise **nicht witzig sein** — aber sie kommuniziert immer noch direkter und kürzer als eine formelle Bank. Die Spitzfindigkeit wird pausiert, die Direktheit bleibt.
+Eine spitzfindige Marke (z.B. Wendy's auf Twitter) wird in einer ernsten Krise **nicht witzig sein**, aber sie kommuniziert immer noch direkter und kürzer als eine formelle Bank. Die Spitzfindigkeit wird pausiert, die Direktheit bleibt.
 
-Eine warm-empathische Marke wird in der Krise nicht plötzlich kalt-formell — sie wird empathisch in ernster Tonart.
+Eine warm-empathische Marke wird in der Krise nicht plötzlich kalt-formell, sie wird empathisch in ernster Tonart.
 
 **Faustregel:** In Krisen geht alles eine Stufe ernster, sachlicher, ruhiger. Aber die Grundpersönlichkeit ist erkennbar.
 

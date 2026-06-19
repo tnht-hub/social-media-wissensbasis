@@ -1,6 +1,6 @@
-# Säule 4 — Konsistenz-Techniken (Charakter, Brand, Look)
+# Säule 4: Konsistenz-Techniken (Charakter, Brand, Look)
 
-Eine Marke wird erkennbar durch **Konsistenz**, nicht durch Einzelbilder. KI macht es einfach, beliebige Bilder zu generieren — und schwierig, **wiederholbare** Bilder zu generieren.
+Eine Marke wird erkennbar durch **Konsistenz**, nicht durch Einzelbilder. KI macht es einfach, beliebige Bilder zu generieren, und schwierig, **wiederholbare** Bilder zu generieren.
 
 Diese Säule dokumentiert die Techniken, mit denen ihr Konsistenz über viele Generierungen aufbaut.
 
@@ -20,7 +20,7 @@ Alle drei Ebenen brauchen unterschiedliche Techniken.
 
 ## Ebene 1: Brand-Konsistenz
 
-Brand-Konsistenz wird über **strukturelle Vorgaben** erzeugt — nicht über Trickserei.
+Brand-Konsistenz wird über **strukturelle Vorgaben** erzeugt, nicht über Trickserei.
 
 ### Methode 1: Style-Anker im Prompt
 
@@ -60,14 +60,14 @@ Bei Stable Diffusion / Flux: direkt im API.
 
 Für Marken mit hohem Volumen lohnt sich **eigenes LoRA-Training**:
 
-- 15–30 Beispiel-Visuals der Marke
-- Training-Dauer: 30–60 Minuten auf modernen GPUs
+- 15 bis 30 Beispiel-Visuals der Marke
+- Training-Dauer: 30 bis 60 Minuten auf modernen GPUs
 - Ergebnis: Ein custom Adapter, der den Brand-Look auf jeden Output anwendet
 
 **Tools für LoRA-Training:**
-- **Replicate** — Server-basiertes Training (~$5–20 pro Training)
-- **Civit.AI** — Community-Plattform für LoRAs
-- **RunDiffusion** — Hosted Training mit Templates
+- **Replicate**, Server-basiertes Training (~$5 bis 20 pro Training)
+- **Civit.AI**, Community-Plattform für LoRAs
+- **RunDiffusion**, Hosted Training mit Templates
 
 LoRA-Training ist eine **Investition**: Einmal trainiert, viele Generierungen mit konsistentem Look.
 
@@ -79,7 +79,7 @@ Look-Konsistenz ist enger als Brand-Konsistenz. Eine Marke kann mehrere Looks ha
 
 ### Methode 1: Reference-Image-Conditioning
 
-Modernste Methode 2026. Du gibst dem Tool **1–3 Referenz-Bilder**, das Tool extrahiert die Stil-Merkmale und überträgt sie auf neue Generationen.
+Modernste Methode 2026. Du gibst dem Tool **1 bis 3 Referenz-Bilder**, das Tool extrahiert die Stil-Merkmale und überträgt sie auf neue Generationen.
 
 **Wo es funktioniert:**
 - Midjourney: `--cref [URL]` für Character + `--sref [URL]` für Style
@@ -146,12 +146,12 @@ Du gibst dem Tool ein klares Foto der Person. Tool nutzt es als Referenz für Ch
 
 ### Methode 2: Character Sheet (Multiple References)
 
-Statt **einem** Referenz-Foto: ein **Character Sheet** mit 4–6 Bildern derselben Person aus verschiedenen Winkeln und Beleuchtungs-Situationen.
+Statt **einem** Referenz-Foto: ein **Character Sheet** mit 4 bis 6 Bildern derselben Person aus verschiedenen Winkeln und Beleuchtungs-Situationen.
 
 **Vorgehen:**
 1. Erstes Referenz-Bild generieren oder fotografieren
 2. Mit diesem Bild als Anker weitere Bilder in verschiedenen Posen/Lichtsituationen generieren
-3. Die besten 4–6 als „Character Sheet" sichern
+3. Die besten 4 bis 6 als „Character Sheet" sichern
 4. Bei neuen Generationen alle gemeinsam als Reference einfügen
 
 Stärke: deutlich konsistenter als Single-Reference.
@@ -161,12 +161,12 @@ Schwäche: Aufwendiger in der Vorbereitung.
 
 Für Marken mit **wiederkehrenden Personen** (Tastemaker, Markenbotschafter, fiktive Charaktere): Eigenes LoRA für diesen Charakter trainieren.
 
-- 15–30 Beispiel-Bilder derselben Person
+- 15 bis 30 Beispiel-Bilder derselben Person
 - Training auf Replicate / Civit / etc.
 - Resultat: Dieser Character ist über tausende Generierungen reproduzierbar
 
 **Forschungs-Daten (2025/26):**
-> „Reference-based approaches with FLUX 2 Pro have pushed feature retention to 85–95 % for distinctive characters."
+> „Reference-based approaches with FLUX 2 Pro have pushed feature retention to 85 bis 95 % for distinctive characters."
 
 LoRA ist die einzige Methode für **echte Langzeit-Konsistenz** (über Monate, mehrere Kampagnen).
 
@@ -190,7 +190,7 @@ Aus dem Visual Identity Manual (Säule 01) den **Style-Anker-Block** extrahieren
 
 Pro Kampagne:
 - Master-Prompt erstellen (Style-Anker + Kampagnen-Spezifika)
-- 5–10 erste Generierungen → besten Seed merken
+- 5 bis 10 erste Generierungen → besten Seed merken
 - Reference-Bilder identifizieren
 
 ### Schritt 3: Bei jeder Generierung
@@ -208,7 +208,7 @@ Pro Kampagne:
 
 ### Schritt 5: Quality Control vor Veröffentlichung
 
-Letzte Stufe: 5–10 letzte Outputs nebeneinander legen. Visuell prüfen: Wirken sie als eine Familie?
+Letzte Stufe: 5 bis 10 letzte Outputs nebeneinander legen. Visuell prüfen: Wirken sie als eine Familie?
 
 ---
 
@@ -218,10 +218,10 @@ Letzte Stufe: 5–10 letzte Outputs nebeneinander legen. Visuell prüfen: Wirken
 |---|---|---|
 | **Keinen Style-Anker definiert** | Output-Variabilität explodiert | Style-Anker im Brand-Manual definieren |
 | **Bei jeder Generierung neuer Prompt** | Look driftet von Bild zu Bild | Master-Prompt + Variationen |
-| **Reference-Image nicht genutzt** | Charakter inkonsistent | Immer 1–3 Reference-Images mitgeben |
+| **Reference-Image nicht genutzt** | Charakter inkonsistent | Immer 1 bis 3 Reference-Images mitgeben |
 | **Verschiedene Tools ohne Look-Anpassung** | Tool-eigener Stil dominiert | Color Grading in Post angleichen |
 | **Kein LoRA, trotz hohem Volumen** | Manuelle Konsistenz-Arbeit pro Bild | Ab ~50 Generierungen pro Monat: LoRA-Training überlegen |
-| **Charakter mit nur 1 Reference** | Erkennt sich aus verschiedenen Winkeln nicht | Character Sheet mit 4–6 Bildern |
+| **Charakter mit nur 1 Reference** | Erkennt sich aus verschiedenen Winkeln nicht | Character Sheet mit 4 bis 6 Bildern |
 
 ---
 
@@ -230,7 +230,7 @@ Letzte Stufe: 5–10 letzte Outputs nebeneinander legen. Visuell prüfen: Wirken
 | Use Case | Methode |
 |---|---|
 | **Einmaliger Look-Test** | Reference-Image + Style-Anker |
-| **Eine Kampagne (10–30 Bilder)** | Master-Prompt + Reference-Images + Seed-Tracking |
+| **Eine Kampagne (10 bis 30 Bilder)** | Master-Prompt + Reference-Images + Seed-Tracking |
 | **Wiederkehrende Marken-Visuals (50+ Bilder)** | LoRA-Training für Look |
 | **Eine wiederkehrende Person (Tastemaker)** | Character LoRA + Live-Aufnahmen als Backup |
 | **Sehr wichtige Person (CEO, Markengesicht)** | Hybrid-Produktion: Live filmen, KI nur Background |
@@ -242,7 +242,7 @@ Letzte Stufe: 5–10 letzte Outputs nebeneinander legen. Visuell prüfen: Wirken
 Vor jeder größeren Generierungs-Session:
 
 - [ ] Style-Anker aus Brand-Manual verfügbar
-- [ ] Reference-Images vorbereitet (1–3)
+- [ ] Reference-Images vorbereitet (1 bis 3)
 - [ ] Master-Prompt für diese Kampagne definiert
 - [ ] Seed-Tracking aktiviert (Notion-Sheet oder ähnlich)
 - [ ] Negative-Prompts definiert

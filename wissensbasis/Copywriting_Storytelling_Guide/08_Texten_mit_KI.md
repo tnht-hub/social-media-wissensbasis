@@ -1,42 +1,42 @@
-# Säule 8 — Texten mit KI als Co-Autor
+# Säule 8: Texten mit KI als Co-Autor
 
-KI ist 2026 ein Standard-Werkzeug für Copywriting. Aber Texten mit KI ist eine eigene Disziplin — sie ist anders als reines „prompt-und-veröffentliche".
+KI ist 2026 ein Standard-Werkzeug für Copywriting. Aber Texten mit KI ist eine eigene Disziplin, sie ist anders als reines „prompt-und-veröffentliche".
 
 Diese Säule dokumentiert, **wie ihr KI als Sparringspartner einsetzt, ohne dass eure Texte generisch werden**.
 
 ---
 
-## Grundprinzip — KI ist Sparringspartner, nicht Autor
+## Grundprinzip: KI ist Sparringspartner, nicht Autor
 
 Es gibt drei Anwendungs-Modi für KI im Copywriting:
 
 | Modus | Was passiert | Risiko |
 |---|---|---|
 | **Modus A: KI als Autor** | „Schreib mir einen Post zu X." → Text 1:1 verwenden | Generischer Output, Voice-Verlust, Algorithmus erkennt KI-Stil |
-| **Modus B: KI als Co-Autor** | KI macht Varianten, du wählst und editierst | Beste Mischung — Effizienz + Voice |
+| **Modus B: KI als Co-Autor** | KI macht Varianten, du wählst und editierst | Beste Mischung, Effizienz + Voice |
 | **Modus C: KI als Sparringspartner** | KI prüft deine Texte, schlägt Verbesserungen vor | Hochwertig, aber zeitintensiv |
 
 **Empfehlung:** Modus B als Standard. Modus C bei wichtigen Texten (Kampagnen-Hauptbeitrag, Headline-Tests).
 
-Modus A ist 2026 erkennbar und sollte vermieden werden — außer für sehr formelhafte Texte (z.B. Produkt-Beschreibungen).
+Modus A ist 2026 erkennbar und sollte vermieden werden, außer für sehr formelhafte Texte (z.B. Produkt-Beschreibungen).
 
 ---
 
 ## Was KI gut kann
 
-- **Varianten produzieren** — 20 Hook-Varianten in 60 Sekunden
-- **Struktur vorgeben** — eine grobe Idee in AIDA / PAS / StoryBrand-Struktur bringen
-- **Spracharbeit prüfen** — passive Konstruktionen, Floskeln, Voice-Drift erkennen
-- **Übersetzen / Adaptieren** — von einer Plattform zur anderen
-- **Brainstorming** — 50 Themen-Ideen für nächste Woche
+- **Varianten produzieren**, 20 Hook-Varianten in 60 Sekunden
+- **Struktur vorgeben**, eine grobe Idee in AIDA / PAS / StoryBrand-Struktur bringen
+- **Spracharbeit prüfen**, passive Konstruktionen, Floskeln, Voice-Drift erkennen
+- **Übersetzen / Adaptieren**, von einer Plattform zur anderen
+- **Brainstorming**, 50 Themen-Ideen für nächste Woche
 
 ## Was KI nicht gut kann
 
-- **Echte Pointen finden** — KI generiert plausible, aber selten überraschende Pointen
-- **Insider-Witze treffen** — kulturelle Codes der Zielgruppe verstehen
-- **Klare Haltung formulieren** — KI ist diplomatisch von Natur aus
-- **Echte Emotion bauen** — KI kann Emotion beschreiben, aber nicht echte Gefühle hervorrufen
-- **Persönliche Stimme treffen** — wenn ihr eine starke individuelle Voice habt, wird KI sie verflachen
+- **Echte Pointen finden**, KI generiert plausible, aber selten überraschende Pointen
+- **Insider-Witze treffen**, kulturelle Codes der Zielgruppe verstehen
+- **Klare Haltung formulieren**, KI ist diplomatisch von Natur aus
+- **Echte Emotion bauen**, KI kann Emotion beschreiben, aber nicht echte Gefühle hervorrufen
+- **Persönliche Stimme treffen**, wenn ihr eine starke individuelle Voice habt, wird KI sie verflachen
 
 ---
 
@@ -53,7 +53,7 @@ Modus A ist 2026 erkennbar und sollte vermieden werden — außer für sehr form
 Ich brauche 20 Hook-Varianten für einen Post zu [THEMA].
 
 Nutze 5 verschiedene Hook-Pattern aus diesem Set:
-[Pattern-Liste — siehe 03_Hook-Bibliothek.md]
+[Pattern-Liste, siehe 03_Hook-Bibliothek.md]
 
 Pro Hook:
 - Maximale Länge 12 Wörter
@@ -146,8 +146,8 @@ Hier ist ein Post in Format [PLATTFORM A]:
 [POST EINFÜGEN]
 
 Adaptiere ihn für:
-- [PLATTFORM B] — [Format-Specs]
-- [PLATTFORM C] — [Format-Specs]
+- [PLATTFORM B], [Format-Specs]
+- [PLATTFORM C], [Format-Specs]
 
 Behalte den Kern-Insight, aber respektiere die Format-Mechanik:
 - Plattform B: [Spezifika]
@@ -179,7 +179,7 @@ mit Begründung.
 
 ---
 
-## Voice-Verlust verhindern — Die wichtigste Regel
+## Voice-Verlust verhindern: Die wichtigste Regel
 
 Wenn ihr KI viel nutzt, **gewöhnt sich die KI an die eigenen Outputs**. Über Monate driftet ihr in einen „KI-Standard-Stil". Drei Gegenmittel:
 
@@ -193,11 +193,11 @@ Eine harte Regel: **30 % eurer Captions schreibt ihr ohne KI**, von Anfang bis E
 
 ### Gegenmittel 3: Wöchentlicher Voice-Audit
 
-Lest eure letzten 10 Posts laut vor. Klingt das wie ihr — oder wie eine generische Marketing-Stimme? Wenn zweiteres, sofort Brand-Brief auffrischen und mehr manuell schreiben.
+Lest eure letzten 10 Posts laut vor. Klingt das wie ihr, oder wie eine generische Marketing-Stimme? Wenn zweiteres, sofort Brand-Brief auffrischen und mehr manuell schreiben.
 
 ---
 
-## Mehrere KIs gleichzeitig nutzen — Tactical Stacking
+## Mehrere KIs gleichzeitig nutzen: Tactical Stacking
 
 Erweitert über die KI-Content-Planung-Guideline hinaus: **Verschiedene KIs für verschiedene Schritte.**
 
@@ -209,7 +209,7 @@ Erweitert über die KI-Content-Planung-Guideline hinaus: **Verschiedene KIs für
 | **Editing / Polishing** | Claude oder GPT | Beides funktioniert |
 | **Bulk-Adapt für Plattformen** | ChatGPT | Schneller bei Massen-Generierung |
 
-Nicht alle Marken brauchen Tactical Stacking — aber bei wichtigen Kampagnen lohnt es sich.
+Nicht alle Marken brauchen Tactical Stacking, aber bei wichtigen Kampagnen lohnt es sich.
 
 ---
 
@@ -244,22 +244,22 @@ KI nennt selten konkrete Zahlen, Daten, Orte, Namen. Texte werden abstrakt.
 
 ## Wann ihr KI NICHT verwenden solltet
 
-- **Krisenkommunikation** — Mensch entscheidet, schreibt, signiert
-- **Reaktiv auf sensible Themen** — Politik, Trauer, gesundheitliche Themen
+- **Krisenkommunikation**, Mensch entscheidet, schreibt, signiert
+- **Reaktiv auf sensible Themen**, Politik, Trauer, gesundheitliche Themen
 - **Stark personalisierte Posts** (eigene Mutter ist gestorben, eigenes Burnout-Comeback)
-- **Erste 5 Posts einer neuen Marke** — bis die Voice steht, brauchen die Schreibenden Übung
-- **Comments / Replies** — wirken sofort KI-generiert, wenn sie es sind
+- **Erste 5 Posts einer neuen Marke**, bis die Voice steht, brauchen die Schreibenden Übung
+- **Comments / Replies**, wirken sofort KI-generiert, wenn sie es sind
 
 ---
 
-## Hybrid-Texten — die Standard-Methode 2026
+## Hybrid-Texten: die Standard-Methode 2026
 
 Die meisten guten Marken arbeiten 2026 hybrid:
 
 1. **Idee:** Mensch hat einen Insight, eine Geschichte, einen Punkt
 2. **Skelett:** KI baut Struktur (AIDA, PAS, Pixar Spine)
 3. **Erste Version:** KI generiert ersten Entwurf
-4. **Schärfung:** Mensch nimmt Entwurf, schreibt 50–70 % um
+4. **Schärfung:** Mensch nimmt Entwurf, schreibt 50 bis 70 % um
 5. **Voice-Check:** KI prüft Voice-Konsistenz mit Brand-Brief
 6. **Final-Edit:** Mensch macht letzte Schliffe
 7. **Veröffentlichung:** Mensch entscheidet, freigibt
@@ -268,7 +268,7 @@ Schritt 1 und Schritt 7 sind die einzigen, die **nie automatisierbar** sind. All
 
 ---
 
-## Checkliste — Voice-Verlust-Schutz
+## Checkliste: Voice-Verlust-Schutz
 
 - [ ] Brand-Brief mit aktuellen Voice-Beispielen (nicht älter als 3 Monate)
 - [ ] Mindestens 30 % manuell geschriebene Posts pro Monat
