@@ -4,6 +4,19 @@ Alle Quellen, auf die sich diese Guideline stützt. Gruppiert nach Thema. Stand:
 
 ---
 
+## Ergänzung Juni 2026: Praktiker-Quelle (Kane Callaway)
+
+Vom Auftraggeber bereitgestellte Videos, ausgewertet für die mit „Praktiker-Heuristik" markierten Ergänzungen in diesem Modul (Fünf Content-Games in `03`, Term-Ownership in `04`, On-Target-Reichweite und KI-Content-Welle in `09`):
+
+- **Kane Callaway (Kallaway / Open Residency), „Content Masterclass: The Most Valuable 3 Hours For Any Business Owner in 2026"**
+  https://www.youtube.com/watch?v=VcqQmrGqthg
+- **Kallaway, „How to Make ANY Topic Addictive on Social Media (The Illusion of Novelty)"**
+  https://www.youtube.com/watch?v=LvuoNlYRs7g
+
+*Einordnung: Erfahrungswissen eines einzelnen Praktikers, keine belegte Prognose. Zeitfenster und Zahlen sind grobe Schätzungen.*
+
+---
+
 ## Trend-Annex Future of Social (zu `09_Trend_Future_of_Social.md`, Ergänzung Juni 2026)
 
 - **SocialHub Mag #30 (2026), maloon GmbH**

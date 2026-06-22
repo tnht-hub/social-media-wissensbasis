@@ -104,3 +104,14 @@ Drei Kriterien für eine actionable Kennzahl: Sie ist **spezifisch** (misst etwa
 **Vanity-Metriken sind nicht wertlos.** Reach und Impressionen taugen als Gesundheits-Indikatoren für die Awareness-Stufe. Der Fehler ist nicht, sie zu zeigen, sondern sie als Erfolgsbeweis auszugeben, wo Wirkung gefragt war.
 
 **Praxis-Hebel:** Follower-Zahl in eine actionable Form bringen, indem man sie ins Verhältnis setzt: nicht „50.000 Follower", sondern „Engagement-Rate 0,3 Prozent". Ein Account mit 5.000 Followern und 5 Prozent Engagement schlägt einen mit 50.000 Followern und 0,3 Prozent.
+
+---
+
+## Content Minutes: Vertrauen als Funktion konsumierter Minuten
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026.
+> **Hinweis:** Praktiker-Heuristik, keine belegte Forschung. Die genannten Blockzahlen sind illustrativ.
+
+**Modell:** Vertrauen entsteht über die Menge an wertvollem Content, die jemand konsumiert. Jede Minute ist ein Block. Eine E-Mail-Anmeldung erfordert wenige Blöcke, ein höherpreisiges Angebot mehrere hundert. Daraus folgt für die Kanalwahl, dass Long-Form pro Aufruf mehr Blöcke überträgt als Short-Form und Vertrauensaufbau beschleunigt.
+
+**Verständnis als fallende Kurve:** Das Verständnis startet beim ersten Frame bei 100 Prozent und kann mit jeder Unklarheit nur sinken. Auffällige Abbruchstellen in der Retention deuten meist auf Verwirrung oder fehlende Deckung von Bild, Text und Ton hin, nicht auf mangelndes Interesse. Diese Lesart ergänzt die reine Retentionskurve um eine diagnostische Frage: An welcher Aussage ist die Klarheit gekippt?

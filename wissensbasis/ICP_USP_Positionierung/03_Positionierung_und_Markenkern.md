@@ -135,6 +135,23 @@ Wenn dieser Satz sich ehrlich und belegbar ausfüllen lässt, steht die Position
 
 ---
 
+## Fünf Content-Games als Positionierungs-Linse
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026.
+> **Hinweis:** Praktiker-Heuristik, keine belegte Forschung. Dient der strategischen Einordnung.
+
+Die Content-Strategie folgt dem Geschäftsmodell, nicht umgekehrt. Vor jeder Kanalstrategie ist das passende Spiel zu bestimmen:
+
+1. **Entertainment-Media**, Monetarisierung über CPM und Brand-Deals, Ziel maximale Reichweite.
+2. **Education-Media**, gleiche Monetarisierung, aber anwendbares Wissen.
+3. **Kommoditisiertes Konsumprodukt**, kein Erklärbedarf (etwa Möbel oder Kleidung).
+4. **Erklärungsbedürftiges Konsumprodukt**, kurzer Erklärbedarf (etwa Nahrungsergänzung).
+5. **B2B**, hoher Erklär- und Vertrauensbedarf (Dienstleistung, Coaching, SaaS).
+
+**Anwendung:** Für die meisten Marken mit eigenem Angebot ist eine enge, hochwertige, nischige Positionierung tragfähiger als das reichweitengetriebene Media-Game, das gegen KI-Content und große Medienhäuser an Wert verliert. Übergeordneter Rahmen: Jedes Geschäft besteht aus Traffic, Funnels und Offers. Die Wahl des Spiels bestimmt, welche dieser drei Komponenten zuerst aufgebaut wird. Diese Linse ergänzt den Frame of Reference der Positionierung um die Frage nach dem zugrunde liegenden Erlösmodell.
+
+---
+
 ## Brücke zur nächsten Säule
 
 Die Positionierung beschreibt die Position. Der nächste Schritt verdichtet sie zur überzeugendsten Einzelaussage: dem USP, seinem emotionalen Gegenstück (ESP), dem belegten Value Proposition und der Frage, wie man das alles testet, bevor man es in den Markt gibt (Säule 04).

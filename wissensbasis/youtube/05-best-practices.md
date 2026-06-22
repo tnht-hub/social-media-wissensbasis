@@ -93,3 +93,15 @@
 - **Hover-to-Subscribe Button**, seit September 2025 auf Desktop entfernt; diese Conversion-Fläche existiert nicht mehr
 - **Keine Community-Pflege**, Kanäle ohne Community Posts und Engagement-Aktivitäten verlieren Präsenz
 - **Kurze Shorts unter 30 Sek. ohne starken Hook**, bei 3-Minuten-Limit für Shorts wird der Wettbewerb um Watch Time intensiver
+
+---
+
+## Native Embeds statt nicht-nativer Werbung
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026. Praktiker-Heuristik, keine belegte Forschung.
+
+**Prinzip:** Werbung soll den Aufmerksamkeitsfluss nicht brechen. Ein harter Szenenwechsel („gleich geht es weiter") holt die Zuschauer:in an die Oberfläche und vertreibt sie. Besser ist es, das eigene Angebot oder die bezahlte Botschaft in den Gesprächs- oder Erzählfluss einzuweben.
+
+**Platzierung:** Wenn ein Bruch nötig ist, gehört der Werbeblock eher an oder hinter die durchschnittliche Wiedergabedauer (AVD), da früher platzierte Brüche mehr Publikum kosten.
+
+**Leitsatz:** Clickbait ja (ködern), Bait-and-Switch nein. Der Köder im Titel und Thumbnail muss vom Inhalt eingelöst werden, sonst sinkt die Verweildauer und der Algorithmus drosselt.

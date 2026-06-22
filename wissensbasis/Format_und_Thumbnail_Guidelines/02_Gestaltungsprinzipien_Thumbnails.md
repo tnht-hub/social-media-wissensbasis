@@ -38,3 +38,11 @@ Ein Thumbnail, das nicht zum Inhalt passt, frustriert und treibt die Absprungrat
 - Passt zum Inhalt, kein übertriebenes Versprechen.
 - Markenstil erkennbar.
 - Schlüssel-Elemente in der Safe-Zone (siehe Säule 3).
+
+## Ergänzung: Cover als Share-Vehikel und Verstärker des Titels
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026. Praktiker-Heuristik, keine belegte Forschung.
+
+**Cover entscheidet beim Teilen in DMs.** Wird ein Reel oder Short in eine Direktnachricht oder einen Gruppenchat geteilt, läuft es dort nicht ab, sondern liegt als statisches Cover. Über den Klick entscheidet dann allein dieses Cover, nicht der Videoinhalt. Ein klares, neugierig machendes Cover hebt die Klickrate genau an dieser stark unterschätzten Stelle der viralen Schleife.
+
+**Cover verstärkt den Titel, statt ihn zu wiederholen.** Wenn ein Beitrag einen Titel oder eine Caption hat, sollte das Cover dieselben Worte nicht doppeln, sondern den Wunsch erhöhen (zusätzliche Information, zugespitzte Aussage). Doppelung verschenkt eine Fläche, die für mehr Sog genutzt werden könnte.

@@ -327,3 +327,40 @@ und warum. Berücksichtige Voice, Zielgruppe und Plattform.
 Storytelling-Frameworks sind **bewährte Strukturen, keine wissenschaftlichen Wahrheiten**. Sie funktionieren, weil sie aus jahrzehntelanger Erfahrung kondensieren, was Menschen emotional anspricht, nicht weil sie messbar bewiesen sind.
 
 Eure Markenkommunikation sollte Frameworks als Werkzeug nutzen, nicht als Glaubenssystem. Ein guter Text kann **alle** Frameworks brechen und trotzdem funktionieren, wenn er weiß, warum er sie bricht.
+
+---
+
+## Illusion of Novelty: langweilige Themen neu wirken lassen
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026.
+> **Hinweis:** Praktiker-Heuristik, keine belegte Forschung. Der Name „Illusion of Novelty" ist von Callaway geprägt; er legt selbst offen, dass die zugrunde liegenden Mechanismen klassische Überzeugungspsychologie sind. Beispielzahlen sind illustrativ.
+
+**Herkunft:** Geprägt von Kane Callaway. Zweck ist es, Themen ohne erkennbare Neuigkeit (Versicherung, Zahnarzt, Buchhaltung) so zu erzählen, dass sie neu und interessant wirken.
+
+**Vorannahme:** Süchtig machender Content beantwortet drei Fragen mit Ja. Ist es relevant für mich? Ist es neu? Macht es mich neugierig? Relevanz ist leicht herstellbar, die Kunst liegt in „neu" und „interessant".
+
+**Die fünf Schritte:**
+
+1. **New Reveal + Outcome Mapping.** Ein bestehendes Thema neu erscheinen lassen, indem eine Veränderung enthüllt und an ein gewünschtes Ergebnis gekoppelt wird. Wichtig: Man braucht kein neues Thema, sondern einen neuen Blickwinkel (neuer Rahmen, neuer Name, neue Erkenntnis) auf ein altes.
+2. **Contrast Framing.** Das Neue gegen den bisherigen Glauben des Publikums stellen. Das Gehirn erkennt Neues nur im Vergleich. Regel: echtes Gegenteil des Ausgangsglaubens, sonst entsteht Verwirrung statt Spannung. Muster: „Alle denken X, in Wahrheit ist es Y."
+3. **Urgency (optional, „Turbo-Button").** Zeitlichkeit über Recency Bias („gerade erschienen", „hört bald auf"). Weglassen, wenn nicht echt. Künstliche Dringlichkeit zerstört Vertrauen.
+4. **Bullseye Proof.** Beleg möglichst nah an der Lebenswelt der Zuschauerin (Mechanismus Selbstidentifikation). Vertrauensleiter: Eins-zu-eins-Beispiel einer Person wie sie (oben) über die allgemeine „warme Menge" (Mitte) bis zur Drittquelle wie Studie oder Statistik (unten).
+5. **Protect the Illusion („zeig nie das Maskottchen").** Nicht zugeben, dass der neue Rahmen nur altes Wissen im neuen Gewand ist. Zusatz „Gossip Whisperer": im vertraulichen Flüsterton liefern statt im lauten Verkäuferton.
+
+**Beispiel (Wurzelbehandlung):** „Kaum jemand weiß das, aber es gibt jetzt eine roboter-gestützte Wurzelbehandlung ohne Nadeln, ohne Schmerz, und du bist in unter 90 Minuten zurück am Schreibtisch. Du kennst Wurzelbehandlungen wahrscheinlich als langwierig und schmerzhaft. Das war der alte Weg. Kaum eine Praxis ist dafür schon geschult. Eine Patientin mit Spritzenangst, die es zwei Jahre aufgeschoben hatte, hat uns eine Stunde später vom Büro geschrieben."
+
+**Wann nutzen:** erklärungsarme oder als langweilig geltende Nischen, in denen es scheinbar nichts Neues gibt.
+
+**Grenzen:** Funktioniert nur mit echtem Inhaltskern. Wer eine alte Sache als neu verkauft, ohne tatsächlichen Nutzen zu liefern, erzeugt Enttäuschung. Der Schritt Urgency ist bewusst optional.
+
+**Verwandt:** Hook-Anatomie (Säule 03), PAS und BAB (oben in dieser Säule).
+
+---
+
+## Story-Audit Frage für Frage
+
+> **Quelle/Hinweis:** wie oben (Callaway, Juni 2026; Praktiker-Heuristik).
+
+Eine einfache Methode, um zu prüfen, ob eine Story trägt: Jede Zeile soll genau eine Frage im Kopf der Leser:in öffnen, die nächste Zeile beantwortet sie und öffnet die nächste. Lässt sich nach einer Zeile keine eindeutige Folgefrage benennen, oder konkurrieren mehrere gleich starke Fragen, fehlt Klarheit, und an dieser Stelle bricht das Publikum ab.
+
+Ergänzend die **Zwei-Dopamin-Treffer-Regel:** Wer dem Publikum zwei verwertbare Erkenntnisse liefert, bevor es abspringt, bindet es. Bei nur einem ist die Bindung unsicher, bei null ist der Abbruch sicher. Ein Dopamin-Treffer im Bildungs-Content ist ein konkret anwendbarer Punkt, der ein Problem löst.

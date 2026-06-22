@@ -4,6 +4,19 @@ Alle Quellen, auf die sich diese Guideline stützt. Stand: Mai 2026.
 
 ---
 
+## Ergänzung Juni 2026: Praktiker-Quelle (Kane Callaway)
+
+Vom Auftraggeber bereitgestellte Videos, ausgewertet für die mit „Praktiker-Heuristik" markierten Ergänzungen in diesem Modul (Illusion of Novelty, Story-Audit, Hook-Anatomie, Bullseye Proof, Lead-Magnet-Typen):
+
+- **Kane Callaway (Kallaway / Open Residency), „Content Masterclass: The Most Valuable 3 Hours For Any Business Owner in 2026"**
+  https://www.youtube.com/watch?v=VcqQmrGqthg
+- **Kallaway, „How to Make ANY Topic Addictive on Social Media (The Illusion of Novelty)"**
+  https://www.youtube.com/watch?v=LvuoNlYRs7g
+
+*Einordnung: Erfahrungswissen eines einzelnen Praktikers, keine belegte Forschung. Genannte Zahlen sind illustrativ. Der Begriff „Illusion of Novelty" ist vom Autor geprägt.*
+
+---
+
 ## Primärquellen (im Detail ausgewertet)
 
 - **Automateed, Pixar Story Spine: The Ultimate Storytelling Structure for 2026**
@@ -165,6 +178,10 @@ Alle Quellen, auf die sich diese Guideline stützt. Stand: Mai 2026.
 - **VirVid, 10 Viral Hook Templates for 1M+ Views (2026 Guide)**
   https://virvid.ai/blog/ai-shorts-script-hook-ultimate-guide-2026
   *Viral-Hook-Templates mit AI-Anwendung.*
+
+- **Mino Lee, how i create hooks that get 1M+ views every time (just copy me)** (YouTube, 2025)
+  https://www.youtube.com/watch?v=SVikuuB2vkU
+  *Creator-Methode zum Aufbau einer Hook-Bank: Sammeln ab 50.000 Likes, Wirkursache verstehen, maximieren. Einzelquelle, nicht trianguliert, mit Eigenwerbung im Schlussteil.*
 
 ---
 

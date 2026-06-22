@@ -78,3 +78,14 @@ YouTube testet einen gemeinsamen Feed, der sowohl Shorts als auch Long-Form-Vide
 ## Content-Lebensdauer: YouTube vs. andere Plattformen
 
 YouTube-Videos haben eine wesentlich längere algorithmische Lebensdauer als Posts auf anderen Plattformen. Long-Form-Videos können Monate oder Jahre nach Upload noch Traffic generieren, besonders über die Suchfunktion. Shorts haben kürzere, aber dafür schnellere Verbreitung.
+
+---
+
+## Sample-Pool-Modell und Themenkonstanz (Praktiker-Sicht)
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026.
+> **Hinweis:** Praktiker-Heuristik, keine offizielle YouTube-Dokumentation. Die Zahlen sind illustrative Größenordnungen. Für gesicherte Signale gelten die offiziellen Ranking-Signale oben.
+
+**Kaskade über Sample-Pools.** Modellhaft transkribiert der Algorithmus das Video, baut eine Themenkarte und testet es an einer ersten Stichprobe (grob 200 Personen, teils Bestandspublikum, teils neu). Fällt die Resonanz überdurchschnittlich aus, folgt die nächste Stufe um eine Größenordnung höher (grob 2.000). Bei neutralem oder schwachem Signal wird gedrosselt, was die typischen sehr niedrigen Aufrufzahlen schwacher Videos erklärt.
+
+**Konsequenz Themenkonstanz.** Wer thematisch springt, liefert dem Algorithmus eine uneinheitliche Stichprobe und damit verrauschte Daten, weil das Bestandspublikum gemischte Interessen hat. Ein konstantes, enges Thema erzeugt ein klares Publikumsprofil und stabilere Signale. Für Reichweite innerhalb eines Themas darf man breiter werden, der Themenkern selbst sollte konstant bleiben.

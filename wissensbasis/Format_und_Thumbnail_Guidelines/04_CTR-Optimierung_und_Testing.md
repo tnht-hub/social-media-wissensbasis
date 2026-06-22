@@ -36,3 +36,11 @@ Ein wiederkehrender Stil ist kein Gegensatz zum Testen. Man testet innerhalb ein
 ## Grenze
 
 Custom-Thumbnails bleiben laut Praxis-Quellen ein zentraler Hebel, ein großer Teil erfolgreicher Videos nutzt sie. Aber kein Thumbnail rettet schwachen Inhalt dauerhaft. Es senkt die Einstiegsbarriere, den Wert liefert danach der Inhalt.
+
+## Ergänzung: Packaging zuerst und der Desire Loop
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026. Praktiker-Heuristik, keine belegte Forschung.
+
+**Packaging zuerst, nicht am Ende.** Titel, Thumbnail und die Idee entscheiden über den Klick und sollten zu Beginn der Produktion entstehen, wenn die Energie am höchsten ist. Der häufige Fehler ist, das Packaging nach stundenlangem Schnitt erschöpft anzuhängen. Lässt sich der Klick nicht lösen, ist der Aufwand für den Rest weitgehend verloren.
+
+**Desire Loop im Titel.** Der Titel soll einen konkreten Wunsch auslösen: einen Schmerz lösen, FOMO erzeugen oder einen klaren Vorteil benennen. Das Thumbnail bestätigt diesen Wunsch und verstärkt ihn, statt die Titelworte zu wiederholen. Nach dem Klick muss das Intro das im Titel gegebene Versprechen sofort einlösen, sonst entsteht das Gefühl eines Bait-and-Switch und die Verweildauer bricht ein.

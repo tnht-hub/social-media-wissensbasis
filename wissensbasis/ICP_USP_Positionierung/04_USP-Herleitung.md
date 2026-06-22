@@ -124,6 +124,16 @@ Ein USP, der alle drei besteht, ist einsatzbereit. Reißt er auch nur eine, ist 
 
 ---
 
+## Term-Ownership: einen Begriff besetzen
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026. Praktiker-Heuristik, keine belegte Forschung.
+
+Eine Schärfung des USP über die Sprache des Marktes: Menschen merken sich im Netz nur eine begrenzte Zahl an Namen (Analogie zur Dunbar-Zahl, grob 200 bis 300). Sobald ein Begriff fällt, wird er mit der Person oder Marke verknüpft, die ihn besetzt. Breite Begriffe (etwa „Business") sind kaum zu besetzen, weil sie zu groß sind und bereits belegt. Nischenbegriffe sind leichter zu besetzen: weniger zahlende Nachfrage, dafür hohe Bindung und Preissetzungsmacht in genau diesem Feld.
+
+**Anwendung:** Den engsten Begriff suchen, den die eigene Zielgruppe verwendet und der noch frei ist, und konsequent darauf einzahlen. Das verstärkt die Differenzierungs-Prüfung oben (Austauschbarkeit) und die Onlyness-Logik aus Säule 03.
+
+---
+
 ## Brücke zur nächsten Säule
 
 ICP, Personas, Positionierung und USP definieren das SOLL vollständig. Jetzt schließt sich der Kreis: Wo steht die Marke heute im Vergleich zu diesem SOLL, und welche Ziele und KPIs folgen aus der Lücke? Das ist Gegenstand der letzten inhaltlichen Säule (05).

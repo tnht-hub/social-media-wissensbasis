@@ -243,3 +243,20 @@ Output als Tabelle mit CTA-Typ, Text, kurzer Begründung.
 - [ ] Belohnung / Grund für die Aktion ist erkennbar
 - [ ] Ein CTA, nicht drei verschiedene
 - [ ] In den letzten 5 Posts war derselbe CTA nicht schon
+
+---
+
+## Lead-Magnet-Typen für den Übergang von Reichweite zu E-Mail
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026.
+> **Hinweis:** Praktiker-Heuristik, keine belegte Forschung. Genannte Öffnungsraten sind illustrativ.
+
+Ziel jedes Lead Magnets ist der Tausch „kostenloser Wert gegen E-Mail-Adresse". Fünf gängige Formen:
+
+- **Einmaliges PDF oder Dokument** (Template, Framework-Zusammenfassung)
+- **Drei- bis fünftägige E-Mail-Serie**, die ein größeres Thema in Etappen zerlegt
+- **Kostenlose Community** mit E-Mail-Eintritt
+- **Warteliste oder Landingpage**
+- **Formular** (etwa für Anfragen oder Vermittlung)
+
+**Begründung:** E-Mail wird, anders als ein Feed, nicht von einem Algorithmus kontrolliert; hohe Öffnungsraten machen sie zum verlässlichsten Verkaufskanal. Die Mechanik ist immer dieselbe: Content führt zum Lead Magnet, der Lead Magnet liefert die E-Mail-Adresse, eine Sequenz führt von dort zum Angebot. Der Lead Magnet sollte inhaltlich an das spätere Angebot anschließen, sonst sammelt man Adressen ohne Kaufabsicht.

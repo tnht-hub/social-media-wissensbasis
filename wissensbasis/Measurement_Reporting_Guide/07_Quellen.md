@@ -4,6 +4,19 @@ Alle Quellen, auf die sich diese Guideline stützt. Stand: Juni 2026.
 
 ---
 
+## Ergänzung Juni 2026: Praktiker-Quelle (Kane Callaway)
+
+Vom Auftraggeber bereitgestellte Videos, ausgewertet für die mit „Praktiker-Heuristik" markierte Ergänzung in diesem Modul (Content Minutes, Verständnis als fallende Kurve):
+
+- **Kane Callaway (Kallaway / Open Residency), „Content Masterclass: The Most Valuable 3 Hours For Any Business Owner in 2026"**
+  https://www.youtube.com/watch?v=VcqQmrGqthg
+- **Kallaway, „How to Make ANY Topic Addictive on Social Media (The Illusion of Novelty)"**
+  https://www.youtube.com/watch?v=LvuoNlYRs7g
+
+*Einordnung: Erfahrungswissen eines einzelnen Praktikers, keine belegte Forschung. Genannte Blockzahlen sind illustrativ.*
+
+---
+
 ## Benchmarks und Engagement-Raten
 
 - **Socialinsider - Social Media Benchmarks For 2026**

@@ -356,3 +356,55 @@ Markiere die Top 5 zur Auswahl.
 | **Versprechen, das nicht gehalten wird** | Hook ist krass, Content ist banal | Hook und Substanz in Balance |
 | **Generischer Verstärker** | „Unglaublich" / „erstaunlich" / „Game-Changer" | Konkrete Sprache, keine Bewertung |
 | **Fokus auf Marke, nicht Leser:in** | „Wir haben unseren Service erweitert" | Hook gehört der Leser:in, nicht euch |
+
+---
+
+## Hook-Anatomie: drei Ebenen, Sequenz, Absorption
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026.
+> **Hinweis:** Praktiker-Heuristik, keine belegte Forschung. Beispielzahlen sind illustrativ. Ergänzt die obigen 15 Pattern um eine Mechanik-Sicht.
+
+**Drei deckungsgleiche Ebenen.** Ein Short-Form-Hook besteht aus dem visuellen Hook (was auf dem Bildschirm zu sehen ist), dem Text-Hook (Title-Text oder Caption) und dem gesprochenen Hook. Die drei müssen dasselbe aussagen. Wenn das Gesehene, das Gelesene und das Gehörte auseinanderlaufen, entsteht Verwirrung, und Verwirrung führt zum Abbruch.
+
+**Sequenz Stun, Kontext, Kontrast.** Erst stoppt das Bild den Daumen (hohe Bewegung, Farbe, Kontrast wirken schneller als Ton). Danach folgt im ersten Satz der Kontext (worum geht es). Dann erzeugt der Kontrast Neugier (Erwartung gegen tatsächliche Aussage).
+
+**Kontrast direkt gegen impliziert.** Direkt nennt zuerst den verbreiteten Glauben und stellt das Gegenteil daneben („Die meisten denken X, in Wahrheit ist es Y"). Impliziert verzichtet auf den Ausgangsglauben und zwingt die Zuschauer:in, ihn selbst zu ergänzen. Direkt wirkt stärker, weil der Bogen von der Erwartung zur Auflösung größer ausfällt.
+
+**Absorptionsrate als KPI.** Die Leitgröße ist, wie viel Prozent einer Aussage vollständig verstanden werden. Klarheit schlägt Kürze: Fülltext wird gestrichen, aber Wörter werden hinzugefügt, wenn sie die Verständlichkeit erhöhen. Die richtige Wortzahl ist die, die volle Absorption erreicht.
+
+**Bullseye Proof / Vertrauensleiter.** Belege wirken am stärksten, wenn sie nah an der Lebenswelt der Zuschauer:in liegen (Selbstidentifikation). Die Leiter von oben nach unten: Eins-zu-eins-Beispiel einer Person wie sie, dann die allgemeine „warme Menge", dann die Drittquelle (Studie, Statistik, Auszeichnung). Alle Stufen funktionieren, die höchste erzeugt am meisten Vertrauen. Ohne echten Beleg keine Stufe erfinden.
+
+---
+
+## Hook-Bank aufbauen: Sammeln, Verstehen, Maximieren
+
+> **Quelle:** Mino Lee, „how i create hooks that get 1M+ views every time (just copy me)" (YouTube, 2025).
+> **Hinweis:** Einzelquelle, Creator-Erfahrung, nicht trianguliert. Die Mechanik deckt sich mit den oben dokumentierten Pattern; neu ist die Methode, wie man die Bank systematisch aufbaut und schärft.
+
+**Warum der Hook trägt (Retention-Begründung).** Die Zuschauerbindung folgt einer Retention-Kurve, die bei 100 Prozent startet und früh steil abfällt. Ein schwacher Einstieg lässt sich durch einen starken Mittelteil nicht ausgleichen, weil das Publikum bereits abgesprungen ist, bevor der wertvolle Teil erreicht wird. Die Plattform liest den frühen Absprung als negatives Qualitätssignal und drosselt die weitere Ausspielung. Daraus folgt die Priorisierung: Optimierung am Hook wirkt stärker als an Musik, Kameraqualität oder Hashtags.
+
+### Schritt 1: Die Hook-Bank (Swipe File)
+
+Eine eigene Bank bewährter Hooks ist die Grundlage, nicht die Erfindung aus dem Nichts. Vorgehen:
+
+1. Auf TikTok sammeln, da Suche und Empfehlung dort präziser sortieren als bei Instagram.
+2. Nur Videos mit hoher Performance aufnehmen (Richtwert ab etwa 50.000 Likes als grober Qualitätsfilter, nicht als starre Grenze). Begründung: Das eigene Urteilsvermögen wird wie ein Modell trainiert, dessen Qualität von der Qualität der Beispiele abhängt.
+3. Nur das eigene Format und die eigene oder eine verwandte Nische studieren. Das Format ist übertragbarer als die Nische, weshalb sich verwandte Formate lohnen.
+4. Die Hooks wörtlich notieren und mit eigenen Ideen kombinieren (Adaption statt Kopie).
+
+### Schritt 2: Wirkursache verstehen
+
+Reines Kopieren genügt nicht. Vor der Übernahme steht die Frage, warum ein Hook gewirkt hat. Übung: zwei virale Videos ansehen und prüfen, welche Reizwörter den Erfolg trugen und welche Emotion sie auslösen. Gemeint sind nicht SEO-Begriffe, sondern emotional aufgeladene Schlüsselwörter (siehe Säule 2, Voice of Customer). Wirksame Wörter werden in einen eigenen, zielgruppenspezifischen Wortschatz überführt.
+
+### Schritt 3: Maximieren
+
+Den Unterschied zwischen gutem und großartigem Hook macht die Schärfung entlang vier Hebel:
+
+| Hebel | Wirkung |
+|---|---|
+| **Neuartigkeit (Purple-Cow-Prinzip)** | Was aus dem Erwartbaren heraussticht, bindet Aufmerksamkeit |
+| **Spezifität und Zahlen** | Konkrete Werte, idealerweise an ein belegbares Ergebnis gekoppelt |
+| **Hook-Inhalt-Alignment** | Das Versprechen muss eingelöst werden, sonst zerstört es die Bindung |
+| **Einfache Sprache und Visuals** | Verständnishürden senken die Abbruchrate, Visuals erhöhen Bindung |
+
+**Vorbehalt.** Die Erfolgszahlen der Quelle sind anekdotisch, der Ursprungsbeitrag bewirbt ein kostenpflichtiges Programm. Themenwahl, Konsistenz und Produktionsqualität tragen messbar bei, was die alleinige Fokussierung auf den Hook relativiert.

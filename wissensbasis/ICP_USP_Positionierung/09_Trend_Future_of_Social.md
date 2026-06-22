@@ -37,6 +37,17 @@ Zwei Cases aus SocialHub Mag #30 stützen die These, dass Menschen und Authentiz
 
 ---
 
+## Ergänzung: On-Target-Reichweite und KI-Content-Welle
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026. Praktiker-These, keine belegte Prognose. Zeitfenster sind grobe Schätzungen.
+
+Zwei anschlussfähige Thesen aus derselben Logik wie dieser Annex:
+
+- **On-Target-Reichweite statt Viralität.** Für Marken mit eigenem Angebot zählt nicht die Gesamtzahl der Aufrufe, sondern der Anteil passender Aufrufe, die sich in Leads und Umsatz übersetzen. Follower sind ein Glaubwürdigkeits-Proxy mit Mindestschwelle, der Unterschied zwischen mittleren und hohen Followerzahlen ist für die Conversion meist irrelevant. Das stützt den Punkt „Austauschbarkeit ist tödlich" und das KPI-Verständnis im `Measurement_Reporting_Guide`.
+- **KI-Content-Welle und Distributionsfenster.** Je kommoditisierter ein Format, desto früher ersetzt KI es (Text zuerst, Long-Form und Live-Formate zuletzt). Das Fenster freier organischer Distribution wird grob auf 2020 bis etwa 2028 datiert, mit kürzerer Restlaufzeit bei Short-Form. Handlungsfolge: jetzt eng, signaturhaft und an eigene, nicht kopierbare Erfahrungen gebunden positionieren. Das verstärkt „Personen vor Logos" und die Nischen-Pol-These oben.
+
+---
+
 ## Einordnung und Vorsicht
 
 Dieser Annex gibt die Sicht eines Branchenexperten wieder. Die Szenarien (etwa eine 50/50-Chance für eine Aufspaltung großer Plattformen in europäische Entitäten, oder ein Peak bei Kurzvideos) sind Hypothesen, keine Prognosen mit Datenbasis. Für gesicherte Plattform-Fakten gelten die Plattform-Ordner, für KI-Auffindbarkeit das Modul `KI_Sichtbarkeit_Guide`. Der Wert dieses Annex liegt in der strategischen Frage, die er für jede Positionierung stellt: Trägt sie auch dann, wenn Plattformen zu reinen Distributionskanälen werden und nur noch Menschen und Marken mit klarem Profil Bindung erzeugen?

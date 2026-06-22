@@ -160,6 +160,18 @@ Geübte Anwender:innen schaffen einen Monatsplan in 3 bis 4 Stunden. Einsteiger:
 
 ---
 
+## Rollen, Selbst-Klonen und Batching (Praktiker-Sicht)
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026. Praktiker-Heuristik, keine belegte Forschung.
+
+**Rollenteilung.** Ideenfindung ist ein bodenloses Fass und der größte Zeitfresser, der Schnitt ist klar abgrenzbar. Wer skaliert, lagert zuerst die Ideen aus. Mögliches Setup: ein „Content Operator" (sammelt und pitcht Ideen wie ein Showrunner), dedizierte Editor:innen und bei Bedarf eine Person, die nur Tools und Visuals testet.
+
+**Selbst-Klonen über ein Curriculum.** Die eigene Arbeitsweise lässt sich in eine andere Person übertragen, indem man Auswahlkriterien, Beispiele und Nuancen schriftlich und über Mitschnitte festhält. Das dauert mehrere Monate, macht die Person danach aber weitgehend eigenständig. Dasselbe Curriculum dient als Onboarding-Material und als Prompt-Grundlage für KI.
+
+**Batching nach Skill-Level.** Einsteiger:innen arbeiten Stück für Stück, weil sie die Lernschleife pro Wiederholung brauchen (die eigentliche Fähigkeit ist die kurze Iterationsdistanz, nicht die Strategie). Wer die Grundlagen sicher beherrscht, kann bündeln, um Volumen zu erreichen. Das deckt sich mit „Fehler 2" oben: Volumen vor sicheren Fundamenten kippt die Qualität.
+
+---
+
 ## Erweiterung: Performance-Lernschleife
 
 Siehe `06_Feedback-Loop.md`, der Workflow wird nach 30 Tagen mit echten Daten gefüttert und lernt iterativ besser zu prompten.

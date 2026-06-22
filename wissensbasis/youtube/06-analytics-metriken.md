@@ -124,3 +124,16 @@ Separate Ansicht in YouTube Studio:
 | Comment/Views Ratio | > 0,1% | > 0,5% |
 
 **Hinweis:** Diese Richtwerte variieren stark nach Kategorie, Kanal-Größe und Content-Typ. YouTube Studio zeigt kanalspezifische Benchmarks, die aussagekräftiger sind als allgemeine Richtwerte.
+
+---
+
+## Auswertung für Geschäftskanäle (Praktiker-Sicht)
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026.
+> **Hinweis:** Praktiker-Heuristik, keine belegte Forschung. Beispielzahlen illustrativ.
+
+**Dollar pro View statt Gesamtreichweite.** Wer YouTube als Vertriebskanal nutzt, bewertet Videos nach dem erzeugten Umsatz pro Aufruf, nicht nach der Reichweite. Ein Video mit wenigen, aber passenden Aufrufen kann mehr wert sein als ein reichweitenstarkes ohne Kaufabsicht. Die Studio-Metriken sind für das Media-Game gebaut (mehr Views), nicht für diese Sicht; die Übersetzung in „On-Target-Views" muss man selbst leisten.
+
+**1-von-10-Ranking als Eigenvergleich.** Als grobe, aber praktikable Kennzahl dient die relative Platzierung eines Videos unter den eigenen letzten zehn. Platz eins bis drei signalisiert Überperformance (Muster studieren und wiederholen), Platz vier bis sechs liegt im Mittelfeld (oft kleinerer Themen-TAM), Platz sieben bis zehn ist schwach. In Echtzeit lässt sich dort nur Titel und Thumbnail neu packen.
+
+**CTR mit Vorbehalt.** Die Klickrate ist ein verrauschtes Signal: Sie kann hoch sein, während das Video schlechter läuft, und umgekehrt. Daten sind nachlaufend und bestätigend, nicht führend. Die führende Größe ist die saubere Umsetzung beim Erstellen (Klarheit, Bild-Text-Deckung), die man selbst beurteilen kann.

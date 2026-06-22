@@ -176,3 +176,15 @@ Eine Marke, die nach 18 Monaten *wirklich* ihre Zielgruppe kennt. Nicht aus Anna
 Das ist der eigentliche Asset, den ihr nach 1 bis 2 Jahren habt, nicht nur einzelne erfolgreiche Posts, sondern ein **lernendes System**, das genau weiß, was eure Zielgruppe bewegt.
 
 Dieses Asset ist auch das stärkste Argument bei Stakeholder-Reviews, Pitch-Verlängerungen oder Erweiterungen des Marketing-Budgets.
+
+---
+
+## Gewinner gegen Verlierer: Mustererkennung per LLM
+
+> **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026. Praktiker-Heuristik, keine belegte Forschung.
+
+Eine konkrete Analyseroutine für die Lernschleife: die eigenen Videos eines Zeitraums nach Reichweite sortieren und systematisch fragen, was die besten von den schwächsten unterscheidet. Dafür Transkripte und Skript-Abschnitte der besten und der schlechtesten Beiträge nebeneinanderlegen.
+
+Wer Muster nicht intuitiv erkennt, übergibt die Aufgabe einem LLM: Transkripte und Kennzahlen exportieren, in das genutzte Modell geben und gezielt nach dem Unterschied zwischen Gewinnern und Verlierern fragen, mit der Bitte um konkrete Handlungsanweisungen. Ein dokumentiertes Framework (etwa eine Hook- oder Story-Struktur) lässt sich mitgeben, damit das Modell die Muster entlang dieser Kriterien sucht.
+
+**Wichtig:** Das Framework ist einheitlich, die Ausführung nicht. Was für eine Zielgruppe funktioniert, gilt nicht automatisch für eine andere. Deshalb ersetzt diese Auswertung der eigenen Daten keine allgemeingültige Regel, sie schärft die Regeln für den konkreten Kanal.
