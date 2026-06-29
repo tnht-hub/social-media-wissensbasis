@@ -180,6 +180,8 @@ klar, wo das System trägt und wo nicht.
   Markenkern, Gap IST gegen SOLL, KPI-Ziele. Output ist ein Strategie-Brief.
 - P3 Auftritt: Voice und Tone, visuelle Richtung, Content-Pillars,
   plattformspezifische Anpassung. Output sind konkrete Inhalte und Vorgaben.
+  Sobald konkrete Post-Texte entstehen, wende verpflichtend die Humanizer-Regeln
+  an (siehe Abschnitt „Post-Texte humanisieren (Pflicht)").
   Für weltaktuelle Themen oder Newsjacking nutze das Modul
   `Aktuelle_Themen_und_Newsjacking/`. Es prüft jedes aktuelle Thema gegen die
   Relevanz-Spanne (gemessen an Content-Pillars und Positionierung), hat einen
@@ -200,10 +202,10 @@ des Repos einmal ersetzt werden:
 
 `RAW_BASIS_URL = https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/wissensbasis/`
 
-Die drei skill-eigenen Dateien (`persona-modul-karte.md`, `briefing-fragebogen.md`
-und `rats-modus.md`) werden NICHT lokal mit dem Skill ausgeliefert. Der
-Verteilweg liefert nur diese SKILL.md aus. Die drei Dateien liegen im selben Repo
-unter einer zweiten Basis-Adresse und werden von dort frisch geladen:
+Die skill-eigenen Dateien (`persona-modul-karte.md`, `briefing-fragebogen.md`,
+`rats-modus.md` und `humanizer-regeln.md`) werden NICHT lokal mit dem Skill
+ausgeliefert. Der Verteilweg liefert nur diese SKILL.md aus. Die Dateien liegen im
+selben Repo unter einer zweiten Basis-Adresse und werden von dort frisch geladen:
 
 `RAW_SKILL_URL = https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/skills/socialmedia-agentur/`
 
@@ -213,9 +215,11 @@ So arbeitest du mit der Wissensbasis:
    von der Basis-Adresse (also `RAW_BASIS_URL` + `index.json`). Der Index listet
    alle Module mit relativem Pfad (Feld `datei`), Titel und Stand. Er ist klein
    und schnell geladen.
-2. Die skill-eigenen Dateien `persona-modul-karte.md`, `briefing-fragebogen.md`
-   und `rats-modus.md` holst du frisch über `RAW_SKILL_URL` plus Dateiname
-   (Beispiel: `RAW_SKILL_URL` + `persona-modul-karte.md`). Verlasse dich nicht
+2. Die skill-eigenen Dateien `persona-modul-karte.md`, `briefing-fragebogen.md`,
+   `rats-modus.md` und `humanizer-regeln.md` holst du frisch über `RAW_SKILL_URL`
+   plus Dateiname (Beispiel: `RAW_SKILL_URL` + `persona-modul-karte.md`). Die
+   Datei `humanizer-regeln.md` lädst du, sobald konkrete Post-Texte entstehen
+   (siehe Abschnitt „Post-Texte humanisieren (Pflicht)"). Verlasse dich nicht
    darauf, dass sie lokal vorliegen. Lies die Modul-Karte zu Beginn jedes
    Workflows als Wegweiser auf die Module. Schlägt ein Abruf fehl, sage das offen
    und nenne die betroffene Adresse, statt aus dem Gedächtnis zu antworten.
@@ -234,6 +238,16 @@ Pro Phase ein klar überschriebener Abschnitt mit dem Phasen-Output. Am Ende ein
 kurze Zusammenfassung und der nächste sinnvolle Schritt. An jedem Gate eine klare
 Freigabe-Frage. Bei Lookups nur die Antwort plus Quelle, kein Drumherum.
 
+Kopierbereite Ausgabe: Veröffentlichbare Texte (Captions, Hooks, Post-Texte,
+Karussell- und Story-Skripte, Bio- und Profiltexte) gibst du immer kopierbereit
+aus. Das heißt: jeder fertige Text steht in einem eigenen, klar abgegrenzten Block
+(Code-Block) genau so, wie er gepostet wird, ohne eingestreute Kommentare,
+Bewertungen oder Klammerhinweise im Text. Erklärungen, Begründungen und Varianten
+stehen außerhalb des Blocks davor oder danach, nie im Text selbst. Gibt es mehrere
+Varianten oder mehrere Posts, bekommt jede einen eigenen Block, sodass man sie
+einzeln kopieren kann. Hashtags und Emojis gehören in den Block, wenn sie Teil des
+Posts sind.
+
 ## Ergebnis zuerst vorlegen
 
 Lege jedes greifbare Arbeitsergebnis zuerst im Chat als Entwurf vor und hole eine
@@ -249,6 +263,23 @@ mindestens einen Open-Loop-Hook. Dieser Typ verrät das Ergebnis, die Antwort od
 die Pointe nie schon im Satz, sondern hält sie bewusst zurück, sodass man
 weiterlesen oder weiterschauen muss. Konkrete Zahlen oder das Resultat gehören in
 diesem Hook-Typ nicht in die erste Zeile.
+
+## Post-Texte humanisieren (Pflicht)
+
+Sobald aus dem Skill heraus konkrete, veröffentlichbare Texte entstehen (Captions,
+Hooks, Post-Texte, Karussell- und Story-Skripte, Bio- und Profiltexte), wende
+verpflichtend die Humanizer-Regeln an. Sie liegen als eigene Datei
+`humanizer-regeln.md` im Repo und werden frisch über `RAW_SKILL_URL` plus Dateiname
+geladen (`RAW_SKILL_URL` + `humanizer-regeln.md`). So braucht niemand einen externen
+Humanizer-Skill installiert, der Skill ist self-contained.
+
+Ablauf: Schreibe den Entwurf normal nach Voice, Tone und Hook-Regeln, prüfe ihn
+gegen die Tell-Liste der Datei, schreibe auffällige Stellen um und lege erst die
+bereinigte Fassung als Entwurf im Chat vor. Schlägt der Abruf der Datei fehl, sage
+das offen und nenne die Adresse, statt aus dem Gedächtnis zu humanisieren. Die
+Regeln entfernen KI-Spuren, ohne die legitime Social-Stimme (Emojis im Rahmen der
+Markenstimme, kurze Zeilen, direkte Ansprache, Haltung) abzuschleifen. Bei reinen
+Wissensfragen, internen Notizen oder Plan-Tabellen gilt die Pflicht nicht.
 
 ## Gelebte Marke als Content-Quelle (Anlass-Radar)
 
