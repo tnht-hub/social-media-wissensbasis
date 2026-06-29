@@ -36,7 +36,7 @@
 | Nearby Feed (EU + US) | Aktiv | EU seit Dez 2025; US seit Feb 2026 |
 | Local Feed (US) | Aktiv | Feb 2026; lokale Community-Inhalte |
 | Campus Hub (US) | Aktiv | Seit April 2026; verifizierte Uni-Accounts mit dedizierten Group Feeds |
-| Creator Search Insights | Aktiv | Seit März 2024; zeigt Suchtrends in TikTok Studio |
+| Creator Search Insights | Aktiv | Seit März 2024; zeigt Suchtrends in TikTok Studio. Reiter „All", „Content gap", „Trending". Ergebnisse sprach- und regionsabhängig; für deutsche Begriffe App-/Inhaltssprache Deutsch + DACH-Region (Details in 01-algorithmus.md) |
 | Search Value Metrik | Aktiv | Seit März 2024; Einfluss auf Creator Rewards |
 | TikTok as Search Engine | Aktiv | 49% Nutzer suchen Produkte/Trends direkt in TikTok |
 | Manage Topics | Aktiv | Seit Juni 2025; Nutzer steuern FYP-Inhalt |

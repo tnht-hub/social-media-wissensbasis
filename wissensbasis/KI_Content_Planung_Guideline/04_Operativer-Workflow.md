@@ -124,6 +124,21 @@ Copy-Paste mit anderer Auflösung.
 Berücksichtige die Plattform-Personas aus dem Brand-Brief.
 ```
 
+### Suchgetriebenes Sourcing und TikTok-zu-Instagram (Stand Juni 2026)
+
+Statt Themen frei zu erfinden, lässt sich der Hauptbeitrag aus realer Suchnachfrage ableiten. Auf TikTok liefert Creator Search Insights (Reiter „Content gap") Themen mit hoher Nachfrage bei geringem Angebot. Ein so validierter Suchbegriff dient als gemeinsame Klammer für beide Kanäle.
+
+Ablauf pro Thema:
+
+1. Suchbegriff aus „Content gap" festlegen (deutsche Begriffe setzen Sprach-/Region-Klassifizierung auf DACH voraus, siehe `tiktok/01-algorithmus.md`).
+2. TikTok-Original: Begriff in den ersten Sekunden als gesprochenes Wort und als Text-Overlay, 15 bis 30 Sekunden, Begriff zusätzlich in Caption und Keyword-Metadata (zahlt auf den Search Value ein).
+3. Instagram-Fassung neu aufbereiten, nicht das TikTok-Video mit Wasserzeichen querposten. Das eigene Logo ist zulässig, das TikTok-Wasserzeichen kostet Reichweite.
+4. Format wählen: bewegtes Thema als Reel unter 90 Sekunden mit eigener Tonspur, erklärendes Thema zusätzlich als Carousel.
+5. Instagram-Caption mit demselben Begriff für die Google-Suche optimieren (Instagram-Posts seit Juli 2025 dort indexiert).
+6. Stärkeres Reel als Story nachschieben für eine zweite Reichweitenwelle.
+
+Messung: Suchanteil der Views auf TikTok, Speicherquote, Sends auf Instagram, mittelfristig Google-Impressionen auf indexierte Captions. Vorbehalt: Suchgetriebener Content senkt Streuverlust, ersetzt aber keine Retention. Watch Time und Completion Rate bleiben die stärksten Ranking-Signale.
+
 ---
 
 ## Häufige Fehler in der Workflow-Anwendung

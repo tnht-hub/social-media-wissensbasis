@@ -44,7 +44,9 @@ Seit März 2024 fließt der **Search Value** in die Creator-Rewards-Berechnung e
 TikTok erlaubt Creators seit April 2026, relevante **Keywords im Metadata** ihrer Posts zu hinterlegen oder zu blockieren. TikTok behält finale Kontrolle, um irrelevante Keyword-Nutzung zu verhindern.
 
 ### Creator Search Insights
-Tool in TikTok Studio (seit März 2024): Zeigt, welche Themen Nutzer gerade in TikTok suchen, ideal für Content-Planung.
+Tool in TikTok Studio (seit März 2024): Zeigt, welche Themen Nutzer gerade in TikTok suchen, ideal für Content-Planung. Drei Reiter: „All" (breite Begriffsliste), „Content gap" (hohe Nachfrage bei geringem Angebot, größter Hebel) und „Trending" (steigende Suchbegriffe).
+
+**Sprache und Region (Stand Juni 2026):** Das Tool zeigt Suchbegriffe nach der Sprache und Region, die TikTok dem Account zuordnet. Englische Begriffe bei deutschem Zielmarkt deuten auf eine englische Sprach- oder Regionsklassifizierung hin, nicht auf einen Fehler. Lokalisierung auf Deutsch: App- und Inhaltssprache auf Deutsch stellen, Account-Region auf DACH prüfen (VPN vermeiden), im Tool eigene deutsche Seed-Begriffe eingeben statt nur die Vorschlagsliste zu nutzen, und die Content-Signale (Caption, On-Screen-Text, gesprochene Sprache) durchgängig deutsch halten. Die Reklassifizierung greift über mehrere Videos und einige Tage, nicht sofort.
 
 ---
 
