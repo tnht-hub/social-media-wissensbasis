@@ -1,7 +1,7 @@
 {
   "basis_url": "https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/wissensbasis/",
   "generiert_am": "2026-06-29",
-  "anzahl_module": 193,
+  "anzahl_module": 198,
   "hinweis": "Basis-URL im Feld basis_url. Bei einem Repo-Umzug hier und in skills/socialmedia-agentur/SKILL.md anpassen.",
   "modul_stand": {
     "Aktuelle_Themen_und_Newsjacking": "Juni 2026",
@@ -11,6 +11,7 @@
     "Corporate_Influencing_Employee_Advocacy": "Juni 2026",
     "Format_und_Thumbnail_Guidelines": "Juni 2026",
     "ICP_USP_Positionierung": "Juni 2026",
+    "Marketing_Psychologie_und_Prinzipien": "Juni 2026",
     "KI_Content_Planung_Guideline": "Mai 2026",
     "KI_Sichtbarkeit_Guide": "Juni 2026",
     "Krisenkommunikation_Playbook": "Mai 2026",
@@ -1184,6 +1185,36 @@
       "modul": "youtube",
       "datei": "youtube/README.md",
       "titel": "YouTube: Wissensdatenbank IST-Zustand Mai 2026",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/00_Index.md",
+      "titel": "Guideline: Marketing-Psychologie und Content-Prinzipien",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/01_Saatgut-Prinzip.md",
+      "titel": "Säule 1 - Das Saatgut-Prinzip: säen statt verkaufen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/02_Agentur-Paradox.md",
+      "titel": "Säule 2 - Das Agentur-Paradox: Beweis statt Rezept",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/03_Psychologische_Hebel.md",
+      "titel": "Säule 3 - Psychologische Hebel und Tabu-Zone",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/04_Quellen.md",
+      "titel": "Säule 4 - Quellen",
       "stand": "Juni 2026"
     }
   ]
