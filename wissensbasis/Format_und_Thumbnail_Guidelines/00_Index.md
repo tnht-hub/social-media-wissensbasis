@@ -23,6 +23,7 @@
 | `04_CTR-Optimierung_und_Testing.md` | A/B-Testing, CTR richtig lesen, Konsistenz als Serie |
 | `05_Failure-Modi.md` | Wie Format- und Thumbnail-Arbeit typisch scheitert |
 | `06_Quellen.md` | Recherchierte Quellen mit Stand und Triangulation |
+| `07_Bewegtbild_Praezise_Safe-Zones_px.md` | Konkrete Pixel-Safe-Zones für vertikales Bewegtbild plus Master-Zone fürs Cross-Posting |
 
 ---
 

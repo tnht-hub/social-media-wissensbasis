@@ -1,32 +1,32 @@
 {
   "basis_url": "https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/wissensbasis/",
   "generiert_am": "2026-07-03",
-  "anzahl_module": 198,
+  "anzahl_module": 199,
   "hinweis": "Basis-URL im Feld basis_url. Bei einem Repo-Umzug hier und in skills/socialmedia-agentur/SKILL.md anpassen.",
   "modul_stand": {
-    "Aktuelle_Themen_und_Newsjacking": "Juli 2026",
-    "Community_Management_Playbook": "Juli 2026",
+    "Aktuelle_Themen_und_Newsjacking": "Juni 2026",
+    "Community_Management_Playbook": "Juni 2026",
     "Competitor_Profiling": "Juni 2026",
     "Copywriting_Storytelling_Guide": "Juni 2026",
     "Corporate_Influencing_Employee_Advocacy": "Juni 2026",
     "Format_und_Thumbnail_Guidelines": "Juni 2026",
     "ICP_USP_Positionierung": "Juni 2026",
-    "Marketing_Psychologie_und_Prinzipien": "Juni 2026",
     "KI_Content_Planung_Guideline": "Mai 2026",
-    "KI_Sichtbarkeit_Guide": "Juli 2026",
+    "KI_Sichtbarkeit_Guide": "Juni 2026",
     "Krisenkommunikation_Playbook": "Mai 2026",
     "Local_Regional_Social_Media": "Juni 2026",
-    "Measurement_Reporting_Guide": "Juli 2026",
+    "Marketing_Psychologie_und_Prinzipien": "Juni 2026",
+    "Measurement_Reporting_Guide": "Juni 2026",
     "Paid_Performance_Methodik": "Juni 2026",
     "Profilanalyse_IST_Analyse": "Juni 2026",
     "Recht_Compliance_DE": "Juli 2026",
-    "Visual_Production_Methodik": "Juli 2026",
-    "facebook": "Juli 2026",
-    "instagram": "Juli 2026",
-    "linkedin": "Juli 2026",
-    "tiktok": "Juli 2026",
-    "x-twitter": "Juli 2026",
-    "youtube": "Juli 2026"
+    "Visual_Production_Methodik": "Mai 2026",
+    "facebook": "Juni 2026",
+    "instagram": "Juni 2026",
+    "linkedin": "Juni 2026",
+    "tiktok": "Juni 2026",
+    "x-twitter": "Juni 2026",
+    "youtube": "Juni 2026"
   },
   "module": [
     {
@@ -105,7 +105,7 @@
       "modul": "Community_Management_Playbook",
       "datei": "Community_Management_Playbook/04_Reaktionszeiten_und_SLAs.md",
       "titel": "Säule 4: Reaktionszeiten und SLAs",
-      "stand": "Juli 2026"
+      "stand": "Juni 2026"
     },
     {
       "modul": "Community_Management_Playbook",
@@ -316,6 +316,12 @@
       "datei": "Format_und_Thumbnail_Guidelines/06_Quellen.md",
       "titel": "Säule 6: Quellen",
       "stand": "Juni 2026"
+    },
+    {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/07_Bewegtbild_Praezise_Safe-Zones_px.md",
+      "titel": "Säule 7: Präzise Pixel-Safe-Zones für Bewegtbild",
+      "stand": "Juli 2026"
     },
     {
       "modul": "ICP_USP_Positionierung",
@@ -576,6 +582,36 @@
       "stand": "Juni 2026"
     },
     {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/00_Index.md",
+      "titel": "Guideline: Marketing-Psychologie und Content-Prinzipien",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/01_Saatgut-Prinzip.md",
+      "titel": "Säule 1 - Das Saatgut-Prinzip: säen statt verkaufen",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/02_Agentur-Paradox.md",
+      "titel": "Säule 2 - Das Agentur-Paradox: Beweis statt Rezept",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/03_Psychologische_Hebel.md",
+      "titel": "Säule 3 - Psychologische Hebel und Tabu-Zone",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Marketing_Psychologie_und_Prinzipien",
+      "datei": "Marketing_Psychologie_und_Prinzipien/04_Quellen.md",
+      "titel": "Säule 4 - Quellen",
+      "stand": "Juni 2026"
+    },
+    {
       "modul": "Measurement_Reporting_Guide",
       "datei": "Measurement_Reporting_Guide/00_Index.md",
       "titel": "Guideline: Measurement & Reporting für Social Media",
@@ -603,7 +639,7 @@
       "modul": "Measurement_Reporting_Guide",
       "datei": "Measurement_Reporting_Guide/04_Benchmarks.md",
       "titel": "Säule 4 - Benchmarks und ihre Interpretation",
-      "stand": "Juli 2026"
+      "stand": "Juni 2026"
     },
     {
       "modul": "Measurement_Reporting_Guide",
@@ -729,7 +765,7 @@
       "modul": "Recht_Compliance_DE",
       "datei": "Recht_Compliance_DE/01_Werbekennzeichnung.md",
       "titel": "01 - Werbekennzeichnung",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Recht_Compliance_DE",
@@ -747,19 +783,19 @@
       "modul": "Recht_Compliance_DE",
       "datei": "Recht_Compliance_DE/04_Gewinnspielrecht.md",
       "titel": "04 - Gewinnspielrecht",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Recht_Compliance_DE",
       "datei": "Recht_Compliance_DE/05_Impressum_und_Telemedien.md",
       "titel": "05 - Impressum und Telemedien",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Recht_Compliance_DE",
       "datei": "Recht_Compliance_DE/06_Failure-Modi.md",
       "titel": "06 - Failure-Modi: typische rechtliche Fehler in der Praxis",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Recht_Compliance_DE",
@@ -771,7 +807,7 @@
       "modul": "Recht_Compliance_DE",
       "datei": "Recht_Compliance_DE/08_Messenger_und_DM_Marketing.md",
       "titel": "08 - Messenger- und DM-Marketing",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Visual_Production_Methodik",
@@ -831,7 +867,7 @@
       "modul": "Visual_Production_Methodik",
       "datei": "Visual_Production_Methodik/09_Rechtliches.md",
       "titel": "Säule 9: Rechtliches",
-      "stand": "Juli 2026"
+      "stand": "Mai 2026"
     },
     {
       "modul": "Visual_Production_Methodik",
@@ -878,7 +914,7 @@
     {
       "modul": "facebook",
       "datei": "facebook/04-features-aktuell.md",
-      "titel": "Facebook Features: IST-Zustand Juni 2026",
+      "titel": "Facebook Features: IST-Zustand Juli 2026",
       "stand": "Juni 2026"
     },
     {
@@ -932,7 +968,7 @@
     {
       "modul": "instagram",
       "datei": "instagram/04-features-aktuell.md",
-      "titel": "Instagram Features: IST-Zustand Juni 2026",
+      "titel": "Instagram Features: IST-Zustand Juli 2026",
       "stand": "Juni 2026"
     },
     {
@@ -986,7 +1022,7 @@
     {
       "modul": "linkedin",
       "datei": "linkedin/04-features-aktuell.md",
-      "titel": "LinkedIn Features: IST-Zustand Juni 2026",
+      "titel": "LinkedIn Features: IST-Zustand Juli 2026",
       "stand": "Juni 2026"
     },
     {
@@ -1046,7 +1082,7 @@
     {
       "modul": "tiktok",
       "datei": "tiktok/04-features-aktuell.md",
-      "titel": "TikTok Features: IST-Zustand Juni 2026",
+      "titel": "TikTok Features: IST-Zustand Juli 2026",
       "stand": "Juni 2026"
     },
     {
@@ -1100,7 +1136,7 @@
     {
       "modul": "x-twitter",
       "datei": "x-twitter/04-features-aktuell.md",
-      "titel": "X (Twitter) Features: IST-Zustand Juni 2026",
+      "titel": "X (Twitter) Features: IST-Zustand Juli 2026",
       "stand": "Juni 2026"
     },
     {
@@ -1154,7 +1190,7 @@
     {
       "modul": "youtube",
       "datei": "youtube/04-features-aktuell.md",
-      "titel": "YouTube Features: IST-Zustand Juni 2026",
+      "titel": "YouTube Features: IST-Zustand Juli 2026",
       "stand": "Juni 2026"
     },
     {
@@ -1185,36 +1221,6 @@
       "modul": "youtube",
       "datei": "youtube/README.md",
       "titel": "YouTube: Wissensdatenbank IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
-    },
-    {
-      "modul": "Marketing_Psychologie_und_Prinzipien",
-      "datei": "Marketing_Psychologie_und_Prinzipien/00_Index.md",
-      "titel": "Guideline: Marketing-Psychologie und Content-Prinzipien",
-      "stand": "Juni 2026"
-    },
-    {
-      "modul": "Marketing_Psychologie_und_Prinzipien",
-      "datei": "Marketing_Psychologie_und_Prinzipien/01_Saatgut-Prinzip.md",
-      "titel": "Säule 1 - Das Saatgut-Prinzip: säen statt verkaufen",
-      "stand": "Juni 2026"
-    },
-    {
-      "modul": "Marketing_Psychologie_und_Prinzipien",
-      "datei": "Marketing_Psychologie_und_Prinzipien/02_Agentur-Paradox.md",
-      "titel": "Säule 2 - Das Agentur-Paradox: Beweis statt Rezept",
-      "stand": "Juni 2026"
-    },
-    {
-      "modul": "Marketing_Psychologie_und_Prinzipien",
-      "datei": "Marketing_Psychologie_und_Prinzipien/03_Psychologische_Hebel.md",
-      "titel": "Säule 3 - Psychologische Hebel und Tabu-Zone",
-      "stand": "Juni 2026"
-    },
-    {
-      "modul": "Marketing_Psychologie_und_Prinzipien",
-      "datei": "Marketing_Psychologie_und_Prinzipien/04_Quellen.md",
-      "titel": "Säule 4 - Quellen",
       "stand": "Juni 2026"
     }
   ]
