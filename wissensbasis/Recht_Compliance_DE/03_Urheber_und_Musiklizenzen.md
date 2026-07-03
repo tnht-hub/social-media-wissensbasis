@@ -88,6 +88,18 @@ Selbst wenn Musik **innerhalb der App** angeboten wird, besteht für **gewerblic
 
 **So lizenziert man einen bekannten Song:** Über Datenbanken wie die GEMA-Repertoiresuche Label und Verlag des gewünschten Titels ermitteln und dort anfragen. Das ist aufwendig und oft teuer, für die meisten Social-Media-Zwecke sind Premium-Libraries der praktikablere Weg.
 
+**Update 2026 zur TikTok Commercial Music Library:** TikTok hat die Commercial Music Library (CML) 2026 auf über eine Million vorgeklärte Titel erweitert. Für Brand-Accounts heißt das mehr Auswahl, die ohne eigene Lizenz auf TikTok nutzbar ist, auch für organische Formate wie Duette, Reacts und Stitches (vgl. Quellen TikTok Ads Help, TikTok Commercial Music Library Terms).
+
+### Die Cross-Posting-Falle: Plattformbindung beachten
+
+Die Business-Libraries der Plattformen sind an die jeweilige Plattform gebunden. Das ist der häufigste Fehler bei Mehrkanal-Ausspielung:
+
+- **TikTok-CML-Tracks** dürfen nur innerhalb von TikTok laufen. Denselben Clip mit CML-Sound zu Instagram Reels oder YouTube Shorts zu cross-posten ist davon NICHT gedeckt.
+- **Meta Sound Collection** nur auf Meta-Plattformen (Facebook, Instagram).
+- Ebenfalls nicht gedeckt: den Sound herunterladen und in einem anderen Editing-Tool weiterverwenden, oder in TV-, Radio- oder Podcast-Werbung.
+
+**Konsequenz für Agenturen:** Wer denselben Clip über mehrere Kanäle ausspielt, kann sich nicht auf eine plattformeigene Business-Library verlassen. Dann führt der Weg über eine plattformübergreifende Premium-Library (Epidemic Sound, Artlist, Soundstripe) mit eigenen Synchronisationsrechten (vgl. Quellen TikTok Commercial Music Library Terms).
+
 ---
 
 ## Risiken bei Verstoß
@@ -106,6 +118,7 @@ Selbst wenn Musik **innerhalb der App** angeboten wird, besteht für **gewerblic
 - [ ] Ist der Account kommerziell/Brand? Dann: keine normalen Trending Sounds.
 - [ ] Stammt die Musik aus der **Business/Commercial Library** der Plattform oder einer **Premium-Library**?
 - [ ] Deckt die Lizenz den geplanten Zweck (auch Werbung) und die Plattform ab?
+- [ ] Wird der Clip auf mehreren Kanälen ausgespielt? Dann keine plattformgebundene Business-Library, sondern Premium-Library mit Sync-Rechten.
 - [ ] Bei direkt lizenziertem Song: liegt die schriftliche Lizenz vor?
 
 ### Bilder/Video

@@ -5,7 +5,7 @@
   "hinweis": "Basis-URL im Feld basis_url. Bei einem Repo-Umzug hier und in skills/socialmedia-agentur/SKILL.md anpassen.",
   "modul_stand": {
     "Aktuelle_Themen_und_Newsjacking": "Juli 2026",
-    "Community_Management_Playbook": "Juni 2026",
+    "Community_Management_Playbook": "Juli 2026",
     "Competitor_Profiling": "Juni 2026",
     "Copywriting_Storytelling_Guide": "Juni 2026",
     "Corporate_Influencing_Employee_Advocacy": "Juni 2026",
@@ -19,8 +19,8 @@
     "Measurement_Reporting_Guide": "Juli 2026",
     "Paid_Performance_Methodik": "Juni 2026",
     "Profilanalyse_IST_Analyse": "Juni 2026",
-    "Recht_Compliance_DE": "Juni 2026",
-    "Visual_Production_Methodik": "Mai 2026",
+    "Recht_Compliance_DE": "Juli 2026",
+    "Visual_Production_Methodik": "Juli 2026",
     "facebook": "Juli 2026",
     "instagram": "Juli 2026",
     "linkedin": "Juli 2026",
@@ -105,7 +105,7 @@
       "modul": "Community_Management_Playbook",
       "datei": "Community_Management_Playbook/04_Reaktionszeiten_und_SLAs.md",
       "titel": "Säule 4: Reaktionszeiten und SLAs",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Community_Management_Playbook",
@@ -603,7 +603,7 @@
       "modul": "Measurement_Reporting_Guide",
       "datei": "Measurement_Reporting_Guide/04_Benchmarks.md",
       "titel": "Säule 4 - Benchmarks und ihre Interpretation",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Measurement_Reporting_Guide",
@@ -723,7 +723,7 @@
       "modul": "Recht_Compliance_DE",
       "datei": "Recht_Compliance_DE/00_Index.md",
       "titel": "Recht & Compliance für Social Media (Deutschland)",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Recht_Compliance_DE",
@@ -735,13 +735,13 @@
       "modul": "Recht_Compliance_DE",
       "datei": "Recht_Compliance_DE/02_DSGVO_und_Datenschutz.md",
       "titel": "02 - DSGVO und Datenschutz",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Recht_Compliance_DE",
       "datei": "Recht_Compliance_DE/03_Urheber_und_Musiklizenzen.md",
       "titel": "03 - Urheber- und Musiklizenzen",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Recht_Compliance_DE",
@@ -765,7 +765,7 @@
       "modul": "Recht_Compliance_DE",
       "datei": "Recht_Compliance_DE/07_Quellen.md",
       "titel": "07 - Quellen",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Recht_Compliance_DE",
@@ -831,7 +831,7 @@
       "modul": "Visual_Production_Methodik",
       "datei": "Visual_Production_Methodik/09_Rechtliches.md",
       "titel": "Säule 9: Rechtliches",
-      "stand": "Mai 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Visual_Production_Methodik",

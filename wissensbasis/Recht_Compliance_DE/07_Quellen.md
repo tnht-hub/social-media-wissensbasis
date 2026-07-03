@@ -1,6 +1,6 @@
 # 07 - Quellen
 
-Alle Quellen, auf die sich dieses Modul stützt. Stand: Juni 2026.
+Alle Quellen, auf die sich dieses Modul stützt. Stand: Juli 2026 (Ergänzung DSGVO-Rechtsprechung und Musik-Update, siehe unten).
 
 > **Rechtsberatungs-Disclaimer (erneut):** Dieses Modul ist **Awareness, keine Rechtsberatung**. Die hier verlinkten Quellen sind nach bestem Wissen recherchiert, können aber überholt sein. Gesetze, Verordnungen und Rechtsprechung ändern sich laufend. Für die Bewertung eines konkreten Falls ist **immer** eine:n Fachanwalt:in (IT-Recht, Urheber- und Medienrecht, Wettbewerbsrecht) zu konsultieren.
 
@@ -230,6 +230,34 @@ Die maßgeblichen Gesetze sind über offizielle Portale frei abrufbar. Genannt s
   *Im Beitrag empfohlenes Handbuch zum rechtssicheren Einsatz von KI und Direktmarketing.*
 
 *Hinweis: Aktenzeichen und Urteilsinhalte sind aus dem SocialHub-Mag-Beitrag übernommen und vor produktivem Einsatz gegen die Originalentscheidung zu prüfen.*
+
+---
+
+## Aktualisierung Juli 2026 (verifizierte Ergänzungen)
+
+Die folgenden Quellen wurden im Juli 2026 im Volltext geprüft und in die Kapitel 02 und 03 eingearbeitet.
+
+- **dr-datenschutz.de - LG Leipzig: 5.000 Euro Schadensersatz für Facebook-Nutzer (Meta Business Tools)**
+  https://www.dr-datenschutz.de/urteil-lg-leipzig-5-000-euro-schadensersatz-fuer-facebook-nutzer/
+  *LG Leipzig, 04.07.2025, Az. 05 O 2351/23. Schadensersatz nach Art. 82 DSGVO wegen Tracking über Business Tools ohne wirksame Einwilligung. Höhe ist ein Ausreißer, obergerichtlich nicht bestätigt. Eingearbeitet in Kapitel 02.*
+
+- **ferner-alsdorf.de - VG Köln: Keine gemeinsame Verantwortlichkeit bei Meta-Fanpages**
+  https://www.ferner-alsdorf.de/vg-koeln-keine-gemeinsame-verantwortlichkeit-bei-meta-fanpages/
+  *VG Köln, 17.07.2025, Az. 13 K 1419/23, nicht rechtskräftig. Keine gemeinsame Verantwortlichkeit nach Art. 26 DSGVO bei abgeschalteter Insights-Funktion. Gegenlinie zur Datenschutzkonferenz. Eingearbeitet in Kapitel 02.*
+
+- **TikTok Ads Help - About the Commercial Music Library**
+  https://ads.tiktok.com/help/article/commercial-music-library
+  *CML 2026 auf über 1 Mio. vorgeklärte Titel erweitert, frei für Business-Nutzung auf TikTok. Eingearbeitet in Kapitel 03.*
+
+- **TikTok - Commercial Music Library User Terms**
+  https://www.tiktok.com/legal/page/global/commercial-music-library-user-terms/en
+  *Plattformbindung: CML-Tracks nur innerhalb von TikTok, kein Cross-Posting zu Reels/Shorts, keine Nutzung in TV/Radio/Podcast. Eingearbeitet in Kapitel 03 (Cross-Posting-Falle).*
+
+- **certurio.de - Artikel 50 AI Act: Kennzeichnung KI-generierter Inhalte**
+  https://www.certurio.de/blog/ki-kennzeichnungspflicht
+  *Frist 2. August 2026, Anbieter- vs. Betreiberpflichten, Bußgeld Art. 50 bis 15 Mio Euro / 3 Prozent (nicht 35 Mio / 7 Prozent), Redaktions-Ausnahme, Digital-Omnibus-Nuance. Bezug: Modul `Visual_Production_Methodik/09_Rechtliches.md`, Abschnitt 1.*
+
+*Hinweis: Aktenzeichen und Urteilsinhalte sind aus den genannten Fachbeiträgen übernommen. Die 2026-Urteile sind teils nicht rechtskräftig und obergerichtlich nicht bestätigt, vor produktivem Einsatz gegen die Originalentscheidung prüfen. Rechtliche Treffer sind Awareness, keine Rechtsberatung.*
 
 ---
 

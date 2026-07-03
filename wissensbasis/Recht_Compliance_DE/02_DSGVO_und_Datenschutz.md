@@ -57,6 +57,8 @@ Werbe-Pixel auf der eigenen Website (z.B. zur Conversion-Messung oder für Retar
 
 **Sonderfall Advanced Matching beim Meta Pixel:** Wenn der Pixel zusätzlich gehashte Kontaktdaten (E-Mail, Telefonnummer) überträgt, steigt das Datenschutz-Risiko deutlich. Hier ist besonders sorgfältige Prüfung und klare Einwilligung nötig (vgl. Quellen audatis).
 
+**Aktuelle Rechtsprechung zu Meta Business Tools (LG Leipzig, 04.07.2025, Az. 05 O 2351/23):** Das LG Leipzig sprach einem Facebook-Nutzer 5.000 Euro immateriellen Schadensersatz nach Art. 82 DSGVO zu, weil Meta über die Business Tools (u.a. Facebook-Pixel, Social Plugins) das Verhalten auch außerhalb der Plattform verfolgt. Bemerkenswert: Das Gericht verlangte keinen individuellen Schadensnachweis, sondern stellte auf die allgemeine Betroffenheit ab. Die Höhe ist ein Ausreißer nach oben (der BGH hielt in einem vergleichbaren Fall 100 Euro für ausreichend) und obergerichtlich nicht bestätigt. Die Kernbotschaft bleibt aber: Tracking ohne wirksame Einwilligung ist ein reales Haftungsrisiko, und zwar auch für die einbindenden Website- und App-Betreiber (vgl. Quellen dr-datenschutz.de).
+
 ---
 
 ## Gemeinsame Verantwortlichkeit bei Fanpages
@@ -72,6 +74,8 @@ Der EuGH hat am **5. Juni 2018** (Rechtssache **C-210/16**, Wirtschaftsakademie 
 Das bedeutet:
 - Die Pflicht zu datenschutzkonformem Verhalten trifft **beide**: Plattform und Seitenbetreiber.
 - Eine Datenschutzaufsichtsbehörde kann den Betrieb einer Fanpage untersagen (vgl. Folge-Rechtsprechung BVerwG 2019, Quellen Noerr, LTO).
+
+**Neuere Gegenlinie (VG Köln, 17.07.2025, Az. 13 K 1419/23, nicht rechtskräftig):** Das VG Köln verneinte eine gemeinsame Verantwortlichkeit nach Art. 26 DSGVO im Fall einer Behörden-Fanpage, jedenfalls dann, wenn die Statistik-/Insights-Funktion abgeschaltet ist und der Betreiber keinen Einfluss mehr auf die Datenverarbeitung nimmt. Die Entscheidung setzt sich bewusst von der weiten Auslegung der Datenschutzkonferenz ab. Sie ist nicht rechtskräftig und obergerichtlich noch nicht bestätigt, taugt also nicht als Freibrief. Wer Insights nutzt, bleibt im Risiko der gemeinsamen Verantwortlichkeit (vgl. Quellen ferner-alsdorf.de).
 
 ### Praktische Konsequenz für Brand-Accounts
 

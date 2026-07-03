@@ -8,6 +8,8 @@ Diese Säule liefert Orientierungswerte, vor allem aber die Regeln, wie man sie 
 
 Die folgenden Werte sind plattformübergreifend gemittelte Engagement-Raten. Die exakten Zahlen stammen aus den Socialinsider-Benchmarks (2025-Daten, orientierend für 2026); Buffer, Improvado und Apaya stützen die Rangfolge der Plattformen, wegen abweichender Methodik aber nicht die exakten Werte. Sie dienen der groben Einordnung, nicht als Zielvorgabe.
 
+**Quellen-Hinweis:** Die plattformübergreifende Socialinsider-Studie (rund 70 Mio. Posts) deckt TikTok, Instagram, Facebook und X ab, nicht LinkedIn. Der LinkedIn-Wert stammt aus dem separaten Socialinsider-LinkedIn-Benchmark und ist daher gesondert zu zitieren. Achtung Label: Socialinsider veröffentlicht den Report als „2026", er enthält laut Methodik aber Daten von Januar 2024 bis Dezember 2025, also 2025-Werte.
+
 | Plattform | Durchschnittliche Engagement-Rate (2025-Daten) | Trend | Anmerkung |
 |---|---|---|---|
 | **TikTok** | ca. 3,7 Prozent (Spanne 3,7 bis 4,9 Prozent) | stark steigend (rund +49 % YoY) | Höchste Rate, auf Follower-Basis berechnet wie bei Instagram und Facebook |

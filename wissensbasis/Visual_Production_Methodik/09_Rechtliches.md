@@ -21,7 +21,13 @@ Jeder Bereich hat eigene Pflichten, eigene Fristen, eigene Bußgelder.
 
 ## 1. EU AI Act: KI-generierte Inhalte
 
-Der EU AI Act bringt **ab August 2026** verbindliche Kennzeichnungspflicht für KI-generierte Inhalte.
+Der EU AI Act bringt über **Artikel 50** ab dem **2. August 2026** verbindliche Transparenz- und Kennzeichnungspflichten für KI-generierte Inhalte. Diese Pflichten gelten unabhängig von der Risikoklasse, betreffen also praktisch jedes Unternehmen, das generative KI einsetzt.
+
+**Anbieter vs. Betreiber (wichtige Unterscheidung):**
+- **Anbieter** der KI-Systeme (z.B. OpenAI, Midjourney, Adobe) müssen synthetische Inhalte technisch maschinenlesbar markieren (Metadaten, Wasserzeichen). Das ist nicht eure Aufgabe.
+- **Betreiber**, also Marken und Agenturen, die solche Tools nutzen, müssen Deepfakes sichtbar offenlegen und KI-Texte zu Themen von öffentlichem Interesse kennzeichnen. Das ist eure Aufgabe.
+
+**Digital-Omnibus-Hinweis:** Der Digital Omnibus verschiebt Fristen nur für Hochrisiko-Systeme, NICHT die Art.-50-Pflichten. Diese bleiben beim 2. August 2026. Diskutiert wird lediglich eine Übergangsfrist bis Februar 2027 für synthetische Bestandsinhalte, die vor August 2026 auf dem Markt waren.
 
 ### Was muss gekennzeichnet werden
 
@@ -49,7 +55,12 @@ Die Kennzeichnung muss erfüllen:
 
 ### Bußgelder
 
-- Bis zu **35 Millionen Euro** oder **7 % des weltweiten Konzernumsatzes** (höherer Betrag).
+- Verstöße gegen die **Transparenzpflichten nach Art. 50** können mit bis zu **15 Millionen Euro** oder **3 % des weltweiten Jahresumsatzes** geahndet werden (höherer Betrag).
+- Die oft zitierten **35 Millionen Euro / 7 %** sind der höchste Bußgeldrahmen des AI Act insgesamt, er gilt für verbotene Praktiken, nicht für die Kennzeichnungspflicht. Für die Kennzeichnung ist der maßgebliche Rahmen 15 Mio / 3 %.
+
+### Ausnahme bei KI-Texten (redaktionelle Kontrolle)
+
+Reine Marketingtexte, Produktbeschreibungen oder Werbetexte fallen in der Regel NICHT unter die Textkennzeichnungspflicht. Betroffen sind nur KI-Texte, die die Öffentlichkeit über Angelegenheiten von öffentlichem Interesse informieren. Und selbst dort entfällt die Pflicht, wenn der Text vor Veröffentlichung menschlich geprüft und freigegeben wird und eine Person die redaktionelle Verantwortung trägt. Praktisch heißt das: ein dokumentierter Redaktionsworkflow (KI-Entwurf, fachliche Prüfung, Freigabe) kann die Kennzeichnung entbehrlich machen.
 
 ### Urheberrecht von KI-Bildern
 
@@ -108,6 +119,7 @@ Die GEMA hat mit den Plattformen **keine Synchronisations-Rechte** für UGC-Plat
 **Niemals:**
 - Trending Sounds, die nicht in der Business-Library der Plattform sind
 - GEMA-pflichtige Musik ohne separate Lizenz
+- Business-Library-Tracks per Cross-Posting auf einer anderen Plattform verwenden. Die Libraries sind plattformgebunden (TikTok Commercial Music Library nur auf TikTok, Meta Sound Collection nur auf Meta). Für Mehrkanal-Ausspielung Premium-Library mit Sync-Rechten nutzen.
 
 **Stattdessen:**
 - **Business-Library** der Plattform nutzen (Meta Sound Collection, TikTok Commercial Music)
@@ -338,7 +350,7 @@ Für öffentliche Aufträge: **Spezialisierte Vergabe-Anwält:innen** einbeziehe
 
 ## Zusammenfassung: Die 5 wichtigsten Punkte
 
-1. **EU AI Act ab August 2026:** Kennzeichnung Pflicht. Bußgeld bis 35 Mio €.
+1. **EU AI Act ab 2. August 2026:** Kennzeichnung von Deepfakes und synthetischen Inhalten Pflicht. Bußgeld für Verstöße gegen die Transparenzpflicht bis 15 Mio € oder 3 % Jahresumsatz.
 2. **GEMA für Brand-Accounts:** Niemals trending Sounds ohne Business-Library. Nur Premium-Library oder Plattform-Business-Catalog.
 3. **BFSG seit 2025:** Untertitel + Alt-Texte Pflicht für viele Use Cases. Bußgeld bis 100k €.
 4. **Recht am eigenen Bild:** Bei jedem Personen-Visual Einwilligung schriftlich.

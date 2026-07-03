@@ -1,6 +1,6 @@
 # Recht & Compliance für Social Media (Deutschland)
 
-**Stand:** Juni 2026
+**Stand:** Juli 2026 (Ergänzung: DSGVO-Rechtsprechung LG Leipzig und VG Köln in 02, TikTok-CML- und Cross-Posting-Update in 03)
 **Scope:** Rechtliche Grundlagen für Social-Media-Arbeit in Deutschland: Werbekennzeichnung, Datenschutz/DSGVO, Urheber- und Musiklizenzen, Gewinnspielrecht, Impressumspflicht
 **Zielanwender:innen:** Social-Media-Teams, Agenturen, Content-Creator:innen, Brand-Verantwortliche, Projektleitungen
 
@@ -80,7 +80,7 @@ Folgende Bereiche brauchen eigene Vertiefung oder Spezialberatung:
 
 3. **Arbeits-, Steuer- und Vertragsrecht rund um Creator:innen.** Honorare, Scheinselbstständigkeit, Buyouts, Agenturverträge: eigene Rechtsgebiete.
 
-4. **EU AI Act und KI-Kennzeichnung im Detail.** Berührt sich mit diesem Modul, ist aber im Modul `Visual_Production_Methodik/09_Rechtliches.md` dieser Wissensdatenbank gesondert behandelt.
+4. **EU AI Act und KI-Kennzeichnung im Detail.** Berührt sich mit diesem Modul, ist aber im Modul `Visual_Production_Methodik/09_Rechtliches.md` dieser Wissensdatenbank gesondert behandelt. Wichtig: Die Transparenz- und Kennzeichnungspflichten nach Art. 50 EU AI Act (u.a. Deepfake-Offenlegung, Chatbot-Hinweis) gelten ab dem 2. August 2026.
 
 5. **Internationales Recht.** Dieses Modul bezieht sich auf Deutschland (mit EU-Bezug bei DSGVO). Wer in anderen Ländern ausspielt oder Reichweite hat, muss dortiges Recht zusätzlich prüfen.
 

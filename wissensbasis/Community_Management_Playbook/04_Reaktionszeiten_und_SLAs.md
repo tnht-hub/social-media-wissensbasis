@@ -8,8 +8,10 @@ Reaktionszeit ist in Social kein weicher Service-Wert, sondern ein harter Loyali
 
 ## Warum Reaktionszeit zählt
 
-- **73 Prozent** der Konsument:innen erwarten laut Sprout Social Index 2025 eine Antwort binnen **24 Stunden oder schneller**.
+- Die Mehrheit der Konsument:innen erwartet laut Sprout Social Index 2026 eine Antwort binnen **24 Stunden oder schneller**.
+- **84 Prozent** sagen, die Reaktionsgeschwindigkeit prägt, wie sie eine Marke anschließend wahrnehmen. Nur 16 Prozent ist sie egal (Sprout Social Index 2026).
 - **73 Prozent** geben an: Wenn eine Marke auf Social nicht reagiert, kaufen sie eher bei der Konkurrenz.
+- **64 Prozent** erwarten Krisenreaktionen bevorzugt auf Social.
 - Ein relevanter Anteil erwartet deutlich schneller: rund die Hälfte binnen weniger Stunden, ein Teil (etwa 12 bis 14 Prozent) sogar binnen 30 Minuten.
 
 Reaktionszeit ist damit kein Nice-to-have, sondern eine direkte Stellschraube für Kundenbindung und Umsatz.
