@@ -77,3 +77,11 @@ Instagram hat in seiner Professional Dashboard eine **"Monthly Performance Summa
 - **Konsistenz ist wichtiger als perfektes Timing:** Wer regelmäßig postet, wird vom Algorithmus bevorzugt
 - **Peak-Konkurrenz:** Zur Hauptzeit posten viele, in Randzeiten kann die eigene Sichtbarkeit höher sein
 - **Stories separat planen:** Stories können unabhängig vom Feed-Posting-Rhythmus täglich erscheinen
+
+---
+
+## Nachtrag Juli 2026: Buffer-Benchmark (State of Social Media Engagement 2026)
+
+Bestes Zeitfenster laut Buffer 2026 (Analyse von knapp 10 Mio. Posts): Donnerstag 9:00 Uhr (höchste Reichweite); frühe Morgen an Mittwoch und Donnerstag stark, zusätzlicher Peak gegen 18:00 Uhr an den meisten Tagen.
+
+Datengrundlage: Buffer, State of Social Media Engagement 2026 (rund 52 Mio. Posts, veröffentlicht 5. März 2026). Zeiten in US-Zeitzone (ET) und nur als Startpunkt zu verstehen. Die eigenen Audience-Daten (Meta Business Suite, Studio-Insights o. ä.) schlagen den externen Benchmark immer.

@@ -83,3 +83,11 @@ Seit Januar 2025 können Posts direkt in **TikTok Studio** scheduled werden:
 - Qualität über Quantität gewinnt an Bedeutung
 - Starke Hooks in den ersten 2 bis 3 Sekunden wichtiger denn je
 - Nischen-Content hat Vorteile gegenüber generischem Content
+
+---
+
+## Nachtrag Juli 2026: Buffer-Benchmark (State of Social Media Engagement 2026)
+
+Bestes Zeitfenster laut Buffer 2026 (rund 7 Mio. Posts): Sonntag 9:00 Uhr, danach Montag 13:00 Uhr und Sonntag 13:00 Uhr.
+
+Datengrundlage: Buffer, State of Social Media Engagement 2026 (rund 52 Mio. Posts, veröffentlicht 5. März 2026). Zeiten in US-Zeitzone (ET) und nur als Startpunkt zu verstehen. Die eigenen Audience-Daten (Meta Business Suite, Studio-Insights o. ä.) schlagen den externen Benchmark immer.

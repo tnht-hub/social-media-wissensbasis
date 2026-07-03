@@ -1,4 +1,4 @@
-# Instagram Features: IST-Zustand Juni 2026
+# Instagram Features: IST-Zustand Juli 2026
 
 ---
 
@@ -129,3 +129,32 @@
 | Shared Access (kostenlos) | Januar 2026 | Nur noch Meta Verified |
 | View Rate als Metrik | August 2025 | Ersetzt durch Skip Rate |
 | IGTV (als separate App) | Schon früher | In Reels/Video integriert |
+
+---
+
+## Nachtrag Juli 2026: weitere Instagram-Features (Juni 2026)
+
+| Feature | Status | Details |
+|---|---|---|
+| Voice-Sticker (Stories) | In Test | Sprach-Sticker für Stories |
+| Stories direkt als Highlights teilen | In Test | |
+| Audience Connections (Professional Dashboard) | In Test | Neue Ansicht im Haupt-Dashboard |
+| Profil-Grid neu anordnen | Aktiv | Alle Nutzer können die Post-Reihenfolge im Profil ändern |
+| Suggested Products (Reels) | In Test | Produktvorschläge in Reels |
+| Verwandte Themen bei "Not Interested" | In Test | Interessen besser verstehen über Themenvorschläge |
+| DM-Empfehlungskarte | In Test | Gemeinsame Creator beim ersten Chat |
+| "Creators"-Bereich in Subscriptions | Aktiv | Empfiehlt Creator zum Abonnieren im Accounts Center |
+| Eigene Reposts entfernen | Aktiv | Nutzer können Reposts ihrer Posts durch andere entfernen |
+| Screenshot-Schutz für Stories | Aktiv | |
+| Teleprompter in der Haupt-App | Aktiv | Teleprompter aus Edits in die Instagram-App übernommen |
+| Instagram Plus | Aktiv | Neues Abo mit exklusiven Features und Creator-Tools |
+| Edits: Desktop-Version | In Entwicklung | Desktop-Edits inkl. KI-Assistent angekündigt |
+| Edits: neue Features | Aktiv | Neue Fonts, Audience Insights, Compare Reels, Export bis 15 Min, Opacity Blending, Restyle, Loudness Match, 200+ Soundeffekte |
+| Samsung Smart TV | Aktiv | Instagram-App auf Samsung Smart TV |
+| "Instants"-App | In Test | Separate App für verschwindende Fotos |
+| Bilingual Captions (Reels) | Aktiv | Zweisprachige Untertitel für mehr Reichweite |
+| Story-Formate Spin View + Multi-Cam | Aktiv | Für AI Glasses |
+
+Hinweis (Adam Mosseri, Juni 2026): Einen schwach laufenden Post zu löschen und neu zu posten ist nicht ratsam, das schadet eher, als dass es hilft (Quelle: onlinemarketing.de, Juni 2026).
+
+Quelle für diesen Nachtrag: SocialBee, HeyOrca und onlinemarketing.de, Juni 2026.

@@ -72,3 +72,11 @@ Auch wenn Facebook keinen rein chronologischen Feed mehr hat, profitieren Live-C
 | **B2B** | Di-Do 9 bis 11 AM in der Zielzeitzone der Audience |
 | **Community / Groups** | Posting wenn Gruppen-Mitglieder typisch aktiv sind; eigene Insights aus Meta Business Suite nutzen |
 | **Events & Live** | Immer direkt zum Event-Zeitpunkt, kein Scheduling |
+
+---
+
+## Nachtrag Juli 2026: Buffer-Benchmark (State of Social Media Engagement 2026)
+
+Bestes Zeitfenster laut Buffer 2026: Donnerstag 9:00 Uhr (höchstes Median-Engagement); bester Tag insgesamt Mittwoch, dicht gefolgt von Donnerstag.
+
+Datengrundlage: Buffer, State of Social Media Engagement 2026 (rund 52 Mio. Posts, veröffentlicht 5. März 2026). Zeiten in US-Zeitzone (ET) und nur als Startpunkt zu verstehen. Die eigenen Audience-Daten (Meta Business Suite, Studio-Insights o. ä.) schlagen den externen Benchmark immer.

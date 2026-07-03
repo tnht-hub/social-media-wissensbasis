@@ -98,3 +98,11 @@ Buffer-Daten zeigen: Wer auf **eigene Kommentare antwortet, steigert sein Engage
 | Sonntag | Nicht empfohlen |, |
 
 > Den besten persönlichen Zeitpunkt ermittelt man durch LinkedIn Analytics oder Buffer Analytics (zeigt "Dein bester Tag", Postformat und Frequenz auf Basis echter eigener Daten).
+
+---
+
+## Nachtrag Juli 2026: Buffer-Benchmark (State of Social Media Engagement 2026)
+
+Beste Zeitfenster laut Buffer 2026: Mittwoch 16:00 Uhr, Freitag 16:00 Uhr und Freitag 15:00 Uhr.
+
+Datengrundlage: Buffer, State of Social Media Engagement 2026 (rund 52 Mio. Posts, veröffentlicht 5. März 2026). Zeiten in US-Zeitzone (ET) und nur als Startpunkt zu verstehen. Die eigenen Audience-Daten (Meta Business Suite, Studio-Insights o. ä.) schlagen den externen Benchmark immer.

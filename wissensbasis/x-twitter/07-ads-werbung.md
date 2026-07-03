@@ -137,3 +137,11 @@ Seit Oktober 2024 werden Creators auf X vergütet, wenn **andere Premium-Nutzer*
 - B2C Consumer Goods → Instagram/TikTok effektiver
 - E-Commerce direkt → TikTok Shop / Meta Shopping besser
 - Junge Zielgruppen (unter 25) → TikTok und Instagram bevorzugen
+
+---
+
+## Nachtrag Juli 2026 (Juni 2026)
+
+| Tool | Status | Details |
+|---|---|---|
+| Google Tag Manager Integration | Aktiv | Erleichtert Verwaltung und Tracking von Conversion-Events (Quelle: SocialBee, Juni 2026) |

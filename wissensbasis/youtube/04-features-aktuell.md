@@ -1,4 +1,4 @@
-# YouTube Features: IST-Zustand Juni 2026
+# YouTube Features: IST-Zustand Juli 2026
 
 ---
 
@@ -18,6 +18,7 @@
 | Pin Post in Communities | Aktiv | Seit November 2025 |
 | Community Post Fotos (max. 10) | Aktiv | Seit August 2025 (vorher max. 5) |
 | Ask Studio AI | Aktiv | Rollout ab Oktober 2025; AI-Chatbot für Kanal-Insights und Ideen |
+| Ask Studio: Conversation History | Aktiv | Seit Juni 2026; Gesprächsverlauf im Ask-Studio-Chatbot (Quelle: SocialBee, Juni 2026) |
 | Title A/B Testing | Aktiv | Rollout Dezember 2025 auf mehr Creator; testet welcher Titel mehr Views bringt |
 | Content Planner | Aktiv | Integriertes Scheduling-Tool in YouTube Studio |
 | Advanced Analytics Mode | Aktiv | Updates Juni 2025; neue Sidebar mit zusätzlichen Report-Konfigurationen |
@@ -50,10 +51,13 @@
 | Suche in Shorts (Google Lens EU) | Aktiv | Seit November 2025; EU-Nutzer können Objekte in Shorts suchen |
 | Circle to Search in Shorts (EU) | Aktiv | Seit November 2025 |
 | Carousel Posts (Fotos) im Shorts-Feed | Aktiv | Seit Januar 2026 |
+| Lizenzierte Musik für Posts/Carousels | Aktiv | Seit Juni 2026; lizenzierte Musik für Bild-Posts und Carousels im Shorts-Feed (Quelle: onlinemarketing.de/SocialMediaToday, Juni 2026) |
 | Short Feed Timer | Aktiv | Seit April 2026; tägliches Zeitlimit für Shorts-Konsum einstellbar |
 | 0-Minuten Shorts Limit | Aktiv | Seit April 2026; Shorts vollständig aus Feed entfernen |
 | Clear Screen | In Test | Mai 2026; ablenkungsfreie Vollbild-Ansicht für Shorts |
 | Parental Controls für Shorts | Aktiv | Seit Januar 2026; Zeitlimits für Minderjährige |
+| Shorts-Feedback: Herz statt Like | In Test | Seit Juni 2026; redesigntes Feedback-System ersetzt den "Like"-Button durch ein Herz (Quelle: SocialBee, Juni 2026) |
+| Save to device (Shorts) | In Test | Seit Juni 2026 (Android); Shorts inklusive eigener Edits aufs Gerät speichern (Quelle: SocialBee, Juni 2026) |
 
 ### Live-Streaming
 
@@ -111,6 +115,7 @@
 | Remove Subscribe-Button auf Video | Aktiv | Seit Oktober 2025 optional |
 | Auto-Quality Enhancement (240p/720p) | Aktiv | Seit November 2025; HD-Upscaling älterer Videos |
 | Likeness Detection | Aktiv | Erweitert März 2026 (Politiker) + April 2026 (Schauspieler, Sportler, Musiker) |
+| Prominente KI-Labels + Auto-Erkennung | Aktiv | Seit Mai 2026; Hinweis auf photorealistisch KI-generierte/-veränderte Inhalte jetzt direkt unter dem Player (Longform) bzw. als Overlay (Shorts). Zusätzlich interne Auto-Erkennung: fehlt die Creator-Kennzeichnung, labelt YouTube selbst. Bei Google-KI-Tools oder C2PA-Metadaten ist das Label permanent (Quelle: socialmediatoday.com, 27. Mai 2026) |
 | Private Messaging (Mobile) | Aktiv | Seit März 2026 (Android + iOS) |
 | AI-generated Creator Chatbots | In Test | Dezember 2025; AI-Chatbot-Versionen bekannter Creator |
 
@@ -166,3 +171,17 @@
 | "Community" Tab in Studio | Umbenannt Oktober 2025 | Jetzt "Community Moderation" |
 | Hover-to-Subscribe Button Desktop | Entfernt September 2025 | |
 | Australien Social Media Ban <16 | Umgesetzt Dez 2025 | YouTube-Nutzung für unter 16-Jährige eingeschränkt |
+
+---
+
+## Nachtrag Juli 2026: weitere YouTube-Features (Juni 2026)
+
+| Feature | Status | Details |
+|---|---|---|
+| In-App-Messaging (breiter) | Aktiv | Rollout an mehr Nutzer; Videos ohne App-Verlassen teilen |
+| Cleaner Mobile-UI | Aktiv | UI-Refresh mit übersichtlicheren Engagement-Stats |
+| YouTube Studio Upgrade | Aktiv | Video-Probleme gebündelt, klarere Revenue-Anzeige, einfacheres Report-Monitoring |
+| Conversational Discovery | In Test | Dialogbasierte Video-Empfehlungen |
+| Unique-Reach-Berechnung aktualisiert | Aktiv | Aktualisierte Berechnung der einzigartigen Reichweite (Quelle: SocialMediaToday, Juni 2026) |
+
+Quelle: SocialBee, HeyOrca, SocialMediaToday, Juni 2026.

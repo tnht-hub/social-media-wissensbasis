@@ -75,3 +75,21 @@ Ein Benchmark sagt, wo man steht, nicht wohin man soll. Das Ziel leitet sich aus
 - [ ] Vergleiche ich zusätzlich mit der eigenen Vorperiode?
 
 Erst wenn alle fünf Punkte passen, ist der Benchmark im Report belastbar.
+
+---
+
+## Nachtrag Juli 2026: weitere aktuelle 2026-Studien (Quellenüberblick)
+
+Als Datenquellen erfasst. Vor der Nutzung im Report die konkreten Kennzahlen aus der jeweiligen Quelle ziehen, Zahlen veralten (siehe Regel oben). Quelle und Jahr immer nennen.
+
+| Studie | Umfang / Kernbefund | Quelle |
+|---|---|---|
+| Buffer, State of Social Media Engagement 2026 | rund 52 Mio. Posts über 10 Plattformen; Basis für die Best-Time-to-Post-Werte in den 03-Posting-Zeiten-Dateien | buffer.com/resources/state-of-social-media-engagement-2026, 5. März 2026 |
+| Buffer, Best Content Format 2026 | rund 45 Mio. Posts; Format-Vergleich je Plattform | buffer.com/resources, 2026 |
+| Emplifi, State of Social Media Marketing 2026 | Marken- und Marketer-Sicht, Trends 2026 | emplifi.io/resources/state-of-social-media-marketing-report-2026 |
+| SocialBee, 2026-Report | rund 9,3 Mio. Posts; Trends und Kennzahlen | socialbee.com/blog/social-media-report |
+| SocialMediaToday, 2026 Social Media Benchmarks | Infografik mit Branchen-Benchmarks | socialmediatoday.com, 2026 |
+| Metricool, 2026 Instagram-Studie | Reels und Carousels prägen die Plattform-Strategie zunehmend | socialmediatoday.com (Pressemitteilung, 16. Juni 2026) |
+| Metricool, 2026 TikTok-Studie | Video-Views bei Content-Sättigung um rund 31 % gefallen | socialmediatoday.com (Pressemitteilung, 12. Mai 2026) |
+
+Noch zu prüfen (nicht eingepflegt): Google AI Mode Start in Deutschland (Quelle onlinemarketing.de). Vor Aufnahme in KI_Sichtbarkeit_Guide die Einzelquelle mit Datum verifizieren.

@@ -1,4 +1,4 @@
-# Facebook Features: IST-Zustand Juni 2026
+# Facebook Features: IST-Zustand Juli 2026
 
 ---
 
@@ -17,6 +17,7 @@
 | Community Notes | Aktiv | Seit Januar 2025; ersetzt Drittanbieter-Faktenchecks |
 | Community Notes Up/Down Votes | Aktiv | Seit September 2025 |
 | KI-Suche mit Zugriff auf öffentliche Kommentare | Aktiv | Seit Juni 2026; KI-gestützte Suche kann öffentliche Kommentare einbeziehen |
+| "AI Mode" für Facebook Search | Aktiv | Seit Juni 2026; von Meta AI gestützter Suchmodus in der Facebook-Suche (Quelle: SocialBee, Juni 2026) |
 
 ### Content & Erstellung
 
@@ -83,6 +84,7 @@
 | Original Content Guidelines | Aktiv | Seit März 2026; unoriginaler Content verliert Reichweite |
 | Opportunity Score | Aktiv | Erweitert Mai 2025; zeigt Creator wie sie mehr verdienen können |
 | Meta Business Assistant AI | Aktiv | Global ausgerollt April 22, 2026 |
+| Facebook Creator Studio (Rückkehr) | Aktiv | Seit Juni 2026; Meta bringt das Creator Studio für Creator und Seitenmanager zurück (Quelle: SocialMediaToday/HeyOrca, Juni 2026) |
 | Affiliate-Programm | Aktiv | Erweitert März 2026 |
 | Brand Deals (Monetarisierung) | Aktiv | Seit Oktober 2025; Creator können direkt Brand-Deals über Facebook abschließen |
 | Fan Challenges | Aktiv | Seit Oktober 2025; Creator erstellen Challenges für Follower mit Belohnungssystem |
@@ -122,3 +124,16 @@
 | Messenger Windows/Mac Desktop App | Oktober 2025 | Nur noch Web/Mobile |
 | Live-Stream-Archivierung dauerhaft | Februar 2025 | Lives werden nach 30 Tagen gelöscht |
 | Facebook-interne Community Chats | September 2025 | Aus Groups entfernt |
+
+---
+
+## Nachtrag Juli 2026: weitere Meta-AI- und Feature-Updates (Juni 2026)
+
+| Feature | Status | Details |
+|---|---|---|
+| Custom Instructions für Meta AI | In Entwicklung | Nutzer können Meta AI dauerhafte Vorgaben geben (Quelle: SocialBee, Juni 2026) |
+| Private Processing Activity | Aktiv | On-Device-Reports über via Private Processing gesendete Anfragen (Quelle: SocialBee, Juni 2026) |
+| Business-Messaging-KI-Agenten | Aktiv | Ausweitung über Messenger, WhatsApp und Instagram; beantworten Kundenfragen, qualifizieren Leads, buchen Termine; Integrationen mit Shopify und Zendesk (Conversations London, Juni 2026) |
+| Inkognito-Gespräche mit Meta AI (WhatsApp) | In Entwicklung | Meta AI ohne Verlauf in WhatsApp (Quelle: SocialBee, Juni 2026) |
+| "For you"-Feed in Meta-AI-Apps | Aktiv | News-Feed in den Meta-AI-Apps auf Basis bisheriger Prompts (Quelle: SocialBee, Juni 2026) |
+| KI-Assistent für WhatsApp-Business-Entwickler | Aktiv | Seit Juni 2026 (Quelle: SocialBee, Juni 2026) |

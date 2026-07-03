@@ -1,4 +1,4 @@
-# LinkedIn Features: IST-Zustand Juni 2026
+# LinkedIn Features: IST-Zustand Juli 2026
 
 Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entfernt.
 
@@ -18,6 +18,7 @@ Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entf
 | Calendly-Integration | Aktiv (Premium) | Direktbuchung-Button im Profil; nur für Premium-Nutzer (seit März 2025) |
 | "Get advice from me"-Button | Aktiv (Premium Business) | Neu Mai 2026; für Premium Business Subscriber |
 | Duolingo-Sprachkenntnisse | Aktiv | Sprachkenntnisse aus Duolingo im Profil anzeigen (seit September 2025) |
+| Connected Apps (Skills) | Aktiv | Seit Juni 2026; technische Expertise über Integrationen mit unterstützten Apps und Lernplattformen im Skills-Bereich verifizieren und zeigen (Quelle: SocialBee, Juni 2026) |
 
 ### Content & Posting
 
@@ -33,6 +34,8 @@ Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entf
 | Post-Prompts (Desktop) | In Test | Vorschläge für Post-Ideen direkt im Composer (seit Oktober 2025) |
 | Automatisches Captioning | In Test | Video-Untertitel aus Post-Beschreibung (seit April 2026) |
 | Video Covers für Newsletter/Artikel | Aktiv | Video statt statischem Bild als Cover (seit Juli 2025) |
+| Collaborative Posts | In Test | Seit Juni 2026; bis zu 5 Co-Autoren für In-Feed-Posts einladen (Option "Add Collaborators" in den Composer-Einstellungen), alle Mitwirkenden oben im Post gelistet. Test auf Cannes gestartet, breiterer Rollout in den kommenden Monaten geplant. Abgrenzung: eigenständiges Feature, nicht identisch mit "Collaborative Articles" |
+| Core Brand Rules | Aktiv | Seit Juni 2026; Nutzer legen Marken-Regeln fest, die Kollaborations-Anfragen steuern (Quelle: SocialMediaToday, 21. Juni 2026) |
 | Revolving Slideshow als Banner | Aktiv | Im Profil-Banner (seit Dezember 2024) |
 | Celebration Animations | Aktiv | 16 neue Animationen für Job-Updates, Meilensteine etc. (seit August 2025) |
 
@@ -43,6 +46,7 @@ Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entf
 | KI-basierter Feed-Algorithmus | Aktiv | Vollständig KI-gesteuert seit März 2026 |
 | Suggested Posts | Aktiv | Posts werden auch Nicht-Verbundenen gezeigt; Reichweite über Wochen/Monate |
 | AI-Konversationssuche | Aktiv (global) | Natürlichsprachliche Suchanfragen seit April 2026 weltweit |
+| Suggested Feeds | In Test | Seit Juni 2026; personalisierter Vorschlags-Feed zur Content-Entdeckung (Quelle: SocialMediaToday, Juni 2026) |
 | "For you / Following / News"-Tabs | In Test (iOS) | Drei getrennte Feed-Tabs, getestet seit Juni 2025 |
 | "My Network"-Tab | In Test | Zeigt nur Content von Verbindungen/Follows |
 | News-Banner | In Test | Rotierender Nachrichtenticker oben im Feed (US, CA, IN, UK, AU) |
@@ -62,19 +66,21 @@ Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entf
 | Company Intelligence API | Aktiv | Feed Plattform-Daten zurück in CRM (seit September 2025) |
 | Newsletter-Metriken | Aktiv | E-Mail-Sends + E-Mail-Open-Rate (seit Februar 2025) |
 | Notification bei Post-Performance | Aktiv | Benachrichtigung wenn Post Profilbesucher/Follower treibt (seit August 2025) |
+| Reichweite: In-Network vs. Out-of-Network | Aktiv | Seit Juni 2026; neue Post-Metrik zeigt, welcher Anteil der Views aus dem eigenen Netzwerk kommt und welcher von außerhalb (Quelle: SocialBee/HeyOrca, Juni 2026) |
 
 ### Engagement & Community
 
 | Feature | Status | Details |
 |---|---|---|
-| LinkedIn Games | Aktiv | 7 Spiele: Crossclimb, Pinpoint, Queens, Tango, Mini Sudoku, Zip, Patches |
+| LinkedIn Games | Aktiv | 8 Spiele: Crossclimb, Pinpoint, Queens, Tango, Mini Sudoku, Zip, Patches, Wend (Wend seit Juni 2026) |
+| GIF-Kommentare | Aktiv | Seit Juni 2026; GIFs in Kommentaren plattformweit (Quelle: SocialBee, Juni 2026) |
 | Games Leaderboard | Aktiv | Connection-basiertes Leaderboard (seit Oktober 2025) |
 | Games Group Leaderboard | Aktiv | Gruppen-Leaderboard (seit Juli 2025) |
 | Company Page Messaging | Aktiv | Für alle Unternehmensseiten verfügbar (seit April 2024) |
 | Verbindungseinladungen filtern | Aktiv | Nach "gemeinsame Verbindungen" und "Schule" (seit August 2025) |
 | Contributors bei Job-Erfahrungen | Aktiv | Mitarbeiter bei Projekten markierbar (seit Oktober 2025) |
 | In-App Event-Benachrichtigungen | Aktiv | Für Event-Teilnehmende (seit Oktober 2025) |
-| In-App Puzzle/Games | Aktiv | Sieben verfügbare Puzzles (Stand Mai 2026) |
+| In-App Puzzle/Games | Aktiv | Acht verfügbare Puzzles inkl. Wend (Stand Juli 2026) |
 | Job Tracker | Aktiv | Bewerbungsmanagement-Feature (seit März 2026) |
 
 ### Monetarisierung & Creator
@@ -123,6 +129,9 @@ Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entf
 | Ad Agency Certification | Neu (Mai 2026) | Zertifizierungsprogramm für Werbeagenturen |
 | AI-Automatisierung für Ads | Aktiv | Zwei neue Automatisierungs-Features für KMU (seit Oktober 2025) |
 | Campaign Manager Umbenennung | Aktiv | Neue Bezeichnungen für Ad-Produkte nach Branchenstandard (seit Oktober 2025) |
+| Mobile Post Boosting | Aktiv | Breiterer Rollout seit Juni 2026; Posts direkt aus der Mobile-App bewerben (Quelle: SocialBee, Juni 2026) |
+| Profildaten-Targeting (Search/Audience) | Aktiv | Seit Juni 2026; Advertiser können Zielgruppen anhand von LinkedIn-Profildaten in Search- und Audience-Kampagnen ansprechen (Quelle: SocialBee, Juni 2026) |
+| Neue AI-Promo-Tools | Aktiv | Seit Juni 2026; KI-gestützte Werbe- und Promotion-Werkzeuge, u.a. Brand Kit (Quelle: SocialMediaToday, Juni 2026) |
 
 ---
 

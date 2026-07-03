@@ -1,4 +1,4 @@
-# TikTok Features: IST-Zustand Juni 2026
+# TikTok Features: IST-Zustand Juli 2026
 
 ---
 
@@ -137,3 +137,22 @@
 | TikTok Notes App | Mai 2025 | Separate Foto-App nach kurzer Testphase eingestellt |
 | TikTok Music App | Sep 2024 | Streaming-App wegen geringem Nutzerinteresse eingestellt |
 | Hashtag-Limit aufgehoben | Aug 2025 | Wurde durch 5-Hashtag-Limit ersetzt |
+
+---
+
+## Nachtrag Juli 2026: weitere TikTok-Features (Juni 2026)
+
+| Feature | Status | Details |
+|---|---|---|
+| AI Pick for Me | In Test | KI-Vorauswahl im Foto/Video-Upload-UI |
+| TikTok Tako in Kommentaren | Aktiv | KI-Assistent Tako in Kommentaren erwähnbar |
+| Transcribe für DMs | Aktiv | Sprachnachrichten in DMs transkribieren |
+| Neuer Posteingang: Personal/Professional | Aktiv | Zwei Inbox-Optionen; Professional mit Labels und erweiterten Tools |
+| Change Region (iOS) | In Test | Region wechseln |
+| Audio Calls (DMs) | Aktiv | Sprachanrufe in TikTok-DMs |
+| Stories-Insights-UI | Aktiv | Zeigt Gesamt-Viewer und Anteil eigener Follower |
+| TikTok Pro Events | Aktiv | Separate App mit täglichen Challenges bei kulturellen Großereignissen |
+| KI-Stimmen in Shopping-Livestreams verboten | Policy | KI-generierte Stimmen in Shopping-Livestreams untersagt |
+| CapCut Ultra / CapCut Tablet-App | Aktiv | Neues CapCut-Abo und native App für Android-Tablets und iPads |
+
+Quelle: SocialBee und HeyOrca, Juni 2026.

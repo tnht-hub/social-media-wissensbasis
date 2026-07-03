@@ -80,3 +80,18 @@ LinkedIn ist im Detail im eigenen Ordner behandelt (`linkedin/01-algorithmus.md`
 
 - LinkedIn belegt Platz 2 bei AI-Suchantworten und taucht in rund 11 % der Antworten von ChatGPT Search, Perplexity und Google AI Mode auf (Stand der LinkedIn-DB). **Glaubwürdig.**
 - Anders als die übrigen Plattformen ist hier das Profil selbst ranking- und zitierrelevant, weil LinkedIn personensuche-zentriert ist.
+
+---
+
+## Kontext: KI-Assistenten-Markt (State of AI 2026)
+
+Kontextdatenpunkt, keine plattform-spezifische Aussage. Er ordnet ein, welche KI-Systeme Sichtbarkeit überhaupt lohnend machen.
+
+- Die Nutzung generativer KI-Apps hat sich binnen zwölf Monaten mehr als verdoppelt: rund 36 Milliarden Stunden im ersten Halbjahr 2026 gegenüber 17 Milliarden im Vorjahreszeitraum. **Glaubwürdig** (Anbieter-Studie).
+- ChatGPT bleibt Marktführer (über 1 Milliarde monatlich aktive Nutzer, rund 215 Minuten pro Nutzer und Monat), fiel im März 2026 aber erstmals unter 50 Prozent plattformübergreifenden Reichweitenanteil (True Audience). Gemini und Claude wachsen am schnellsten, Claude-Reichweite plus 452 Prozent im Jahresvergleich.
+- ChatGPT, Gemini und DeepSeek vereinen zusammen fast 90 Prozent der Nutzungszeit (Q1 2026). Die Nutzung ist stark konzentriert, aber nicht mehr Winner-takes-all: viele Menschen wählen je Aufgabe (ChatGPT allgemein, Claude für Research und Coding, Gemini im Google-Ökosystem).
+- KI wird zum Discovery Layer: KI-getriebener Traffic auf Shopping-Websites steigt in allen großen Kategorien. Wer in den Antworten der Systeme nicht auftaucht, verliert Aufmerksamkeit, bevor SEO, Paid oder Social greifen.
+
+Konsequenz für die KI-Sichtbarkeit: Aufwand auf die reichweitenstärksten Assistenten konzentrieren (ChatGPT, Gemini, Claude, dazu Perplexity als Zitier-Engine), statt ihn auf Randsysteme zu verteilen.
+
+Quelle: Sensor Tower, State of AI 2026, via onlinemarketing.de vom 22. Juni 2026 (https://onlinemarketing.de/cases/state-of-ai-studie-2026-sensor-tower).

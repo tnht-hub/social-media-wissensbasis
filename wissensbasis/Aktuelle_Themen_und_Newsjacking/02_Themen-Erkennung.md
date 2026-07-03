@@ -85,6 +85,20 @@ Quelle (Primärquelle, doppelt verifiziert): TikTok Next 2026, ads.tiktok.com/bu
 
 ---
 
+## Kontext: Wo das Publikum Nachrichten findet (Reuters Digital News Report 2026)
+
+Kontextdatenpunkt für die Themen-Erkennung. Der Reuters Institute Digital News Report 2026 (über 85.000 Befragte in 48 Regionen) zeigt, auf welcher Ebene aktuelle Themen für das Publikum überhaupt entstehen:
+
+- Social Media ist erstmals die meistgenutzte Nachrichtenquelle, vor TV und News-Websites, quer durch alle Altersgruppen.
+- TikTok und Instagram gewinnen an Nachrichten-Einfluss, X verliert (fragmentiertes Publikum, Threads als Alternative).
+- Online-Creator steigen als Nachrichtenquelle auf. Auch KI-Chatbots werden zunehmend als Nachrichtenquelle genutzt, trotz Halluzinations-Risiko.
+
+Konsequenz für die Themen-Erkennung: Plattform-Trends sind nicht nur Frühindikator, sondern für viele Menschen bereits die primäre Nachrichtenebene. Die Beobachtung von TikTok und Instagram gewinnt gegenüber X an Gewicht, und Creator-Accounts sind als Themen-Frühindikator ernst zu nehmen.
+
+Quelle: Reuters Institute Digital News Report 2026, via socialmediatoday.com vom 16. Juni 2026 (https://www.socialmediatoday.com/news/social-media-is-the-leading-source-of-news-per-reuters/823110/).
+
+---
+
 ## Trend-Hetze vermeiden
 
 Die größte Gefahr bei der Themen-Erkennung ist nicht, etwas zu verpassen, sondern alles mitnehmen zu wollen. Über-Teilnahme führt zu gehetzter, schwacher Umsetzung und zu Trend-Müdigkeit beim Publikum, das gegenüber Marken abstumpft, die von einem Moment zum nächsten springen.

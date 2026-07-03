@@ -183,3 +183,11 @@ TikTok ist primär B2C. Für B2B sinnvoll wenn:
 - Zielgruppe jung (Startups, Freelancer, Digital Natives)
 - Employer Branding
 - App-Installs / Tool-Discovery bei jüngeren Professionals
+
+---
+
+## Nachtrag Juli 2026 (Juni 2026)
+
+| Tool | Status | Details |
+|---|---|---|
+| Neue KI-Creation-Tools für Marketer | Aktiv | Zusätzliche KI-Werkzeuge für Marken (Quelle: SocialMediaToday, Juni 2026) |

@@ -164,3 +164,18 @@ Meta Ads sind **günstiger als LinkedIn-Ads**, aber teurer als TikTok. Die Stär
 - **Lokale Businesses**, Geo-Targeting sehr präzise
 - **Consumer Apps**, App Install-Kampagnen
 - **Events / Entertainment**, Event Ads mit Standort-Targeting
+
+---
+
+## Nachtrag Juli 2026: Ads- und Commerce-Updates (Juni 2026)
+
+| Format/Tool | Status | Details |
+|---|---|---|
+| Live Video Ads auf Instagram | Aktiv | Live-Video-Ad-Format auf Instagram ausgeweitet (Quelle: SocialBee, Juni 2026) |
+| Virtuelle Karten in Livestreams | Aktiv | Unterstützung virtueller Karten in Livestreams (Quelle: SocialBee, Juni 2026) |
+| KI-Ad-Tools für Livestream-Commerce | Aktiv | Bessere Zielgruppen, mehr Engagement und Käufe aus Livestream-Broadcasts (Quelle: SocialBee, Juni 2026) |
+| Live-Commerce-Partner | Aktiv | Shopping-Promotions in Livestreams mit CommentSold, Firework, LiveMeUp, Sprii, TalkShopLive (Quelle: SocialBee, Juni 2026) |
+| Post-view Ads (Instagram Reels) | Aktiv | Neue Ad-Lösung für Instagram Reels (Quelle: SocialBee, Juni 2026) |
+| Integrated Booking für Lead Ads | Aktiv | Terminbuchung direkt in Lead Ads (Quelle: SocialMediaToday, Juni 2026) |
+| Advanced AI Ad Features | Aktiv | Erweiterte KI-Ad-Funktionen (Quelle: SocialMediaToday, Juni 2026) |
+| Best Practices für KI-generierte Multimedia-Ads | Guideline | Meta-Empfehlungen zu KI-Ads (Quelle: SocialMediaToday, Juni 2026) |

@@ -55,3 +55,11 @@ YouTube Studio zeigt unter **Analytics → Audience** direkt:
 | Community Posts | Tage (Feed-basiert) |
 
 YouTube-Long-Form-Videos haben die längste organische Lebensdauer aller Social-Media-Formate, ein 2-jähriges Video kann weiterhin täglich Views generieren, wenn es für relevante Suchanfragen rankt.
+
+---
+
+## Nachtrag Juli 2026: Buffer-Benchmark (State of Social Media Engagement 2026)
+
+Bestes Zeitfenster laut Buffer 2026: YouTube Shorts freitags 16:00 Uhr (höchstes Engagement).
+
+Datengrundlage: Buffer, State of Social Media Engagement 2026 (rund 52 Mio. Posts, veröffentlicht 5. März 2026). Zeiten in US-Zeitzone (ET) und nur als Startpunkt zu verstehen. Die eigenen Audience-Daten (Meta Business Suite, Studio-Insights o. ä.) schlagen den externen Benchmark immer.

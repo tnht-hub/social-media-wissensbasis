@@ -77,3 +77,11 @@ X lebt von Echtzeit. Wer zu aktuellen Trending Topics rechtzeitig antwortet, kan
 | **Medien / Journalismus** | Morgens; Live-Events; Breaking News |
 | **B2B Allgemein** | Dienstag-Donnerstag 9 bis 11 AM in Zielzeit-Zone |
 | **Consumer / B2C** | Abend 8 bis 10 PM EST (Freizeit-Browsing) |
+
+---
+
+## Nachtrag Juli 2026: Buffer-Benchmark (State of Social Media Engagement 2026)
+
+Bestes Zeitfenster laut Buffer 2026: Dienstag 9:00 Uhr (höchstes Engagement).
+
+Datengrundlage: Buffer, State of Social Media Engagement 2026 (rund 52 Mio. Posts, veröffentlicht 5. März 2026). Zeiten in US-Zeitzone (ET) und nur als Startpunkt zu verstehen. Die eigenen Audience-Daten (Meta Business Suite, Studio-Insights o. ä.) schlagen den externen Benchmark immer.

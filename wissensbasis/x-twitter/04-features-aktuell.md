@@ -1,4 +1,4 @@
-# X (Twitter) Features: IST-Zustand Juni 2026
+# X (Twitter) Features: IST-Zustand Juli 2026
 
 ---
 
@@ -133,3 +133,18 @@
 | "Dim" Theme Mode | Februar 2026 | |
 | Öffentliche Likes | Juni 2024 | Likes sind jetzt privat |
 | Voice Replies in DMs (1. Entfernung) | 2025 | Wurden April 2026 wieder eingeführt |
+
+---
+
+## Nachtrag Juli 2026: weitere X-Features (Juni 2026)
+
+| Feature | Status | Details |
+|---|---|---|
+| Carousel Style | Aktiv | Carousel-Darstellung für Multimedia-Posts, breiterer Rollout |
+| Verified-Filter (X Analytics) | Aktiv | Zeigt nur Impressionen/Engagement verifizierter Nutzer |
+| React with video (iOS) | Aktiv | Video-Reaktion auf Posts |
+| Teilen zu Instagram-/Snapchat-Stories | In Test | Inkl. Video-Wasserzeichen und "Share a post with a reply" |
+| Livestream Studio | Aktiv | Vereinfachtes Live-Broadcasting |
+| Storage-Management-Settings (iOS) | Aktiv | Detaillierte Aufschlüsselung des App-Speichers |
+
+Quelle: SocialBee, HeyOrca und SocialMediaToday, Juni 2026. (Share to Tesla bewusst ausgelassen.)
