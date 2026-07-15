@@ -185,3 +185,22 @@
 | Unique-Reach-Berechnung aktualisiert | Aktiv | Aktualisierte Berechnung der einzigartigen Reichweite (Quelle: SocialMediaToday, Juni 2026) |
 
 Quelle: SocialBee, HeyOrca, SocialMediaToday, Juni 2026.
+
+---
+
+## Aktualitätsprüfung 15.07.2026: Neue Features Juli 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker, Abschnitt „July 2026 YouTube updates".
+
+| Feature | Status | Details |
+|---|---|---|
+| Shorts-Playback-UI: „Heart"-Icon | Aktiv | Seit Juli 2026; „Thumbs up"/„Thumbs down" durch neues „Heart"-Icon ersetzt (Quelle: SocialBee, Juli 2026) |
+| Shorts: neue Filteroptionen | Aktiv | Seit Juli 2026; „Not interested" und „Don't recommend this channel" zur Inhaltsfilterung (Quelle: SocialBee, Juli 2026) |
+| Shorts: „Clear Screen" | Aktiv | Seit Juli 2026; aufgeräumte Shorts-Ansicht ohne UI-Elemente (Quelle: SocialBee, Juli 2026) |
+| YouTube Studio: neuer „Content"-Tab | Aktiv | Seit Juli 2026; neu gestalteter „Content"-Tab (Quelle: SocialBee, Juli 2026) |
+| YouTube Studio: Spalte für geschätzten Umsatz | Aktiv | Seit Juli 2026; neue Spalte für geschätzten Umsatz (Analytics) (Quelle: SocialBee, Juli 2026) |
+| YouTube Studio: „Notices"-Spalte | Aktiv | Seit Juli 2026; neue „Notices"-Spalte ersetzt „Monetization" und „Restriction", mit klaren Statusindikatoren (Quelle: SocialBee, Juli 2026) |
+| Video Reach / Video View Campaigns | Aktiv | Seit Juli 2026; „Attributed Branded Searches" global als Reporting-Metrik in Google Ads; Video-View-Kampagnen mit Shorts binden „Shorts Ad Actions" automatisch in die Budgetoptimierung ein (Ads) (Quelle: SocialBee, Juli 2026) |
+| YouTube Playables in der EU | Aktiv | Seit Juli 2026; Ausrollen der Playables auch in der Europäischen Union (Quelle: SocialBee, Juli 2026) |
+
+Quelle: https://socialbee.com/blog/youtube-updates/

@@ -156,3 +156,16 @@
 | CapCut Ultra / CapCut Tablet-App | Aktiv | Neues CapCut-Abo und native App für Android-Tablets und iPads |
 
 Quelle: SocialBee und HeyOrca, Juni 2026.
+
+---
+
+## Aktualitätsprüfung 15.07.2026: Neue Features Juli 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker, Abschnitt „July 2026 TikTok updates".
+
+| Feature | Status | Details |
+|---|---|---|
+| „See Ads Plan" | Aktiv | Seit Juli 2026; neue Option „See Ads Plan" (Ads) (Quelle: SocialBee, Juli 2026) |
+| „Mini Dramas" (Ad-Format) | Aktiv | Seit Juli 2026; Marken können eigene Microseries-Inhalte über das neue Ad-Format „Mini Dramas" bewerben (Ads) (Quelle: SocialBee, Juli 2026) |
+
+Quelle: https://socialbee.com/blog/tiktok-updates/

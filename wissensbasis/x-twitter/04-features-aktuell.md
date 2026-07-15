@@ -148,3 +148,17 @@
 | Storage-Management-Settings (iOS) | Aktiv | Detaillierte Aufschlüsselung des App-Speichers |
 
 Quelle: SocialBee, HeyOrca und SocialMediaToday, Juni 2026. (Share to Tesla bewusst ausgelassen.)
+
+---
+
+## Aktualitätsprüfung 15.07.2026: Neue Features Juli 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker, Abschnitt „July 2026 X (Twitter) updates".
+
+| Feature | Status | Details |
+|---|---|---|
+| Livestreaming Command Center (Creator Studio) | Aktiv | Seit Juli 2026; aktualisiertes Command Center in Creator Studio, Creator können Live-Broadcasts in der App planen und starten (Quelle: SocialBee, Juli 2026) |
+| „Video dock"-Button (iOS) | In Test | Seit Juli 2026; flüssigeres Minimieren von Video und Livestream (Quelle: SocialBee, Juli 2026) |
+| Karussell ab vier Bildern (Desktop/Web) | Aktiv | Seit Juli 2026; Posts mit vier oder mehr Bildern werden im Web als Karussell dargestellt (Quelle: SocialBee, Juli 2026) |
+
+Quelle: https://socialbee.com/blog/twitter-updates/

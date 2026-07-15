@@ -146,3 +146,18 @@ Vollständige Übersicht: Was gibt es, was wurde neu eingeführt, was wurde entf
 | Creator Mode | Februar 2024 | Features weiterhin in Profileinstellungen vorhanden |
 | Lookalike Audiences | Februar 2024 | Für Ads nicht mehr verfügbar |
 | Dedicated Audio Events | November 2024 | Nur noch Audio über Live-Streaming-Tools möglich |
+
+---
+
+## Aktualitätsprüfung 15.07.2026: Neue Features Juli 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker, Abschnitt „July 2026 LinkedIn updates".
+
+| Feature | Status | Details |
+|---|---|---|
+| Campaign Manager: KI-Kreativoptionen | Aktiv | Seit Juli 2026; KI-gestützte Ad-Copy-Generierung, neuer Kampagnenprozess „Flexible", Brand Kit, mehrere Ad-Varianten aus einer bestehenden Anzeige mit anderen Headlines und Einleitungstexten (Ads) (Quelle: SocialBee, Juli 2026) |
+| „Suggested feeds" | In Test | Seit Juli 2026; vorgeschlagene Feeds (Quelle: SocialBee, Juli 2026) |
+| „Easy Apply" umbenannt in „LinkedIn Apply" | Aktiv | Seit Juli 2026; Umbenennung des Bewerbungs-Features (Quelle: SocialBee, Juli 2026) |
+| Premium Apply Assistant | Aktiv | Seit Juli 2026; Bewerbungs-Assistent für Jobsuchende (Rollout) (Quelle: SocialBee, Juli 2026) |
+
+Quelle: https://socialbee.com/blog/linkedin-updates/

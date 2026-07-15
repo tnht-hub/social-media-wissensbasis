@@ -137,3 +137,18 @@
 | Inkognito-Gespräche mit Meta AI (WhatsApp) | In Entwicklung | Meta AI ohne Verlauf in WhatsApp (Quelle: SocialBee, Juni 2026) |
 | "For you"-Feed in Meta-AI-Apps | Aktiv | News-Feed in den Meta-AI-Apps auf Basis bisheriger Prompts (Quelle: SocialBee, Juni 2026) |
 | KI-Assistent für WhatsApp-Business-Entwickler | Aktiv | Seit Juni 2026 (Quelle: SocialBee, Juni 2026) |
+
+---
+
+## Aktualitätsprüfung 15.07.2026: Neue Features Juli 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker, Abschnitte „July 2026 Facebook updates" und „July 2026 Meta (xR) updates".
+
+| Feature | Status | Details |
+|---|---|---|
+| Messenger Conversation Sticker | In Test | Seit Juli 2026; Page-Admins regen Nutzer an, Gespräche zu starten und direkt über die Messenger-Inbox der Page zu antworten (Quelle: SocialBee, Juli 2026) |
+| Creator Activity (Professional Dashboard) | Aktiv | Seit Juli 2026; neuer Bereich im Professional Dashboard für Pages: Aktivität und Wachstum verfolgen, konstante Posting-Gewohnheiten aufbauen (Quelle: SocialBee, Juli 2026) |
+| Discord im Meta Horizon App Store | Aktiv | Seit Juli 2026; Discord im Meta-Horizon-App-Store zum Download verfügbar (xR/VR) (Quelle: SocialBee, Juli 2026) |
+| IG-Stories-Optionen für Meta-AI-Smart-Glasses | Aktiv | Seit Juli 2026; neue Story-Formate „Multi-cam" und „Spin view" sowie Bearbeitung (Audio Cleanup, Expand, Speed) exklusiv für Meta-AI-Brillen (Quelle: SocialBee, Juli 2026) |
+
+Quelle: https://socialbee.com/blog/facebook-updates/

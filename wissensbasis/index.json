@@ -1,6 +1,6 @@
 {
   "basis_url": "https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/wissensbasis/",
-  "generiert_am": "2026-07-03",
+  "generiert_am": "2026-07-15",
   "anzahl_module": 199,
   "hinweis": "Basis-URL im Feld basis_url. Bei einem Repo-Umzug hier und in skills/socialmedia-agentur/SKILL.md anpassen.",
   "modul_stand": {
@@ -16,17 +16,17 @@
     "Krisenkommunikation_Playbook": "Mai 2026",
     "Local_Regional_Social_Media": "Juni 2026",
     "Marketing_Psychologie_und_Prinzipien": "Juni 2026",
-    "Measurement_Reporting_Guide": "Juni 2026",
+    "Measurement_Reporting_Guide": "Juli 2026",
     "Paid_Performance_Methodik": "Juni 2026",
     "Profilanalyse_IST_Analyse": "Juni 2026",
     "Recht_Compliance_DE": "Juli 2026",
     "Visual_Production_Methodik": "Mai 2026",
-    "facebook": "Juni 2026",
-    "instagram": "Juni 2026",
-    "linkedin": "Juni 2026",
-    "tiktok": "Juni 2026",
-    "x-twitter": "Juni 2026",
-    "youtube": "Juni 2026"
+    "facebook": "Juli 2026",
+    "instagram": "Juli 2026",
+    "linkedin": "Juli 2026",
+    "tiktok": "Juli 2026",
+    "x-twitter": "Juli 2026",
+    "youtube": "Juli 2026"
   },
   "module": [
     {
@@ -639,7 +639,7 @@
       "modul": "Measurement_Reporting_Guide",
       "datei": "Measurement_Reporting_Guide/04_Benchmarks.md",
       "titel": "Säule 4 - Benchmarks und ihre Interpretation",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "Measurement_Reporting_Guide",
@@ -915,7 +915,7 @@
       "modul": "facebook",
       "datei": "facebook/04-features-aktuell.md",
       "titel": "Facebook Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "facebook",
@@ -969,7 +969,7 @@
       "modul": "instagram",
       "datei": "instagram/04-features-aktuell.md",
       "titel": "Instagram Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "instagram",
@@ -1023,7 +1023,7 @@
       "modul": "linkedin",
       "datei": "linkedin/04-features-aktuell.md",
       "titel": "LinkedIn Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
@@ -1083,7 +1083,7 @@
       "modul": "tiktok",
       "datei": "tiktok/04-features-aktuell.md",
       "titel": "TikTok Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "tiktok",
@@ -1137,7 +1137,7 @@
       "modul": "x-twitter",
       "datei": "x-twitter/04-features-aktuell.md",
       "titel": "X (Twitter) Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "x-twitter",
@@ -1191,7 +1191,7 @@
       "modul": "youtube",
       "datei": "youtube/04-features-aktuell.md",
       "titel": "YouTube Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",

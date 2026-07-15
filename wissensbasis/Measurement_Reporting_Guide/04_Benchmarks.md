@@ -95,3 +95,28 @@ Als Datenquellen erfasst. Vor der Nutzung im Report die konkreten Kennzahlen aus
 | Metricool, 2026 TikTok-Studie | Video-Views bei Content-Sättigung um rund 31 % gefallen | socialmediatoday.com (Pressemitteilung, 12. Mai 2026) |
 
 Noch zu prüfen (nicht eingepflegt): Google AI Mode Start in Deutschland (Quelle onlinemarketing.de). Vor Aufnahme in KI_Sichtbarkeit_Guide die Einzelquelle mit Datum verifizieren.
+
+---
+
+## Verifiziert 15.07.2026: Kennzahlen aus Buffer und Emplifi 2026
+
+Per Browser direkt aus den Quellen gezogen. Achtung: Die Buffer-Werte gelten nur für die Buffer-Nutzerbasis (2025-Daten, Median), sind ausdrücklich keine universellen Benchmarks und wegen abweichender Methodik nicht mit den Socialinsider-Werten oben vergleichbar.
+
+**Buffer, State of Social Media Engagement 2026** (Median-Engagement-Rate, Buffer-Datensatz 2025; rund 52 Mio. Posts, Daten bis 3. Dezember 2025):
+
+- Höhere Rate: LinkedIn ca. 6,1 Prozent, Facebook ca. 5,6 Prozent, Instagram ca. 5,4 Prozent
+- Mittel: TikTok ca. 4,5 Prozent, Pinterest ca. 3,9 Prozent, Threads ca. 3,6 Prozent
+- Niedriger: X ca. 2,5 Prozent
+- Veränderung 2024 zu 2025: X ca. +44 Prozent, Pinterest ca. +23 Prozent, Facebook ca. +11 Prozent, TikTok ca. +3 Prozent, LinkedIn ca. -5 Prozent, Threads ca. -18 Prozent, Instagram ca. -26 Prozent
+- Stärkster Hebel laut Report: Antworten auf Kommentare. Engagement-Lift bei Antworten: Threads +42 Prozent, LinkedIn +30 Prozent, Instagram +21 Prozent, Facebook +9,5 Prozent, X +8 Prozent, Bluesky +5 Prozent
+- Format: LinkedIn-Karussells Median 21,77 Prozent (rund dreifach über Video und Bild); Instagram-Karussells ca. 6,9 Prozent Engagement vs. Reels 3,31 Prozent, Reels dafür ca. +36 Prozent Reichweite
+- Quelle: https://buffer.com/resources/state-of-social-media-engagement-2026/
+
+**Emplifi, Social Media Benchmarks 2026**, vier strategische Prioritäten:
+
+1. TikTok als Kernkanal für Publikumswachstum und Engagement behandeln
+2. Instagram-Investment Richtung Reels, Karussells und teilbaren Content verschieben
+3. Meta-Plattformen für planbare Paid-Reichweite nutzen
+4. X für taktische Echtzeit-Konversation reservieren, nicht für Wachstum
+
+- Quelle: https://emplifi.io/resources/social-media-benchmarks/

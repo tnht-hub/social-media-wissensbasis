@@ -158,3 +158,19 @@
 Hinweis (Adam Mosseri, Juni 2026): Einen schwach laufenden Post zu löschen und neu zu posten ist nicht ratsam, das schadet eher, als dass es hilft (Quelle: onlinemarketing.de, Juni 2026).
 
 Quelle für diesen Nachtrag: SocialBee, HeyOrca und onlinemarketing.de, Juni 2026.
+
+---
+
+## Aktualitätsprüfung 15.07.2026: Neue Features Juli 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker, Abschnitte „July 2026 Instagram updates" und „July 2026 Instagram Edits updates".
+
+| Feature | Status | Details |
+|---|---|---|
+| Banners: „Business hours" + „Contact info" | In Test | Seit Juli 2026; zwei neue Optionen im „Banners"-Bereich (Quelle: SocialBee, Juli 2026) |
+| Video recording für Instagram Instants | Aktiv | Seit Juli 2026; Videoaufnahme-Funktion in der Instants-App (Rollout) (Quelle: SocialBee, Juli 2026) |
+| Instagram Edits: bilinguale Captions | Aktiv | Seit Juli 2026; Captions u.a. in Englisch, Indonesisch, Russisch, Portugiesisch, Gujarati, Spanisch, Hindi, Koreanisch, Bengali, Deutsch, Italienisch, Thai, Französisch, Japanisch, Kannada (Quelle: SocialBee, Juli 2026) |
+| Instagram Edits: Overlays + Clip-Sperre | Aktiv | Seit Juli 2026; Overlay-Unterstützung und Sperren einzelner Clips für Templates (Quelle: SocialBee, Juli 2026) |
+| Instagram Edits: Sommer-Soundeffekte | Aktiv | Seit Juli 2026; sommerthematische Soundeffekte (Quelle: SocialBee, Juli 2026) |
+
+Quelle: https://socialbee.com/blog/instagram-updates/
