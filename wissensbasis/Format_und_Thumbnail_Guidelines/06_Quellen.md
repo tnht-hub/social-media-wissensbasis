@@ -13,6 +13,16 @@ Vom Auftraggeber bereitgestellte Videos, ausgewertet für die mit „Praktiker-H
 
 *Einordnung: Erfahrungswissen eines einzelnen Praktikers, keine belegte Forschung.*
 
+## Ergänzung Juli 2026: Praktiker-Quelle (Chris Do, The Futur)
+
+Ausgewertet für die Säulen `08_Typografie-im-Slide-und-Carousel.md` und `09_Carousel-Kritik-Raster.md`:
+
+- **Chris Do (The Futur), „Improve Your Instagram Design: Critiques, Tips & Advice PT 1"**
+  https://thefutur.com/watch/instagram-design-critique-tips-advice
+  Live-Kritik realer Instagram-Carousels, Oktober 2020. Quelle für das 5-Kriterien-Raster (Klarheit, Wert, Typografie, Konzept-Design-Harmonie, X-Faktor) und die Slide-Typografie-Regeln.
+
+*Einordnung: Erfahrungswissen eines etablierten Design-Educators, aus konkreten Design-Kritiken abgeleitet, keine belegte Forschung. Die typografischen Regeln decken sich mit klassischer Typesetting-Lehre.*
+
 ## Offizielle Plattform-Quelle
 
 - **YouTube Help, Add custom thumbnails on YouTube**

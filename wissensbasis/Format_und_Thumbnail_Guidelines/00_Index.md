@@ -24,6 +24,8 @@
 | `05_Failure-Modi.md` | Wie Format- und Thumbnail-Arbeit typisch scheitert |
 | `06_Quellen.md` | Recherchierte Quellen mit Stand und Triangulation |
 | `07_Bewegtbild_Praezise_Safe-Zones_px.md` | Konkrete Pixel-Safe-Zones für vertikales Bewegtbild plus Master-Zone fürs Cross-Posting |
+| `08_Typografie-im-Slide-und-Carousel.md` | Typografie innerhalb eines Slides: Versalien, Zentrierung, Proximity, Apostroph, Ellipse, Slide-Flow |
+| `09_Carousel-Kritik-Raster.md` | 5-Kriterien-Raster zur Prüfung eines fertigen Carousels vor Veröffentlichung |
 
 ---
 

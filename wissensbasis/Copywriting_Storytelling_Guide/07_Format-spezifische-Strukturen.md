@@ -59,6 +59,8 @@ Slide 8: "Save the cheat sheet."
 4. **Visuelle Konsistenz**, gleiche Typografie, gleicher Look, gleiches Format
 5. **Letzte Slide hat einen CTA**, nicht nur Brand-Logo
 
+> **Prüfung vor Veröffentlichung:** Wie man ein fertiges Carousel gegenprüft (5-Kriterien-Raster: Klarheit, Wert, Typografie, Konzept-Design-Harmonie, X-Faktor) und welche Slide-Typografie-Regeln gelten (Versalien, Zentrierung, Proximity, Apostroph, Ellipse), steht in `Format_und_Thumbnail_Guidelines/09_Carousel-Kritik-Raster.md` und `08_Typografie-im-Slide-und-Carousel.md`.
+
 ### Carousel-Caption (zusätzlich zu den Slides)
 
 Eine Carousel braucht ZUSÄTZLICH eine Caption, die ist nicht überflüssig, sondern eine zweite Chance:
