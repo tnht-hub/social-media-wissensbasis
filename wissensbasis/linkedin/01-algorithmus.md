@@ -65,9 +65,38 @@ LinkedIn geht aktiv gegen Engagement Bait vor:
 
 Kommentare, die von Automatisierungs-Tools stammen, werden in ihrer Sichtbarkeit reduziert (seit August 2025).
 
+**Präzisierung: die drei Eskalationsstufen.** Gyanda Sachdeva, VP of Product bei LinkedIn, hat drei konkrete Maßnahmen benannt. Betroffen sind Kommentare, die über Drittanbieter-Tools, Skripte oder Browser-Plugins **ohne menschliche Kontrolle** gepostet werden:
+
+1. Entfernung aus der Sortierung "Most relevant", also der Standardansicht direkt unter dem Post
+2. Mögliche Entfernung aus dem weiteren Kommentar-Netzwerk
+3. Bei wiederholtem Posten automatisierter Kommentare niedriger Qualität: **Einschränkung der LinkedIn-Nutzung**
+
+Abgrenzung: Tools zur Unterstützung sind zulässig, Tools, die die menschliche Prüfung vollständig umgehen, nicht.
+
+Quelle im O-Ton mit Belegstatus: `Primaerquellen_Vortraege/01_OMR26_Behrens_LinkedIn.md`, Kasten in Abschnitt B.
+
+### Begriffsklärung: "360 Brew" ist kein LinkedIn-Algorithmus
+
+Der Begriff kursiert international als angeblicher Name der neuen Newsfeed-Architektur. **Der Name existiert so nicht.**
+
+- Es gibt eine neue Newsfeed-Architektur mit **Two-Stage-Ranking** (Retrieval, dann Reranking, siehe `08-profil-optimierung.md`). LinkedIn hat sie nie 360 Brew genannt.
+- "360 Brew" war ein theoretisches Papier, das zurückgezogen wurde und in seiner Komplexität mit heutigen Mitteln nicht ausrollbar wäre.
+- LinkedIn nennt den tatsächlichen Namen bislang nicht.
+
+Wer den Begriff benutzt, signalisiert im Fachgespräch einen veralteten Stand. Gleiches Muster wie bei "Grounding Page" (`08-profil-optimierung.md`).
+
+Herleitung und Beleglage: `Primaerquellen_Vortraege/01_OMR26_Behrens_LinkedIn.md`, Kasten in Abschnitt E.
+
 ### Externe Links im Post-Text
 
 Posts mit externen Links im Fließtext erhalten deutlich **weniger organische Reichweite**. LinkedIn priorisiert natives Content. Lösung: Link in den ersten Kommentar posten.
+
+> **Offener Widerspruch.** Britta Behrens vertritt in ihrer OMR-Keynote 2026 die
+> Gegenposition: Link in den Beitrag, weil ein Link im ersten Kommentar in der
+> Relevanz-Ansicht nicht sichtbar ist. Beide Positionen optimieren auf
+> unterschiedliche Zielgrößen (Reichweite des Posts vs. Klick und Nutzen). Nicht
+> aufgelöst, eigener Test steht aus. Details in
+> `Primaerquellen_Vortraege/04_Abgleich_bestehende_Module.md`, Abschnitt C1.
 
 ### Zu niedrige Posting-Qualität
 
@@ -86,6 +115,15 @@ Seit dem Algorithmus-Update **Februar 2024** werden Posts auch Nutzern angezeigt
 ## LinkedIn als AI-Zitierplattform (neu 2026)
 
 LinkedIn belegt **Platz 2** bei AI-Suchantworten: Die Plattform taucht in 11% aller Antworten von ChatGPT Search, Perplexity und Google AI Mode auf. Das bedeutet: Professionell aufbereitete LinkedIn-Inhalte werden zunehmend von KI-Systemen als Quelle herangezogen. Qualitätsinhalt auf LinkedIn hat damit eine Wirkung, die über die Plattform selbst hinausgeht.
+
+**Präzisierung (Juli 2026, Semrush-Studie vom 10.03.2026 im Volltext gegengeprüft):**
+
+- Platz 2 gilt über **alle** Domains, vor Wikipedia, YouTube und allen großen News-Publishern. Basis: 325.000 Prompts (Jan bis Feb 2026), daraus 89.000 zitierte LinkedIn-URLs.
+- Je Modell stark unterschiedlich: **ChatGPT Search 14,3 %, Google AI Mode 13,5 %, Perplexity 5,3 %.**
+- Der Effekt ist im **B2B- und Professional-Kontext am stärksten**, weil die Mehrheit der Prompts aus Technologie, Business Services, Finanzen und Industrie stammte. Ein eigenes B2B-Ranking weist die Studie nicht aus. Die kursierende Aussage "LinkedIn ist im B2B Platz 1" ist **nicht belegt**.
+- Zitiert werden überwiegend Inhalte mit echtem Fachgehalt. **Hohe Engagement-Zahlen und große Followerschaft sind keine Voraussetzung**: Median 15 bis 25 Reaktionen, und Autor:innen unter 500 Followern werden mindestens genauso häufig zitiert wie solche darüber.
+
+Wichtig: Belegt ist **Zitierung zur Laufzeit** über öffentlich sichtbare Inhalte, nicht Training. Volle Faktorenliste in `KI_Sichtbarkeit_Guide/02_Plattform-Matrix.md`, Anwendung in `Primaerquellen_Vortraege/03_Anwendungsregeln.md`, Regeln R3 und R4.
 
 ---
 

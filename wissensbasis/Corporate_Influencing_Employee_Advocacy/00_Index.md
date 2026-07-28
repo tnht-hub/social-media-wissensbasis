@@ -12,6 +12,12 @@
 
 Zentral gesteuerte Unternehmenskanäle verlieren an organischer Reichweite. Laut dem Algorithm InSights Report von Richard van der Blom (Update Oktober 2025) werden weniger als 2 Prozent der LinkedIn Corporate Pages im Feed ausgespielt. Persönliche Profile von Mitarbeitenden erzielen deutlich mehr Reichweite und Vertrauen, weil Menschen lieber Menschen folgen als anonymen Logos.
 
+**Nuance, die im Kundengespräch fehlt, wenn man nur den Absatz oben zitiert:** Auch die Reichweite **persönlicher Profile** sinkt absolut. LinkedIn nennt als Gründe 1,3 Milliarden Mitglieder, mehr aktive Poster und die durch KI erleichterte Content-Produktion. Der Vorsprung persönlicher Profile ist relativ, nicht absolut. Beleg in `Primaerquellen_Vortraege/04_Abgleich_bestehende_Module.md`, Abschnitt C3.
+
+**Argumentation gegenüber Geschäftsführung.** Wenn das Programm als Kostenposten infrage gestellt wird, liefert `Primaerquellen_Vortraege/03_Anwendungsregeln.md`, Regel R6 eine Vier-Faktoren-Argumentation (Recruiting und Cultural Fit, Fluktuation, Brand Awareness inklusive KI-Sichtbarkeit, Social Selling) plus eine Beispielrechnung. **Achtung:** Die Rechnung ist eine Werbeäquivalenz, kein ROI. Die Fallstricke stehen in `Primaerquellen_Vortraege/05_Failure-Modi.md`, FM-4.
+
+Ergänzend für die Recruiting- und Skills-Argumentation: `Primaerquellen_Vortraege/02_OMR26_Raman_FutureOfWork.md` (LinkedIn zum Skills-basierten Arbeitsmarkt), umgesetzt in R8 und R9.
+
 ---
 
 ## Inhalt

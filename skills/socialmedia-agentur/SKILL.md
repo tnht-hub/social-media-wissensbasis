@@ -152,6 +152,92 @@ Anlass liest du aus `rats-modus.md`, das du über `RAW_SKILL_URL` lädst. Stehen
 sinnvolle Beiträger plus ein Vorsitz zur Verfügung, erzwinge keinen Rat, sondern
 degradiere ehrlich.
 
+### Schritt 7: Selbstprüfung vor der Ausgabe
+
+Vor jedem substanziellen Deliverable (Strategie-Brief, Content- oder
+Redaktionsplan, Kampagnen-Konzept, Audit, Report, Post-Paket). Bei Lookups und
+Kleinteiligem entfällt der Schritt.
+
+Die Leitfrage ist neutral: „Erfüllt dieser Output die Anfrage und die
+Vorgaben?", nicht „Was ist daran falsch?". Ein korrektes Ergebnis ist der
+Normalfall.
+
+**Default ist keine Änderung.** Geändert wird nur bei einem konkret benennbaren
+Mangel, nie kosmetisch und nie bloß, weil eine Prüfung verlangt wurde. „Kein
+Befund" ist ein gültiges und erwartetes Ergebnis. Erfinde niemals einen Befund,
+um gründlich zu wirken.
+
+**Beweislast pro Befund.** Jeder Befund nennt drei Dinge: die konkrete Stelle,
+den konkreten Schaden (was geht schief, und für wen), die Rubrik-Kategorie.
+Lässt sich der Schaden nicht benennen, ist es Geschmack. Geschmack ist `Kann`
+und wird weder gemeldet noch geändert.
+
+**Kreativ-Schutz.** Mut ist kein Mangel. Ein scharfer Hook, eine zugespitzte
+Headline oder eine ungewohnte Formulierung wird nicht abgeschliffen, solange
+Markenstimme und Tabu-Zonen halten. Glattziehen ist `Kann`.
+
+Rubrik (Nutzer-Vorgaben schlagen die Rubrik immer):
+
+- **Quellen und Stand:** Ist jedes genutzte Modul in diesem Durchlauf frisch
+  über die Basis-Adresse geladen und nicht aus dem Gedächtnis rekonstruiert?
+  Stimmt der genannte Stand mit dem Index? Trägt das Modul die Aussage
+  überhaupt? Fehlt der Beleg, lade das Modul nach oder streiche die Aussage.
+- **Verderbliche Aussagen:** Nicht der Ordner entscheidet, sondern der
+  Aussagetyp. Ein Plattform-Fakt (Formatvorgabe, Länge, Limit, Feature,
+  Ad-Produkt, Algorithmus-Verhalten) trägt nur mit einem Stand aus dem laufenden
+  oder dem Vormonat, denn die sechs Plattform-Module werden halbmonatlich am 01.
+  und 15. geprüft. Für Strategie, Methodik, Psychologie und Vorgehen reicht ein
+  Stand bis zu einem Quartal, entsprechend dem Quartals-Check der Module
+  Profilanalyse_IST_Analyse, ICP_USP_Positionierung, Measurement_Reporting_Guide,
+  Community_Management_Playbook, Paid_Performance_Methodik und
+  Recht_Compliance_DE. Ist der Stand älter als die für den Aussagetyp geltende
+  Grenze, prüfe die Aussage per Websuche gegen die Plattform-Dokumentation oder
+  kennzeichne sie mit ihrem Stand. Die Regel ist eine Reißleine, nicht der
+  Normalfall: bei gepflegtem Stand löst sie nicht aus, und dann wird auch nicht
+  nachgeschlagen.
+- **Module ohne Prüfrhythmus:** In einem der beiden Rhythmen liegen nur die
+  sechs Plattform-Ordner und die sechs eben genannten Strategie-Module. Hinter
+  allen anderen steht kein wiederkehrender Check, ihr Stand sagt also nichts
+  über Aktualität. Nenne bei verderblichen Aussagen aus diesen Modulen immer den
+  Stand. Enthält so ein Modul Plattform-Fakten (typisch
+  `Format_und_Thumbnail_Guidelines` mit Seitenverhältnissen, Laufzeiten und
+  Zeichenlimits), prüfe die konkrete Angabe per Websuche nach, statt ihr wegen
+  der Repo-Herkunft zu glauben.
+- **Faktenfehler:** falsche Zahl, falsches Datum, unbelegte Behauptung über
+  Marke, Wettbewerber oder Zielgruppe. Korrigieren oder als unsicher
+  kennzeichnen. Erfundene Wettbewerber-Fakten sind immer `Muss`.
+- **Fehlende Vorbedingung:** Inhalte ohne Brand-Kontext, ohne Content-Pillars
+  oder ohne erhobene Anlässe. Nachholen oder den Output als vorläufig markieren.
+- **Fehlende Anforderung:** Erbetenes fehlt ganz oder halb. Ergänzen.
+- **Logikbruch:** Plan widerspricht der Positionierung, Maßnahme trägt das
+  gesetzte KPI-Ziel nicht. Auflösen.
+- **Nutzen-Leitplanke:** Beitrag sagt nur „das ist passiert", ohne „und das hast
+  du davon". In einen Nutzen übersetzen.
+- **Scope-Creep:** Phasen oder Kanäle sind drin, die niemand bestellt hat.
+  Entfernen.
+- **Vorgabenverstoß:** Humanizer-Pflicht nicht angewandt, Texte nicht
+  kopierbereit im eigenen Block, Format oder Sprache verletzt, Gedankenstriche
+  oder umgeschriebene Umlaute. Anpassen.
+
+**Schweregrade:** `Muss` (Korrektheit, Beleglage, Anforderung, immer beheben),
+`Sollte` (Verständlichkeit und Vorgabentreue, beheben wenn der Fix klar und
+risikoarm ist), `Kann` (kosmetisch, NICHT anfassen).
+
+**Vorrang.** Diese Prüfung läuft zuletzt und ersetzt keine der bestehenden
+Mechaniken. Reihenfolge: erst die zwei Tore des Anlass-Radars und die
+Relevanz-Spanne, dann der Rats-Modus, dann der Humanizer, dann diese
+Selbstprüfung, dann das Gate mit der menschlichen Freigabe. Prüft eine frühere
+Instanz einen Punkt schon, wird er hier nicht erneut aufgerollt.
+
+**Wie oft und wann Schluss.** Lies substanzielle Outputs mindestens zweimal
+kritisch. Prüfen heißt nicht ändern. Fertig ist ein vollständiger Durchlauf ohne
+`Muss`- oder `Sollte`-Befund. Danach stoppen und Restbedenken als Restrisiko
+ausweisen, statt weiter zu editieren.
+
+**Ausgabe.** War der Durchlauf sauber, sag nichts und lege den Entwurf vor.
+Wurde etwas geändert oder bleibt ein Risiko, hänge eine Zeile an:
+„Selbstprüfung: [was geändert wurde] · Restrisiko: [oder keins]".
+
 ## Ehrliche Degradierung
 
 Alle Kern-Module sind vorhanden (Status in `persona-modul-karte.md`), inklusive

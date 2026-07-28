@@ -67,6 +67,19 @@ LinkedIn bestraft organische Posts mit Links im Text durch deutlich reduzierte R
 1. Post ohne Link veröffentlichen
 2. Sofort danach im eigenen Post kommentieren: "Link in den Kommentaren 👇"
 
+> **Gegenposition, nicht aufgelöst.** Britta Behrens (OMR 2026) empfiehlt das
+> Gegenteil: Link in den Beitrag. Zwei Begründungen. Erstens Nutzersicht, wer
+> klicken will, soll nicht suchen müssen. Zweitens Sichtbarkeit, ein Link im
+> ersten Kommentar sei in der Relevanz-Ansicht gar nicht sichtbar, Nutzer müssten
+> erst auf "Neueste" umschalten und scrollen.
+>
+> Beide Regeln optimieren auf unterschiedliche Zielgrößen: die obige auf
+> Post-Reichweite, Behrens auf Klick und Nutzen. Beides kann gleichzeitig
+> zutreffen. Vor der Anwendung im Kundenprojekt bewusst entscheiden, welche
+> Zielgröße gilt.
+>
+> Beleglage und offener Test: `Primaerquellen_Vortraege/04_Abgleich_bestehende_Module.md`, Abschnitt C1.
+
 ---
 
 ## Engagement-Strategien

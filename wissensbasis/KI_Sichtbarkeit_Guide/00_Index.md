@@ -1,6 +1,6 @@
 # Guideline: KI-Sichtbarkeit von Social-Media-Inhalten
 
-**Stand:** Juni 2026
+**Stand:** Juli 2026 (LinkedIn-Abschnitt in `02_Plattform-Matrix.md` und `05_Quellen.md` ergänzt), übrige Inhalte Juni 2026
 **Scope:** Plattformübergreifend (YouTube, X/Twitter, Instagram, Facebook, TikTok, LinkedIn)
 **Zielanwender:innen:** Marketing-Teams, Agenturen, Content-Creator, Brand-Verantwortliche
 

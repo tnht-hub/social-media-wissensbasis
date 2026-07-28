@@ -1,7 +1,7 @@
 {
   "basis_url": "https://raw.githubusercontent.com/tnht-hub/social-media-wissensbasis/main/wissensbasis/",
-  "generiert_am": "2026-07-15",
-  "anzahl_module": 199,
+  "generiert_am": "2026-07-28",
+  "anzahl_module": 227,
   "hinweis": "Basis-URL im Feld basis_url. Bei einem Repo-Umzug hier und in skills/socialmedia-agentur/SKILL.md anpassen.",
   "modul_stand": {
     "Aktuelle_Themen_und_Newsjacking": "Juni 2026",
@@ -12,21 +12,24 @@
     "Format_und_Thumbnail_Guidelines": "Juni 2026",
     "ICP_USP_Positionierung": "Juni 2026",
     "KI_Content_Planung_Guideline": "Mai 2026",
-    "KI_Sichtbarkeit_Guide": "Juni 2026",
+    "KI_Sichtbarkeit_Guide": "Juli 2026",
+    "Kalkulation_und_Angebot": "Juli 2026",
     "Krisenkommunikation_Playbook": "Mai 2026",
     "Local_Regional_Social_Media": "Juni 2026",
     "Marketing_Psychologie_und_Prinzipien": "Juni 2026",
-    "Measurement_Reporting_Guide": "Juli 2026",
+    "Measurement_Reporting_Guide": "Juni 2026",
     "Paid_Performance_Methodik": "Juni 2026",
+    "Primaerquellen_Vortraege": "Juli 2026",
     "Profilanalyse_IST_Analyse": "Juni 2026",
+    "Projektbetrieb_und_Freigaben": "Juli 2026",
     "Recht_Compliance_DE": "Juli 2026",
     "Visual_Production_Methodik": "Mai 2026",
-    "facebook": "Juli 2026",
-    "instagram": "Juli 2026",
-    "linkedin": "Juli 2026",
-    "tiktok": "Juli 2026",
-    "x-twitter": "Juli 2026",
-    "youtube": "Juli 2026"
+    "facebook": "Juni 2026",
+    "instagram": "Juni 2026",
+    "linkedin": "Juni 2026",
+    "tiktok": "Juni 2026",
+    "x-twitter": "Juni 2026",
+    "youtube": "Juni 2026"
   },
   "module": [
     {
@@ -324,6 +327,18 @@
       "stand": "Juli 2026"
     },
     {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/08_Typografie-im-Slide-und-Carousel.md",
+      "titel": "Säule 8: Typografie im Slide und Carousel",
+      "stand": "Juni 2026"
+    },
+    {
+      "modul": "Format_und_Thumbnail_Guidelines",
+      "datei": "Format_und_Thumbnail_Guidelines/09_Carousel-Kritik-Raster.md",
+      "titel": "Säule 9: Carousel-Kritik-Raster (5 Kriterien)",
+      "stand": "Juni 2026"
+    },
+    {
       "modul": "ICP_USP_Positionierung",
       "datei": "ICP_USP_Positionierung/00_Index.md",
       "titel": "Guideline: Von der Zielgruppe zur Positionierung (Phase 2: SOLL)",
@@ -441,37 +456,85 @@
       "modul": "KI_Sichtbarkeit_Guide",
       "datei": "KI_Sichtbarkeit_Guide/00_Index.md",
       "titel": "Guideline: KI-Sichtbarkeit von Social-Media-Inhalten",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "KI_Sichtbarkeit_Guide",
       "datei": "KI_Sichtbarkeit_Guide/01_Grundlagen.md",
       "titel": "01 Grundlagen: Zitierung, Training, Zugang",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "KI_Sichtbarkeit_Guide",
       "datei": "KI_Sichtbarkeit_Guide/02_Plattform-Matrix.md",
       "titel": "02 Plattform-Matrix: KI-Sichtbarkeit im Vergleich",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "KI_Sichtbarkeit_Guide",
       "datei": "KI_Sichtbarkeit_Guide/03_Hebel.md",
       "titel": "03 Hebel: Was tatsächlich zur Zitierung führt",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "KI_Sichtbarkeit_Guide",
       "datei": "KI_Sichtbarkeit_Guide/04_Failure-Modi.md",
       "titel": "04 Failure-Modi: Verbreitete Irrtümer",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "KI_Sichtbarkeit_Guide",
       "datei": "KI_Sichtbarkeit_Guide/05_Quellen.md",
       "titel": "05 Quellen",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Kalkulation_und_Angebot",
+      "datei": "Kalkulation_und_Angebot/00_Index.md",
+      "titel": "Kalkulation und Angebot für Social-Media-Leistungen",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Kalkulation_und_Angebot",
+      "datei": "Kalkulation_und_Angebot/01_Aufwandsrichtwerte.md",
+      "titel": "Säule 1: Aufwandsrichtwerte",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Kalkulation_und_Angebot",
+      "datei": "Kalkulation_und_Angebot/02_Kalkulationslogik.md",
+      "titel": "Säule 2: Kalkulationslogik",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Kalkulation_und_Angebot",
+      "datei": "Kalkulation_und_Angebot/03_Preismodelle_und_Marktbenchmarks.md",
+      "titel": "Säule 3: Preismodelle und Marktbenchmarks",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Kalkulation_und_Angebot",
+      "datei": "Kalkulation_und_Angebot/04_Scoping_und_Annahmen.md",
+      "titel": "Säule 4: Scoping und Annahmen",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Kalkulation_und_Angebot",
+      "datei": "Kalkulation_und_Angebot/05_Angebotspruefung.md",
+      "titel": "Säule 5: Angebotsprüfung",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Kalkulation_und_Angebot",
+      "datei": "Kalkulation_und_Angebot/06_Failure-Modi.md",
+      "titel": "Säule 6: Failure-Modi",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Kalkulation_und_Angebot",
+      "datei": "Kalkulation_und_Angebot/07_Quellen.md",
+      "titel": "Säule 7: Quellen",
+      "stand": "Juli 2026"
     },
     {
       "modul": "Krisenkommunikation_Playbook",
@@ -639,7 +702,7 @@
       "modul": "Measurement_Reporting_Guide",
       "datei": "Measurement_Reporting_Guide/04_Benchmarks.md",
       "titel": "Säule 4 - Benchmarks und ihre Interpretation",
-      "stand": "Juli 2026"
+      "stand": "Juni 2026"
     },
     {
       "modul": "Measurement_Reporting_Guide",
@@ -714,6 +777,60 @@
       "stand": "Juni 2026"
     },
     {
+      "modul": "Primaerquellen_Vortraege",
+      "datei": "Primaerquellen_Vortraege/00_Index.md",
+      "titel": "Primärquellen: Vorträge und Keynotes",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Primaerquellen_Vortraege",
+      "datei": "Primaerquellen_Vortraege/01_OMR26_Behrens_LinkedIn.md",
+      "titel": "Dossier: Britta Behrens, \"The State of LinkedIn 2026 – Cut the Bullsh*t\"",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Primaerquellen_Vortraege",
+      "datei": "Primaerquellen_Vortraege/02_OMR26_Raman_FutureOfWork.md",
+      "titel": "Dossier: Aneesh Raman (LinkedIn), Future of Work",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Primaerquellen_Vortraege",
+      "datei": "Primaerquellen_Vortraege/03_Anwendungsregeln.md",
+      "titel": "03 Anwendungsregeln",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Primaerquellen_Vortraege",
+      "datei": "Primaerquellen_Vortraege/04_Abgleich_bestehende_Module.md",
+      "titel": "04 Abgleich mit bestehenden Modulen",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Primaerquellen_Vortraege",
+      "datei": "Primaerquellen_Vortraege/05_Failure-Modi.md",
+      "titel": "05 Failure-Modi",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Primaerquellen_Vortraege",
+      "datei": "Primaerquellen_Vortraege/06_Quellen.md",
+      "titel": "06 Quellen",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Primaerquellen_Vortraege",
+      "datei": "Primaerquellen_Vortraege/transkripte/01_OMR26_Behrens_transkript.md",
+      "titel": "Transkript: Britta Behrens, \"The State of LinkedIn 2026 – Cut the Bullsh*t\"",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Primaerquellen_Vortraege",
+      "datei": "Primaerquellen_Vortraege/transkripte/02_OMR26_Raman_transkript.md",
+      "titel": "Transkript: Aneesh Raman, Fireside Chat \"Was jetzt wirklich zählt\"",
+      "stand": "Juli 2026"
+    },
+    {
       "modul": "Profilanalyse_IST_Analyse",
       "datei": "Profilanalyse_IST_Analyse/00_Index.md",
       "titel": "Guideline: Profilanalyse & IST-Analyse",
@@ -754,6 +871,60 @@
       "datei": "Profilanalyse_IST_Analyse/06_Quellen.md",
       "titel": "06 Quellen",
       "stand": "Juni 2026"
+    },
+    {
+      "modul": "Projektbetrieb_und_Freigaben",
+      "datei": "Projektbetrieb_und_Freigaben/00_Index.md",
+      "titel": "Projektbetrieb und Freigaben",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Projektbetrieb_und_Freigaben",
+      "datei": "Projektbetrieb_und_Freigaben/01_Kundenonboarding.md",
+      "titel": "Säule 1: Kundenonboarding",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Projektbetrieb_und_Freigaben",
+      "datei": "Projektbetrieb_und_Freigaben/02_Rollen_und_Verantwortung.md",
+      "titel": "Säule 2: Rollen und Verantwortung",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Projektbetrieb_und_Freigaben",
+      "datei": "Projektbetrieb_und_Freigaben/03_Freigabe-Workflows.md",
+      "titel": "Säule 3: Freigabe-Workflows",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Projektbetrieb_und_Freigaben",
+      "datei": "Projektbetrieb_und_Freigaben/04_Betriebsrhythmus.md",
+      "titel": "Säule 4: Betriebsrhythmus",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Projektbetrieb_und_Freigaben",
+      "datei": "Projektbetrieb_und_Freigaben/05_Eskalation_und_Konflikt.md",
+      "titel": "Säule 5: Eskalation und Konflikt",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Projektbetrieb_und_Freigaben",
+      "datei": "Projektbetrieb_und_Freigaben/06_Offboarding.md",
+      "titel": "Säule 6: Offboarding",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Projektbetrieb_und_Freigaben",
+      "datei": "Projektbetrieb_und_Freigaben/07_Failure-Modi.md",
+      "titel": "Säule 7: Failure-Modi",
+      "stand": "Juli 2026"
+    },
+    {
+      "modul": "Projektbetrieb_und_Freigaben",
+      "datei": "Projektbetrieb_und_Freigaben/08_Quellen.md",
+      "titel": "Säule 8: Quellen",
+      "stand": "Juli 2026"
     },
     {
       "modul": "Recht_Compliance_DE",
@@ -915,7 +1086,7 @@
       "modul": "facebook",
       "datei": "facebook/04-features-aktuell.md",
       "titel": "Facebook Features: IST-Zustand Juli 2026",
-      "stand": "Juli 2026"
+      "stand": "Juni 2026"
     },
     {
       "modul": "facebook",
@@ -969,7 +1140,7 @@
       "modul": "instagram",
       "datei": "instagram/04-features-aktuell.md",
       "titel": "Instagram Features: IST-Zustand Juli 2026",
-      "stand": "Juli 2026"
+      "stand": "Juni 2026"
     },
     {
       "modul": "instagram",
@@ -1023,7 +1194,7 @@
       "modul": "linkedin",
       "datei": "linkedin/04-features-aktuell.md",
       "titel": "LinkedIn Features: IST-Zustand Juli 2026",
-      "stand": "Juli 2026"
+      "stand": "Juni 2026"
     },
     {
       "modul": "linkedin",
@@ -1083,7 +1254,7 @@
       "modul": "tiktok",
       "datei": "tiktok/04-features-aktuell.md",
       "titel": "TikTok Features: IST-Zustand Juli 2026",
-      "stand": "Juli 2026"
+      "stand": "Juni 2026"
     },
     {
       "modul": "tiktok",
@@ -1137,7 +1308,7 @@
       "modul": "x-twitter",
       "datei": "x-twitter/04-features-aktuell.md",
       "titel": "X (Twitter) Features: IST-Zustand Juli 2026",
-      "stand": "Juli 2026"
+      "stand": "Juni 2026"
     },
     {
       "modul": "x-twitter",
@@ -1191,7 +1362,7 @@
       "modul": "youtube",
       "datei": "youtube/04-features-aktuell.md",
       "titel": "YouTube Features: IST-Zustand Juli 2026",
-      "stand": "Juli 2026"
+      "stand": "Juni 2026"
     },
     {
       "modul": "youtube",

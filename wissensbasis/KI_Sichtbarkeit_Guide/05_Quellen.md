@@ -1,6 +1,6 @@
 # 05 Quellen
 
-Alle Quellen mit Datum und Konfidenz-Label. Stand: Juni 2026.
+Alle Quellen mit Datum und Konfidenz-Label. Stand: Juli 2026 (LinkedIn-Abschnitt ergänzt), übrige Abschnitte Juni 2026.
 
 Konfidenz: **dokumentiert** = Primär- oder offizielle Quelle; **glaubwürdig** = seriöse Dritte (auch Anbieter-Studien); **spekulativ** = nicht belegt.
 
@@ -48,6 +48,14 @@ Konfidenz: **dokumentiert** = Primär- oder offizielle Quelle; **glaubwürdig** 
 - **9to5Google, Google indexes TikTok videos** (dokumentiert, Februar 2024): TikTok-Videos in Google-Suchergebnissen.
   https://9to5google.com/2024/02/01/google-tiktok-search-featured-snippets/
 
-## LinkedIn (Querverweis)
+## LinkedIn
 
-- Siehe `linkedin/01-algorithmus.md` (AI-Zitierplattform) und `linkedin/08-profil-optimierung.md` (Profil im LLM-Ranking, Begriffsklärung Grounding Page).
+- **Semrush, "We Analyzed 89K LinkedIn URLs Cited in AI Search: Here's What Drives Visibility"** (glaubwürdig, Anbieter-Studie), Margarita Loktionova, 10. März 2026: 325.000 Prompts über ChatGPT Search, Google AI Mode und Perplexity, Januar bis Februar 2026, 12 Branchenkategorien, daraus 89.000 zitierte LinkedIn-URLs, in Zusammenarbeit mit LinkedIn ausgewertet. LinkedIn Platz 2 aller Domains, rund 11 % Zitieranteil. Volltext gegengeprüft am 27.07.2026.
+  https://www.semrush.com/blog/linkedin-ai-visibility-study/
+- **PPC Land, "LinkedIn ranks #2 in AI citations – what 89K URLs reveal about B2B visibility"** (glaubwürdig, Fachmedium), 10. März 2026: Sekundärberichterstattung zur Studie.
+  https://ppc.land/linkedin-ranks-2-in-ai-citations-what-89k-urls-reveal-about-b2b-visibility/
+- **PPC Land, "Semrush maps how LinkedIn content earns citations in AI search tools"** (glaubwürdig, Fachmedium), 9. Juni 2026: zweite Berichterstattung.
+  https://ppc.land/semrush-maps-how-linkedin-content-earns-citations-in-ai-search-tools/
+- **Britta Behrens, "The State of LinkedIn 2026 – Cut the Bullsh\*t"**, OMR Festival 2026 (Primärquelle für die Einordnung, nicht für die Zahlen): bezeichnet LinkedIn als "Tor in die AI-Tools" und macht diesen Punkt zur Kernbotschaft ihrer Keynote. Dossier mit Belegstatus je Aussage in `Primaerquellen_Vortraege/01_OMR26_Behrens_LinkedIn.md`, Volltranskript in `Primaerquellen_Vortraege/transkripte/`.
+  https://www.youtube.com/watch?v=06WnD9rhCqY
+- Siehe außerdem `linkedin/01-algorithmus.md` (AI-Zitierplattform) und `linkedin/08-profil-optimierung.md` (Profil im LLM-Ranking, Begriffsklärung Grounding Page).
