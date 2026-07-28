@@ -24,12 +24,12 @@
     "Projektbetrieb_und_Freigaben": "Juli 2026",
     "Recht_Compliance_DE": "Juli 2026",
     "Visual_Production_Methodik": "Mai 2026",
-    "facebook": "Juni 2026",
-    "instagram": "Juni 2026",
-    "linkedin": "Juni 2026",
-    "tiktok": "Juni 2026",
-    "x-twitter": "Juni 2026",
-    "youtube": "Juni 2026"
+    "facebook": "Juli 2026",
+    "instagram": "Juli 2026",
+    "linkedin": "Juli 2026",
+    "tiktok": "Juli 2026",
+    "x-twitter": "Juli 2026",
+    "youtube": "Juli 2026"
   },
   "module": [
     {
@@ -1068,49 +1068,49 @@
       "modul": "facebook",
       "datei": "facebook/01-algorithmus.md",
       "titel": "Facebook Algorithmus: IST-Zustand Juni 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "facebook",
       "datei": "facebook/02-content-formate.md",
       "titel": "Facebook Content-Formate: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "facebook",
       "datei": "facebook/03-posting-zeiten-frequenz.md",
       "titel": "Facebook Posting-Zeiten & Frequenz: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "facebook",
       "datei": "facebook/04-features-aktuell.md",
       "titel": "Facebook Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "facebook",
       "datei": "facebook/05-best-practices.md",
       "titel": "Facebook Best Practices: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "facebook",
       "datei": "facebook/06-analytics-metriken.md",
       "titel": "Facebook Analytics & Metriken: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "facebook",
       "datei": "facebook/07-ads-werbung.md",
       "titel": "Facebook Ads & Werbung: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "facebook",
       "datei": "facebook/README.md",
       "titel": "Facebook: Wissensdatenbank IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "instagram",
@@ -1122,49 +1122,49 @@
       "modul": "instagram",
       "datei": "instagram/01-algorithmus.md",
       "titel": "Instagram Algorithmus: IST-Zustand Juni 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "instagram",
       "datei": "instagram/02-content-formate.md",
       "titel": "Instagram Content-Formate: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "instagram",
       "datei": "instagram/03-posting-zeiten-frequenz.md",
       "titel": "Instagram Posting-Zeiten & Frequenz: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "instagram",
       "datei": "instagram/04-features-aktuell.md",
       "titel": "Instagram Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "instagram",
       "datei": "instagram/05-best-practices.md",
       "titel": "Instagram Best Practices: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "instagram",
       "datei": "instagram/06-analytics-metriken.md",
       "titel": "Instagram Analytics & Metriken: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "instagram",
       "datei": "instagram/07-ads-werbung.md",
       "titel": "Instagram Ads & Werbung: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "instagram",
       "datei": "instagram/README.md",
       "titel": "Instagram Wissensdatenbank",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
@@ -1176,55 +1176,55 @@
       "modul": "linkedin",
       "datei": "linkedin/01-algorithmus.md",
       "titel": "LinkedIn Algorithmus: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
       "datei": "linkedin/02-content-formate.md",
       "titel": "LinkedIn Content-Formate: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
       "datei": "linkedin/03-posting-zeiten-frequenz.md",
       "titel": "LinkedIn Posting-Zeiten & Frequenz: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
       "datei": "linkedin/04-features-aktuell.md",
       "titel": "LinkedIn Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
       "datei": "linkedin/05-best-practices.md",
       "titel": "LinkedIn Best Practices: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
       "datei": "linkedin/06-analytics-metriken.md",
       "titel": "LinkedIn Analytics & Metriken: IST-Zustand Juni 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
       "datei": "linkedin/07-ads-werbung.md",
       "titel": "LinkedIn Ads & Werbung: IST-Zustand Juni 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
       "datei": "linkedin/08-profil-optimierung.md",
       "titel": "LinkedIn Profil-Optimierung: IST-Zustand Juni 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "linkedin",
       "datei": "linkedin/README.md",
       "titel": "LinkedIn Wissensdatenbank",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "tiktok",
@@ -1236,49 +1236,49 @@
       "modul": "tiktok",
       "datei": "tiktok/01-algorithmus.md",
       "titel": "TikTok Algorithmus: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "tiktok",
       "datei": "tiktok/02-content-formate.md",
       "titel": "TikTok Content-Formate: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "tiktok",
       "datei": "tiktok/03-posting-zeiten-frequenz.md",
       "titel": "TikTok Posting-Zeiten & Frequenz: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "tiktok",
       "datei": "tiktok/04-features-aktuell.md",
       "titel": "TikTok Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "tiktok",
       "datei": "tiktok/05-best-practices.md",
       "titel": "TikTok Best Practices: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "tiktok",
       "datei": "tiktok/06-analytics-metriken.md",
       "titel": "TikTok Analytics & Metriken: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "tiktok",
       "datei": "tiktok/07-ads-werbung.md",
       "titel": "TikTok Ads & Werbung: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "tiktok",
       "datei": "tiktok/README.md",
       "titel": "TikTok Wissensdatenbank: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "x-twitter",
@@ -1290,49 +1290,49 @@
       "modul": "x-twitter",
       "datei": "x-twitter/01-algorithmus.md",
       "titel": "X (Twitter) Algorithmus: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "x-twitter",
       "datei": "x-twitter/02-content-formate.md",
       "titel": "X (Twitter) Content-Formate: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "x-twitter",
       "datei": "x-twitter/03-posting-zeiten-frequenz.md",
       "titel": "X (Twitter) Posting-Zeiten & Frequenz: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "x-twitter",
       "datei": "x-twitter/04-features-aktuell.md",
       "titel": "X (Twitter) Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "x-twitter",
       "datei": "x-twitter/05-best-practices.md",
       "titel": "X (Twitter) Best Practices: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "x-twitter",
       "datei": "x-twitter/06-analytics-metriken.md",
       "titel": "X (Twitter) Analytics & Metriken: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "x-twitter",
       "datei": "x-twitter/07-ads-werbung.md",
       "titel": "X (Twitter) Ads & Werbung: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "x-twitter",
       "datei": "x-twitter/README.md",
       "titel": "X (Twitter) Wissensdatenbank: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",
@@ -1344,55 +1344,55 @@
       "modul": "youtube",
       "datei": "youtube/01-algorithmus.md",
       "titel": "YouTube Algorithmus: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",
       "datei": "youtube/02-content-formate.md",
       "titel": "YouTube Content-Formate: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",
       "datei": "youtube/03-posting-zeiten-frequenz.md",
       "titel": "YouTube Posting-Zeiten & Frequenz: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",
       "datei": "youtube/04-features-aktuell.md",
       "titel": "YouTube Features: IST-Zustand Juli 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",
       "datei": "youtube/05-best-practices.md",
       "titel": "YouTube Best Practices: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",
       "datei": "youtube/06-analytics-metriken.md",
       "titel": "YouTube Analytics & Metriken: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",
       "datei": "youtube/07-ads-werbung.md",
       "titel": "YouTube Ads & Werbung: IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",
       "datei": "youtube/08-kanal-seo-und-ki-sichtbarkeit.md",
       "titel": "YouTube Kanal-SEO und KI-Sichtbarkeit: IST-Zustand Juni 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     },
     {
       "modul": "youtube",
       "datei": "youtube/README.md",
       "titel": "YouTube: Wissensdatenbank IST-Zustand Mai 2026",
-      "stand": "Juni 2026"
+      "stand": "Juli 2026"
     }
   ]
 }

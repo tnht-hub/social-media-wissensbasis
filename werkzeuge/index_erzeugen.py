@@ -6,6 +6,12 @@ Aufruf aus dem Repo-Wurzelverzeichnis:
 
 Die bereits eingetragene basis_url bleibt erhalten. Nach jeder inhaltlichen
 Aenderung an den Modulen dieses Werkzeug ausfuehren und das Ergebnis committen.
+
+Der Stand einer Modulgruppe bedeutet "geprueft am", nicht "geaendert am". Er wird
+aus der Stand-Zeile der 00- oder README-Datei des Modulordners gelesen, also aus
+genau einer Zeile pro Modul. Diese Zeile auch dann hochziehen, wenn ein
+Pruefdurchlauf keinen Befund hatte, sonst kann der Skill socialmedia-agentur ein
+stabiles Modul nicht von einem liegengebliebenen unterscheiden.
 """
 import os
 import re
@@ -17,7 +23,10 @@ BASE = os.path.join(REPO, "wissensbasis")
 INDEX = os.path.join(BASE, "index.json")
 PLATZHALTER = "https://raw.githubusercontent.com/__OWNER__/__REPO__/main/wissensbasis/"
 
-stand_line = re.compile(r"^\**\s*Stand\b.*?[: ]\s*\**\s*([A-Za-zäöüÄÖÜ]+\.?\s*20\d{2})", re.IGNORECASE)
+# "Stand" und "Zuletzt aktualisiert" gelten gleichwertig als Stand-Angabe.
+stand_line = re.compile(
+    r"^\**\s*(?:Stand|Zuletzt\s+aktualisiert)\b.*?[: ]\s*\**\s*([A-Za-zäöüÄÖÜ]+\.?\s*20\d{2})",
+    re.IGNORECASE)
 month = r"(?:Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)\s*20\d{2}"
 h1_re = re.compile(r"^#\s+(.+)$")
 h1_month = re.compile(month, re.IGNORECASE)
@@ -58,7 +67,10 @@ def main():
         p = os.path.join(BASE, d)
         if not os.path.isdir(p):
             continue
+        # Quellen-Dateien datieren die Link-Liste, nicht den Inhalt, und
+        # taugen deshalb nicht als Stand-Geber der Modulgruppe.
         cand = [f for f in sorted(os.listdir(p)) if f.lower().endswith(".md")
+                and "quellen" not in f.lower()
                 and (f.lower().startswith("00") or "index" in f.lower() or "readme" in f.lower())]
         st = None
         for f in cand:
