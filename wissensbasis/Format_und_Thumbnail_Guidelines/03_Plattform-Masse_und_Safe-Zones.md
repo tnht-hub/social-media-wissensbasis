@@ -18,6 +18,13 @@ Konkrete Maße und die UI-bedingten Safe-Zones je Plattform. Maße veralten schn
 - Story: 1080 x 1920, oben und unten je rund 250 px für Profilzeile und Buttons frei lassen.
 - Eigenes Cover hochladen wird empfohlen, Cover ist auch nach dem Posten änderbar.
 
+**Prüfauftrag Brand-System, offen seit August 2026.** Instagram hat am 13. August 2026 ein neues Wordmark und ein überarbeitetes Brand-System vorgestellt, das laut Instagram neue Schriften, Icons und Formate umfasst. Die Maßangaben oben sind davon nach aktueller Kenntnis **nicht** betroffen, im Prüflauf vom 18. August 2026 wurde keine geänderte Maß-, Limit- oder Laufzeitangabe gefunden. Zwei Punkte bleiben offen:
+
+1. Was Instagram unter „neuen Formaten" versteht, ist aus den geprüften Quellen nicht ableitbar. Beim nächsten Pflegelauf die Design-at-Meta-Seite öffnen und klären, ob Maßangaben gemeint sind.
+2. Alte Instagram-Wordmarks und Icons in Vorlagen, Präsentationen und Kundendokumenten tauschen. Siehe auch `Visual_Production_Methodik/08_Asset-Management.md`.
+
+> **Quelle:** SocialMediaToday, 13.08.2026: https://www.socialmediatoday.com/news/instagram-reveals-its-new-logo/827871/
+
 ## TikTok (Quelle: Kreatli, Stand Januar 2026)
 
 - Video und Cover 1080 x 1920 (9:16).

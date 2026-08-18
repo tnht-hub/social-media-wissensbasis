@@ -152,3 +152,26 @@ Verifiziert per Browser gegen SocialBee-Tracker, Abschnitte „July 2026 Faceboo
 | IG-Stories-Optionen für Meta-AI-Smart-Glasses | Aktiv | Seit Juli 2026; neue Story-Formate „Multi-cam" und „Spin view" sowie Bearbeitung (Audio Cleanup, Expand, Speed) exklusiv für Meta-AI-Brillen (Quelle: SocialBee, Juli 2026) |
 
 Quelle: https://socialbee.com/blog/facebook-updates/
+
+---
+
+## Aktualitätsprüfung 18.08.2026: Neue Features August 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker (Stand 8. August), HeyOrca (Stand 4. August), SocialMediaToday Topic-Seite und Emplifi.
+
+| Feature | Status | Details |
+|---|---|---|
+| Facebook Verified | Aktiv | Seit 24. Juli 2026, kostenloses Abzeichen, das bestätigt, dass eine echte Person hinter einem Profil steht. Prüfung per kurzem Video-Selfie gegen bestehende Profilfotos, kein Abo nötig. Sichtbar an zentralen Stellen inklusive Marketplace und Dating (Quelle: Emplifi, August 2026) |
+| Meta Creator Studio App: erweiterter Zugang | Aktiv | Seit August 2026, App für mehr Creator und Page-Manager geöffnet (Quelle: SocialMediaToday, August 2026) |
+| Muse Image | Aktiv | Seit 7. Juli 2026, erstes Bildmodell aus Metas Superintelligence Labs, verfügbar in Meta AI, ausgelegt auf komplexe Kreativbriefings (Quelle: Emplifi, August 2026) |
+| Meta AI wird agentisch (Muse Spark 1.1) | Aktiv | Seit August 2026, Meta AI kann mehrstufige Aufgaben planen und zu Ende führen. Verfügbar in der Meta-AI-App und auf meta.ai, Ausrollen auf WhatsApp und weitere Meta-Oberflächen läuft (Quelle: Emplifi, August 2026) |
+| KI-Remix fremder Instagram-Posts entfernt | Entfernt | Seit Juli 2026, Meta hat die Option zurückgenommen, mit KI-Werkzeugen fremde Instagram-Beiträge zu remixen (Quelle: SocialBee, Juli 2026) |
+
+**Einordnung Facebook Verified.** Mit zunehmend KI-generierten Profilen werden Identitätsnachweise zu einem eigenen Vertrauenssignal. Für die Profilbewertung heißt das: das Abzeichen sagt etwas über Echtheit, nicht über Relevanz oder Reichweite. Vermerk dazu in `Profilanalyse_IST_Analyse`.
+
+**Nicht ins Facebook-Modul aufgenommen**, da Paid-Themen. Vermerkt in `Paid_Performance_Methodik`: Stablecoin-Zahlung für Kampagnen, Wegfall der Platzierung Messenger Stories am 27. August 2026, dedizierte Ad-Exclusion-Audiences.
+
+Quellen:
+- https://emplifi.io/resources/social-media-updates/
+- https://www.socialmediatoday.com/news/meta-expands-access-to-creator-studio-app/827745/
+- https://www.socialmediatoday.com/news/meta-removes-instagrams-ai-remix-option/825017/

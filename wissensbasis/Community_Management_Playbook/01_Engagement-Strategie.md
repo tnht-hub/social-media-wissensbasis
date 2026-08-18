@@ -29,7 +29,21 @@ Vier Hebel sind durch mehrere unabhängige Quellen belegt:
 
 ### 1. Überhaupt antworten
 
-Der größte Unterschied liegt nicht zwischen guter und schlechter Antwort, sondern zwischen antworten und schweigen. Auf Threads hebt das Beantworten von Kommentaren das Engagement um bis zu 42 Prozent. Posts mit aktiven Antwort-Threads schlagen konsistent solche ohne.
+Der größte Unterschied liegt nicht zwischen guter und schlechter Antwort, sondern zwischen antworten und schweigen. Posts mit aktiven Antwort-Threads schlagen konsistent solche ohne.
+
+Buffer hat den Effekt je Plattform beziffert (Stand August 2026):
+
+| Plattform | Engagement-Zuwachs durch Antworten auf Kommentare |
+|---|---|
+| Threads | rund 42 Prozent |
+| LinkedIn | rund 30 Prozent |
+| Instagram | rund 21 Prozent |
+
+Buffer formuliert den Befund plattformübergreifend: Auf jeder untersuchten Plattform schneiden Creator, die auf Kommentare antworten, besser ab als solche, die es nicht tun. Der Zuwachs liegt je Plattform zwischen 5 und 42 Prozent.
+
+Auf LinkedIn kommt seit August 2026 ein zweiter Effekt hinzu: Kommentare werden pro Nutzer nach Relevanz sortiert. Ein Kommentar ist dort nicht mehr nur ein Signal für den Post, sondern ein eigenes Sichtbarkeitsobjekt. Details in `linkedin/01-algorithmus.md`.
+
+> **Quelle:** Buffer, Datenübersicht: https://buffer.com/resources/data/
 
 ### 2. Schnell antworten
 
@@ -38,6 +52,10 @@ Reaktionszeit ist ein eigener Hebel (siehe `04_Reaktionszeiten_und_SLAs.md`). Fr
 ### 3. Konsistent präsent sein
 
 Buffer: Wer regelmäßig postet, baut messbar mehr Reichweite auf. Der Report beziffert den „No-Post-Penalty" mit rund 32 zusätzlichen Followern pro Woche allein dadurch, dass überhaupt gepostet wird. Der Effekt gilt analog fürs Engagement: Eine Community, die wochenlang keine Reaktion bekommt, hört auf zu kommentieren.
+
+Die Auswertung von rund 52 Mio. Posts (Buffer, State of Social Media Engagement 2026) beziffert den Konsistenz-Effekt deutlicher: Wer in 20 von 26 Wochen postet, erreicht rund 450 Prozent mehr Engagement pro Post als wer in vier Wochen oder weniger postet. Das ist ein Zusammenhang, keine belegte Ursache, die Richtung stützt aber die Regelmäßigkeitsregel.
+
+> **Quelle:** https://buffer.com/resources/state-of-social-media-engagement-2026/
 
 ### 4. Echte Konversation statt Reaktion-Automatik
 

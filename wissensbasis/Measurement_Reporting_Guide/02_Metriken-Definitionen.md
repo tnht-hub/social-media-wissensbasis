@@ -49,6 +49,21 @@ Es gibt nicht *die* Engagement-Rate. Drei gängige Berechnungsbasen, die zu deut
 ### Video View
 **Definition:** Achtung, Plattform-abhängig. Ein „View" zählt je nach Plattform nach unterschiedlicher Dauer (z.B. bereits ab dem Anspielen, ab 2 oder 3 Sekunden). Vor jedem Vergleich die Definition prüfen.
 
+**Stand August 2026:** TikTok zählt seit Jahren ab Wiedergabestart. Instagram hat 2024 eine einheitliche View-Metrik über alle Formate eingeführt. YouTube zieht am 24. August 2026 nach. X zählt weiterhin abweichend.
+
+#### Bruch in der YouTube-Zeitreihe ab 24. August 2026
+
+Ab dem 24. August 2026 zählt YouTube einen View ab Wiedergabestart, ohne Mindest-Sehdauer, einheitlich für VOD, Shorts und Live. Das ist eine Definitionsänderung, keine Leistungsveränderung.
+
+**Regeln für Reportings:**
+
+1. YouTube-View-Zahlen vor und nach dem 24. August 2026 nicht ohne Bruchmarkierung gegenüberstellen. Es sind zwei unterschiedliche Metriken.
+2. In jedem Report, der über den Stichtag hinweg vergleicht, den Bruch sichtbar kennzeichnen und die Ursache benennen. Sonst liest die Kundenseite einen Zuwachs, den es nicht gibt.
+3. Für Leistungsaussagen ab September 2026 auf Watchtime, durchschnittliche Sehdauer und Completion Rate stützen. Diese Größen bleiben unverändert definiert.
+4. Jahresvergleiche für YouTube-Views sind bis August 2027 unbrauchbar.
+
+> **Quelle:** TeamYouTube auf X, 17. August 2026, aufbereitet von OnlineMarketing.de am 18. August 2026: https://onlinemarketing.de/social-media-marketing/youtube-definiert-views-neu-alle-videoformate
+
 ### Watchtime (Wiedergabezeit)
 **Definition:** Gesamte oder durchschnittliche Zeit, die mit dem Ansehen verbracht wurde.
 **Bedeutung:** Zentrale Ranking-Größe auf YouTube und TikTok. Misst Tiefe statt nur Breite der Aufmerksamkeit.

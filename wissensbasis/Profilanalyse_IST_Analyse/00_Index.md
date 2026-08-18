@@ -1,6 +1,6 @@
 # Guideline: Profilanalyse & IST-Analyse
 
-**Stand:** Juni 2026
+**Stand:** August 2026 (Ergänzung aus Plattform-Prüflauf: Facebook Verified als Vertrauenssignal in `01_Audit-Framework.md`), übrige Inhalte Juni 2026
 **Scope:** Plattformübergreifend (Instagram, TikTok, LinkedIn, Facebook, X/Twitter, YouTube), nüchterne Bestandsaufnahme bestehender Social-Media-Auftritte plus Wettbewerbs-Benchmark
 **Zielanwender:innen:** Agentur-Teams im Onboarding, Strategie-Verantwortliche, Social-Media-Manager:innen, die einen Account übernehmen
 

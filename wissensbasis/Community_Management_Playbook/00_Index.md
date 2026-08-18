@@ -1,6 +1,6 @@
 # Community-Management & Engagement-Playbook
 
-**Stand:** Juni 2026
+**Stand:** August 2026 (Ergänzung aus Plattform-Prüflauf: Antwort-Effekt je Plattform und Konsistenz-Effekt in `01_Engagement-Strategie.md`), übrige Inhalte Juni 2026
 **Scope:** Schmal bis mittel, die laufende Interaktion mit der Community. Engagement-Strategie, Moderation, DM- und Inbox-Handling, Reaktionszeiten/SLAs, Tonalität. Querschnitts-Disziplin zwischen Content, Customer Service und (an der oberen Grenze) Krisenkommunikation.
 **Zielanwender:innen:** Community-Manager:innen, Social-Media-Manager:innen, Customer-Care-Teams in Social, Account-Verantwortliche in Agenturen
 

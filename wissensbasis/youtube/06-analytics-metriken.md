@@ -12,6 +12,23 @@ YouTube Studio ist das umfangreichste native Analytics-Tool im Social-Media-Bere
 - **"Seller" Filter** (Dezember 2025): Neuer Filter für Shopping-Analytics
 - **Ask Studio AI** (Rollout ab Oktober 2025): AI-Chatbot, der Kanal-Daten auswertet und Ideen liefert
 - **Aggregated AdSense Earnings** (März 2026): Einnahmen über mehrere verknüpfte Konten zusammengefasst sichtbar
+- **Analytics-Tab wird zu „Insights"** (Juli 2026): Umbenennung, gruppiertes Layout, Detailtiefe wandert in den Advanced Mode, vier KI-Insight-Cards (Channel Summary, Content Patterns, Audience Loyalty, Video Summary) im Test
+- **Neue View-Definition** (24. August 2026): Ein View zählt ab Wiedergabestart, ohne Mindest-Sehdauer, einheitlich für VOD, Shorts und Live. Siehe eigenen Abschnitt unten
+
+---
+
+## Neue View-Definition ab 24. August 2026
+
+**Was sich ändert.** Ab dem 24. August 2026 zählt YouTube einen View ab dem Moment, in dem die Wiedergabe startet. Es gibt keine Mindest-Sehdauer mehr. Die Regel gilt einheitlich für Videos on Demand, Shorts und Livestreams. YouTube begründet den Schritt damit, dass Creator ihre tatsächliche Sichtbarkeit gegenüber Werbepartnern belegen können.
+
+**Folge für Reportings.** Die View-Zahlen vieler Kanäle steigen sprunghaft, ohne dass sich die Leistung verändert hat. Zwei Regeln daraus:
+
+- Reportings, die über den 24. August 2026 hinweg vergleichen, dürfen View-Zahlen nicht ohne Bruchmarkierung gegenüberstellen. Vorher und nachher sind unterschiedliche Metriken.
+- Für Leistungsaussagen ab September 2026 auf Sehdauer, durchschnittliche Sehdauer und Completion Rate stützen. Diese Größen bleiben unverändert definiert.
+
+**Einordnung im Markt.** TikTok zählt Aufrufe seit Jahren ab Wiedergabestart, Instagram hat 2024 eine einheitliche View-Metrik über alle Formate eingeführt. YouTube zieht damit nach. Der plattformübergreifende Vergleich von View-Zahlen wird dadurch belastbarer, der Vergleich mit eigenen historischen Werten schlechter.
+
+> **Quelle:** TeamYouTube auf X, 17. August 2026, aufbereitet von OnlineMarketing.de am 18. August 2026: https://onlinemarketing.de/social-media-marketing/youtube-definiert-views-neu-alle-videoformate
 
 ---
 
@@ -21,7 +38,7 @@ YouTube Studio ist das umfangreichste native Analytics-Tool im Social-Media-Bere
 
 | Metrik | Bedeutung |
 |---|---|
-| **Views** | Gesamtanzahl Aufrufe |
+| **Views** | Gesamtanzahl Aufrufe. Ab 24. August 2026 ab Wiedergabestart gezählt, ohne Mindest-Sehdauer |
 | **Impressionen** | Wie oft das Thumbnail angezeigt wurde |
 | **Click-Through Rate (CTR)** | Impressionen → Klicks; zeigt Thumbnail- und Titel-Stärke |
 | **Watch Time (gesamt)** | Gesamte Sehdauer in Stunden |
@@ -36,7 +53,7 @@ YouTube Studio ist das umfangreichste native Analytics-Tool im Social-Media-Bere
 
 | Metrik | Bedeutung |
 |---|---|
-| **Views (Plays/Replays)** | Gesamtanzahl Wiedergaben inkl. Wiederholungen (neue Zählmethode April 2025) |
+| **Views (Plays/Replays)** | Gesamtanzahl Wiedergaben inkl. Wiederholungen (Zählmethode April 2025). Ab 24. August 2026 gilt die einheitliche Zählung ab Wiedergabestart für alle Formate |
 | **Watch Time** | Auch bei Shorts relevant |
 | **Swipe-Away Rate** | Wie viele scrollen weiter bevor das Short endet |
 | **Completion Rate** | Anteil die das Short zu Ende schauen |

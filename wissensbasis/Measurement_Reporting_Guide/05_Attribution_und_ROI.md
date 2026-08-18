@@ -82,3 +82,21 @@ Ein ehrlicher Report benennt, was er nicht messen kann. 2026 ist der unsichtbare
 - **Brand-Lift und Korrelation nutzen:** Wenn Awareness-Wirkung nicht klickbar attribuierbar ist, helfen Umfragen und der zeitliche Zusammenhang zwischen Kampagne und Anstieg bei Direct-Traffic oder Branded Search.
 
 **Merksatz:** Attribution ist ein Modell, keine Wahrheit. Jedes Modell trifft eine Annahme darüber, wie Gutschrift fair verteilt wird. Im Report gehört dazu, welches Modell genutzt wurde und welche Annahme es trifft.
+
+---
+
+## Google Search Console: Platform Properties (seit Juli 2026)
+
+Google hat am 7. Juli 2026 einen neuen Property-Typ in der Search Console eingeführt. Marken können damit ein Instagram-, TikTok-, X- oder YouTube-Konto verifizieren und sehen, wie die Inhalte dieses Kontos in der Google-Suche abschneiden.
+
+**Warum das für die Attribution zählt.** Damit wird erstmals plattformübergreifend messbar, welchen Anteil Social-Inhalte an der Sichtbarkeit in der Suche haben. Das schließt eine der in „Grenzen der Messbarkeit" beschriebenen Lücken zumindest teilweise, weil Social-Content bisher nur über Umwege in der Suchsicht auftauchte.
+
+**Konkrete Nutzung:**
+
+- Konten der Kundschaft in der Search Console verifizieren und als eigene Datenquelle in die Triangulation aufnehmen.
+- Für die Diskussion über Dark Social und nicht klickbare Wirkung liefert die Ansicht ein zusätzliches Argument, das nicht auf Selbstauskunft beruht.
+- Verbindung zum Modul `KI_Sichtbarkeit_Guide`, weil Suchsichtbarkeit und Zitierbarkeit in KI-Antworten zusammenhängen.
+
+**Status:** Werkzeug identifiziert, in der Praxis noch nicht getestet. Beim nächsten Pflegelauf einrichten und die Aussagekraft der Daten bewerten.
+
+> **Quelle:** Emplifi, Social Media Updates, August-Abschnitt: https://emplifi.io/resources/social-media-updates/

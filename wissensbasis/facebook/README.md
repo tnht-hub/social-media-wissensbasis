@@ -1,6 +1,6 @@
 # Facebook: Wissensdatenbank IST-Zustand Mai 2026
 
-**Zuletzt aktualisiert:** Juli 2026
+**Zuletzt aktualisiert:** August 2026
 
 Diese Datenbank dokumentiert den aktuellen Stand von Facebook als Plattform. Alle Inhalte basieren ausschließlich auf den folgenden Quellen und spiegeln den Stand **Mai 2026** wider.
 

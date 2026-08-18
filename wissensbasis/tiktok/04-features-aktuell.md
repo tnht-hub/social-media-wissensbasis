@@ -169,3 +169,24 @@ Verifiziert per Browser gegen SocialBee-Tracker, Abschnitt „July 2026 TikTok u
 | „Mini Dramas" (Ad-Format) | Aktiv | Seit Juli 2026; Marken können eigene Microseries-Inhalte über das neue Ad-Format „Mini Dramas" bewerben (Ads) (Quelle: SocialBee, Juli 2026) |
 
 Quelle: https://socialbee.com/blog/tiktok-updates/
+
+---
+
+## Aktualitätsprüfung 18.08.2026: Neue Features August 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker (Stand 8. August), HeyOrca (Stand 4. August), SocialMediaToday Topic-Seite und Emplifi.
+
+| Feature | Status | Details |
+|---|---|---|
+| Playlists für Live-Aufnahmen | Aktiv | Seit August 2026, aufgezeichnete Livestreams lassen sich zu Playlists bündeln (Quelle: SocialBee, August 2026) |
+| „Drama"-Tab: Categories, Trending, New | Aktiv | Seit August 2026, drei neue Bereiche im Drama-Tab (Quelle: SocialBee, August 2026) |
+| KI-Literacy-Tools und AI-Detection-Guide | Aktiv | Seit August 2026, Materialien zur KI-Kompetenz und ein Leitfaden zur Erkennung KI-generierter Inhalte (Quelle: Emplifi, August 2026) |
+| TikTok Shop: erweiterte Analytics | Aktiv | Seit August 2026, zusätzliche Auswertungen für Verkäufer (Quelle: Emplifi, August 2026) |
+| Dreamina Seedance 2.5 in TikTok Symphony | Aktiv | Seit August 2026, ByteDance-Modell für KI-generierte Videoanzeigen, ersetzt Seedance 2.0 (Ads) (Quelle: SocialMediaToday, August 2026) |
+
+**Nicht aufgenommen**, da reine PR, Events oder Partnerschaften ohne Feature-Bezug: ByteDance-Abkommen mit der Motion Picture Association, Disney-Partnerschaft, Music on Stage 2026, NBA-Kooperation, Schließung des Standorts Nashville.
+
+Quellen:
+- https://socialbee.com/blog/tiktok-updates/
+- https://www.socialmediatoday.com/news/tiktok-rolls-out-dreamina-seedance-25/826905/
+- https://emplifi.io/resources/social-media-updates/

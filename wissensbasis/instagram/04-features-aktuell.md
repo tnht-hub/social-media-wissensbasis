@@ -174,3 +174,39 @@ Verifiziert per Browser gegen SocialBee-Tracker, Abschnitte „July 2026 Instagr
 | Instagram Edits: Sommer-Soundeffekte | Aktiv | Seit Juli 2026; sommerthematische Soundeffekte (Quelle: SocialBee, Juli 2026) |
 
 Quelle: https://socialbee.com/blog/instagram-updates/
+
+---
+
+## Aktualitätsprüfung 18.08.2026: Neue Features August 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker (Stand 8. August), HeyOrca (Stand 14. August), SocialMediaToday Topic-Seite und OnlineMarketing.de.
+
+### Neues Wordmark und neues Brand-System (13. August 2026)
+
+Instagram hat am 13. August 2026 ein neues Wortmarken-Design vorgestellt, die erste Änderung in diesem Bereich seit zehn Jahren. Adam Mosseri begründet den Schritt damit, dass die alte Wortmarke veraltet gewirkt habe. Das neue Design sei schärfer und moderner, verweise aber auf das Original.
+
+Instagram hat zugleich ein überarbeitetes Brand-System veröffentlicht. Es umfasst laut Instagram neue Schriften, Icons und Formate.
+
+**Konsequenz für die Agenturarbeit.** Überall dort, wo das alte Instagram-Wordmark oder alte Instagram-Icons in Vorlagen, Präsentationen oder Kundendokumenten liegen, müssen die Assets getauscht werden. Prüfauftrag ist in `Format_und_Thumbnail_Guidelines` und `Visual_Production_Methodik` vermerkt.
+
+**Offene Frage.** Was Instagram unter „neuen Formaten" im Brand-System versteht, ist aus den geprüften Quellen nicht ableitbar. Beim nächsten Pflegelauf die Design-at-Meta-Seite öffnen und klären, ob damit Maßangaben gemeint sind.
+
+> **Quellen:** SocialMediaToday, 13.08.2026: https://www.socialmediatoday.com/news/instagram-reveals-its-new-logo/827871/
+> OnlineMarketing.de, 14.08.2026: https://onlinemarketing.de/social-media-marketing/instagram-sieht-anders-aus-brand-identity-update
+
+### Weitere Features
+
+| Feature | Status | Details |
+|---|---|---|
+| Bonuses für Fotos und Carousels | Aktiv | Seit August 2026, Programm, mit dem berechtigte Creator mit Foto- und Carousel-Posts Geld verdienen. Monetarisiert erstmals gezielt Standbildformate (Quelle: SocialBee, August 2026) |
+| Neue Post-Composer-UI (Mobile) | Aktiv | Seit August 2026, überarbeiteter Eingabebereich beim Posten (Quelle: SocialBee, August 2026) |
+| Catch-up-Feature für Stories | In Test | Seit August 2026, Nachhol-Ansicht für verpasste Stories (Quelle: OnlineMarketing.de, August 2026) |
+| Edits: Export direkt in Stories | Aktiv | Seit August 2026, Ausgabe aus Edits ohne Umweg in Instagram Stories (Quelle: OnlineMarketing.de, August 2026) |
+| Edits: „Folders" | In Test | Seit August 2026, Ordnerstruktur in Instagram Edits (Quelle: SocialBee, August 2026) |
+| Story als WhatsApp-Status teilen | In Test | Seit August 2026, Stories lassen sich zusätzlich als WhatsApp-Status ausspielen (Quelle: SocialBee, August 2026) |
+| „Saved"-Shortcut für Audios im Story-Composer (iOS) | In Test | Seit August 2026, Schnellzugriff auf gespeicherte Audios (Quelle: SocialBee, August 2026) |
+
+Quellen:
+- https://socialbee.com/blog/instagram-updates/
+- https://www.heyorca.com/blog/instagram-social-news
+- https://onlinemarketing.de/social-media-marketing

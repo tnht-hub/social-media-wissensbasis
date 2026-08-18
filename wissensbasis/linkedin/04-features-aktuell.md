@@ -161,3 +161,27 @@ Verifiziert per Browser gegen SocialBee-Tracker, Abschnitt „July 2026 LinkedIn
 | Premium Apply Assistant | Aktiv | Seit Juli 2026; Bewerbungs-Assistent für Jobsuchende (Rollout) (Quelle: SocialBee, Juli 2026) |
 
 Quelle: https://socialbee.com/blog/linkedin-updates/
+
+---
+
+## Aktualitätsprüfung 18.08.2026: Neue Features August 2026
+
+Verifiziert per Browser gegen SocialMediaToday Topic-Seite, HeyOrca (Stand 4. August), SocialBee (Stand 24. Juli, ohne August-Abschnitt) und Emplifi.
+
+**Hinweis zur Quellenlage:** Der SocialBee-Tracker war beim Lauf nur bis 24. Juli aktualisiert. Die August-Befunde stammen aus der SocialMediaToday-Topic-Seite, die ohne Browser nicht vollständig einsehbar war.
+
+| Feature | Status | Details |
+|---|---|---|
+| Comment-Ranking nach Relevanz | Aktiv | Seit August 2026, Kommentare werden pro Nutzer nach Relevanz sortiert, zusätzlich mehr aktuelle Diskussionen im Feed. Details in `01-algorithmus.md` (Quelle: SocialMediaToday, 09.08.2026) |
+| Playbook zur Optimierung für KI-Zitierungen | Aktiv | Seit August 2026, offizieller LinkedIn-Leitfaden, wie Inhalte in Antworten von KI-Chatbots zitiert werden. Auswertung im Modul `KI_Sichtbarkeit_Guide` (Quelle: SocialMediaToday, 11.08.2026) |
+| Playbook zu wirksamen Ad-Kampagnen | Aktiv | Seit August 2026, offizieller Leitfaden für Kampagnenaufbau (Ads) (Quelle: SocialMediaToday, August 2026) |
+| Leitfaden zu Event-Marketing | Aktiv | Seit August 2026, offizielle Empfehlungen zur Bewerbung von Events (Quelle: SocialMediaToday, August 2026) |
+| Neue offizielle Posting-Best-Practices | Aktiv | Seit Juli 2026, LinkedIn hat eigene Empfehlungen zum Posten veröffentlicht. Inhaltlich noch nicht gegen `05-best-practices.md` abgeglichen (Quelle: HeyOrca, Juli 2026) |
+| Collaborative Posts | Aktiv | Seit Juni 2026, gemeinsames Erstellen von Beiträgen mit anderen. In der bisherigen Erfassung nicht enthalten (Quelle: HeyOrca, Juni 2026) |
+| Brand Rules für Creator | Aktiv | Seit Juni 2026, Nutzer können Regeln setzen, die Kooperationsanfragen steuern. In der bisherigen Erfassung nicht enthalten (Quelle: HeyOrca, Juni 2026) |
+
+Quellen:
+- https://www.socialmediatoday.com/news/linkedin-updates-feed-display-to-drive-more-post-replies-and-comments/827394/
+- https://www.socialmediatoday.com/news/linkedin-playbook-offers-guide-to-optimizing-for-ai/827635/
+- https://www.socialmediatoday.com/news/linkedin-playbook-offers-tips-on-effective-ad-campaigns/827982/
+- https://www.heyorca.com/blog/linkedin-social-news

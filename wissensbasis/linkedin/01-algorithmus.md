@@ -32,6 +32,17 @@ LinkedIn bewertet jeden Post in mehreren Stufen:
 | Dwell Time | Hoch | Wie lange ein Nutzer beim Post verweilt |
 | Klicks auf "Mehr anzeigen" | Mittel | Zeigt Interesse am Inhalt |
 
+### Comment-Ranking nach Relevanz (seit August 2026)
+
+LinkedIn hat am 9. August 2026 zwei Änderungen angekündigt, die Kommentare stärker in den Mittelpunkt rücken:
+
+- **Kommentare werden pro Nutzer nach Relevanz sortiert.** Als Signale nennt LinkedIn berufliche Interessen, Kontakte und das Engagement-Verhalten des jeweiligen Betrachters. Unter einem Post sieht damit nicht mehr jeder dieselbe Kommentarreihenfolge.
+- **Aktuellere und relevantere Diskussionen werden stärker in den Feed gespielt**, um mehr Gespräche in der App zu halten.
+
+**Folge für die Kanalarbeit.** Ein Kommentar ist nicht mehr nur ein Engagement-Signal für den Post, er ist selbst ein Sichtbarkeitsobjekt mit eigener Rangfolge. Fachlich präzise Kommentare in fremden Threads erreichen die passende Zielgruppe dadurch besser, oberflächliche Zustimmung schlechter. Das stützt Kommentararbeit als eigenständige Maßnahme, nicht als Beiwerk.
+
+> **Quelle:** SocialMediaToday, 09.08.2026, nach einer Ankündigung, die Lindsey Gamble auf Threads berichtet hat: https://www.socialmediatoday.com/news/linkedin-updates-feed-display-to-drive-more-post-replies-and-comments/827394/
+
 ### Content-Faktoren
 
 - **Relevanz für das Netzwerk:** Verbindungen und Follower des Autors haben Priorität

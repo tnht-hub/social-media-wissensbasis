@@ -126,3 +126,15 @@ Am Ende von Säule 1 liegen vor:
 3. Pro aktivem Profil ein **ausgefüllter Profil-, Visual- und Tonalitäts-Check**.
 
 Diese drei Artefakte fließen unverändert in die Scorecard (Säule 04) ein. Performance-Zahlen kommen in Säule 02 dazu.
+
+---
+
+## Ergänzung August 2026: Verifizierung als eigenes Signal
+
+Meta hat am 24. Juli 2026 **Facebook Verified** gestartet, ein kostenloses Abzeichen, das per kurzem Video-Selfie bestätigt, dass eine echte Person hinter einem Profil steht. Es ist kein Abo nötig, das Abzeichen erscheint auch in Marketplace und Dating.
+
+**Was das für den Audit bedeutet.** Mit zunehmend KI-generierten Profilen wird der Identitätsnachweis zu einem eigenen Vertrauenssignal. Im Profil-Check gehört deshalb die Frage dazu, ob ein Verifizierungsnachweis vorliegt.
+
+**Was es nicht bedeutet.** Das Abzeichen sagt etwas über Echtheit, nicht über Relevanz, Reichweite oder Qualität. Es gehört in die Dimension Vertrauen, nicht in die Leistungsbewertung. Ein verifiziertes Profil mit schwachem Content bleibt ein schwaches Profil.
+
+> **Quelle:** Emplifi, Social Media Updates, August-Abschnitt: https://emplifi.io/resources/social-media-updates/

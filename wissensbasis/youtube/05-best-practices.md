@@ -105,3 +105,12 @@
 **Platzierung:** Wenn ein Bruch nötig ist, gehört der Werbeblock eher an oder hinter die durchschnittliche Wiedergabedauer (AVD), da früher platzierte Brüche mehr Publikum kosten.
 
 **Leitsatz:** Clickbait ja (ködern), Bait-and-Switch nein. Der Köder im Titel und Thumbnail muss vom Inhalt eingelöst werden, sonst sinkt die Verweildauer und der Algorithmus drosselt.
+
+---
+
+## Offizieller Shorts-Wachstumsleitfaden (Juli 2026)
+
+YouTube hat im Juli 2026 einen eigenen Leitfaden zum Kanalwachstum über Shorts veröffentlicht. Das ist Primärmaterial des Betreibers und damit belastbarer als Praktiker-Heuristiken. Beim nächsten Pflegelauf inhaltlich auswerten und die relevanten Empfehlungen hier einarbeiten.
+
+> **Status:** Existenz belegt, Inhalt noch nicht ausgewertet.
+> **Quelle:** HeyOrca, YouTube-News Juli 2026: https://www.heyorca.com/blog/youtube-social-news

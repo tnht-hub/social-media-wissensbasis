@@ -346,3 +346,18 @@ Diese sind in der Regel ab $200+/mo und überdimensioniert für In-House-Teams.
 - [ ] Asset-Library kuratiert (was wird noch gebraucht?)
 - [ ] DSGVO-Aufbewahrungs-Pflichten geprüft
 - [ ] Lizenz-Verträge gegengecheckt (laufen welche aus?)
+- [ ] Plattform-Logos und Icons auf Aktualität geprüft (siehe offener Punkt unten)
+
+---
+
+## Offener Punkt: Instagram-Rebranding August 2026
+
+Instagram hat am 13. August 2026 ein neues Wordmark und ein überarbeitetes Brand-System veröffentlicht, das laut Instagram neue Schriften, Icons und Formate umfasst. Es ist die erste Änderung in diesem Bereich seit zehn Jahren.
+
+**Zu tun:** Alle Orte durchgehen, an denen das alte Instagram-Wordmark oder alte Instagram-Icons liegen, und die Assets tauschen. Betroffen sind typischerweise Präsentationsvorlagen, Angebote, Kanal-Übersichten in Kundendokumenten und Social-Icon-Sets in Layouts.
+
+**Warum das hier steht:** Veraltete Plattform-Logos in Kundenunterlagen sind ein sichtbarer Sorgfaltsfehler, gerade in einer Markenagentur. Der Punkt bleibt offen, bis der Bestand geprüft ist.
+
+Verwandter Prüfauftrag in `Format_und_Thumbnail_Guidelines/03_Plattform-Masse_und_Safe-Zones.md`.
+
+> **Quelle:** SocialMediaToday, 13.08.2026: https://www.socialmediatoday.com/news/instagram-reveals-its-new-logo/827871/

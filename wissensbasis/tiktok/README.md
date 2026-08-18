@@ -1,6 +1,6 @@
 # TikTok Wissensdatenbank: IST-Zustand Mai 2026
 
-**Zuletzt aktualisiert:** Juli 2026  
+**Zuletzt aktualisiert:** August 2026  
 **Plattform:** TikTok (ByteDance)  
 **Zweck:** Skill-Kontext für Claude; immer aktueller IST-Zustand, kein Changelog
 

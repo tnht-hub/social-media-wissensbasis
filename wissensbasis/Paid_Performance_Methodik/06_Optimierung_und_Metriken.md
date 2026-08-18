@@ -115,3 +115,45 @@ Optimierung ohne sauberes Tracking ist wertlos: Der Algorithmus optimiert ins Le
 ## Verweis
 
 Plattformspezifische Benchmarks (CPM/CPC/CPA/ROAS je Branche und Land) und Pixel-Setup stehen in den Plattform-Ordnern. Diese Säule liefert die übergreifende Mess- und Optimierungs-Methodik.
+
+---
+
+## Plattform-Änderungen August 2026
+
+Aus dem Prüflauf vom 18. August 2026. Diese Punkte betreffen Paid und sind deshalb hier abgelegt, nicht in den Plattform-Modulen.
+
+### Meta
+
+| Änderung | Wirkung |
+|---|---|
+| Platzierung „Messenger Stories" entfällt am 27. August 2026 | Laufende Kampagnen mit dieser Platzierung vor dem Stichtag prüfen und Budget umverteilen. Terminsache |
+| Stablecoin-Zahlung für Kampagnen möglich | Abrechnungsoption, keine Steuerungsänderung |
+| Dedizierte Ad-Exclusion-Audiences | Ausschlusslisten werden zu eigenen Audience-Objekten, saubereres Ausschließen von Bestandskunden im Retargeting. Bezug zu `05_Retargeting.md` |
+| Meta AI Business Assistant und agentische Meta AI | Wachsender Anteil KI-gestützter Kampagnensteuerung. Bei Testeinsatz die Kontrollfrage stellen, welche Entscheidungen abgegeben werden |
+
+### TikTok
+
+| Änderung | Wirkung |
+|---|---|
+| Dreamina Seedance 2.5 in TikTok Symphony | Neues ByteDance-Modell für KI-generierte Videoanzeigen, ersetzt Seedance 2.0. Für Creative-Testing relevant, siehe `04_Creative-Testing.md` |
+| Ad-Format „Mini Dramas" | Marken können eigene Microseries bewerben |
+
+### LinkedIn
+
+| Änderung | Wirkung |
+|---|---|
+| Offizielles Playbook zu wirksamen Ad-Kampagnen | Primärmaterial des Betreibers, beim nächsten Pflegelauf auswerten und gegen diese Säule abgleichen |
+| KI-Kreativoptionen im Campaign Manager | Ad-Copy-Generierung, Kampagnenprozess „Flexible", Brand Kit, Ad-Varianten aus bestehenden Anzeigen |
+
+### YouTube
+
+| Änderung | Wirkung |
+|---|---|
+| Neue View-Definition ab 24. August 2026 | Betrifft auch die Bewertung von Video-Kampagnen. View-basierte Vergleiche über den Stichtag hinweg sind ungültig. Details in `Measurement_Reporting_Guide/02_Metriken-Definitionen.md` |
+| „Attributed Branded Searches" global in Google Ads | Neue Reporting-Metrik, misst Marken-Suchanfragen nach Videokontakt. Für Awareness-Nachweis nutzbar |
+
+Quellen:
+- https://www.socialmediatoday.com/news/meta-ads-introduces-stablecoin-payment-options/827034/
+- https://www.socialmediatoday.com/news/meta-adds-dedicated-ad-exclusion-audiences/827520/
+- https://www.socialmediatoday.com/news/tiktok-rolls-out-dreamina-seedance-25/826905/
+- https://www.socialmediatoday.com/news/linkedin-playbook-offers-tips-on-effective-ad-campaigns/827982/

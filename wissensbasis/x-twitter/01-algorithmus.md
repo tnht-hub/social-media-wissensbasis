@@ -23,14 +23,50 @@ Seit **Oktober 2025** wird der Algorithmus vollständig durch **xAI's Grok** bet
 
 ---
 
-## Ranking-Signale (nach Gewichtung)
+## Offengelegte Gewichte des Phoenix-Algorithmus (August 2026)
+
+X hat im August 2026 Teile seines Feed-Algorithmus offengelegt und die positiven und negativen Signale benannt. Eine Auswertung des Quellcodes durch Business Insider ergibt folgende Punktwerte. Sie ersetzen die qualitative Einschätzung im Abschnitt darunter, wo sie ihr widersprechen.
+
+| Aktion | Punktwert | Verhältnis zum Like |
+|---|---|---|
+| **Share per kopierter Post-URL** | rund 20 | rund 40 mal ein Like |
+| **Reply** | rund 5 | 10 mal ein Like |
+| **Quote** | rund 5 | 10 mal ein Like |
+| **Share per interner DM** | rund 5 | 10 mal ein Like |
+| **Follow** | rund 4 | 8 mal ein Like |
+| **Repost** | rund 1 | 2 mal ein Like |
+| **Like** | 0,5 | Referenzwert, eines der schwächsten Positivsignale |
+
+**Kernaussage.** Der Phoenix-Algorithmus optimiert vorrangig auf Weiterleitung, nicht auf Likes. Aus den Punktwerten und den weiteren Faktoren (wem jemand folgt, Aktualität und weitere) bildet X pro Post und Nutzer eine Rangzahl, die über die Feed-Position entscheidet.
+
+**Folge für die Kanalarbeit.** Zielgröße ist der geteilte Post, nicht der gelikte. Inhalte, die jemand aus eigenem Antrieb weiterschickt oder außerhalb der Plattform verlinkt, gewinnen ein Vielfaches gegenüber Inhalten, die nur Zustimmung erzeugen. Ein Like ist als Erfolgsindikator nahezu wertlos.
+
+**Belegqualität.** Drittauswertung des offengelegten Quellcodes, kein von X veröffentlichtes Zahlenwerk. Die Punktwerte sind gerundet. Beim nächsten Pflegelauf gegen die X-Quelle auf GitHub gegenprüfen.
+
+> **Quelle:** Business Insider, aufbereitet von SocialMediaToday am 17. August 2026: https://www.socialmediatoday.com/news/x-algorithm-insights-highlight-key-posting-strategies/828094/
+
+---
+
+## Transparenz und Shadowbanning (August 2026)
+
+X hat am 13. August 2026 seine Code-Darstellung auf GitHub erweitert und zeigt dort genauer, wie die Reichweite einzelner Posts zustande kommt. Zusätzlich testet X einen vereinfachten Weg, mit dem Nutzer prüfen können, ob ein einzelner Post eingeschränkt oder shadowbanned wurde.
+
+**Nutzen für die Praxis.** Bei unerklärlichem Reichweiteneinbruch lässt sich erstmals plattformseitig prüfen, ob eine Einschränkung vorliegt, statt auf Vermutungen auszuweichen. Das gehört in die Diagnose vor jeder Krisenreaktion.
+
+> **Quelle:** SocialMediaToday, 13. August 2026: https://www.socialmediatoday.com/news/x-shares-new-insights-into-transparency-and-shadowbanning/827858/
+
+---
+
+## Ranking-Signale, qualitative Einordnung (Stand Mai 2026)
+
+Diese Tabelle stammt aus dem Stand vor der Offenlegung im August 2026. Wo sie den Punktwerten oben widerspricht, gelten die Punktwerte. Sie bleibt hier, weil sie Signale abdeckt, die in der Offenlegung nicht mit Punktwerten belegt sind, etwa Bookmarks und Watch Time.
 
 | Signal | Gewichtung | Details |
 |---|---|---|
-| **Replies** | Sehr hoch | Stärkstes Engagement-Signal, echte Konversation |
-| **Retweets / Quotes** | Hoch | Redistribution und Kommentierung |
+| **Replies** | Sehr hoch | Starkes Engagement-Signal, echte Konversation. Laut Offenlegung August 2026 rund 5 Punkte, deutlich unter dem URL-Share |
+| **Retweets / Quotes** | Hoch | Redistribution und Kommentierung. Laut Offenlegung August 2026 unterscheiden sich beide stark: Quote rund 5 Punkte, reiner Repost rund 1 Punkt |
 | **Bookmarks** | Hoch | Privates Speichern = echter Mehrwert |
-| **Likes** | Mittel | Seit Juni 2024 privat, weiterhin Signal, nicht mehr öffentlich sichtbar |
+| **Likes** | Gering | Seit Juni 2024 privat. Laut Offenlegung August 2026 nur 0,5 Punkte, damit schwächer als hier ursprünglich eingeschätzt |
 | **Link Clicks** | Mittel | Click-Through auf externe Links |
 | **Impressions / Views** | Gering | Nur Basis-Signal, nicht direkt gewichtet |
 | **Watch Time (Video)** | Hoch für Videos | Analog zu anderen Plattformen |

@@ -35,6 +35,57 @@ Diese Tendenzen ändern sich schnell. Vor der Nutzung als Argument das Datum der
 
 ---
 
+## Ergänzung August 2026: Buffer- und Emplifi-Daten
+
+Neu ausgewertet im Prüflauf vom 18. August 2026. Diese Werte stammen aus anderen Studien als die Socialinsider-Tabelle oben und sind nicht mit ihr verrechenbar.
+
+### Buffer, State of Social Media Engagement 2026 (rund 52 Mio. Posts)
+
+| Beobachtung | Wert |
+|---|---|
+| TikTok führt bei Follower-Wachstum | über 200 Prozent im Jahresvergleich |
+| TikTok Engagement, Median-Höchstwert | 35,9 Prozent in Q3 2025 |
+| Instagram Engagement im Verlauf | von rund 17 Prozent Anfang 2024 auf unter 10 Prozent Ende 2025 |
+| Posting-Konsistenz | wer in 20 von 26 Wochen postet, erreicht rund 450 Prozent mehr Engagement pro Post als wer in vier Wochen oder weniger postet |
+
+**Achtung Berechnungsbasis.** Die Buffer-Werte liegen um Größenordnungen über den Socialinsider-Werten in der Tabelle oben. Das ist ein Methodikunterschied, keine Widersprüchlichkeit. Nie beide Quellen in einer Tabelle mischen, immer die Quelle mitnennen.
+
+### Buffer, Antwort-Effekt auf Kommentare
+
+| Plattform | Engagement-Zuwachs, wenn Creator auf Kommentare antworten |
+|---|---|
+| Threads | rund 42 Prozent |
+| LinkedIn | rund 30 Prozent |
+| Instagram | rund 21 Prozent |
+
+Über alle untersuchten Plattformen gilt: wer auf Kommentare antwortet, schneidet besser ab als wer es nicht tut. Ableitung fürs Community-Management in `Community_Management_Playbook`.
+
+### Emplifi, Social Media Benchmarks 2026
+
+| Beobachtung | Wert |
+|---|---|
+| Live-Video gegen Links | rund vierfaches Engagement |
+| Live-Video gegen Bilder | rund sechsfaches Engagement |
+| Carousels und Reels gegen Einzelbilder | rund 44 Prozent mehr Engagement |
+
+### Emplifi, State of Social Media Marketing 2026
+
+| Beobachtung | Wert |
+|---|---|
+| Marketer mit Produktivitätsgewinn durch KI | 82 Prozent, davon 47 Prozent moderat und 35 Prozent stark |
+| Marketer, die Influencer-Budgets erhöhen wollen | 67 Prozent |
+| Konsumenten, bei denen nahbarer Creator-Content Kaufentscheidungen beeinflusst | 65 Prozent |
+
+**Offen:** Die Emplifi-Q2-2026-Benchmarks sind neu veröffentlicht, aber noch nicht ausgewertet. Beim nächsten Pflegelauf gegen die Werte oben abgleichen und die älteren Zahlen ablösen.
+
+Quellen:
+- https://buffer.com/resources/state-of-social-media-engagement-2026/
+- https://buffer.com/resources/data/
+- https://emplifi.io/resources/social-media-benchmark-report/
+- https://emplifi.io/resources/state-of-social-media-marketing-report-2026/
+
+---
+
 ## Wie man Benchmarks richtig interpretiert
 
 **1. Branche schlägt Plattform-Durchschnitt.**

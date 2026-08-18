@@ -107,6 +107,29 @@ Konsequenz: **Frequenz und Substanz schlagen Reichweite und Followerzahl.** Ziti
 
 Siehe auch: `Primaerquellen_Vortraege/01_OMR26_Behrens_LinkedIn.md`, Abschnitt C. Britta Behrens bezeichnet diesen Punkt in ihrer OMR-Keynote 2026 als wichtigste Kernbotschaft.
 
+### Ergänzung August 2026: offizielles LinkedIn-Playbook zur KI-Optimierung
+
+LinkedIn hat am 11. August 2026 ein eigenes Playbook veröffentlicht, das erklärt, wie Inhalte für Zitierungen durch KI-Chatbots optimiert werden. LinkedIn stellt darin die eigene Plattform als Werkzeug dar, mit dem Unternehmen ihre Glaubwürdigkeit erhöhen, weil Glaubwürdigkeit ein Signal für KI-Systeme sei. **Dokumentiert** für die Existenz und die Position des Betreibers, **nicht** für die Wirksamkeit der Empfehlungen.
+
+**Einordnung.** Das ist Primärmaterial des Plattformbetreibers und damit eine andere Belegqualität als die Anbieter-Studien oben. Es ist gleichzeitig Eigeninteresse: LinkedIn hat einen Grund, die eigene Plattform als KI-Hebel zu positionieren. Beides gilt zusammen. Der Inhalt des Playbooks ist noch nicht ausgewertet, das steht beim nächsten Pflegelauf an.
+
+> **Quelle:** SocialMediaToday, 11.08.2026: https://www.socialmediatoday.com/news/linkedin-playbook-offers-guide-to-optimizing-for-ai/827635/
+
+### Widerspruch in der Datenlage: Einzelprofile gegen Company Pages
+
+Eine im August 2026 verbreitete Untersuchung nennt **75 Prozent** der LinkedIn-Zitierungen in KI-Antworten als aus persönlichen Profilen stammend, nicht aus Unternehmensseiten. Das steht neben der Semrush-Aufschlüsselung oben, die je Modell rund 59 Prozent Einzelpersonen für ChatGPT Search und Google AI Mode nennt, für Perplexity aber 59 Prozent Company Pages.
+
+| Quelle | Befund | Belegqualität |
+|---|---|---|
+| Semrush, März 2026, 325.000 Prompts | je Modell unterschiedlich: 59 Prozent Einzelpersonen bei ChatGPT Search und Google AI Mode, 59 Prozent Company Pages bei Perplexity | Glaubwürdig, Anbieter-Studie mit offengelegter Methodik |
+| Untersuchung August 2026 | 75 Prozent Einzelprofile, plattformübergreifend | **Schwach.** Als Sponsored-Beitrag auf SocialMediaToday erschienen, Methodik nicht geprüft |
+
+**Umgang damit.** Die 75-Prozent-Zahl nicht in Kundenunterlagen verwenden, solange die Methodik nicht geprüft ist. Die Semrush-Aufschlüsselung je Modell bleibt die belastbarere Grundlage, weil sie zwischen den Systemen unterscheidet, statt einen Gesamtwert zu bilden.
+
+**Spannung zur eigenen Strategie.** Beide Quellen deuten darauf, dass Einzelprofile in mindestens zwei der drei großen Systeme stärker zitiert werden als Unternehmensseiten. Das steht im Widerspruch zur gewählten B&B-Strategie ohne Personenmarke. Der Punkt ist damit eine bewusste Abwägung, keine offene Aufgabe: KI-Sichtbarkeit über Einzelprofile wäre ein Hebel, den die Strategie aus anderen Gründen nicht zieht. Wer die Entscheidung revidieren will, sollte sie an dieser Datenlage prüfen, nicht am Bauchgefühl.
+
+> **Quelle:** SocialMediaToday (Sponsored), August 2026: https://www.socialmediatoday.com/spons/new-research-reveals-75-of-linkedin-ai-citations-come-from-individual-prof/827232/
+
 ---
 
 ## Kontext: KI-Assistenten-Markt (State of AI 2026)

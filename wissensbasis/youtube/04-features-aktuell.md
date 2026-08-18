@@ -204,3 +204,27 @@ Verifiziert per Browser gegen SocialBee-Tracker, Abschnitt „July 2026 YouTube 
 | YouTube Playables in der EU | Aktiv | Seit Juli 2026; Ausrollen der Playables auch in der Europäischen Union (Quelle: SocialBee, Juli 2026) |
 
 Quelle: https://socialbee.com/blog/youtube-updates/
+
+---
+
+## Aktualitätsprüfung 18.08.2026: Neue Features August 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker (Stand 24. Juli), HeyOrca (Stand 4. August) und OnlineMarketing.de. Der SocialBee-Tracker hatte beim Lauf keinen August-Abschnitt, die Befunde stammen daher aus HeyOrca und OnlineMarketing.de.
+
+| Feature | Status | Details |
+|---|---|---|
+| Neue View-Definition | Aktiv ab 24.08.2026 | View zählt ab Wiedergabestart, ohne Mindest-Sehdauer, einheitlich für VOD, Shorts und Live. Details und Reporting-Folgen in `06-analytics-metriken.md` (Quelle: TeamYouTube via OnlineMarketing.de, August 2026) |
+| YPP: höhere Eintrittshürden | Aktiv | Seit August 2026, erstes großes Programm-Update seit acht Jahren. Creator brauchen mehr Sehdauer und mehr Views für die Aufnahme, zusätzlich neuer Schwellenwert für Shorts-Einnahmen. Exakte Werte noch offen, siehe Prüfvermerk unten (Quelle: OnlineMarketing.de, 11.08.2026) |
+| YPP: Umsatzaufteilung unverändert | Aktiv | 55 Prozent Longform zu 45 Prozent Shorts bleibt bestehen, ebenso der Zugang zu Fan Funding wie Super Thanks und Kanalmitgliedschaften (Quelle: OnlineMarketing.de, 11.08.2026) |
+| YouTube Premium Lite: Creator-Beteiligung | Aktiv | Seit August 2026, Abomodell wird ausgeweitet, Creator verdienen daran mit (Quelle: OnlineMarketing.de, 11.08.2026) |
+| Studio: Analytics-Tab heißt „Insights" | Aktiv | Seit Juli 2026, gruppiertes Layout, Detailtiefe im Advanced Mode, vier KI-Insight-Cards im Test, „Trends" wird zu „Research" (Quelle: SocialBee, Juli 2026) |
+| KI-gestützte Kommentarfilterung | Aktiv | Seit Juli 2026, KI-Filter zur Moderation von Kommentaren (Quelle: HeyOrca, Juli 2026) |
+| „Ask YouTube" auf Desktop | Aktiv | Seit Juli 2026, KI-Suchassistent jetzt auch im Desktop-Web (Quelle: HeyOrca, Juli 2026) |
+| Live Practice Mode und Shorts-Feedback vor dem Posten | Aktiv | Seit August 2026, Probemodus für Livestreams und Rückmeldung zu Shorts vor der Veröffentlichung (Quelle: OnlineMarketing.de, August 2026) |
+
+**Prüfvermerk YPP:** Die exakten neuen Schwellenwerte für Sehdauer, Views und Shorts-Einnahmen konnten aus der Quelle nicht vollständig ausgelesen werden. Beim nächsten Pflegelauf im YouTube-Blog nachziehen und hier eintragen.
+
+Quellen:
+- https://onlinemarketing.de/social-media-marketing/youtube-definiert-views-neu-alle-videoformate
+- https://onlinemarketing.de/social-media-marketing/huerden-einnahmen-youtube-partner-program-potentiale-abo
+- https://www.heyorca.com/blog/youtube-social-news

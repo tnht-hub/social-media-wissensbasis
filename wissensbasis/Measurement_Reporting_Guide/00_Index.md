@@ -1,6 +1,6 @@
 # Guideline: Measurement & Reporting für Social Media
 
-**Stand:** Juni 2026
+**Stand:** August 2026 (Ergänzung aus Plattform-Prüflauf: YouTube-View-Bruch in `02_Metriken-Definitionen.md`, Buffer- und Emplifi-Daten in `04_Benchmarks.md`, Google Search Console Platform Properties in `05_Attribution_und_ROI.md`), übrige Inhalte Juni 2026
 **Scope:** Plattformübergreifend, das übergeordnete KPI- und Reporting-Dach (Phase 5 „Measurement" im Agentur-Prozess). Die plattformeigenen Metriken existieren bereits je Kanal (siehe `instagram/06`, `linkedin/06`, `tiktok/06`, `youtube/06`, `facebook/06`, `x-twitter/06`); dieses Modul liefert das Framework darüber.
 **Zielanwender:innen:** Account-Manager:innen, Strategie- und Data-Verantwortliche, Social-Media-Manager:innen, Agentur-Leitung, Kund:innen-seitige Marketing-Verantwortliche
 

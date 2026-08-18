@@ -162,3 +162,27 @@ Verifiziert per Browser gegen SocialBee-Tracker, Abschnitt „July 2026 X (Twitt
 | Karussell ab vier Bildern (Desktop/Web) | Aktiv | Seit Juli 2026; Posts mit vier oder mehr Bildern werden im Web als Karussell dargestellt (Quelle: SocialBee, Juli 2026) |
 
 Quelle: https://socialbee.com/blog/twitter-updates/
+
+---
+
+## Aktualitätsprüfung 18.08.2026: Neue Features August 2026
+
+Verifiziert per Browser gegen SocialBee-Tracker (Stand 8. August), HeyOrca (Stand 4. August), SocialMediaToday Topic-Seite und Emplifi.
+
+| Feature | Status | Details |
+|---|---|---|
+| Offenlegung der Algorithmus-Gewichte | Aktiv | Seit August 2026, X benennt positive und negative Signale, Punktwerte siehe `01-algorithmus.md` (Quelle: SocialMediaToday, 17.08.2026) |
+| Shadowban-Prüfung für einzelne Posts | In Test | Seit August 2026, vereinfachter Weg, um zu sehen, ob ein Post eingeschränkt wurde, plus erweiterte Code-Darstellung auf GitHub (Quelle: SocialMediaToday, 13.08.2026) |
+| Creator Revenue Share: verschärfte Regeln | Aktiv | Seit August 2026, Engagement-Bait führt zum Ausschluss, Grok erkennt solche Posts automatisch, Duplikaterkennung dreifach wirksamer, Wasserzeichen und Mini-Edits umgehen das System nicht mehr, monetarisierte Impressions gehen an den Originalurheber (Quelle: SocialMediaToday, August 2026) |
+| Video-Overlays | Aktiv | Seit August 2026, Overlays für Videoinhalte (Quelle: SocialMediaToday, August 2026) |
+| X Chat: neuer Composer | Aktiv | Seit August 2026, überarbeiteter Eingabebereich in X Chat (Quelle: SocialMediaToday, August 2026) |
+| Android-App neu gebaut | Aktiv | Seit August 2026, X hat die Android-App von Grund auf neu entwickelt (Quelle: Emplifi, August 2026) |
+| Bookmarking mit Ordner-Tooltip | Aktiv | Seit August 2026, Tippen auf das Lesezeichen zeigt einen Tooltip zur direkten Ordnerzuordnung (Quelle: SocialBee, August 2026) |
+| „Sort by"-Dropdown auf Profilen (iOS) | In Arbeit | Seit August 2026, Sortiermenü für den Post-Feed auf Profilen (Quelle: SocialBee, August 2026) |
+| Trennleiste im In-App-Browser | In Test | Seit August 2026, graue Leiste trennt den Nutzerpost vom geöffneten Link (Quelle: SocialBee, August 2026) |
+
+Quellen:
+- https://www.socialmediatoday.com/news/x-algorithm-insights-highlight-key-posting-strategies/828094/
+- https://www.socialmediatoday.com/news/x-shares-new-insights-into-transparency-and-shadowbanning/827858/
+- https://www.socialmediatoday.com/news/x-updates-creator-revenue-share-parameters/827391/
+- https://socialbee.com/blog/twitter-updates/
