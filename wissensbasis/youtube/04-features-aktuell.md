@@ -228,3 +228,31 @@ Quellen:
 - https://onlinemarketing.de/social-media-marketing/youtube-definiert-views-neu-alle-videoformate
 - https://onlinemarketing.de/social-media-marketing/huerden-einnahmen-youtube-partner-program-potentiale-abo
 - https://www.heyorca.com/blog/youtube-social-news
+
+---
+
+## Aktualitätsprüfung 09.09.2026: Neue Features seit dem 18.08.2026
+
+Verifiziert per Browser gegen alle erlaubten Quellen: SocialBee (Stand 24. Juli, weiterhin kein August-Abschnitt), HeyOrca (Stand 31. August), Emplifi, OnlineMarketing.de, Buffer und ZoomSphere.
+
+**Hinweis zur Quellenlage.** SocialMediaToday hat keine YouTube-Topic-Seite, der Aufruf von `/topic/youtube/` liefert 404. YouTube wird deshalb über HeyOrca, Emplifi und OnlineMarketing.de abgedeckt. Das ist die dünnste Quellenlage aller sechs Plattformen.
+
+| Feature | Status | Details |
+|---|---|---|
+| Amazon-Produkt-Tags im YPP | Aktiv (erste Creator) | Seit 28. August 2026 ist Amazon offiziell Teil des YouTube Partner Program. Erste Creator taggen Amazon-Produkte in Videos und Livestreams und verdienen im Affiliate-Modell mit. Die Tags sind laut YouTube weltweit sichtbar. An Voraussetzungen gebunden, die vor einer Empfehlung im Kundenprojekt einzeln zu prüfen sind (Quelle: OnlineMarketing.de, 28.08.2026) |
+| Vereinfachter Prozess für KI-Beschwerden | **Vorläufig** | HeyOrca meldet für August 2026 einen gestrafften Meldeweg für KI-bezogene Beschwerden. Keine auflösbare Einzelquelle, HeyOrca verlinkt nur über Newsletter-Tracking-URLs. Nicht als belegt behandeln (Quelle: HeyOrca, August 2026) |
+| Mehr Nutzersteuerung der Empfehlungen | **Vorläufig** | HeyOrca meldet für August 2026 zusätzliche Wege, dem System mitzuteilen, was man sehen will und was nicht. Keine auflösbare Einzelquelle. Nicht als belegt behandeln (Quelle: HeyOrca, August 2026) |
+
+### Einordnung Amazon-Tags
+
+Das verschiebt die Monetarisierung eines YouTube-Kanals von reiner Werbeeinnahme zu Affiliate. Für Kunden mit physischen Produkten entsteht damit ein Argument für Creator-Kooperationen auf YouTube, das vorher schwächer war. Ads- und Kooperationsseite in `07-ads-werbung.md`.
+
+### Offener Punkt, zweiter Lauf ohne Erledigung
+
+Die exakten neuen YPP-Schwellenwerte für Sehdauer, Views und Shorts-Einnahmen fehlen weiter. Auch dieser Lauf konnte sie aus den erlaubten Quellen nicht auflösen. Emplifi bestätigt nur die Richtung, YouTube hebe die Hürde für die Shorts-Monetarisierung. Beim nächsten Lauf im YouTube-Blog nachziehen.
+
+Quellen:
+- https://onlinemarketing.de/social-media-marketing/youtube-creator-amazon-produkte-taggen
+- https://onlinemarketing.de/social-media-marketing/erklaerung-shorts-1000-views-stagnation
+- https://emplifi.io/resources/social-media-updates/
+- https://www.heyorca.com/blog/youtube-social-news

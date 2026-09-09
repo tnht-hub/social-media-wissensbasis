@@ -18,12 +18,15 @@ Konkrete Maße und die UI-bedingten Safe-Zones je Plattform. Maße veralten schn
 - Story: 1080 x 1920, oben und unten je rund 250 px für Profilzeile und Buttons frei lassen.
 - Eigenes Cover hochladen wird empfohlen, Cover ist auch nach dem Posten änderbar.
 
-**Prüfauftrag Brand-System, offen seit August 2026.** Instagram hat am 13. August 2026 ein neues Wordmark und ein überarbeitetes Brand-System vorgestellt, das laut Instagram neue Schriften, Icons und Formate umfasst. Die Maßangaben oben sind davon nach aktueller Kenntnis **nicht** betroffen, im Prüflauf vom 18. August 2026 wurde keine geänderte Maß-, Limit- oder Laufzeitangabe gefunden. Zwei Punkte bleiben offen:
+**Prüfauftrag Brand-System, Punkt 1 geklärt am 09.09.2026.** Instagram hat am 13. August 2026 ein neues Wordmark und ein überarbeitetes Brand-System vorgestellt. Der Prüflauf vom 9. September 2026 hat den Umfang eingegrenzt: Die Auffrischung betrifft die **Wortmarke, Typografie, Motion, Layout und ein neues visuelles System**. Das **Kamera-Icon bleibt unverändert**. Eine geänderte Maß-, Limit- oder Laufzeitangabe ist in keiner der erlaubten Quellen aufgetaucht.
 
-1. Was Instagram unter „neuen Formaten" versteht, ist aus den geprüften Quellen nicht ableitbar. Beim nächsten Pflegelauf die Design-at-Meta-Seite öffnen und klären, ob Maßangaben gemeint sind.
-2. Alte Instagram-Wordmarks und Icons in Vorlagen, Präsentationen und Kundendokumenten tauschen. Siehe auch `Visual_Production_Methodik/08_Asset-Management.md`.
+Damit gilt:
 
-> **Quelle:** SocialMediaToday, 13.08.2026: https://www.socialmediatoday.com/news/instagram-reveals-its-new-logo/827871/
+1. **Geklärt.** Die Maßangaben oben sind vom Rebranding nicht betroffen. Es ist eine gestalterische Auffrischung, keine Formatänderung.
+2. **Offen, und eine Aufgabe statt eines Prüfpunkts.** Alte Instagram-Wordmarks und Icons in Vorlagen, Präsentationen und Kundendokumenten tauschen. Das Kamera-Icon muss nicht getauscht werden. Siehe `Visual_Production_Methodik/08_Asset-Management.md`.
+
+> **Quellen:** SocialMediaToday, 13.08.2026: https://www.socialmediatoday.com/news/instagram-reveals-its-new-logo/827871/
+> Emplifi, Social Media Updates (Umfang des Brand-Systems), September 2026: https://emplifi.io/resources/social-media-updates/
 
 ## TikTok (Quelle: Kreatli, Stand Januar 2026)
 

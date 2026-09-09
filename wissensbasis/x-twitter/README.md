@@ -1,6 +1,6 @@
 # X (Twitter) Wissensdatenbank: IST-Zustand Mai 2026
 
-**Zuletzt aktualisiert:** August 2026  
+**Zuletzt aktualisiert:** September 2026  
 **Plattform:** X (ehemals Twitter, seit Oktober 2022 unter Elon Musk)  
 **Zweck:** Skill-Kontext für Claude; immer aktueller IST-Zustand, kein Changelog
 

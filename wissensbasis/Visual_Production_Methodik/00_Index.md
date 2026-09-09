@@ -1,6 +1,6 @@
 # Visual Production Methodik für Marken
 
-**Stand:** August 2026 (Ergänzung aus Plattform-Prüflauf: offener Punkt Instagram-Rebranding in `08_Asset-Management.md`), übrige Inhalte Mai 2026
+**Stand:** September 2026 (Prüflauf 09.09.2026: Motiv-Sperren in CapCut und Dreamina nach dem MPA-Abkommen in `03_KI-Tools-Stack_Bild_Video.md`). Vorher August 2026: offener Punkt Instagram-Rebranding in `08_Asset-Management.md`. Übrige Inhalte Mai 2026
 **Scope:** Bild + Video, In-House-Workflow für 2 bis 5-Personen-Teams
 **Zielanwender:innen:** Marketing-Teams, Agenturen, Creator:innen, Brand-Verantwortliche
 

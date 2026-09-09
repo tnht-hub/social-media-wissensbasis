@@ -1,6 +1,6 @@
 # Aktuelle Themen, Trends und Newsjacking für Marken
 
-**Stand:** Juni 2026
+**Stand:** September 2026 (Prüflauf 09.09.2026: Belegte Plattformzahlen zum Zeitfenster in `01_Relevanz-Spanne.md`, Anteil der Instagram-Feed-Empfehlungen jünger als ein Tag). Übrige Inhalte Juni 2026
 **Scope:** Das gezielte Aufgreifen aktueller, meist positiver oder neutraler Themen, Trends und Ereignisse (Newsjacking, Moment-Marketing, Real-Time-Marketing). Schwerpunkt: die Frage, wie weit ein Thema von den eigenen Kernthemen entfernt sein darf.
 **Zielanwender:innen:** Social-Media-Manager:innen, Content-Teams, Redaktionen, Community-Manager:innen, Marken-Verantwortliche, Freigeber:innen
 

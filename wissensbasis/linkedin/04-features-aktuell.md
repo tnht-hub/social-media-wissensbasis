@@ -185,3 +185,36 @@ Quellen:
 - https://www.socialmediatoday.com/news/linkedin-playbook-offers-guide-to-optimizing-for-ai/827635/
 - https://www.socialmediatoday.com/news/linkedin-playbook-offers-tips-on-effective-ad-campaigns/827982/
 - https://www.heyorca.com/blog/linkedin-social-news
+
+---
+
+## Aktualitätsprüfung 09.09.2026: Neue Features seit dem 18.08.2026
+
+Verifiziert per Browser gegen alle sieben erlaubten Quellen: SocialBee (Stand 24. Juli, weiterhin kein August-Abschnitt), HeyOrca (Stand 31. August), SocialMediaToday Topic-Seite, Emplifi, OnlineMarketing.de, Buffer und ZoomSphere.
+
+**Hinweis zur Quellenlage.** Der SocialBee-LinkedIn-Tracker liegt seit dem letzten Lauf unverändert auf Stand 24. Juli. LinkedIn wird damit im Wesentlichen über SocialMediaToday und HeyOrca abgedeckt.
+
+### KI-Highlights für Event-Aufzeichnungen (19. August 2026)
+
+LinkedIn schlägt aus Aufzeichnungen von Live-Events automatisch Clips und Kapitel vor. Der Composer sitzt in den Event-Management-Werkzeugen und zeigt die vorgeschlagenen Highlights in einem eigenen Bereich. Der Host wählt Clips aus und kann jedes Segment verlängern oder kürzen.
+
+**Warum das zählt.** Ein Live-Event ist bisher ein einmaliger Termin mit hohem Aufwand und kurzer Halbwertszeit. Automatisch vorgeschlagene Clips machen daraus Material für mehrere Wochen Kurzformat. Das senkt die Schwelle für Event-Formate in der Redaktionsplanung. Anschluss an `02-content-formate.md` und an die Repurposing-Logik in `KI_Content_Planung_Guideline`.
+
+> **Quelle:** SocialMediaToday, 19.08.2026: https://www.socialmediatoday.com/news/linkedin-adds-ai-powered-event-highlights/828343/
+
+### Weitere Befunde
+
+| Befund | Status | Details |
+|---|---|---|
+| 1 Mio. Meldungen zu „AI slop" | Datenpunkt | Seit 20. August 2026 belegt. LinkedIn nennt eine Million Nutzer, die seit Einführung der Meldefunktion Anfang August KI-Massenware gemeldet haben. Kein Feature, aber die erste harte Zahl zur KI-Content-Sättigung auf der Plattform. Auswertung in `KI_Content_Planung_Guideline/07_Failure-Modi.md` (Quelle: SocialMediaToday, 20.08.2026) |
+
+Quellen:
+- https://www.socialmediatoday.com/topic/linkedin/
+- https://www.socialmediatoday.com/news/linkedin-adds-ai-powered-event-highlights/828343/
+- https://www.socialmediatoday.com/news/linkedin-says-1m-people-have-reported-ai-slop/828465/
+- https://www.heyorca.com/blog/linkedin-social-news
+
+### Offene Punkte, zweiter Lauf ohne Erledigung
+
+1. Der Inhalt des LinkedIn-KI-Playbooks vom 11. August 2026 ist weiterhin nicht ausgewertet, siehe `KI_Sichtbarkeit_Guide/02_Plattform-Matrix.md`.
+2. Die offiziellen Posting-Best-Practices vom Juli 2026 sind weiterhin nicht gegen `05-best-practices.md` abgeglichen.

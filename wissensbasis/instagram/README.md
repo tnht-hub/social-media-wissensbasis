@@ -1,6 +1,6 @@
 # Instagram Wissensdatenbank
 
-**Zuletzt aktualisiert:** August 2026  
+**Zuletzt aktualisiert:** September 2026  
 **Quellen:** HeyOrca, SocialBee, SocialMediaToday, Buffer, onlinemarketing.de  
 **Format:** IST-Zustand, kein Changelog, nur aktuelles Best-Practice-Wissen
 

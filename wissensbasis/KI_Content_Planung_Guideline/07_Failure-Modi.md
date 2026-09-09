@@ -58,6 +58,18 @@ KI mit Personas produziert dramatisch differenziertere Outputs als KI mit reinen
 
 **Faustregel:** Wenn ein Post eine Person mit Gesicht zeigt, sollte die Stimme/Geschichte echt sein. KI für Bühne, Daten, Hintergrund.
 
+**Belegte Größenordnung, Stand September 2026.** LinkedIn hat Anfang August 2026 eine Meldefunktion für „AI slop", also KI-Massenware, eingeführt. Am 20. August 2026 nannte LinkedIn eine Zahl: **1 Million Nutzer** haben in diesen wenigen Wochen Inhalte auf diesem Weg gemeldet.
+
+Zwei Schlüsse daraus, und nur diese zwei:
+
+1. **Erkennbarkeit ist kein Randrisiko mehr.** Nutzer erkennen KI-Massenware nicht nur, sie melden sie aktiv und in großer Zahl. Die Faustregel oben ist damit keine Vorsichtsmaßnahme, sondern eine Reaktion auf messbares Publikumsverhalten.
+2. **Die Plattform hat ein Interesse an der Unterscheidung.** Wer eine Meldefunktion baut, wertet die gemeldete Kategorie mit hoher Wahrscheinlichkeit irgendwann ab. Ob LinkedIn das tut, ist **nicht** bestätigt. Keine Wirkungsaussage ableiten.
+
+**Was die Zahl nicht sagt.** Wie viele Meldungen berechtigt waren, welche Inhalte betroffen sind, und ob gemeldete Inhalte weniger Reichweite bekommen. Die Zahl belegt Wahrnehmung, nicht Sanktion.
+
+> **Quellen:** SocialMediaToday, 20.08.2026: https://www.socialmediatoday.com/news/linkedin-says-1m-people-have-reported-ai-slop/828465/
+> Einführung der Funktion, SocialMediaToday, 02.08.2026: https://www.socialmediatoday.com/news/linkedin-offers-the-option-to-report-ai-slop/826781/
+
 ### Problem 4: Verbrannte Begriffe schleichen ein
 
 **Cause:** Phase C (Brand-Compliance-Check) wird übersprungen.

@@ -1,6 +1,6 @@
 # Guideline: Format, Ausrichtung und Thumbnails
 
-**Stand:** August 2026 (Prüflauf 18.08.2026: keine geänderten Maß-, Limit- oder Laufzeitangaben, offener Prüfauftrag zum Instagram-Brand-System in `03_Plattform-Masse_und_Safe-Zones.md`)
+**Stand:** September 2026 (Prüflauf 09.09.2026: keine geänderten Maß-, Limit- oder Laufzeitangaben. Der offene Prüfauftrag zum Instagram-Brand-System ist inhaltlich geklärt, das Rebranding betrifft keine Maßangaben. Offen bleibt der Asset-Tausch, siehe `03_Plattform-Masse_und_Safe-Zones.md`)
 **Scope:** Plattformübergreifende Entscheidung über Format und Seitenverhältnis plus Gestaltung, Maße und Safe-Zones von Thumbnails und Cover-Bildern
 **Zielanwender:innen:** Content-Planer, Creatives, Editor:innen, Social-Media-Manager
 

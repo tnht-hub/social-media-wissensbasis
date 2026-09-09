@@ -1,6 +1,6 @@
 # Paid- & Performance-Methodik für Social Ads
 
-**Stand:** August 2026 (Ergänzung aus Plattform-Prüflauf: Plattform-Änderungen August 2026 in `06_Optimierung_und_Metriken.md`), übrige Inhalte Juni 2026
+**Stand:** September 2026 (Prüflauf 09.09.2026: Plattform-Änderungen September 2026 in `06_Optimierung_und_Metriken.md`, darunter der Wegfall der Meta-Placement-Ausschlüsse und der X Ads MCP Server). Vorher August 2026: Plattform-Änderungen August 2026 in derselben Datei. Übrige Inhalte Juni 2026
 **Scope:** Übergreifende Paid- und Performance-Methodik für Social Ads, plattformunabhängig (Funnel, Budget, Targeting, Creative-Testing, Retargeting, Optimierung)
 **Zielanwender:innen:** Performance-Marketing-Teams, Social-Media-Agenturen, Paid-Verantwortliche, Account-Manager:innen, Brand-Verantwortliche mit Ad-Budget
 

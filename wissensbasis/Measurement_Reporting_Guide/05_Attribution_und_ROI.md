@@ -85,18 +85,41 @@ Ein ehrlicher Report benennt, was er nicht messen kann. 2026 ist der unsichtbare
 
 ---
 
-## Google Search Console: Platform Properties (seit Juli 2026)
+## Google Search Console: Plattform-Properties (seit 7. Juli 2026)
 
-Google hat am 7. Juli 2026 einen neuen Property-Typ in der Search Console eingeführt. Marken können damit ein Instagram-, TikTok-, X- oder YouTube-Konto verifizieren und sehen, wie die Inhalte dieses Kontos in der Google-Suche abschneiden.
+Google hat am 7. Juli 2026 einen neuen Property-Typ in der Search Console eingeführt. Ein Instagram-, TikTok-, X- oder YouTube-Konto wird per Autorisierung verifiziert, danach stehen Suchdaten zu den Inhalten dieses Kontos bereit. Es ist der erste Search-Console-Property-Typ, für den keine eigene Domain nötig ist.
 
-**Warum das für die Attribution zählt.** Damit wird erstmals plattformübergreifend messbar, welchen Anteil Social-Inhalte an der Sichtbarkeit in der Suche haben. Das schließt eine der in „Grenzen der Messbarkeit" beschriebenen Lücken zumindest teilweise, weil Social-Content bisher nur über Umwege in der Suchsicht auftauchte.
+### Was drin ist
 
-**Konkrete Nutzung:**
+| Bericht | Inhalt |
+|---|---|
+| Leistung | Klicks, Impressions, durchschnittliche CTR, durchschnittliche Position. Filterbar nach Beitrag und Suchanfrage, exportierbar. Discover und Google News erscheinen nur, wenn von dort Traffic kommt |
+| Statistik | Traffic-Trends, stärkste Beiträge, wie Nutzer das Konto über Google finden |
+| Erfolge | Meilensteine auf Klickbasis, Bezugsraum 28 Tage |
 
-- Konten der Kundschaft in der Search Console verifizieren und als eigene Datenquelle in die Triangulation aufnehmen.
-- Für die Diskussion über Dark Social und nicht klickbare Wirkung liefert die Ansicht ein zusätzliches Argument, das nicht auf Selbstauskunft beruht.
-- Verbindung zum Modul `KI_Sichtbarkeit_Guide`, weil Suchsichtbarkeit und Zitierbarkeit in KI-Antworten zusammenhängen.
+Standard-Zeitraum ist 28 Tage. Nach dem Einrichten dauert es einige Tage, bis Daten erscheinen.
 
-**Status:** Werkzeug identifiziert, in der Praxis noch nicht getestet. Beim nächsten Pflegelauf einrichten und die Aussagekraft der Daten bewerten.
+### Grenze, die vor jeder Nutzung klar sein muss
 
-> **Quelle:** Emplifi, Social Media Updates, August-Abschnitt: https://emplifi.io/resources/social-media-updates/
+**Plattform-Properties messen ausschließlich die Google-Seite, nicht die Plattform selbst.** Google formuliert das ausdrücklich: der Bericht zeigt nicht, wie oft ein Video auf TikTok ausgespielt wurde. Das Werkzeug ersetzt also keine Plattform-Analytics. Es erschließt einen Kanal, der vorher unsichtbar war, und nicht mehr.
+
+Praktische Folge fürs Reporting: Klicks aus Plattform-Properties nicht mit Plattform-Views in eine Tabelle stellen. Es sind verschiedene Ereignisse an verschiedenen Orten.
+
+### Nicht unterstützt
+
+Facebook, LinkedIn und Threads fehlen. Für B2B-Arbeit ist das die entscheidende Einschränkung, weil LinkedIn laut `KI_Sichtbarkeit_Guide/02_Plattform-Matrix.md` der stärkste Hebel für Such- und KI-Sichtbarkeit ist und sich genau dort nicht messen lässt. Google bezeichnet die vier Plattformen als Ausgangspunkt, ein Termin für weitere ist nicht genannt.
+
+### Warum es trotzdem für die Attribution zählt
+
+- Social-Inhalte tauchten in der Suchsicht bisher nur über Umwege auf. Für Instagram, TikTok, X und YouTube ist der Anteil an der Suchsichtbarkeit jetzt direkt messbar.
+- Für die Diskussion über Dark Social liefert die Ansicht ein Argument, das nicht auf Selbstauskunft beruht.
+- Berührt `KI_Sichtbarkeit_Guide`, weil Suchsichtbarkeit und Zitierbarkeit in KI-Antworten zusammenhängen. Ein Beleg für einen Zusammenhang beider Größen liegt nicht vor.
+
+### Betrieb
+
+Je Konto und Kanal eine eigene Property, bei mehreren Profilen pro Plattform jeweils wiederholen. Google prüft die Inhaberschaft regelmäßig nach. Läuft ein externes Login ab, pausiert der Zugang bis zur erneuten Verifizierung, die Daten bleiben dabei erhalten.
+
+**Status:** Werkzeug an der Primärquelle verifiziert, in der Praxis noch nicht eingerichtet. Offen ist, wie belastbar die Zahlen im Alltag sind und wie stark Instagram-Stories und im Google-Viewer abgespielte Videos die Klickzahlen prägen, da Google beide ausdrücklich mitzählt.
+
+> **Quellen:** Google Search Central Blog, 07.07.2026: https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms
+> Search Console Hilfe, Plattform-Properties: https://support.google.com/webmasters/answer/17148418

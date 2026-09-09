@@ -88,7 +88,26 @@ Adam Mosseri hat offiziell bestätigt: Shadow-Banning in der klassischen Form gi
 
 ## AI-Content und Kennzeichnung
 
-Seit Mai 2026 erhalten Profile, die primär KI-generierten Content posten, ein **"AI Creator"-Label**. Dieses Label erscheint auf dem Profil und auf dem Content selbst. Ob KI-generierter Content algorithmisch benachteiligt wird, ist bisher nicht offiziell bestätigt.
+Seit Mai 2026 erhalten Profile, die primär KI-generierten Content posten, ein Label. Seit dem 31. August 2026 heißt es **"AI generated profile"** statt vorher "AI creator", ergänzt um einen Hinweis, dass die Bilder KI-generierte Figuren zeigen können. Das Label erscheint auf dem Profil und auf dem Content selbst. Ob KI-generierter Content algorithmisch benachteiligt wird, ist bisher nicht offiziell bestätigt.
+
+> **Quelle:** SocialMediaToday, 31.08.2026: https://www.socialmediatoday.com/news/instagram-updates-tags-for-ai-profiles/829235/
+
+---
+
+## Frische des Feeds und LLM-Verarbeitung jedes Posts (Stand September 2026)
+
+Meta hat im Q2-2026-Earnings-Call zwei Zahlen genannt, die die Mechanik des Feeds direkt betreffen:
+
+| Angabe | Wert | Bedeutung |
+|---|---|---|
+| Alter der empfohlenen Inhalte im Instagram-Feed | Über die Hälfte ist jünger als **ein Tag** | Verdopplung des Anteils binnen eines Jahres |
+| Verarbeitung öffentlicher Inhalte | **Jeder** öffentliche Reel und Feed-Post läuft durch ein LLM | Gezogen werden Signale wie Thema und Tonalität |
+
+**Was daraus folgt.** Die Empfehlungsflächen bevorzugen Aktualität stärker als bisher dokumentiert. Ein Post hat sein Zeitfenster in Stunden, nicht in Tagen. Das ist aber kein Argument für höhere Frequenz, sondern für Reaktionsfähigkeit: die Fähigkeit, ein relevantes Thema zu erkennen, zu entscheiden ob man etwas beizutragen hat, und schnell zu liefern, ohne Markenstimme und Urteil zu verlieren. Anschluss an `Aktuelle_Themen_und_Newsjacking/01_Relevanz-Spanne.md`.
+
+**Zur LLM-Verarbeitung.** Thema und Tonalität werden maschinell aus dem Inhalt selbst gelesen, nicht aus Metadaten. Das stützt die Themenkonstanz eines Accounts als Signal und entwertet Hashtags und Keyword-Stuffing weiter. Meta nennt keine Angaben dazu, wie diese Signale gewichtet werden. Nicht überinterpretieren.
+
+> **Quelle:** Emplifi, Social Media Updates (Primärangabe: Meta Q2-2026-Earnings-Call): https://emplifi.io/resources/social-media-updates/
 
 ---
 

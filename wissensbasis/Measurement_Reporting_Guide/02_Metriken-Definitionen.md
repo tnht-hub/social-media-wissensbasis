@@ -64,6 +64,22 @@ Ab dem 24. August 2026 zählt YouTube einen View ab Wiedergabestart, ohne Mindes
 
 > **Quelle:** TeamYouTube auf X, 17. August 2026, aufbereitet von OnlineMarketing.de am 18. August 2026: https://onlinemarketing.de/social-media-marketing/youtube-definiert-views-neu-alle-videoformate
 
+#### Drei View-Begriffe innerhalb von YouTube (Ergänzung 09.09.2026)
+
+Die Definition eines Views unterscheidet sich nicht nur zwischen Plattformen, sondern **innerhalb einer Plattform**. YouTube führt drei Begriffe parallel:
+
+| Begriff | Definition |
+|---|---|
+| **View** | Das Video ist auf dem Bildschirm und läuft länger als eine Sekunde |
+| **Engaged View** | Der Zuschauer sieht über den ersten Frame hinaus oder klickt aktiv, um das Video zu sehen |
+| **Qualified View** | Engaged Views auf öffentlichen Longform-Videos oder archivierten Livestreams |
+
+**Regel fürs Reporting.** In jedem Report benennen, **welcher** der drei Begriffe gemeint ist. Wer „Views" schreibt, ohne den Begriff zu nennen, erzeugt eine Zahl, die im Nachhinein nicht rekonstruierbar ist. Das gilt besonders bei Kampagnen, weil in Google Ads andere View-Begriffe geführt werden als in YouTube Studio.
+
+**Konsequenz für Plattformvergleiche.** Ein plattformübergreifender View-Vergleich ist ohne Angabe der jeweiligen Definition wertlos. Wer Reichweite über Kanäle hinweg zeigen will, nutzt entweder Watchtime oder eine ausdrücklich als „nicht vergleichbar" gekennzeichnete Nebeneinanderstellung.
+
+> **Quelle:** SocialMediaToday, 19.08.2026: https://www.socialmediatoday.com/news/how-social-platforms-measure-video-views/828349/
+
 ### Watchtime (Wiedergabezeit)
 **Definition:** Gesamte oder durchschnittliche Zeit, die mit dem Ansehen verbracht wurde.
 **Bedeutung:** Zentrale Ranking-Größe auf YouTube und TikTok. Misst Tiefe statt nur Breite der Aufmerksamkeit.

@@ -157,3 +157,61 @@ Quellen:
 - https://www.socialmediatoday.com/news/meta-adds-dedicated-ad-exclusion-audiences/827520/
 - https://www.socialmediatoday.com/news/tiktok-rolls-out-dreamina-seedance-25/826905/
 - https://www.socialmediatoday.com/news/linkedin-playbook-offers-tips-on-effective-ad-campaigns/827982/
+
+---
+
+## Plattform-Änderungen September 2026
+
+Aus dem Prüflauf vom 9. September 2026, Prüffenster 18. August bis 9. September 2026.
+
+### Meta: Wegfall der Placement-Ausschlüsse
+
+Meta hat am 20. August 2026 angekündigt, die Option **Placements** aus den Ad Sets zu entfernen. Der Ausschluss einzelner Platzierungen fällt damit weg, etwa Facebook-Suchergebnisse oder In-Stream-Anzeigen zwischen Reels. Die Auswahl übernimmt ein automatisiertes System. Ein Zeitplan ist nicht genannt.
+
+**Wirkung.** Das ist die einschneidendste Paid-Änderung dieses Prüffensters, weil sie Kontrolle abgibt statt hinzufügt. Zwei Folgen:
+
+1. **Brand Safety muss den Hebel wechseln.** Statt über Placement-Ausschluss läuft sie künftig über Inventory Filter, Keyword Blocklists und Partner Whitelists. Kunden mit engen Umfeldvorgaben brauchen eine neue Absprache dazu.
+2. **Bestandsdokumentation wurde falsch.** Die Angaben zu „Advanced Ad Placement Controls" in `facebook/07-ads-werbung.md` sind dort als überholt gekennzeichnet. Vor jeder Kampagnenplanung im Ads Manager prüfen, ob die Option noch existiert.
+
+> **Quelle:** SocialMediaToday, 20.08.2026: https://www.socialmediatoday.com/news/meta-removes-option-to-exclude-ad-placements/828461/
+
+### Meta: weitere Änderungen
+
+| Änderung | Wirkung |
+|---|---|
+| Threads-Ads global abgeschlossen, WhatsApp Status mit neuen Ad-Zielen und Performance-Goals | Das Inventar verteilt sich auf mehr Flächen, darunter Messaging- und Konversationsumfelder. Der beste Placement-Mix unterscheidet sich künftig stärker nach Ziel, Zielgruppe und Format. Placement-Strategie ist keine Einmalentscheidung (Quelle: Emplifi, Meta Q2-2026-Earnings-Call) |
+| „Reply to Keywords" für Instagram-Ad-Kommentare, Test seit 25. August 2026 | Bis zu fünf Keywords je Anzeige. Kommentiert jemand mit einem Keyword, geht automatisch eine DM heraus. Lead-Weg direkt aus der Anzeige. **Vor Einsatz rechtlich prüfen**, siehe `Recht_Compliance_DE/08_Messenger_und_DM_Marketing.md`, weil eine automatisierte Direktnachricht ohne vorherige Einwilligung verschickt wird (Quelle: SocialMediaToday, 25.08.2026) |
+
+### TikTok
+
+| Änderung | Wirkung |
+|---|---|
+| Out of Phone mit sechs neuen Partnern | Alight Media, DooH it, Powerpill, Zoom Media, Next-Gen Media, C-Screens. Billboards, In-Store-Displays, Kino. Erstmals ein im deutschen Außenwerbemarkt aktiver Anbieter dabei. Verfügbarkeit im eigenen Markt vor Einplanung prüfen. Details in `tiktok/07-ads-werbung.md` (Quelle: SocialMediaToday, 25.08.2026) |
+| Agentic Hub und Symphony Agent (Q3 Product Preview) | KI-Agenten für Reporting, Audience Discovery, Budget-Optimierung und Administration, dazu ein Agent für TikTok-fertige Anzeigen. Angekündigt, nicht getestet. Kontrollfrage vor Einsatz: welche Entscheidung wird abgegeben und wer prüft sie nach (Quelle: Emplifi, TikTok Q3 Product Preview) |
+| Erweiterte Steuerung der Brand Adjacency | Betrifft das Umfeld, in dem eine Anzeige neben organischen Inhalten erscheint. Beim nächsten Lauf auf Verfügbarkeit prüfen (Quelle: Emplifi) |
+| In-Stream-Zahlungen in Prüfung | TikTok sondiert erweiterte Zahlungsoptionen im Livestream. Noch keine Ankündigung (Quelle: SocialMediaToday, 19.08.2026) |
+
+### X
+
+| Änderung | Wirkung |
+|---|---|
+| **X Ads MCP Server** (23. August 2026) | X öffnet seine Werbedaten für externe KI-Werkzeuge über das Model Context Protocol, kompatibel mit beliebigen MCP-Clients. Erste der sechs Plattformen mit einem offiziellen Zugang dieser Art. Auswertung und Optimierung können im eigenen Werkzeug statt im Plattform-Interface stattfinden. Verbessert nicht die Datenqualität, verlagert nur den Ort der Auswertung (Quelle: SocialMediaToday, 23.08.2026) |
+| Lead Gen Ads zurück (26. August 2026) | Formular-Leads direkt in der Anzeige, ohne Absprung. Im Juli noch Test. Einwilligung wird im Anzeigenformular eingeholt, deshalb Abgleich mit `Recht_Compliance_DE/02_DSGVO_und_Datenschutz.md` (Quelle: SocialMediaToday, 26.08.2026) |
+| API für Business-Chatbot-Accounts (27. August 2026) | Betrifft Inbox und Erstantwort, nicht Kampagnensteuerung. Führung in `Community_Management_Playbook` |
+
+### YouTube
+
+| Änderung | Wirkung |
+|---|---|
+| Amazon-Produkt-Tags im YouTube Partner Program (28. August 2026) | Erste Creator taggen Amazon-Produkte in Videos und Livestreams und verdienen im Affiliate-Modell mit, Tags laut YouTube weltweit sichtbar. Für Kunden mit physischen Produkten ein Argument für erfolgsabhängige Creator-Kooperationen. Voraussetzungen und Verfügbarkeit für den deutschen Amazon-Marktplatz vorher prüfen (Quelle: OnlineMarketing.de, 28.08.2026) |
+| Drei parallele View-Begriffe bei YouTube | View, Engaged View und Qualified View bedeuten Verschiedenes. In Kampagnenreports immer benennen, welcher gemeint ist. Details in `Measurement_Reporting_Guide/02_Metriken-Definitionen.md` (Quelle: SocialMediaToday, 19.08.2026) |
+
+Quellen:
+- https://www.socialmediatoday.com/news/meta-removes-option-to-exclude-ad-placements/828461/
+- https://www.socialmediatoday.com/news/meta-tests-auto-dm-response-for-instagram-ad-comments/828791/
+- https://www.socialmediatoday.com/news/tiktok-expands-public-placement-opportunities-for-advertisers/828792/
+- https://www.socialmediatoday.com/news/x-launches-mcp-server/828552/
+- https://www.socialmediatoday.com/news/x-revives-twitters-lead-gen-ads/828901/
+- https://www.socialmediatoday.com/news/how-social-platforms-measure-video-views/828349/
+- https://emplifi.io/resources/social-media-updates/
+- https://onlinemarketing.de/social-media-marketing/youtube-creator-amazon-produkte-taggen

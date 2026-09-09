@@ -8,6 +8,18 @@ YouTube-Werbung läuft über **Google Ads**, das umfangreichste Werbeplattform-�
 
 ---
 
+## Ergänzung August 2026: Amazon-Produkt-Tags im YouTube Partner Program
+
+Seit dem **28. August 2026** ist Amazon offiziell Teil des YouTube Partner Program. Erste Creator können Amazon-Produkte in Videos und in Livestreams taggen und im Affiliate-Modell mitverdienen. Die Produkt-Tags sind laut YouTube weltweit sichtbar, was den Verdienstrahmen erweitert. Die Teilnahme ist an Voraussetzungen gebunden.
+
+**Was das für Kundenprojekte bedeutet.** Für Marken mit physischen Produkten entsteht ein zweiter Hebel neben bezahlter Reichweite: Creator haben jetzt ein eigenes finanzielles Interesse daran, ein Produkt zu zeigen, wenn es über Amazon verkauft wird. Das verändert die Verhandlungsposition in Creator-Kooperationen, weil ein Teil der Vergütung erfolgsabhängig laufen kann.
+
+**Vor der Empfehlung prüfen:** Welche Voraussetzungen der jeweilige Kanal erfüllen muss und ob die Funktion für den deutschen Markt und den deutschen Amazon-Marktplatz freigeschaltet ist. Die Quelle nennt „erste Creator", also keinen vollständigen Rollout.
+
+> **Quelle:** OnlineMarketing.de, 28.08.2026: https://onlinemarketing.de/social-media-marketing/youtube-creator-amazon-produkte-taggen
+
+---
+
 ## Werbeformate
 
 ### In-Stream Ads (überspringbar)

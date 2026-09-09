@@ -186,3 +186,39 @@ Quellen:
 - https://www.socialmediatoday.com/news/x-shares-new-insights-into-transparency-and-shadowbanning/827858/
 - https://www.socialmediatoday.com/news/x-updates-creator-revenue-share-parameters/827391/
 - https://socialbee.com/blog/twitter-updates/
+
+---
+
+## Aktualitätsprüfung 09.09.2026: Neue Features seit dem 18.08.2026
+
+Verifiziert per Browser gegen alle sieben erlaubten Quellen: SocialBee (Stand 8. August, kein neuer Eintrag), HeyOrca (Stand 31. August), SocialMediaToday Topic-Seite, Emplifi, OnlineMarketing.de, Buffer und ZoomSphere.
+
+| Feature | Status | Details |
+|---|---|---|
+| API für Business-Chatbot-Accounts | Aktiv | Seit 27. August 2026, Unternehmen können Chatbot-Accounts über eine eigene API betreiben. Relevant für automatisierte Erstantworten, Führung in `Community_Management_Playbook` (Quelle: SocialMediaToday, 27.08.2026) |
+| Gratis-API-Credits für den Grok Bot | Aktiv | Seit 30. August 2026, Entwicklerthema, für die Kanalarbeit nur mittelbar relevant (Quelle: SocialMediaToday, 30.08.2026) |
+
+### X Ads MCP Server (23. August 2026)
+
+X hat einen **Model Context Protocol Server für X Ads** veröffentlicht. Advertiser hängen ihre X-Ads-Daten damit an ein KI-Werkzeug ihrer Wahl, etwa Claude oder ChatGPT, und lassen sich daraus Kampagnenempfehlungen geben. X gibt Kompatibilität mit beliebigen MCP-Clients an. Wer externe Werkzeuge bevorzugt, ist damit nicht mehr auf die Modelle im X-Ads-Server angewiesen.
+
+**Warum das über X hinaus zählt.** Es ist der erste Fall, in dem eine der sechs Plattformen ihre Werbedaten offiziell für externe KI-Werkzeuge öffnet. Für die Agentur heißt das: Auswertung und Optimierung können im eigenen Werkzeug stattfinden statt im Plattform-Interface. Führung in `07-ads-werbung.md`, methodisch in `Paid_Performance_Methodik`, Werkzeugseite in `KI_Content_Planung_Guideline/05_Tool-Stack.md`.
+
+**Grenze.** Ein MCP-Zugang verbessert nicht die Datenqualität, er verlagert nur den Ort der Auswertung. Die Frage, welche Kennzahl eine Kampagne trägt, bleibt dieselbe.
+
+> **Quelle:** SocialMediaToday, 23.08.2026: https://www.socialmediatoday.com/news/x-launches-mcp-server/828552/
+
+### Nicht aufgenommen
+
+- **Lead Gen Ads wiederbelebt** (26.08.2026). Ads-Thema, geführt in `07-ads-werbung.md`.
+- **Reine PR:** 175.000 Dollar für Grok-Versionen der Odyssee (18.08.), NFL-Gametime-Ansicht (27.08.), Personalwechsel in der Produktleitung.
+
+### Randbefund ohne Modulbezug
+
+OnlineMarketing.de meldet den Start von „Twitter.now". Das betrifft eine Drittplattform, nicht X. Kein Eintrag hier, gegebenenfalls ein Kandidat für `Aktuelle_Themen_und_Newsjacking`. Quelle: https://onlinemarketing.de/social-media-marketing/twitter-now-ist-da
+
+Quellen:
+- https://www.socialmediatoday.com/topic/twitter/
+- https://www.socialmediatoday.com/news/x-launches-mcp-server/828552/
+- https://www.socialmediatoday.com/news/x-launches-api-for-business-chatbot-accounts/829029/
+- https://www.heyorca.com/blog/x-twitter-social-news

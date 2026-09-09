@@ -100,3 +100,26 @@ Jede Marke entscheidet selbst, **wie weit ihre Spanne reicht**. Das ist keine Fr
 - [ ] Bei Stufe 4: Sofort verwerfen.
 
 Wenn ein Thema in eurer Spanne liegt, geht es weiter zur Schnellbewertung (`03_Schnellbewertung_und_Reaktion.md`). Wenn nicht, ist die Antwort schon hier ein klares Nein, und das ist gut investierte Zeit.
+
+---
+
+## Ergänzung September 2026: das Zeitfenster ist mit Plattformzahlen belegt
+
+Bisher stützte sich die Annahme „ein aktuelles Thema hat ein kurzes Fenster" auf Erfahrung. Meta hat im Q2-2026-Earnings-Call zwei Zahlen genannt, die sie belegen:
+
+| Angabe | Wert |
+|---|---|
+| Anteil der empfohlenen Inhalte im Instagram-Feed, der jünger als **ein Tag** ist | über die Hälfte |
+| Veränderung binnen eines Jahres | Verdopplung dieses Anteils |
+| Verarbeitung öffentlicher Inhalte | jeder öffentliche Reel und Feed-Post läuft durch ein LLM, das Signale wie Thema und Tonalität zieht |
+
+**Was das für die Relevanz-Spanne heißt.** Das Stufenmodell oben bleibt unverändert, es ändert sich nur der Zeitdruck bei der Entscheidung. Wenn über die Hälfte der Empfehlungen jünger als ein Tag ist, entscheidet sich die Ausspielung eines Themenbeitrags in Stunden. Die Prüfung nach dem Stufenmodell muss also am selben Tag durchlaufen sein, sonst ist die Frage nach der Spanne beantwortet, ohne dass jemand sie gestellt hat.
+
+**Was es ausdrücklich nicht heißt.** Es ist kein Argument für mehr Posts. Ein Beitrag auf Stufe 3 oder 4 wird durch Geschwindigkeit nicht besser, er wird nur schneller sichtbar falsch. Der Engpass ist die Entscheidungsfähigkeit, nicht die Produktionsgeschwindigkeit.
+
+**Praktische Folge für die Freigabe.** Wer Newsjacking ernsthaft betreibt, braucht einen verkürzten Freigabeweg für Stufe 1 und Stufe 2, festgelegt vor dem ersten Anlass. Siehe `Projektbetrieb_und_Freigaben`. Ein Thema, das drei Freigabeschleifen durchläuft, ist beim Erscheinen kein aktuelles Thema mehr.
+
+**Zur LLM-Verarbeitung.** Thema und Tonalität werden maschinell aus dem Inhalt gelesen, nicht aus Hashtags oder Metadaten. Ein Themenbeitrag muss sein Thema also im Inhalt tragen, nicht im Beiwerk. Meta nennt keine Angabe dazu, wie diese Signale gewichtet werden. Nicht überinterpretieren.
+
+> **Quelle:** Emplifi, Social Media Updates (Primärangabe: Meta Q2-2026-Earnings-Call): https://emplifi.io/resources/social-media-updates/
+> Vertiefung in `instagram/01-algorithmus.md`.

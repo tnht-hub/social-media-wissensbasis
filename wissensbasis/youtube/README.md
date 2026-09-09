@@ -1,6 +1,6 @@
 # YouTube: Wissensdatenbank IST-Zustand Mai 2026
 
-**Zuletzt aktualisiert:** August 2026
+**Zuletzt aktualisiert:** September 2026
 
 Diese Datenbank dokumentiert den aktuellen Stand von YouTube als Plattform. Alle Inhalte basieren ausschließlich auf den folgenden Quellen und spiegeln den Stand **Mai 2026** wider.
 

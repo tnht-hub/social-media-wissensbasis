@@ -1,6 +1,6 @@
 # Guideline: KI-gestützte Content-Planung für Marken & Kampagnen
 
-**Stand:** Mai 2026
+**Stand:** September 2026 (Prüflauf 09.09.2026: belegte Zahl zur Erkennbarkeit von KI-Massenware in `07_Failure-Modi.md`, Problem 3). Übrige Inhalte Mai 2026
 **Scope:** Allgemein, plattform- und projektunabhängig
 **Zielanwender:innen:** Marketing-Teams, Agenturen, Content-Creator, Brand-Verantwortliche
 

@@ -46,7 +46,7 @@
 | Profilsong | Aktiv | Lieblingssong im Profil anzeigen (August 2024) |
 | WhatsApp-Link im Profil | Aktiv | Juni 2025 |
 | "Friends" statt "Following" | In Test | Für gegenseitige Verbindungen |
-| AI Creator Label | Aktiv (Mai 2026) | Für Profile mit primär KI-generiertem Content |
+| „AI generated profile"-Label | Aktiv | Seit 31. August 2026, Umbenennung des im Mai 2026 eingeführten „AI creator"-Labels. Zusätzlich eine Beschreibung, dass die Bilder des Accounts KI-generierte Figuren zeigen können. Zweck: Nutzer sollen erkennen, ob ein Profil von einem Menschen geführt wird oder KI-Inhalte ausspielt (Quelle: SocialMediaToday, 31.08.2026) |
 | Instagram Rings Award | Aktiv | Gold-Ring für herausragende Creator (Oktober 2025) |
 | Verlinkter Account-Status | Aktiv | Transparenz über Account-Status in Einstellungen |
 
@@ -209,4 +209,45 @@ Instagram hat zugleich ein überarbeitetes Brand-System veröffentlicht. Es umfa
 Quellen:
 - https://socialbee.com/blog/instagram-updates/
 - https://www.heyorca.com/blog/instagram-social-news
+- https://onlinemarketing.de/social-media-marketing
+
+---
+
+## Aktualitätsprüfung 09.09.2026: Neue Features seit dem 18.08.2026
+
+Verifiziert per Browser gegen alle sieben erlaubten Quellen: SocialBee (Stand 8. August, kein neuer Eintrag), HeyOrca (Stand 31. August), SocialMediaToday Topic-Seite, Emplifi, OnlineMarketing.de, Buffer und ZoomSphere.
+
+### First Draft für Reels (25. August 2026)
+
+Instagram erzeugt aus mehreren ausgewählten Clips per Tap einen ersten Reel-Entwurf. Das Werkzeug schneidet Pausen heraus, trimmt die Clips und legt sie zu einem Video zusammen. Der Entwurf bleibt danach vollständig bearbeitbar, er ist ein Startpunkt und kein fertiges Ergebnis.
+
+**Konsequenz für die Produktion.** Der Rohschnitt verschiebt sich in die App. Für schnelle Formate spart das einen Arbeitsschritt, für markengebundene Schnittlogik bleibt der externe Schnitt maßgeblich. Bewertung im Kontext des Tool-Stacks: `Visual_Production_Methodik`.
+
+> **Quellen:** SocialMediaToday, 25.08.2026: https://www.socialmediatoday.com/news/instagram-launches-first-draft-for-reels/828789/
+> OnlineMarketing.de, August 2026: https://onlinemarketing.de/social-media-marketing/instagram-first-draft-neue-reels-produktion-app
+
+### Weitere Features
+
+| Feature | Status | Details |
+|---|---|---|
+| „AI generated profile"-Label | Aktiv | Seit 31. August 2026, ersetzt das „AI creator"-Label vom Mai 2026, plus Hinweistext zu KI-generierten Figuren. Eintrag oben in „Profil & Identität" aktualisiert (Quelle: SocialMediaToday, 31.08.2026) |
+| Scheduling direkt auf Instagram.com | In Test | Seit 26. August 2026, Posts und Reels lassen sich im Desktop-Web bis 30 Tage im Voraus planen, der Umweg über die Meta Business Suite entfällt. Bislang nur bei einzelnen Accounts sichtbar (Quelle: OnlineMarketing.de, 26.08.2026) |
+| Edits: Projektordner sortierbar | Aktiv | Seit 20. August 2026, Projekte per Long-Press verschieben und Ordner neu anordnen (Quelle: SocialMediaToday, 20.08.2026) |
+| Edits: Standbild zu Videoclip | Aktiv (US) | Seit 20. August 2026, ein Standbild wird per Prompt in einen Clip verwandelt. Beschränkung auf US-Nutzer, für DACH-Kunden noch nicht verfügbar (Quelle: SocialMediaToday, 20.08.2026) |
+| Meta Business Agents auf Instagram | Im Rollout | Seit August 2026, nach WhatsApp und Messenger jetzt auch auf Instagram. Meta nennt über 1 Mio. Unternehmen pro Woche in Nutzung. Bedienung und Grenzen in `Community_Management_Playbook/03_DM_und_Inbox-Handling.md` (Quelle: Emplifi, Meta Q2-2026-Earnings-Call) |
+
+### Nicht aufgenommen
+
+- **„Instagram launches connected TV promotion" (26. August 2026).** HeyOrca führt die Meldung als Werbechance für Advertiser. Die Einzelquelle zeigt etwas anderes: Instagram bewirbt mit drei Creatorn die eigene Connected-TV-App, es ist eine Marketingkampagne und kein Ad-Produkt. Sachkern zum Merken: die überarbeitete Connected-TV-App läuft auf Amazon-Fire-Geräten. Quelle: https://www.socialmediatoday.com/news/instagram-launches-connected-tv-promotion/828903/
+- **Reply to Keywords (Auto-DM auf Ad-Kommentare, Test seit 25. August 2026).** Paid-Thema, deshalb in `Paid_Performance_Methodik/06_Optimierung_und_Metriken.md`. Rechtlicher Prüfpunkt in `Recht_Compliance_DE/08_Messenger_und_DM_Marketing.md`.
+- Meta-Vergleich über 18 Mrd. Dollar, Verfahren zur Social-Media-Sucht, Meta-Brillen, Meta-KI-Kosten. Konzern- und Rechtsthemen ohne Feature-Bezug.
+
+### Offener Punkt
+
+„Instagram stresses the importance of captions" (23.08.2026) ist noch nicht gegen `05-best-practices.md` abgeglichen. Beim nächsten Lauf prüfen, ob die Aussage über den Bestand hinausgeht. Quelle: https://www.socialmediatoday.com/news/instagram-stresses-the-importance-of-captions/828554/
+
+Quellen:
+- https://www.socialmediatoday.com/topic/instagram/
+- https://www.heyorca.com/blog/instagram-social-news
+- https://emplifi.io/resources/social-media-updates/
 - https://onlinemarketing.de/social-media-marketing

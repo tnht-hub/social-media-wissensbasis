@@ -81,10 +81,26 @@ YouTube-Videos haben eine wesentlich längere algorithmische Lebensdauer als Pos
 
 ---
 
-## Sample-Pool-Modell und Themenkonstanz (Praktiker-Sicht)
+## Sample-Pool-Modell und Themenkonstanz
+
+> **Grundmechanik: seit 31. August 2026 von YouTube bestätigt.** Die Größenordnungen der Stichproben: weiter Praktiker-Heuristik.
+
+### Bestätigung durch YouTube (31. August 2026)
+
+Im Creator-Insider-Kanal hat Rene Ritchie von der YouTube Liaison mit Shorts-Lead **Todd Sherman** gesprochen. Sherman erklärt darin, warum viele Shorts schnell knapp 1.000 Views erreichen und dann stagnieren: YouTube spielt ein Video aktiv an eine **Seed Audience** aus, eine Testgruppe, über die die Plattform passende Interessengruppen für das Video sucht.
+
+> Sherman im Wortlaut: *"Sometimes those algorithms will go and effectively find a seed audience, find a set of people that may enjoy your video. And depending on how that goes, it may get a lot more traffic, or it may kind of taper off."*
+
+Performt das Video in der Seed Audience gut, folgt mehr Traffic bis hin zu viraler Verbreitung. Bleiben die Signale schwach, läuft die Ausspielung aus. Die Stagnation bei rund 1.000 Views ist damit kein Fehler und keine Strafe, sondern das Ende eines Tests.
+
+**Was bestätigt ist und was nicht.** Bestätigt ist die Mechanik: aktive Ausspielung an eine Testgruppe, Fortsetzung abhängig von deren Reaktion. **Nicht** bestätigt sind Zahlen. YouTube nennt keine Größe der Seed Audience und keine Stufengrößen.
+
+> **Quelle:** OnlineMarketing.de, 31.08.2026, auf Basis des YouTube-Creator-Insider-Kanals: https://onlinemarketing.de/social-media-marketing/erklaerung-shorts-1000-views-stagnation
+
+### Größenordnungen und Themenkonstanz (Praktiker-Sicht)
 
 > **Quelle:** Kane Callaway (Kallaway / Open Residency), YouTube, Juni 2026.
-> **Hinweis:** Praktiker-Heuristik, keine offizielle YouTube-Dokumentation. Die Zahlen sind illustrative Größenordnungen. Für gesicherte Signale gelten die offiziellen Ranking-Signale oben.
+> **Hinweis:** Praktiker-Heuristik, keine offizielle YouTube-Dokumentation. Die Zahlen unten sind illustrative Größenordnungen und ausdrücklich nicht Teil der YouTube-Bestätigung oben. Für gesicherte Signale gelten die offiziellen Ranking-Signale oben.
 
 **Kaskade über Sample-Pools.** Modellhaft transkribiert der Algorithmus das Video, baut eine Themenkarte und testet es an einer ersten Stichprobe (grob 200 Personen, teils Bestandspublikum, teils neu). Fällt die Resonanz überdurchschnittlich aus, folgt die nächste Stufe um eine Größenordnung höher (grob 2.000). Bei neutralem oder schwachem Signal wird gedrosselt, was die typischen sehr niedrigen Aufrufzahlen schwacher Videos erklärt.
 

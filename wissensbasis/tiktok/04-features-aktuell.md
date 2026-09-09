@@ -184,9 +184,48 @@ Verifiziert per Browser gegen SocialBee-Tracker (Stand 8. August), HeyOrca (Stan
 | TikTok Shop: erweiterte Analytics | Aktiv | Seit August 2026, zusätzliche Auswertungen für Verkäufer (Quelle: Emplifi, August 2026) |
 | Dreamina Seedance 2.5 in TikTok Symphony | Aktiv | Seit August 2026, ByteDance-Modell für KI-generierte Videoanzeigen, ersetzt Seedance 2.0 (Ads) (Quelle: SocialMediaToday, August 2026) |
 
-**Nicht aufgenommen**, da reine PR, Events oder Partnerschaften ohne Feature-Bezug: ByteDance-Abkommen mit der Motion Picture Association, Disney-Partnerschaft, Music on Stage 2026, NBA-Kooperation, Schließung des Standorts Nashville.
+**Nicht aufgenommen**, da reine PR, Events oder Partnerschaften ohne Feature-Bezug: Disney-Partnerschaft, Music on Stage 2026, NBA-Kooperation, Schließung des Standorts Nashville.
+
+> **Korrektur vom 09.09.2026.** Das ByteDance-Abkommen mit der Motion Picture Association stand hier ursprünglich mit in der Ausschlussliste. Die Prüfung im Folgelauf hat einen konkreten Produktbezug ergeben, der Punkt ist deshalb unten im Abschnitt zum 09.09.2026 aufgenommen.
 
 Quellen:
 - https://socialbee.com/blog/tiktok-updates/
 - https://www.socialmediatoday.com/news/tiktok-rolls-out-dreamina-seedance-25/826905/
 - https://emplifi.io/resources/social-media-updates/
+
+---
+
+## Aktualitätsprüfung 09.09.2026: Neue Features seit dem 18.08.2026
+
+Verifiziert per Browser gegen alle sieben erlaubten Quellen: SocialBee (Stand 8. August, kein neuer Eintrag), HeyOrca (Stand 31. August), SocialMediaToday Topic-Seite, Emplifi, OnlineMarketing.de, Buffer und ZoomSphere.
+
+| Feature | Status | Details |
+|---|---|---|
+| KI-Intros für TikTok Live | Aktiv | Seit 18. August 2026, Creator starten Livestreams mit KI-generierten Intros (Quelle: SocialMediaToday, 18.08.2026) |
+| Nachlassfunktion für Accounts | Aktiv | Seit 24. August 2026, Nutzer legen in den Account-Einstellungen fest, was nach ihrem Tod mit dem Profil passiert: einen Nachlasskontakt benennen oder das Profil löschen lassen. Innerhalb beider Optionen sind die Rechte des Kontakts abstufbar. Eine Deaktivierung verlangt einen Antrag von Angehörigen oder gesetzlicher Vertretung (Quelle: SocialMediaToday, 24.08.2026) |
+| Erweiterte In-Stream-Zahlungen | In Prüfung | Seit 19. August 2026, TikTok sondiert zusätzliche Zahlungsoptionen im Livestream. Noch keine Ankündigung, nur Vorbereitung (Quelle: SocialMediaToday, 19.08.2026) |
+| MPA-Abkommen mit Wirkung auf die KI-Werkzeuge | Aktiv | Seit 17. August 2026, TikTok und die Motion Picture Association haben Schutzmechanismen für Film- und TV-Rechte in ByteDances generativen Bild- und Videowerkzeugen vereinbart, ausdrücklich inklusive TikTok, **CapCut und Dreamina**. Das begrenzt, was sich in diesen Werkzeugen erzeugen lässt (Quelle: Emplifi, TikTok Newsroom) |
+
+### Einordnung Nachlassfunktion
+
+Für Agenturarbeit relevant bei Personenmarken und Gründer-Accounts. Wer einen Kanal auf eine Person aufbaut, sollte die Nachfolge im Account genauso regeln wie Zugriffsrechte im Passwortmanager. Das ist ein Punkt für die Übergabedokumentation in `Projektbetrieb_und_Freigaben`.
+
+### Einordnung MPA-Abkommen
+
+Praktische Folge für die eigene Produktion: In CapCut und Dreamina ist mit Einschränkungen bei geschützten Film- und TV-Motiven zu rechnen. Wer diese Werkzeuge im Kundenprojekt einsetzt, muss vor der Produktion prüfen, ob das geplante Motiv noch generierbar ist. Vermerk in `Visual_Production_Methodik/03_KI-Tools-Stack_Bild_Video.md`.
+
+### Nicht aufgenommen
+
+- **Out of Phone erweitert** (25.08.2026) und **Agentic Hub plus Symphony Agent** (TikTok Q3 Product Preview). Beides Ads-Themen, geführt in `07-ads-werbung.md` und `Paid_Performance_Methodik`.
+- **Reine PR und Studien:** Newsletter für Creator-Insights (24.08.), Studie zu Essverhalten von Teenagern (24.08.), Nutzerwachstum in der EU (31.08., als Kontextdatenpunkt in `Measurement_Reporting_Guide`).
+
+### Vorläufiger Befund, nicht aufgenommen
+
+HeyOrca meldet für August 2026 eine **neue Bezahl-App für exklusive Inhalte zu 20 US-Dollar pro Woche**. HeyOrca verlinkt nur über Newsletter-Tracking-URLs, eine auflösbare Einzelquelle war nicht erreichbar, und über SocialMediaToday ist weder die App noch der Preis bestätigt. Erst aufnehmen, wenn die Einzelquelle vorliegt. Quelle: https://www.heyorca.com/blog/tiktok-social-news
+
+Quellen:
+- https://www.socialmediatoday.com/topic/tiktok/
+- https://www.socialmediatoday.com/news/tiktok-live-adds-ai-generated-intros/828220/
+- https://www.socialmediatoday.com/news/tiktok-adds-legacy-account-options/828663/
+- https://emplifi.io/resources/social-media-updates/
+- https://onlinemarketing.de/social-media-marketing/tiktok-nachlassfunktion-datenschutz-minderjaehrige-strafe

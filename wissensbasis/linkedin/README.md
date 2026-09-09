@@ -1,6 +1,6 @@
 # LinkedIn Wissensdatenbank
 
-**Zuletzt aktualisiert:** August 2026  
+**Zuletzt aktualisiert:** September 2026  
 **Quellen:** HeyOrca, SocialBee, Buffer (4,8M Posts analysiert), onlinemarketing.de  
 **Format:** IST-Zustand, kein Changelog, nur aktuelles Best-Practice-Wissen
 

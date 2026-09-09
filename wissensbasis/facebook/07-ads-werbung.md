@@ -8,6 +8,8 @@ Facebook-Werbung läuft über das **Meta Ads Manager** System, eines der präzis
 
 **Wichtige Neuerung Mai 2026:** Advanced Ad Placement Controls auf Threads ausgeweitet, Brands können Anzeigen plattformübergreifend steuern.
 
+> **Überholt seit 20. August 2026.** Meta hat angekündigt, die Placements-Option aus den Ad Sets zu entfernen. Der Ausschluss einzelner Platzierungen fällt damit weg, die Auswahl übernimmt ein automatisiertes System. Ein Zeitplan ist nicht genannt. Vor jeder Kampagnenplanung im Ads Manager prüfen, ob die Option noch existiert. Quelle: SocialMediaToday, 20.08.2026: https://www.socialmediatoday.com/news/meta-removes-option-to-exclude-ad-placements/828461/
+
 **April 30, 2026:** Meta AI Ad Connectors erlauben externen Chatbots (Claude, ChatGPT) die Nutzung von Meta Ads-Funktionen.
 
 ---
@@ -138,7 +140,7 @@ Meta Ads sind **günstiger als LinkedIn-Ads**, aber teurer als TikTok. Die Stär
 ## Brand Safety
 
 - **Ad-Label-Umstellung (März 2026):** Anzeigen-Kennzeichnung von „Sponsored" auf **„Ad"** geändert, kürzere, direktere Kennzeichnung in allen Placements
-- **Advanced Ad Placement Controls** (erweitert Mai 2026): Granulare Kontrolle über Placements auf Facebook, Instagram und Threads
+- **Advanced Ad Placement Controls** (erweitert Mai 2026, **überholt seit 20. August 2026**): Granulare Kontrolle über Placements auf Facebook, Instagram und Threads. Meta entfernt die Placements-Option aus den Ad Sets, Ausschlüsse einzelner Platzierungen fallen weg. Brand Safety muss dann über Inventory Filter, Keyword Blocklists und Partner Whitelists laufen, nicht mehr über Placement-Ausschluss (Quelle: SocialMediaToday, 20.08.2026)
 - **Inventory Filter:** Kategorien für Brand-unsafe Content ausschließen
 - **Keyword Blocklists:** Bestimmte Themenumfelder ausschließen
 - **Partner Whitelists:** Nur spezifische Publisher-Umfelder zulassen

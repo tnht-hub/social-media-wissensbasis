@@ -122,6 +122,7 @@ TikTok World 2026 (Mai 2026) präsentierte stark erweiterte KI-Werkzeuge:
 | Adobe Express (seit 2024/2025) | Content-Erstellung mit Commercial Music |
 | Amazon (seit Aug 2024) | Direktkauf via TikTok-App |
 | Vistar Media (Mai 2026) | Out of Phone Campaigns: DOOH-Placements (1M+ Standorte) |
+| Alight Media, DooH it, Powerpill, Zoom Media, Next-Gen Media, C-Screens (August 2026) | Out of Phone: zusätzliche externe Placements, Billboards, In-Store-Displays, Kino |
 
 ---
 
@@ -131,6 +132,27 @@ Seit Mai 2026 in Partnerschaft mit **Vistar Media**:
 - TikTok-Ads auf über 1 Million Placements außerhalb der App (Digital-Out-of-Home)
 - Erweitert TikTok-Kampagnen auf Bildschirme in Einkaufszentren, Kinos, Restaurants etc.
 - Ziel: TikTok als vollständige Marketing-Plattform positionieren
+
+**Erweiterung 25. August 2026.** TikTok hat sechs weitere Partner für externe Placements ergänzt: **Alight Media, DooH it, Powerpill, Zoom Media, Next-Gen Media und C-Screens**. Das Programm läuft seit 2023 und deckt Billboards, In-Store-Displays und Kino-Promos ab. Für DACH-Kampagnen relevant, weil mit Alight Media erstmals ein im deutschen Außenwerbemarkt aktiver Anbieter dabei ist. Vor Einplanung die Verfügbarkeit im eigenen Markt im TikTok Ads Manager prüfen.
+
+> **Quelle:** SocialMediaToday, 25.08.2026: https://www.socialmediatoday.com/news/tiktok-expands-public-placement-opportunities-for-advertisers/828792/
+
+---
+
+## Agentic Hub und Symphony Agent (TikTok Q3 Product Preview 2026)
+
+TikTok hat im Q3-Product-Preview zwei Bausteine angekündigt, die Kampagnenarbeit automatisieren:
+
+| Baustein | Funktion |
+|---|---|
+| **Agentic Hub** | Umgebung zum Bauen eigener KI-Agenten für Reporting, Audience Discovery, Budget-Optimierung und administrative Aufgaben |
+| **Symphony Agent** | Erzeugt TikTok-fertige Anzeigen, aufbauend auf dem bestehenden Symphony-Stack |
+
+Zusätzlich angekündigt: erweiterte Steuerung der Brand Adjacency rund um organische Konversation, also der Umgebung, in der eine Anzeige neben nutzergenerierten Inhalten erscheint.
+
+**Einordnung.** Angekündigt, nicht getestet. Der Nutzen für die Agentur hängt daran, ob sich die Agenten an eigene Reporting-Logik binden lassen oder nur TikTok-Standardauswertungen wiederholen. Beim nächsten Lauf auf Verfügbarkeit prüfen. Methodische Führung in `Paid_Performance_Methodik`.
+
+> **Quelle:** Emplifi, Social Media Updates (Primärangabe: TikTok Q3 Product Preview): https://emplifi.io/resources/social-media-updates/
 
 ---
 

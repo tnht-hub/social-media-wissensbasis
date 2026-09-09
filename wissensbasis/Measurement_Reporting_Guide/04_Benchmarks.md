@@ -149,6 +149,25 @@ Noch zu prüfen (nicht eingepflegt): Google AI Mode Start in Deutschland (Quelle
 
 ---
 
+## Nachtrag September 2026: EU-Nutzerzahlen aus den DSA-Meldungen
+
+Der Digital Services Act verpflichtet große Plattformen zu halbjährlichen Meldungen über Nutzerzahlen und Moderation. Diese Zahlen sind für die DACH-Kanalpriorisierung belastbarer als globale Angaben der Plattformen selbst, weil sie regulatorisch veranlasst und auf die EU begrenzt sind.
+
+| Plattform | Aktive Nutzer EU, erstes Halbjahr 2026 | Entwicklung |
+|---|---|---|
+| Instagram | 297 Mio. | wächst weiter stetig |
+| Facebook | 264 Mio. | seit längerem flach, in früheren Perioden teils rückläufig |
+| TikTok | 189 Mio. monatlich aktiv | plus 9 Mio. im ersten Halbjahr 2026 |
+
+**Wie diese Zahlen zu lesen sind.** Sie belegen Erreichbarkeit, nicht Wirkung. Facebook mit 264 Mio. EU-Nutzern ist kein irrelevanter Kanal, es ist ein Kanal ohne Wachstum. Für eine Kanalentscheidung zählt weiter, wo die konkrete Zielgruppe eines Kunden ist, nicht wo die größte Gesamtmenge liegt.
+
+**Einschränkungen.** Die Plattformen melden selbst, die Definitionen von „aktiv" unterscheiden sich zwischen den Meldungen, und die TikTok-Zahl liegt unter dem Wert, den TikTok selbst im September 2025 kommuniziert hatte. Als Größenordnung nutzbar, nicht als exakter Vergleich zwischen den drei Plattformen.
+
+> **Quellen:** SocialMediaToday, 30.08.2026: https://www.socialmediatoday.com/news/instagram-growth-continues-to-outpace-facebook-in-eu/829134/
+> SocialMediaToday, 31.08.2026: https://www.socialmediatoday.com/news/tiktok-continues-to-add-users-in-eu/829242/
+
+---
+
 ## Verifiziert 15.07.2026: Kennzahlen aus Buffer und Emplifi 2026
 
 Per Browser direkt aus den Quellen gezogen. Achtung: Die Buffer-Werte gelten nur für die Buffer-Nutzerbasis (2025-Daten, Median), sind ausdrücklich keine universellen Benchmarks und wegen abweichender Methodik nicht mit den Socialinsider-Werten oben vergleichbar.

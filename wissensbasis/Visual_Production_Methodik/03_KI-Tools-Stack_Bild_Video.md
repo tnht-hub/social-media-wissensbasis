@@ -179,6 +179,21 @@ Bei Tool-Wechsel oder Neueinführung prüfen:
 - Kommerzielle Nutzung erlaubt? (Bei den meisten Premium-Tools ja, bei Free-Versions oft nein)
 - Wer hält die Rechte am Output?
 - DSGVO-konform für eure Branche?
+- **Neu ab September 2026:** Welche Motive sperrt der Anbieter aktiv? Siehe der folgende Abschnitt.
+
+#### Motiv-Sperren bei ByteDance-Werkzeugen ab August 2026
+
+TikTok und die **Motion Picture Association** haben am 17. August 2026 eine Vereinbarung geschlossen, die den Schutz von Film- und Fernsehrechten in ByteDances generativen Bild- und Videowerkzeugen verstärkt. Ausdrücklich genannt sind **TikTok, CapCut und Dreamina**.
+
+**Praktische Folge für den Stack.** Bei geschützten Film- und TV-Motiven ist in CapCut und Dreamina mit Einschränkungen zu rechnen. Für die Produktionsplanung heißt das:
+
+1. Wer ein Motiv mit erkennbarem Bezug zu Film- oder Serienstoffen plant, testet die Generierbarkeit **vor** der Freigabe des Konzepts, nicht danach.
+2. CapCut und Dreamina bleiben im Stack, aber nicht als einzige Option für ein Projekt, dessen Bildidee an geschützten Stoffen hängt.
+3. Das ist keine Rechtsauskunft. Was ein Werkzeug technisch zulässt, sagt nichts darüber, was rechtlich erlaubt ist. Umgekehrt gilt genauso. Rechtliche Bewertung über `Recht_Compliance_DE/03_Urheber_und_Musiklizenzen.md`.
+
+Der genaue Umfang der Sperren ist aus der Quelle nicht ableitbar. Beim nächsten Pflegelauf prüfen, ob TikTok oder die MPA eine Liste veröffentlicht haben.
+
+> **Quelle:** Emplifi, Social Media Updates (Primärangabe: TikTok Newsroom), August 2026: https://emplifi.io/resources/social-media-updates/
 
 ### Kriterium 5: Lernkurve
 - Wie steil ist die Lernkurve?

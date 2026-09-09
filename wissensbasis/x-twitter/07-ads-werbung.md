@@ -12,6 +12,26 @@ X hat im **April 2026** die vollständige Neuentwicklung seiner Werbeplattform a
 
 ---
 
+## Ergänzungen August 2026
+
+### X Ads MCP Server (23. August 2026)
+
+X stellt einen Model-Context-Protocol-Server für X Ads bereit. Damit lassen sich die eigenen X-Ads-Daten an ein KI-Werkzeug der Wahl anbinden, etwa Claude oder ChatGPT, und Kampagnen daraus aufbauen und nachschärfen. X gibt Kompatibilität mit beliebigen MCP-Clients an.
+
+**Praktische Folge.** Auswertung und Optimierung müssen nicht mehr im X-Interface stattfinden. Wer ohnehin mit einem KI-Werkzeug arbeitet, kann X-Kampagnendaten dort mit anderen Kanälen zusammenführen. Die Kennzahlenlogik bleibt unverändert, siehe `Paid_Performance_Methodik/06_Optimierung_und_Metriken.md`.
+
+> **Quelle:** SocialMediaToday, 23.08.2026: https://www.socialmediatoday.com/news/x-launches-mcp-server/828552/
+
+### Lead Gen Ads (26. August 2026)
+
+X hat das aus der Twitter-Zeit bekannte Format **Lead Generation Ads** wieder eingeführt. Im Juli 2026 war es noch als Test gelistet, seit Ende August ist es zurück im Angebot. Formular-Leads direkt in der Anzeige, ohne Absprung auf eine Landingpage.
+
+**Einordnung.** Für B2B-Leadgenerierung auf X das einzige Format mit direkter Formularabfrage. Vor Einsatz die datenschutzrechtliche Seite prüfen, siehe `Recht_Compliance_DE/02_DSGVO_und_Datenschutz.md`, weil die Einwilligung im Anzeigenformular selbst eingeholt wird.
+
+> **Quelle:** SocialMediaToday, 26.08.2026: https://www.socialmediatoday.com/news/x-revives-twitters-lead-gen-ads/828901/
+
+---
+
 ## Werbeformate
 
 ### Promoted Posts (In-Feed Ads)

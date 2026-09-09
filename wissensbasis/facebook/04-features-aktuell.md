@@ -175,3 +175,36 @@ Quellen:
 - https://emplifi.io/resources/social-media-updates/
 - https://www.socialmediatoday.com/news/meta-expands-access-to-creator-studio-app/827745/
 - https://www.socialmediatoday.com/news/meta-removes-instagrams-ai-remix-option/825017/
+
+---
+
+## Aktualitätsprüfung 09.09.2026: Neue Features seit dem 18.08.2026
+
+Verifiziert per Browser gegen alle sieben erlaubten Quellen: SocialBee (Stand 8. August, kein neuer Eintrag), HeyOrca (Stand 31. August), SocialMediaToday Topic-Seite, Emplifi, OnlineMarketing.de, Buffer und ZoomSphere.
+
+| Feature | Status | Details |
+|---|---|---|
+| KI-Assistent für KMU-Inhaber | Aktiv | Seit 19. August 2026, Meta stellt Inhabern kleiner Unternehmen einen KI-Assistenten bereit (Quelle: SocialMediaToday, 19.08.2026) |
+| Meta Business Agents auf Instagram | Im Rollout | Seit August 2026, nach WhatsApp und Messenger jetzt auch auf Instagram. Meta nennt über 1 Mio. Unternehmen pro Woche in Nutzung. Detail im Instagram-Modul (Quelle: Emplifi, Meta Q2-2026-Earnings-Call) |
+| Meta One Core und Meta One Premium | Aktiv | Seit August 2026, neue Abo-Stufen für die Meta-AI-Nutzung, darunter ein Premiummodell. Betrifft die Werkzeugkosten der Agentur, nicht die Kanalmechanik (Quelle: OnlineMarketing.de, August 2026) |
+| „Login with Facebook" aktualisiert | Aktiv | Seit 30. August 2026, Änderungen am Social-Login. Nur relevant, wenn Kundenprojekte Facebook-Login nutzen (Quelle: SocialMediaToday, 30.08.2026) |
+
+### Wichtig für Paid: Wegfall der Placement-Ausschlüsse
+
+Meta hat am 20. August 2026 angekündigt, die Option **Placements** aus den Ad Sets zu entfernen. Damit fällt die Möglichkeit weg, einzelne Meta-Platzierungen von einer Kampagne auszuschließen, etwa Facebook-Suchergebnisse oder In-Stream-Anzeigen zwischen Reels. Ein Zeitplan ist nicht genannt. Die Auswahl übernimmt ein automatisiertes System.
+
+**Das macht zwei Bestandsangaben in `07-ads-werbung.md` überholt.** Die dortigen Einträge zu „Advanced Ad Placement Controls" sind entsprechend gekennzeichnet. Führung des Themas in `Paid_Performance_Methodik/06_Optimierung_und_Metriken.md`.
+
+> **Quelle:** SocialMediaToday, 20.08.2026: https://www.socialmediatoday.com/news/meta-removes-option-to-exclude-ad-placements/828461/
+
+### Nicht ins Facebook-Modul aufgenommen
+
+- **Paid-Themen**, vermerkt in `Paid_Performance_Methodik`: Wegfall der Placement-Ausschlüsse, abgeschlossener globaler Rollout der Threads-Ads, Erweiterung von Ad-Zielen und Performance-Goals im WhatsApp Status, Test „Reply to Keywords" für automatische DMs auf Ad-Kommentare.
+- **Meta AI auf Mac** (19.08.2026). Desktop-Tooling ohne Kanalbezug.
+- **Konzern- und Rechtsthemen ohne Feature-Bezug:** Vergleich über 18 Mrd. Dollar (26.08.), Verfahren zur Frage der Social-Media-Sucht (23.08.), Entfernung von über 750.000 Teen-Accounts in Australien (13.08.), Teen-Beschränkungen in Neuseeland (24.08.), Metas KI-Kosten, Meta-Brillen, Werbechancen im Frauensport. Die beiden Rechtsthemen gehören in den Quartalslauf `Recht_Compliance_DE`.
+
+Quellen:
+- https://www.socialmediatoday.com/topic/facebook/
+- https://www.heyorca.com/blog/facebook-social-news
+- https://emplifi.io/resources/social-media-updates/
+- https://onlinemarketing.de/social-media-marketing/meta-one-core-und-premium-mehr-ai-nutzung-im-abo
